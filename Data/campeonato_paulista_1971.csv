@@ -1,0 +1,133 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1971,1971-02-27,Corinthians,2,1,São Bento,VC,3,0,1
+Paulista,1971,1971-02-28,Ponte Preta,1,0,Portuguesa,VC,3,0,2
+Paulista,1971,1971-02-28,Ferroviária (SP),1,1,Guarani,E,1,1,3
+Paulista,1971,1971-02-28,São Paulo,3,1,Juventus (SP),VC,3,0,4
+Paulista,1971,1971-02-28,Palmeiras,2,1,Paulista,VC,3,0,5
+Paulista,1971,1971-03-03,Santos,4,0,Botafogo (SP),VC,3,0,6
+Paulista,1971,1971-03-04,Corinthians,1,0,Paulista,VC,3,0,7
+Paulista,1971,1971-03-07,Guarani,3,1,Juventus (SP),VC,3,0,8
+Paulista,1971,1971-03-07,Botafogo (SP),3,2,Ponte Preta,VC,3,0,9
+Paulista,1971,1971-03-07,Palmeiras,3,0,São Bento,VC,3,0,10
+Paulista,1971,1971-03-07,Ferroviária (SP),4,1,Santos,VC,3,0,11
+Paulista,1971,1971-03-07,Portuguesa,3,2,São Paulo,VC,3,0,12
+Paulista,1971,1971-03-12,São Paulo,4,2,Paulista,VC,3,0,13
+Paulista,1971,1971-03-13,Ponte Preta,0,1,Ferroviária (SP),VV,0,3,14
+Paulista,1971,1971-03-13,Juventus (SP),1,0,Corinthians,VC,3,0,15
+Paulista,1971,1971-03-14,Guarani,0,4,Palmeiras,VV,0,3,16
+Paulista,1971,1971-03-14,São Bento,2,2,Botafogo (SP),E,1,1,17
+Paulista,1971,1971-03-14,Portuguesa,0,1,Santos,VV,0,3,18
+Paulista,1971,1971-03-14,Santos,3,1,São Bento,VC,3,0,19
+Paulista,1971,1971-03-21,Paulista,1,2,Juventus (SP),VV,0,3,20
+Paulista,1971,1971-03-21,São Paulo,2,1,Palmeiras,VC,3,0,21
+Paulista,1971,1971-03-21,Botafogo (SP),2,1,Portuguesa,VC,3,0,22
+Paulista,1971,1971-03-21,Ponte Preta,5,0,São Bento,VC,3,0,23
+Paulista,1971,1971-03-21,Ferroviária (SP),2,2,Corinthians,E,1,1,24
+Paulista,1971,1971-03-21,Santos,2,2,Guarani,E,1,1,25
+Paulista,1971,1971-03-24,Portuguesa,1,0,Corinthians,VC,3,0,26
+Paulista,1971,1971-03-24,Ferroviária (SP),1,1,Paulista,E,1,1,27
+Paulista,1971,1971-03-24,Guarani,3,1,São Bento,VC,3,0,28
+Paulista,1971,1971-03-27,Portuguesa,3,0,Juventus (SP),VC,3,0,29
+Paulista,1971,1971-03-28,São Bento,1,0,Paulista,VC,3,0,30
+Paulista,1971,1971-03-28,Ferroviária (SP),1,2,São Paulo,VV,0,3,31
+Paulista,1971,1971-03-28,Palmeiras,2,0,Santos,VC,3,0,32
+Paulista,1971,1971-03-28,Ponte Preta,1,0,Guarani,VC,3,0,33
+Paulista,1971,1971-03-31,São Paulo,1,0,Ponte Preta,VC,3,0,34
+Paulista,1971,1971-04-03,Portuguesa,1,0,Ferroviária (SP),VC,3,0,35
+Paulista,1971,1971-04-04,Paulista,2,2,Guarani,E,1,1,36
+Paulista,1971,1971-04-04,Ponte Preta,1,1,Palmeiras,E,1,1,37
+Paulista,1971,1971-04-04,Botafogo (SP),1,0,Juventus (SP),VC,3,0,38
+Paulista,1971,1971-04-04,São Paulo,1,1,Corinthians,E,1,1,39
+Paulista,1971,1971-04-07,Corinthians,1,1,Botafogo (SP),E,1,1,40
+Paulista,1971,1971-04-10,São Paulo,3,1,São Bento,VC,3,0,41
+Paulista,1971,1971-04-11,Palmeiras,2,1,Juventus (SP),VC,3,0,42
+Paulista,1971,1971-04-11,Ferroviária (SP),4,0,Botafogo (SP),VC,3,0,43
+Paulista,1971,1971-04-11,Paulista,1,2,Ponte Preta,VV,0,3,44
+Paulista,1971,1971-04-11,Guarani,1,1,Portuguesa,E,1,1,45
+Paulista,1971,1971-04-11,Corinthians,4,2,Santos,VC,3,0,46
+Paulista,1971,1971-04-16,Corinthians,0,0,Guarani,E,1,1,47
+Paulista,1971,1971-04-17,São Paulo,1,0,Botafogo (SP),VC,3,0,48
+Paulista,1971,1971-04-18,Palmeiras,2,1,Portuguesa,VC,3,0,49
+Paulista,1971,1971-04-18,São Bento,1,1,Ferroviária (SP),E,1,1,50
+Paulista,1971,1971-04-18,Paulista,0,0,Santos,E,1,1,51
+Paulista,1971,1971-04-18,Ponte Preta,1,0,Juventus (SP),VC,3,0,52
+Paulista,1971,1971-04-21,Paulista,0,5,Portuguesa,VV,0,3,53
+Paulista,1971,1971-04-21,São Bento,2,1,Juventus (SP),VC,3,0,54
+Paulista,1971,1971-04-21,Botafogo (SP),1,1,Guarani,E,1,1,55
+Paulista,1971,1971-04-21,Ponte Preta,0,0,Corinthians,E,1,1,56
+Paulista,1971,1971-04-21,Palmeiras,2,3,Ferroviária (SP),VV,0,3,57
+Paulista,1971,1971-04-21,Santos,1,0,São Paulo,VC,3,0,58
+Paulista,1971,1971-04-24,Portuguesa,3,1,São Bento,VC,3,0,59
+Paulista,1971,1971-04-25,Guarani,0,1,São Paulo,VV,0,3,60
+Paulista,1971,1971-04-25,Botafogo (SP),0,1,Paulista,VV,0,3,61
+Paulista,1971,1971-04-25,Corinthians,4,3,Palmeiras,VC,3,0,62
+Paulista,1971,1971-04-25,Santos,0,0,Ponte Preta,E,1,1,63
+Paulista,1971,1971-04-25,Juventus (SP),1,1,Ferroviária (SP),E,1,1,64
+Paulista,1971,1971-04-28,Palmeiras,4,2,Botafogo (SP),VC,3,0,65
+Paulista,1971,1971-04-28,Juventus (SP),1,1,Santos,E,1,1,66
+Paulista,1971,1971-04-30,Portuguesa,2,1,Ponte Preta,VC,3,0,67
+Paulista,1971,1971-05-01,São Bento,0,1,Corinthians,VV,0,3,68
+Paulista,1971,1971-05-01,São Paulo,1,0,Juventus (SP),VC,3,0,69
+Paulista,1971,1971-05-02,Botafogo (SP),1,2,Santos,VV,0,3,70
+Paulista,1971,1971-05-02,Guarani,3,2,Ferroviária (SP),VC,3,0,71
+Paulista,1971,1971-05-05,Corinthians,0,1,Ponte Preta,VV,0,3,72
+Paulista,1971,1971-05-08,São Paulo,2,0,Guarani,VC,3,0,73
+Paulista,1971,1971-05-09,Santos,1,0,Paulista,VC,3,0,74
+Paulista,1971,1971-05-09,Ferroviária (SP),1,0,São Bento,VC,3,0,75
+Paulista,1971,1971-05-09,Palmeiras,2,0,Juventus (SP),VC,3,0,76
+Paulista,1971,1971-05-09,Corinthians,3,1,Portuguesa,VC,3,0,77
+Paulista,1971,1971-05-09,Ponte Preta,3,0,Botafogo (SP),VC,3,0,78
+Paulista,1971,1971-05-12,Portuguesa,3,2,Botafogo (SP),VC,3,0,79
+Paulista,1971,1971-05-12,Santos,1,0,São Bento,VC,3,0,80
+Paulista,1971,1971-05-13,Palmeiras,4,1,Guarani,VC,3,0,81
+Paulista,1971,1971-05-15,São Bento,1,2,Portuguesa,VV,0,3,82
+Paulista,1971,1971-05-15,Paulista,0,2,Corinthians,VV,0,3,83
+Paulista,1971,1971-05-16,Juventus (SP),1,0,Ponte Preta,VC,3,0,84
+Paulista,1971,1971-05-16,São Paulo,0,0,Santos,E,1,1,85
+Paulista,1971,1971-05-16,Botafogo (SP),1,1,Ferroviária (SP),E,1,1,86
+Paulista,1971,1971-05-19,Portuguesa,2,1,Paulista,VC,3,0,87
+Paulista,1971,1971-05-19,Guarani,0,0,Botafogo (SP),E,1,1,88
+Paulista,1971,1971-05-20,Juventus (SP),1,1,Santos,E,1,1,89
+Paulista,1971,1971-05-23,Ferroviária (SP),1,0,Ponte Preta,VC,3,0,90
+Paulista,1971,1971-05-23,Palmeiras,3,3,Portuguesa,E,1,1,91
+Paulista,1971,1971-05-23,Guarani,2,1,Corinthians,VC,3,0,92
+Paulista,1971,1971-05-23,Botafogo (SP),1,2,São Paulo,VV,0,3,93
+Paulista,1971,1971-05-23,Juventus (SP),1,0,Paulista,VC,3,0,94
+Paulista,1971,1971-05-26,São Bento,0,3,São Paulo,VV,0,3,95
+Paulista,1971,1971-05-27,Paulista,1,4,Palmeiras,VV,0,3,96
+Paulista,1971,1971-05-29,Portuguesa,1,0,Guarani,VC,3,0,97
+Paulista,1971,1971-05-30,Santos,1,2,Palmeiras,VV,0,3,98
+Paulista,1971,1971-05-30,Corinthians,6,1,Juventus (SP),VC,3,0,99
+Paulista,1971,1971-05-30,Botafogo (SP),1,1,São Bento,E,1,1,100
+Paulista,1971,1971-05-30,Paulista,2,2,Ferroviária (SP),E,1,1,101
+Paulista,1971,1971-05-30,Ponte Preta,0,1,São Paulo,VV,0,3,102
+Paulista,1971,1971-06-02,Guarani,0,1,Santos,VV,0,3,103
+Paulista,1971,1971-06-02,São Paulo,2,1,Ferroviária (SP),VC,3,0,104
+Paulista,1971,1971-06-05,Palmeiras,4,0,Ponte Preta,VC,3,0,105
+Paulista,1971,1971-06-06,Corinthians,1,0,São Paulo,VC,3,0,106
+Paulista,1971,1971-06-06,Santos,1,0,Ferroviária (SP),VC,3,0,107
+Paulista,1971,1971-06-06,Juventus (SP),2,0,Botafogo (SP),VC,3,0,108
+Paulista,1971,1971-06-06,Paulista,2,0,São Bento,VC,3,0,109
+Paulista,1971,1971-06-09,Corinthians,3,0,Ferroviária (SP),VC,3,0,110
+Paulista,1971,1971-06-10,Juventus (SP),1,1,Guarani,E,1,1,111
+Paulista,1971,1971-06-10,Santos,1,1,Portuguesa,E,1,1,112
+Paulista,1971,1971-06-10,Botafogo (SP),0,1,Palmeiras,VV,0,3,113
+Paulista,1971,1971-06-10,São Bento,0,1,Ponte Preta,VV,0,3,114
+Paulista,1971,1971-06-12,Paulista,2,3,São Paulo,VV,0,3,115
+Paulista,1971,1971-06-13,Ponte Preta,1,2,Santos,VV,0,3,116
+Paulista,1971,1971-06-13,Ferroviária (SP),3,2,Juventus (SP),VC,3,0,117
+Paulista,1971,1971-06-13,São Bento,1,1,Guarani,E,1,1,118
+Paulista,1971,1971-06-13,Palmeiras,0,0,Corinthians,E,1,1,119
+Paulista,1971,1971-06-16,Portuguesa,4,1,Juventus (SP),VC,3,0,120
+Paulista,1971,1971-06-16,Guarani,1,0,Paulista,VC,3,0,121
+Paulista,1971,1971-06-17,Palmeiras,7,0,São Bento,VC,3,0,122
+Paulista,1971,1971-06-19,São Paulo,4,1,Portuguesa,VC,3,0,123
+Paulista,1971,1971-06-20,Corinthians,3,3,Santos,E,1,1,124
+Paulista,1971,1971-06-20,Ponte Preta,1,0,Guarani,VC,3,0,125
+Paulista,1971,1971-06-20,Ferroviária (SP),0,2,Palmeiras,VV,0,3,126
+Paulista,1971,1971-06-20,Paulista,1,0,Botafogo (SP),VC,3,0,127
+Paulista,1971,1971-06-26,Ponte Preta,1,1,Paulista,E,1,1,128
+Paulista,1971,1971-06-27,Juventus (SP),2,0,São Bento,VC,3,0,129
+Paulista,1971,1971-06-27,Botafogo (SP),1,1,Corinthians,E,1,1,130
+Paulista,1971,1971-06-27,Ferroviária (SP),1,1,Portuguesa,E,1,1,131
+Paulista,1971,1971-06-27,São Paulo,1,0,Palmeiras,VC,3,0,132

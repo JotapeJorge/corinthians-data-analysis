@@ -1,0 +1,384 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1959,1959-05-24,Ferroviária (SP),3,0,Juventus (SP),VC,3,0,1
+Paulista,1959,1959-05-24,Ponte Preta,0,0,XV de Piracicaba,E,1,1,2
+Paulista,1959,1959-05-24,XV de Jaú,2,1,Noroeste,VC,3,0,3
+Paulista,1959,1959-05-24,Nacional (SP),2,5,Jabaquara,VV,0,3,4
+Paulista,1959,1959-05-24,Portuguesa,3,2,América (SP),VC,3,0,5
+Paulista,1959,1959-05-24,Palmeiras,6,0,Guarani,VC,3,0,6
+Paulista,1959,1959-05-24,Taubaté,3,1,Comercial Paulistano,VC,3,0,7
+Paulista,1959,1959-05-30,Juventus (SP),4,1,Taubaté,VC,3,0,8
+Paulista,1959,1959-05-31,Noroeste,3,0,Botafogo (SP),VC,3,0,9
+Paulista,1959,1959-05-31,América (SP),3,2,XV de Jaú,VC,3,0,10
+Paulista,1959,1959-05-31,XV de Piracicaba,0,1,Ferroviária (SP),VV,0,3,11
+Paulista,1959,1959-05-31,Palmeiras,6,1,Comercial Paulistano,VC,3,0,12
+Paulista,1959,1959-05-31,Guarani,0,0,Ponte Preta,E,1,1,13
+Paulista,1959,1959-05-31,Jabaquara,2,6,Portuguesa,VV,0,3,14
+Paulista,1959,1959-06-07,Ferroviária (SP),2,0,Jabaquara,VC,3,0,15
+Paulista,1959,1959-06-07,Taubaté,3,0,América (SP),VC,3,0,16
+Paulista,1959,1959-06-07,Ponte Preta,2,1,Noroeste,VC,3,0,17
+Paulista,1959,1959-06-07,XV de Jaú,1,3,Nacional (SP),VV,0,3,18
+Paulista,1959,1959-06-07,Botafogo (SP),3,0,Guarani,VC,3,0,19
+Paulista,1959,1959-06-07,Portuguesa,1,0,Comercial Paulistano,VC,3,0,20
+Paulista,1959,1959-06-13,Comercial Paulistano,0,3,Ferroviária (SP),VV,0,3,21
+Paulista,1959,1959-06-14,Guarani,1,1,XV de Jaú,E,1,1,22
+Paulista,1959,1959-06-14,Portuguesa,4,1,Ponte Preta,VC,3,0,23
+Paulista,1959,1959-06-14,Juventus (SP),0,0,Nacional (SP),E,1,1,24
+Paulista,1959,1959-06-14,Jabaquara,2,0,Noroeste,VC,3,0,25
+Paulista,1959,1959-06-14,América (SP),0,0,XV de Piracicaba,E,1,1,26
+Paulista,1959,1959-06-14,Botafogo (SP),2,2,Palmeiras,E,1,1,27
+Paulista,1959,1959-06-18,Palmeiras,1,1,Juventus (SP),E,1,1,28
+Paulista,1959,1959-06-21,Juventus (SP),1,0,Jabaquara,VC,3,0,29
+Paulista,1959,1959-06-21,Nacional (SP),3,3,Guarani,E,1,1,30
+Paulista,1959,1959-06-21,Ponte Preta,1,2,Botafogo (SP),VV,0,3,31
+Paulista,1959,1959-06-21,Ferroviária (SP),4,2,Portuguesa,VC,3,0,32
+Paulista,1959,1959-06-21,Noroeste,2,0,América (SP),VC,3,0,33
+Paulista,1959,1959-06-21,XV de Jaú,1,2,Taubaté,VV,0,3,34
+Paulista,1959,1959-06-21,Palmeiras,2,1,XV de Piracicaba,VC,3,0,35
+Paulista,1959,1959-06-24,Palmeiras,7,1,Nacional (SP),VC,3,0,36
+Paulista,1959,1959-06-28,América (SP),1,0,Comercial Paulistano,VC,3,0,37
+Paulista,1959,1959-06-28,Jabaquara,1,0,Ponte Preta,VC,3,0,38
+Paulista,1959,1959-06-28,Botafogo (SP),2,0,XV de Jaú,VC,3,0,39
+Paulista,1959,1959-06-28,Taubaté,0,2,Palmeiras,VV,0,3,40
+Paulista,1959,1959-06-28,Guarani,2,1,Ferroviária (SP),VC,3,0,41
+Paulista,1959,1959-06-28,XV de Piracicaba,1,0,Comercial (SP),VC,3,0,42
+Paulista,1959,1959-07-04,Comercial Paulistano,3,3,Guarani,E,1,1,43
+Paulista,1959,1959-07-05,Ferroviária (SP),2,0,Noroeste,VC,3,0,44
+Paulista,1959,1959-07-05,Ponte Preta,2,1,América (SP),VC,3,0,45
+Paulista,1959,1959-07-05,Nacional (SP),3,1,XV de Piracicaba,VC,3,0,46
+Paulista,1959,1959-07-05,XV de Jaú,2,2,Juventus (SP),E,1,1,47
+Paulista,1959,1959-07-05,Comercial (SP),3,1,Taubaté,VC,3,0,48
+Paulista,1959,1959-07-05,Portuguesa,0,0,Palmeiras,E,1,1,49
+Paulista,1959,1959-07-05,Jabaquara,0,0,Botafogo (SP),E,1,1,50
+Paulista,1959,1959-07-11,Juventus (SP),6,0,Ponte Preta,VC,3,0,51
+Paulista,1959,1959-07-12,América (SP),3,1,Comercial (SP),VC,3,0,52
+Paulista,1959,1959-07-12,Noroeste,4,1,Guarani,VC,3,0,53
+Paulista,1959,1959-07-12,Corinthians,3,1,Comercial Paulistano,VC,3,0,54
+Paulista,1959,1959-07-12,Taubaté,4,0,Portuguesa Santista,VC,3,0,55
+Paulista,1959,1959-07-12,Jabaquara,2,5,Palmeiras,VV,0,3,56
+Paulista,1959,1959-07-12,XV de Piracicaba,6,5,XV de Jaú,VC,3,0,57
+Paulista,1959,1959-07-15,São Paulo,3,0,Nacional (SP),VC,3,0,58
+Paulista,1959,1959-07-16,Portuguesa Santista,2,0,Comercial Paulistano,VC,3,0,59
+Paulista,1959,1959-07-16,Corinthians,2,1,Botafogo (SP),VC,3,0,60
+Paulista,1959,1959-07-18,Jabaquara,1,1,América (SP),E,1,1,61
+Paulista,1959,1959-07-18,São Paulo,5,0,XV de Piracicaba,VC,3,0,62
+Paulista,1959,1959-07-19,Comercial (SP),1,0,Portuguesa,VC,3,0,63
+Paulista,1959,1959-07-19,Palmeiras,2,1,Ferroviária (SP),VC,3,0,64
+Paulista,1959,1959-07-19,Guarani,3,1,Taubaté,VC,3,0,65
+Paulista,1959,1959-07-19,Portuguesa Santista,1,1,Corinthians,E,1,1,66
+Paulista,1959,1959-07-19,Comercial Paulistano,4,4,Juventus (SP),E,1,1,67
+Paulista,1959,1959-07-19,Nacional (SP),3,1,Noroeste,VC,3,0,68
+Paulista,1959,1959-07-19,XV de Jaú,0,3,Ponte Preta,VV,0,3,69
+Paulista,1959,1959-07-22,São Paulo,2,0,Comercial (SP),VC,3,0,70
+Paulista,1959,1959-07-23,Santos,7,0,Jabaquara,VC,3,0,71
+Paulista,1959,1959-07-23,Corinthians,2,0,Noroeste,VC,3,0,72
+Paulista,1959,1959-07-26,Portuguesa,4,2,Nacional (SP),VC,3,0,73
+Paulista,1959,1959-07-26,Comercial (SP),1,0,Juventus (SP),VC,3,0,74
+Paulista,1959,1959-07-26,Noroeste,1,4,Palmeiras,VV,0,3,75
+Paulista,1959,1959-07-26,Santos,8,2,XV de Jaú,VC,3,0,76
+Paulista,1959,1959-07-26,Corinthians,3,0,Jabaquara,VC,3,0,77
+Paulista,1959,1959-07-26,Ponte Preta,2,0,Portuguesa Santista,VC,3,0,78
+Paulista,1959,1959-07-26,Taubaté,1,1,São Paulo,E,1,1,79
+Paulista,1959,1959-07-26,Ferroviária (SP),1,0,Botafogo (SP),VC,3,0,80
+Paulista,1959,1959-07-26,XV de Piracicaba,2,2,Guarani,E,1,1,81
+Paulista,1959,1959-07-29,Santos,3,1,Portuguesa Santista,VC,3,0,82
+Paulista,1959,1959-07-29,Corinthians,3,2,Ponte Preta,VC,3,0,83
+Paulista,1959,1959-07-30,São Paulo,6,0,Jabaquara,VC,3,0,84
+Paulista,1959,1959-08-01,Comercial Paulistano,2,0,Nacional (SP),VC,3,0,85
+Paulista,1959,1959-08-02,Guarani,1,2,Portuguesa,VV,0,3,86
+Paulista,1959,1959-08-02,São Paulo,2,2,Ferroviária (SP),E,1,1,87
+Paulista,1959,1959-08-02,Juventus (SP),0,4,Santos,VV,0,3,88
+Paulista,1959,1959-08-02,Noroeste,4,1,Portuguesa Santista,VC,3,0,89
+Paulista,1959,1959-08-02,Palmeiras,5,1,Comercial (SP),VC,3,0,90
+Paulista,1959,1959-08-02,Jabaquara,0,1,Taubaté,VV,0,3,91
+Paulista,1959,1959-08-02,Botafogo (SP),0,0,XV de Piracicaba,E,1,1,92
+Paulista,1959,1959-08-02,XV de Jaú,0,2,Corinthians,VV,0,3,93
+Paulista,1959,1959-08-05,Portuguesa Santista,3,2,América (SP),VC,3,0,94
+Paulista,1959,1959-08-05,Corinthians,3,0,Nacional (SP),VC,3,0,95
+Paulista,1959,1959-08-06,Santos,4,0,XV de Piracicaba,VC,3,0,96
+Paulista,1959,1959-08-06,São Paulo,1,0,Juventus (SP),VC,3,0,97
+Paulista,1959,1959-08-09,Corinthians,3,1,Portuguesa,VC,3,0,98
+Paulista,1959,1959-08-09,Taubaté,2,0,Botafogo (SP),VC,3,0,99
+Paulista,1959,1959-08-09,América (SP),1,2,Ferroviária (SP),VV,0,3,100
+Paulista,1959,1959-08-09,Noroeste,1,0,São Paulo,VC,3,0,101
+Paulista,1959,1959-08-09,XV de Piracicaba,3,5,Juventus (SP),VV,0,3,102
+Paulista,1959,1959-08-09,Comercial (SP),2,1,Portuguesa Santista,VC,3,0,103
+Paulista,1959,1959-08-09,Ponte Preta,2,3,Santos,VV,0,3,104
+Paulista,1959,1959-08-12,São Paulo,5,0,XV de Jaú,VC,3,0,105
+Paulista,1959,1959-08-12,Santos,2,0,Nacional (SP),VC,3,0,106
+Paulista,1959,1959-08-13,Corinthians,1,1,América (SP),E,1,1,107
+Paulista,1959,1959-08-13,Ferroviária (SP),1,0,Ponte Preta,VC,3,0,108
+Paulista,1959,1959-08-15,Juventus (SP),1,1,Botafogo (SP),E,1,1,109
+Paulista,1959,1959-08-15,Guarani,1,0,Jabaquara,VC,3,0,110
+Paulista,1959,1959-08-16,Comercial (SP),2,1,Ponte Preta,VC,3,0,111
+Paulista,1959,1959-08-16,Portuguesa Santista,2,0,XV de Piracicaba,VC,3,0,112
+Paulista,1959,1959-08-16,Noroeste,1,0,Comercial Paulistano,VC,3,0,113
+Paulista,1959,1959-08-16,Taubaté,1,1,Santos,E,1,1,114
+Paulista,1959,1959-08-16,América (SP),0,2,São Paulo,VV,0,3,115
+Paulista,1959,1959-08-16,Palmeiras,1,1,Corinthians,E,1,1,116
+Paulista,1959,1959-08-16,XV de Jaú,1,3,Portuguesa,VV,0,3,117
+Paulista,1959,1959-08-19,Corinthians,1,2,Taubaté,VV,0,3,118
+Paulista,1959,1959-08-19,Santos,0,0,Ferroviária (SP),E,1,1,119
+Paulista,1959,1959-08-19,São Paulo,4,2,Guarani,VC,3,0,120
+Paulista,1959,1959-08-22,Portuguesa Santista,3,0,XV de Jaú,VC,3,0,121
+Paulista,1959,1959-08-22,América (SP),1,0,Guarani,VC,3,0,122
+Paulista,1959,1959-08-22,Botafogo (SP),5,0,Comercial Paulistano,VC,3,0,123
+Paulista,1959,1959-08-23,Comercial (SP),3,2,Jabaquara,VC,3,0,124
+Paulista,1959,1959-08-23,Ponte Preta,2,4,Palmeiras,VV,0,3,125
+Paulista,1959,1959-08-23,XV de Piracicaba,1,0,Corinthians,VC,3,0,126
+Paulista,1959,1959-08-23,Ferroviária (SP),4,2,Taubaté,VC,3,0,127
+Paulista,1959,1959-08-23,São Paulo,0,0,Portuguesa,E,1,1,128
+Paulista,1959,1959-08-23,Noroeste,3,4,Santos,VV,0,3,129
+Paulista,1959,1959-08-23,Taubaté,1,1,Nacional (SP),E,1,1,130
+Paulista,1959,1959-08-26,Corinthians,2,3,Santos,VV,0,3,131
+Paulista,1959,1959-08-27,Nacional (SP),1,1,Portuguesa Santista,E,1,1,132
+Paulista,1959,1959-08-30,Portuguesa,1,0,Botafogo (SP),VC,3,0,133
+Paulista,1959,1959-08-30,Guarani,0,2,Corinthians,VV,0,3,134
+Paulista,1959,1959-08-30,XV de Jaú,0,0,Ferroviária (SP),E,1,1,135
+Paulista,1959,1959-08-30,Portuguesa Santista,1,0,Juventus (SP),VC,3,0,136
+Paulista,1959,1959-08-30,América (SP),2,3,Santos,VV,0,3,137
+Paulista,1959,1959-08-30,Taubaté,4,3,Ponte Preta,VC,3,0,138
+Paulista,1959,1959-08-30,Noroeste,1,1,XV de Piracicaba,E,1,1,139
+Paulista,1959,1959-08-30,Comercial Paulistano,2,1,Comercial (SP),VC,3,0,140
+Paulista,1959,1959-09-03,Santos,2,0,Comercial (SP),VC,3,0,141
+Paulista,1959,1959-09-03,Portuguesa,1,2,Portuguesa Santista,VV,0,3,142
+Paulista,1959,1959-09-06,XV de Jaú,2,0,Jabaquara,VC,3,0,143
+Paulista,1959,1959-09-06,Botafogo (SP),1,0,São Paulo,VC,3,0,144
+Paulista,1959,1959-09-06,América (SP),0,4,Palmeiras,VV,0,3,145
+Paulista,1959,1959-09-06,Portuguesa Santista,1,0,Guarani,VC,3,0,146
+Paulista,1959,1959-09-06,Juventus (SP),3,2,Noroeste,VC,3,0,147
+Paulista,1959,1959-09-07,Comercial (SP),2,0,Corinthians,VC,3,0,148
+Paulista,1959,1959-09-07,Nacional (SP),2,4,Ferroviária (SP),VV,0,3,149
+Paulista,1959,1959-09-07,Santos,5,0,Portuguesa,VC,3,0,150
+Paulista,1959,1959-09-09,Palmeiras,2,0,São Paulo,VC,3,0,151
+Paulista,1959,1959-09-10,Corinthians,1,0,Juventus (SP),VC,3,0,152
+Paulista,1959,1959-09-10,Santos,4,1,Guarani,VC,3,0,153
+Paulista,1959,1959-09-13,XV de Jaú,1,0,Comercial (SP),VC,3,0,154
+Paulista,1959,1959-09-13,Jabaquara,1,1,Comercial Paulistano,E,1,1,155
+Paulista,1959,1959-09-13,Ponte Preta,1,1,São Paulo,E,1,1,156
+Paulista,1959,1959-09-13,Botafogo (SP),1,3,Santos,VV,0,3,157
+Paulista,1959,1959-09-13,XV de Piracicaba,3,1,Taubaté,VC,3,0,158
+Paulista,1959,1959-09-13,Palmeiras,3,1,Portuguesa Santista,VC,3,0,159
+Paulista,1959,1959-09-13,América (SP),1,0,Nacional (SP),VC,3,0,160
+Paulista,1959,1959-09-16,Botafogo (SP),2,1,Comercial (SP),VC,3,0,161
+Paulista,1959,1959-09-17,Comercial Paulistano,0,0,XV de Piracicaba,E,1,1,162
+Paulista,1959,1959-09-17,Ferroviária (SP),5,1,Portuguesa Santista,VC,3,0,163
+Paulista,1959,1959-09-17,Portuguesa,2,0,Noroeste,VC,3,0,164
+Paulista,1959,1959-09-19,Ponte Preta,3,1,Nacional (SP),VC,3,0,165
+Paulista,1959,1959-09-19,Botafogo (SP),2,2,América (SP),E,1,1,166
+Paulista,1959,1959-09-19,Taubaté,1,0,Noroeste,VC,3,0,167
+Paulista,1959,1959-09-20,Comercial (SP),0,1,Ferroviária (SP),VV,0,3,168
+Paulista,1959,1959-09-20,Guarani,2,1,Juventus (SP),VC,3,0,169
+Paulista,1959,1959-09-20,XV de Piracicaba,1,1,Jabaquara,E,1,1,170
+Paulista,1959,1959-09-23,Nacional (SP),2,2,Comercial (SP),E,1,1,171
+Paulista,1959,1959-09-24,São Paulo,3,0,Comercial Paulistano,VC,3,0,172
+Paulista,1959,1959-09-26,Botafogo (SP),3,0,Nacional (SP),VC,3,0,173
+Paulista,1959,1959-09-26,Palmeiras,1,0,XV de Jaú,VC,3,0,174
+Paulista,1959,1959-09-27,São Paulo,2,1,Santos,VC,3,0,175
+Paulista,1959,1959-09-27,Comercial (SP),4,1,Noroeste,VC,3,0,176
+Paulista,1959,1959-09-27,Portuguesa Santista,2,0,Jabaquara,VC,3,0,177
+Paulista,1959,1959-09-27,Ferroviária (SP),3,1,Corinthians,VC,3,0,178
+Paulista,1959,1959-09-27,Ponte Preta,3,2,Comercial Paulistano,VC,3,0,179
+Paulista,1959,1959-09-27,XV de Piracicaba,4,2,Portuguesa,VC,3,0,180
+Paulista,1959,1959-09-30,Juventus (SP),3,3,Portuguesa,E,1,1,181
+Paulista,1959,1959-09-30,Portuguesa Santista,1,2,São Paulo,VV,0,3,182
+Paulista,1959,1959-10-01,Comercial Paulistano,1,3,Santos,VV,0,3,183
+Paulista,1959,1959-10-03,Portuguesa,2,0,Taubaté,VC,3,0,184
+Paulista,1959,1959-10-03,Juventus (SP),5,0,América (SP),VC,3,0,185
+Paulista,1959,1959-10-03,Guarani,4,0,Comercial (SP),VC,3,0,186
+Paulista,1959,1959-10-03,Santos,7,3,Palmeiras,VC,3,0,187
+Paulista,1959,1959-10-03,Portuguesa Santista,1,1,Botafogo (SP),E,1,1,188
+Paulista,1959,1959-10-03,Comercial Paulistano,1,2,XV de Jaú,VV,0,3,189
+Paulista,1959,1959-10-03,São Paulo,1,0,Corinthians,VC,3,0,190
+Paulista,1959,1959-10-07,América (SP),1,0,Taubaté,VC,3,0,191
+Paulista,1959,1959-10-07,Juventus (SP),5,1,Guarani,VC,3,0,192
+Paulista,1959,1959-10-07,Portuguesa,3,0,Jabaquara,VC,3,0,193
+Paulista,1959,1959-10-08,Ferroviária (SP),2,0,XV de Piracicaba,VC,3,0,194
+Paulista,1959,1959-10-08,Botafogo (SP),7,1,Ponte Preta,VC,3,0,195
+Paulista,1959,1959-10-08,Corinthians,4,1,XV de Jaú,VC,3,0,196
+Paulista,1959,1959-10-10,São Paulo,1,2,Noroeste,VV,0,3,197
+Paulista,1959,1959-10-10,América (SP),3,1,Juventus (SP),VC,3,0,198
+Paulista,1959,1959-10-10,Jabaquara,5,2,Nacional (SP),VC,3,0,199
+Paulista,1959,1959-10-11,Corinthians,1,0,Comercial Paulistano,VC,3,0,200
+Paulista,1959,1959-10-11,Portuguesa Santista,3,9,Portuguesa,VV,0,3,201
+Paulista,1959,1959-10-11,Taubaté,2,2,Comercial (SP),E,1,1,202
+Paulista,1959,1959-10-11,XV de Piracicaba,1,0,Palmeiras,VC,3,0,203
+Paulista,1959,1959-10-11,Ponte Preta,6,3,XV de Jaú,VC,3,0,204
+Paulista,1959,1959-10-11,Botafogo (SP),0,1,Ferroviária (SP),VV,0,3,205
+Paulista,1959,1959-10-14,Santos,8,0,América (SP),VC,3,0,206
+Paulista,1959,1959-10-14,Comercial (SP),4,1,Guarani,VC,3,0,207
+Paulista,1959,1959-10-14,Noroeste,0,2,Ponte Preta,VV,0,3,208
+Paulista,1959,1959-10-15,São Paulo,3,0,Botafogo (SP),VC,3,0,209
+Paulista,1959,1959-10-15,Comercial Paulistano,2,4,Jabaquara,VV,0,3,210
+Paulista,1959,1959-10-15,Taubaté,2,0,XV de Piracicaba,VC,3,0,211
+Paulista,1959,1959-10-15,Portuguesa Santista,0,3,Palmeiras,VV,0,3,212
+Paulista,1959,1959-10-17,Portuguesa,1,1,Juventus (SP),E,1,1,213
+Paulista,1959,1959-10-17,América (SP),0,3,Corinthians,VV,0,3,214
+Paulista,1959,1959-10-18,Guarani,1,1,Comercial Paulistano,E,1,1,215
+Paulista,1959,1959-10-18,Noroeste,4,0,Taubaté,VC,3,0,216
+Paulista,1959,1959-10-18,XV de Piracicaba,2,2,São Paulo,E,1,1,217
+Paulista,1959,1959-10-18,Jabaquara,4,3,Santos,VC,3,0,218
+Paulista,1959,1959-10-18,Botafogo (SP),1,0,Comercial (SP),VC,3,0,219
+Paulista,1959,1959-10-18,XV de Jaú,1,0,Palmeiras,VC,3,0,220
+Paulista,1959,1959-10-18,Nacional (SP),3,0,Ponte Preta,VC,3,0,221
+Paulista,1959,1959-10-21,Nacional (SP),1,1,Juventus (SP),E,1,1,222
+Paulista,1959,1959-10-21,Corinthians,5,1,Portuguesa Santista,VC,3,0,223
+Paulista,1959,1959-10-22,Portuguesa,6,3,Guarani,VC,3,0,224
+Paulista,1959,1959-10-22,Comercial Paulistano,3,3,Botafogo (SP),E,1,1,225
+Paulista,1959,1959-10-22,Ferroviária (SP),5,1,Comercial (SP),VC,3,0,226
+Paulista,1959,1959-10-24,Portuguesa Santista,4,3,Nacional (SP),VC,3,0,227
+Paulista,1959,1959-10-24,Jabaquara,1,2,São Paulo,VV,0,3,228
+Paulista,1959,1959-10-25,Corinthians,2,0,Ferroviária (SP),VC,3,0,229
+Paulista,1959,1959-10-25,Noroeste,2,0,Portuguesa,VC,3,0,230
+Paulista,1959,1959-10-25,Guarani,2,1,Ponte Preta,VC,3,0,231
+Paulista,1959,1959-10-25,Taubaté,3,1,XV de Jaú,VC,3,0,232
+Paulista,1959,1959-10-25,Juventus (SP),4,0,Comercial (SP),VC,3,0,233
+Paulista,1959,1959-10-25,XV de Piracicaba,2,5,Santos,VV,0,3,234
+Paulista,1959,1959-10-28,São Paulo,2,1,América (SP),VC,3,0,235
+Paulista,1959,1959-10-28,Botafogo (SP),1,1,Corinthians,E,1,1,236
+Paulista,1959,1959-10-28,Comercial Paulistano,2,2,Portuguesa Santista,E,1,1,237
+Paulista,1959,1959-10-29,Santos,6,1,Noroeste,VC,3,0,238
+Paulista,1959,1959-10-29,Portuguesa,3,0,XV de Jaú,VC,3,0,239
+Paulista,1959,1959-10-29,Comercial (SP),0,1,Palmeiras,VV,0,3,240
+Paulista,1959,1959-10-31,Comercial Paulistano,2,1,Juventus (SP),VC,3,0,241
+Paulista,1959,1959-10-31,Corinthians,2,0,Guarani,VC,3,0,242
+Paulista,1959,1959-10-31,Jabaquara,2,1,Ferroviária (SP),VC,3,0,243
+Paulista,1959,1959-11-01,Comercial (SP),2,6,Santos,VV,0,3,244
+Paulista,1959,1959-11-01,Portuguesa Santista,1,0,Taubaté,VC,3,0,245
+Paulista,1959,1959-11-01,Palmeiras,2,0,Nacional (SP),VC,3,0,246
+Paulista,1959,1959-11-01,XV de Jaú,0,0,São Paulo,E,1,1,247
+Paulista,1959,1959-11-01,Ponte Preta,2,1,Portuguesa,VC,3,0,248
+Paulista,1959,1959-11-01,XV de Piracicaba,2,2,Botafogo (SP),E,1,1,249
+Paulista,1959,1959-11-04,Santos,4,2,Comercial Paulistano,VC,3,0,250
+Paulista,1959,1959-11-04,Palmeiras,3,0,Noroeste,VC,3,0,251
+Paulista,1959,1959-11-04,Comercial (SP),1,1,Nacional (SP),E,1,1,252
+Paulista,1959,1959-11-04,Taubaté,5,4,Juventus (SP),VC,3,0,253
+Paulista,1959,1959-11-05,São Paulo,4,0,Corinthians,VC,3,0,254
+Paulista,1959,1959-11-05,XV de Jaú,1,0,XV de Piracicaba,VC,3,0,255
+Paulista,1959,1959-11-06,Jabaquara,0,0,Juventus (SP),E,1,1,256
+Paulista,1959,1959-11-07,Nacional (SP),2,0,América (SP),VC,3,0,257
+Paulista,1959,1959-11-08,Jabaquara,1,0,Comercial (SP),VC,3,0,258
+Paulista,1959,1959-11-08,Taubaté,2,1,Corinthians,VC,3,0,259
+Paulista,1959,1959-11-08,São Paulo,3,2,Portuguesa,VC,3,0,260
+Paulista,1959,1959-11-08,Botafogo (SP),6,3,Noroeste,VC,3,0,261
+Paulista,1959,1959-11-08,XV de Jaú,1,0,Santos,VC,3,0,262
+Paulista,1959,1959-11-08,Juventus (SP),3,0,XV de Piracicaba,VC,3,0,263
+Paulista,1959,1959-11-08,Ferroviária (SP),3,2,Comercial Paulistano,VC,3,0,264
+Paulista,1959,1959-11-08,Guarani,2,3,Palmeiras,VV,0,3,265
+Paulista,1959,1959-11-11,Nacional (SP),3,1,Botafogo (SP),VC,3,0,266
+Paulista,1959,1959-11-11,Comercial Paulistano,6,3,Taubaté,VC,3,0,267
+Paulista,1959,1959-11-11,Santos,5,1,Juventus (SP),VC,3,0,268
+Paulista,1959,1959-11-11,Guarani,6,3,América (SP),VC,3,0,269
+Paulista,1959,1959-11-12,Ponte Preta,0,0,Ferroviária (SP),E,1,1,270
+Paulista,1959,1959-11-12,São Paulo,4,2,Portuguesa Santista,VC,3,0,271
+Paulista,1959,1959-11-12,Comercial (SP),4,0,XV de Jaú,VC,3,0,272
+Paulista,1959,1959-11-15,Noroeste,1,0,XV de Jaú,VC,3,0,273
+Paulista,1959,1959-11-15,Guarani,1,0,Portuguesa Santista,VC,3,0,274
+Paulista,1959,1959-11-15,América (SP),2,2,Ponte Preta,E,1,1,275
+Paulista,1959,1959-11-15,Nacional (SP),0,4,Santos,VV,0,3,276
+Paulista,1959,1959-11-15,Jabaquara,0,1,Corinthians,VV,0,3,277
+Paulista,1959,1959-11-15,Taubaté,2,1,Portuguesa,VC,3,0,278
+Paulista,1959,1959-11-15,Comercial (SP),4,4,São Paulo,E,1,1,279
+Paulista,1959,1959-11-15,Ferroviária (SP),0,3,Palmeiras,VV,0,3,280
+Paulista,1959,1959-11-18,Juventus (SP),2,2,São Paulo,E,1,1,281
+Paulista,1959,1959-11-18,Guarani,3,0,Noroeste,VC,3,0,282
+Paulista,1959,1959-11-18,Palmeiras,5,0,Taubaté,VC,3,0,283
+Paulista,1959,1959-11-18,Jabaquara,3,1,Portuguesa Santista,VC,3,0,284
+Paulista,1959,1959-11-19,XV de Jaú,1,0,Botafogo (SP),VC,3,0,285
+Paulista,1959,1959-11-19,Santos,12,1,Ponte Preta,VC,3,0,286
+Paulista,1959,1959-11-19,Ferroviária (SP),7,1,América (SP),VC,3,0,287
+Paulista,1959,1959-11-19,XV de Piracicaba,5,2,Nacional (SP),VC,3,0,288
+Paulista,1959,1959-11-19,Portuguesa,5,0,Comercial Paulistano,VC,3,0,289
+Paulista,1959,1959-11-21,Corinthians,7,1,Comercial (SP),VC,3,0,290
+Paulista,1959,1959-11-21,Palmeiras,2,0,Jabaquara,VC,3,0,291
+Paulista,1959,1959-11-22,Guarani,0,2,São Paulo,VV,0,3,292
+Paulista,1959,1959-11-22,Portuguesa,1,5,Santos,VV,0,3,293
+Paulista,1959,1959-11-22,Comercial Paulistano,3,0,Noroeste,VC,3,0,294
+Paulista,1959,1959-11-22,XV de Jaú,2,0,América (SP),VC,3,0,295
+Paulista,1959,1959-11-22,Portuguesa Santista,1,3,Ferroviária (SP),VV,0,3,296
+Paulista,1959,1959-11-22,Botafogo (SP),1,0,Taubaté,VC,3,0,297
+Paulista,1959,1959-11-22,XV de Piracicaba,2,1,Ponte Preta,VC,3,0,298
+Paulista,1959,1959-11-25,XV de Jaú,2,1,Guarani,VC,3,0,299
+Paulista,1959,1959-11-25,Palmeiras,3,0,Corinthians,VC,3,0,300
+Paulista,1959,1959-11-25,Ponte Preta,1,1,Jabaquara,E,1,1,301
+Paulista,1959,1959-11-26,Juventus (SP),3,3,Ferroviária (SP),E,1,1,302
+Paulista,1959,1959-11-26,América (SP),1,0,Noroeste,VC,3,0,303
+Paulista,1959,1959-11-26,Botafogo (SP),1,2,Portuguesa,VV,0,3,304
+Paulista,1959,1959-11-28,Comercial Paulistano,2,0,São Paulo,VC,3,0,305
+Paulista,1959,1959-11-28,Ponte Preta,0,1,Comercial (SP),VV,0,3,306
+Paulista,1959,1959-11-29,Guarani,3,2,XV de Piracicaba,VC,3,0,307
+Paulista,1959,1959-11-29,Noroeste,6,3,Corinthians,VC,3,0,308
+Paulista,1959,1959-11-29,Ferroviária (SP),1,1,Nacional (SP),E,1,1,309
+Paulista,1959,1959-11-29,Juventus (SP),4,1,Portuguesa Santista,VC,3,0,310
+Paulista,1959,1959-11-29,Jabaquara,3,2,XV de Jaú,VC,3,0,311
+Paulista,1959,1959-11-29,América (SP),3,1,Botafogo (SP),VC,3,0,312
+Paulista,1959,1959-11-29,Palmeiras,5,1,Santos,VC,3,0,313
+Paulista,1959,1959-12-02,Santos,6,1,Portuguesa Santista,VC,3,0,314
+Paulista,1959,1959-12-02,Botafogo (SP),1,1,Jabaquara,E,1,1,315
+Paulista,1959,1959-12-02,São Paulo,2,1,Nacional (SP),VC,3,0,316
+Paulista,1959,1959-12-02,Comercial Paulistano,0,0,América (SP),E,1,1,317
+Paulista,1959,1959-12-02,Taubaté,0,3,Ferroviária (SP),VV,0,3,318
+Paulista,1959,1959-12-03,Comercial (SP),1,1,XV de Piracicaba,E,1,1,319
+Paulista,1959,1959-12-03,Corinthians,2,0,Juventus (SP),VC,3,0,320
+Paulista,1959,1959-12-03,Palmeiras,1,1,Portuguesa,E,1,1,321
+Paulista,1959,1959-12-05,Nacional (SP),6,2,Comercial Paulistano,VC,3,0,322
+Paulista,1959,1959-12-06,Noroeste,2,1,Juventus (SP),VC,3,0,323
+Paulista,1959,1959-12-06,Corinthians,3,0,Portuguesa,VC,3,0,324
+Paulista,1959,1959-12-06,XV de Piracicaba,3,0,América (SP),VC,3,0,325
+Paulista,1959,1959-12-06,Ferroviária (SP),2,5,Santos,VV,0,3,326
+Paulista,1959,1959-12-06,Botafogo (SP),2,2,Portuguesa Santista,E,1,1,327
+Paulista,1959,1959-12-06,Ponte Preta,4,1,Taubaté,VC,3,0,328
+Paulista,1959,1959-12-06,Jabaquara,3,1,Guarani,VC,3,0,329
+Paulista,1959,1959-12-08,Palmeiras,3,0,América (SP),VC,3,0,330
+Paulista,1959,1959-12-08,Guarani,1,1,Botafogo (SP),E,1,1,331
+Paulista,1959,1959-12-09,Comercial (SP),1,1,Comercial Paulistano,E,1,1,332
+Paulista,1959,1959-12-09,Portuguesa Santista,0,1,Noroeste,VV,0,3,333
+Paulista,1959,1959-12-10,São Paulo,1,1,Ponte Preta,E,1,1,334
+Paulista,1959,1959-12-10,Nacional (SP),2,1,Taubaté,VC,3,0,335
+Paulista,1959,1959-12-10,Jabaquara,3,1,XV de Piracicaba,VC,3,0,336
+Paulista,1959,1959-12-12,Portuguesa Santista,5,2,Comercial (SP),VC,3,0,337
+Paulista,1959,1959-12-12,Portuguesa,5,1,Ferroviária (SP),VC,3,0,338
+Paulista,1959,1959-12-13,Corinthians,4,1,Nacional (SP),VC,3,0,339
+Paulista,1959,1959-12-13,Santos,4,3,São Paulo,VC,3,0,340
+Paulista,1959,1959-12-13,Palmeiras,2,0,Botafogo (SP),VC,3,0,341
+Paulista,1959,1959-12-13,Taubaté,1,0,Guarani,VC,3,0,342
+Paulista,1959,1959-12-13,Comercial Paulistano,3,3,XV de Jaú,E,1,1,343
+Paulista,1959,1959-12-13,Ponte Preta,2,0,Juventus (SP),VC,3,0,344
+Paulista,1959,1959-12-13,XV de Piracicaba,1,3,Noroeste,VV,0,3,345
+Paulista,1959,1959-12-16,XV de Piracicaba,4,1,Comercial Paulistano,VC,3,0,346
+Paulista,1959,1959-12-16,São Paulo,1,2,Taubaté,VV,0,3,347
+Paulista,1959,1959-12-16,Santos,2,2,Botafogo (SP),E,1,1,348
+Paulista,1959,1959-12-17,América (SP),1,0,Portuguesa,VC,3,0,349
+Paulista,1959,1959-12-17,XV de Jaú,4,0,Portuguesa Santista,VC,3,0,350
+Paulista,1959,1959-12-17,Noroeste,3,0,Nacional (SP),VC,3,0,351
+Paulista,1959,1959-12-17,Palmeiras,2,0,Juventus (SP),VC,3,0,352
+Paulista,1959,1959-12-19,Botafogo (SP),5,1,Juventus (SP),VC,3,0,353
+Paulista,1959,1959-12-19,Corinthians,1,0,XV de Piracicaba,VC,3,0,354
+Paulista,1959,1959-12-20,Portuguesa,3,1,Nacional (SP),VC,3,0,355
+Paulista,1959,1959-12-20,Guarani,3,2,Santos,VC,3,0,356
+Paulista,1959,1959-12-20,Ferroviária (SP),3,2,XV de Jaú,VC,3,0,357
+Paulista,1959,1959-12-20,Portuguesa Santista,5,0,Ponte Preta,VC,3,0,358
+Paulista,1959,1959-12-20,Noroeste,2,0,Jabaquara,VC,3,0,359
+Paulista,1959,1959-12-20,Comercial (SP),1,0,América (SP),VC,3,0,360
+Paulista,1959,1959-12-20,São Paulo,2,0,Palmeiras,VC,3,0,361
+Paulista,1959,1959-12-22,Ponte Preta,1,3,Corinthians,VV,0,3,362
+Paulista,1959,1959-12-22,América (SP),3,1,Jabaquara,VC,3,0,363
+Paulista,1959,1959-12-22,Portuguesa,3,1,XV de Piracicaba,VC,3,0,364
+Paulista,1959,1959-12-22,Nacional (SP),3,2,XV de Jaú,VC,3,0,365
+Paulista,1959,1959-12-23,Ferroviária (SP),3,0,Guarani,VC,3,0,366
+Paulista,1959,1959-12-23,Palmeiras,3,1,Comercial Paulistano,VC,3,0,367
+Paulista,1959,1959-12-23,Santos,2,0,Taubaté,VC,3,0,368
+Paulista,1959,1959-12-26,Palmeiras,6,1,Ponte Preta,VC,3,0,369
+Paulista,1959,1959-12-27,Juventus (SP),3,0,XV de Jaú,VC,3,0,370
+Paulista,1959,1959-12-27,Santos,4,1,Corinthians,VC,3,0,371
+Paulista,1959,1959-12-27,Guarani,2,1,Nacional (SP),VC,3,0,372
+Paulista,1959,1959-12-27,Ferroviária (SP),0,1,São Paulo,VV,0,3,373
+Paulista,1959,1959-12-27,Noroeste,3,3,Comercial (SP),E,1,1,374
+Paulista,1959,1959-12-27,Taubaté,1,1,Jabaquara,E,1,1,375
+Paulista,1959,1959-12-27,XV de Piracicaba,3,0,Portuguesa Santista,VC,3,0,376
+Paulista,1959,1959-12-30,Portuguesa,3,1,Comercial (SP),VC,3,0,377
+Paulista,1959,1959-12-30,Comercial Paulistano,0,3,Ponte Preta,VV,0,3,378
+Paulista,1959,1959-12-30,Noroeste,0,0,Ferroviária (SP),E,1,1,379
+Paulista,1959,1959-12-30,América (SP),4,0,Portuguesa Santista,VC,3,0,380
+Paulista,1959,1960-01-05,Palmeiras,1,1,Santos,E,1,1,381
+Paulista,1959,1960-01-07,Palmeiras,2,2,Santos,E,1,1,382
+Paulista,1959,1960-01-10,Palmeiras,2,1,Santos,VC,3,0,383

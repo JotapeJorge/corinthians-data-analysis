@@ -1,0 +1,91 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1970,1970-06-28,Portuguesa,0,0,Palmeiras,E,1,1,1
+Paulista,1970,1970-06-28,Santos,1,0,Botafogo (SP),VC,3,0,2
+Paulista,1970,1970-06-28,Guarani,3,0,Ferroviária (SP),VC,3,0,3
+Paulista,1970,1970-06-28,São Paulo,1,0,São Bento,VC,3,0,4
+Paulista,1970,1970-06-28,Corinthians,1,1,Ponte Preta,E,1,1,5
+Paulista,1970,1970-07-01,Guarani,4,1,Botafogo (SP),VC,3,0,6
+Paulista,1970,1970-07-01,São Paulo,1,2,Portuguesa,VV,0,3,7
+Paulista,1970,1970-07-02,Santos,1,2,Ponte Preta,VV,0,3,8
+Paulista,1970,1970-07-04,Portuguesa,1,1,Guarani,E,1,1,9
+Paulista,1970,1970-07-05,Ponte Preta,2,2,São Paulo,E,1,1,10
+Paulista,1970,1970-07-05,Ferroviária (SP),0,0,Corinthians,E,1,1,11
+Paulista,1970,1970-07-05,São Bento,3,3,Botafogo (SP),E,1,1,12
+Paulista,1970,1970-07-05,Palmeiras,0,2,Santos,VV,0,3,13
+Paulista,1970,1970-07-08,Portuguesa,1,1,Corinthians,E,1,1,14
+Paulista,1970,1970-07-08,Ferroviária (SP),1,0,Santos,VC,3,0,15
+Paulista,1970,1970-07-09,Palmeiras,1,0,Guarani,VC,3,0,16
+Paulista,1970,1970-07-12,Santos,2,3,São Paulo,VV,0,3,17
+Paulista,1970,1970-07-12,Corinthians,2,0,São Bento,VC,3,0,18
+Paulista,1970,1970-07-12,Ferroviária (SP),3,3,Palmeiras,E,1,1,19
+Paulista,1970,1970-07-12,Ponte Preta,1,0,Guarani,VC,3,0,20
+Paulista,1970,1970-07-12,Botafogo (SP),0,1,Portuguesa,VV,0,3,21
+Paulista,1970,1970-07-15,Guarani,1,0,Corinthians,VC,3,0,22
+Paulista,1970,1970-07-15,Santos,2,1,São Bento,VC,3,0,23
+Paulista,1970,1970-07-16,São Paulo,2,1,Ferroviária (SP),VC,3,0,24
+Paulista,1970,1970-07-18,Portuguesa,1,2,Ponte Preta,VV,0,3,25
+Paulista,1970,1970-07-19,Ferroviária (SP),1,0,Botafogo (SP),VC,3,0,26
+Paulista,1970,1970-07-19,São Bento,0,1,Palmeiras,VV,0,3,27
+Paulista,1970,1970-07-19,Guarani,2,5,Santos,VV,0,3,28
+Paulista,1970,1970-07-19,São Paulo,1,1,Corinthians,E,1,1,29
+Paulista,1970,1970-07-22,São Bento,0,1,Ferroviária (SP),VV,0,3,30
+Paulista,1970,1970-07-22,Palmeiras,0,0,Ponte Preta,E,1,1,31
+Paulista,1970,1970-07-23,Corinthians,4,1,Botafogo (SP),VC,3,0,32
+Paulista,1970,1970-07-25,Santos,2,1,Portuguesa,VC,3,0,33
+Paulista,1970,1970-07-26,Ponte Preta,1,0,Ferroviária (SP),VC,3,0,34
+Paulista,1970,1970-07-26,São Bento,1,0,Guarani,VC,3,0,35
+Paulista,1970,1970-07-26,Botafogo (SP),1,2,São Paulo,VV,0,3,36
+Paulista,1970,1970-07-26,Corinthians,2,1,Palmeiras,VC,3,0,37
+Paulista,1970,1970-07-29,Ponte Preta,0,0,Botafogo (SP),E,1,1,38
+Paulista,1970,1970-07-29,Palmeiras,0,1,São Paulo,VV,0,3,39
+Paulista,1970,1970-07-30,Portuguesa,2,2,São Bento,E,1,1,40
+Paulista,1970,1970-08-01,São Paulo,0,0,Guarani,E,1,1,41
+Paulista,1970,1970-08-02,Botafogo (SP),0,1,Palmeiras,VV,0,3,42
+Paulista,1970,1970-08-02,Corinthians,2,2,Santos,E,1,1,43
+Paulista,1970,1970-08-02,Ponte Preta,1,0,São Bento,VC,3,0,44
+Paulista,1970,1970-08-02,Ferroviária (SP),2,1,Portuguesa,VC,3,0,45
+Paulista,1970,1970-08-05,Portuguesa,0,0,Ferroviária (SP),E,1,1,46
+Paulista,1970,1970-08-05,São Bento,1,2,Ponte Preta,VV,0,3,47
+Paulista,1970,1970-08-05,Santos,5,1,Guarani,VC,3,0,48
+Paulista,1970,1970-08-06,Palmeiras,3,0,Botafogo (SP),VC,3,0,49
+Paulista,1970,1970-08-08,Guarani,2,0,Portuguesa,VC,3,0,50
+Paulista,1970,1970-08-09,Botafogo (SP),1,1,Corinthians,E,1,1,51
+Paulista,1970,1970-08-09,São Paulo,3,2,Santos,VC,3,0,52
+Paulista,1970,1970-08-09,Ponte Preta,0,0,Palmeiras,E,1,1,53
+Paulista,1970,1970-08-09,Ferroviária (SP),0,0,São Bento,E,1,1,54
+Paulista,1970,1970-08-12,Santos,5,0,Ferroviária (SP),VC,3,0,55
+Paulista,1970,1970-08-12,Palmeiras,3,3,São Bento,E,1,1,56
+Paulista,1970,1970-08-12,Corinthians,4,0,Guarani,VC,3,0,57
+Paulista,1970,1970-08-15,Portuguesa,4,1,Botafogo (SP),VC,3,0,58
+Paulista,1970,1970-08-15,Guarani,1,1,São Bento,E,1,1,59
+Paulista,1970,1970-08-16,Ponte Preta,0,1,Santos,VV,0,3,60
+Paulista,1970,1970-08-16,Ferroviária (SP),2,0,São Paulo,VC,3,0,61
+Paulista,1970,1970-08-16,Palmeiras,1,0,Corinthians,VC,3,0,62
+Paulista,1970,1970-08-19,São Paulo,1,0,Portuguesa,VC,3,0,63
+Paulista,1970,1970-08-19,Guarani,2,2,Ponte Preta,E,1,1,64
+Paulista,1970,1970-08-19,Palmeiras,2,0,Ferroviária (SP),VC,3,0,65
+Paulista,1970,1970-08-19,Botafogo (SP),0,0,Santos,E,1,1,66
+Paulista,1970,1970-08-19,São Bento,0,1,Corinthians,VV,0,3,67
+Paulista,1970,1970-08-22,Portuguesa,1,0,Santos,VC,3,0,68
+Paulista,1970,1970-08-23,Ponte Preta,0,0,Corinthians,E,1,1,69
+Paulista,1970,1970-08-23,Ferroviária (SP),1,0,Guarani,VC,3,0,70
+Paulista,1970,1970-08-23,Botafogo (SP),1,0,São Bento,VC,3,0,71
+Paulista,1970,1970-08-23,São Paulo,0,1,Palmeiras,VV,0,3,72
+Paulista,1970,1970-08-26,São Paulo,4,0,Botafogo (SP),VC,3,0,73
+Paulista,1970,1970-08-26,Ponte Preta,0,1,Portuguesa,VV,0,3,74
+Paulista,1970,1970-08-26,São Bento,2,2,Santos,E,1,1,75
+Paulista,1970,1970-08-30,São Bento,0,3,São Paulo,VV,0,3,76
+Paulista,1970,1970-08-30,Santos,1,1,Corinthians,E,1,1,77
+Paulista,1970,1970-08-30,Botafogo (SP),3,1,Ferroviária (SP),VC,3,0,78
+Paulista,1970,1970-09-01,Guarani,0,0,Palmeiras,E,1,1,79
+Paulista,1970,1970-09-05,São Paulo,2,0,Ponte Preta,VC,3,0,80
+Paulista,1970,1970-09-06,Botafogo (SP),1,1,Guarani,E,1,1,81
+Paulista,1970,1970-09-06,São Bento,1,0,Portuguesa,VC,3,0,82
+Paulista,1970,1970-09-06,Santos,1,1,Palmeiras,E,1,1,83
+Paulista,1970,1970-09-06,Corinthians,2,0,Ferroviária (SP),VC,3,0,84
+Paulista,1970,1970-09-09,Ferroviária (SP),1,1,Ponte Preta,E,1,1,85
+Paulista,1970,1970-09-09,Guarani,1,2,São Paulo,VV,0,3,86
+Paulista,1970,1970-09-09,Corinthians,0,1,Portuguesa,VV,0,3,87
+Paulista,1970,1970-09-12,Palmeiras,1,1,Portuguesa,E,1,1,88
+Paulista,1970,1970-09-13,Botafogo (SP),1,2,Ponte Preta,VV,0,3,89
+Paulista,1970,1970-09-13,Corinthians,0,1,São Paulo,VV,0,3,90

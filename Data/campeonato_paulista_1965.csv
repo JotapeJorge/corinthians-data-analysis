@@ -1,0 +1,247 @@
+Data,Casa,GC,GF,Fora
+1965-07-04,Ferroviária,1,2,Botafogo
+1965-07-04,São Bento,0,0,Guarani
+1965-07-04,Noroeste,2,0,Comercial (RP)
+1965-07-04,Prudentina,4,0,XV de Piracicaba
+1965-07-07,Botafogo,2,0,América
+1965-07-07,Guarani,2,1,Prudentina
+1965-07-10,Port. Santista,1,3,Guarani
+1965-07-11,Portuguesa,2,0,Ferroviária
+1965-07-11,Comercial (RP),3,0,XV de Piracicaba
+1965-07-11,Santos,3,1,América
+1965-07-11,Noroeste,2,1,Botafogo
+1965-07-13,São Paulo,3,2,Prudentina
+1965-07-13,Corinthians,3,0,São Bento
+1965-07-14,Santos,6,2,Noroeste
+1965-07-14,América,0,0,Port. Santista
+1965-07-14,Palmeiras,5,2,Juventus
+1965-07-18,Ferroviária,1,3,Santos
+1965-07-18,Prudentina,4,0,Palmeiras
+1965-07-18,Comercial (RP),1,3,Portuguesa
+1965-07-18,Guarani,2,1,Botafogo
+1965-07-18,São Bento,3,2,América
+1965-07-18,Corinthians,2,1,São Paulo
+1965-07-18,Port. Santista,0,0,Noroeste
+1965-07-18,XV de Piracicaba,4,2,Juventus
+1965-07-21,Santos,5,3,Comercial (RP)
+1965-07-21,São Paulo,3,1,Guarani
+1965-07-25,Botafogo,4,0,Port. Santista
+1965-07-25,Palmeiras,1,1,Portuguesa
+1965-07-25,Juventus,2,1,São Paulo
+1965-07-25,Prudentina,2,3,Corinthians
+1965-07-25,América,3,2,Guarani
+1965-07-25,Noroeste,4,0,São Bento
+1965-07-28,Palmeiras,3,0,Noroeste
+1965-07-31,Portuguesa,0,0,América
+1965-08-01,Juventus,3,1,São Bento
+1965-08-01,São Paulo,1,1,Santos
+1965-08-01,Comercial (RP),3,0,Prudentina
+1965-08-01,Noroeste,6,3,Ferroviária
+1965-08-01,XV de Piracicaba,0,0,Botafogo
+1965-08-01,Guarani,1,1,Palmeiras
+1965-08-01,Port. Santista,1,2,Corinthians
+1965-08-04,Guarani,1,2,Portuguesa
+1965-08-04,Santos,2,0,Port. Santista
+1965-08-04,Corinthians,4,1,Juventus
+1965-08-07,Portuguesa,0,0,Noroeste
+1965-08-08,Comercial (RP),2,1,Corinthians
+1965-08-08,Palmeiras,1,0,São Paulo
+1965-08-08,Ferroviária,0,0,América
+1965-08-08,Prudentina,3,3,Botafogo
+1965-08-08,Juventus,0,1,Guarani
+1965-08-08,São Bento,4,1,XV de Piracicaba
+1965-08-11,Botafogo,4,1,São Paulo
+1965-08-11,Port. Santista,3,1,XV de Piracicaba
+1965-08-11,Guarani,2,1,Ferroviária
+1965-08-11,Palmeiras,3,1,Comercial (RP)
+1965-08-14,São Paulo,2,2,Comercial (RP)
+1965-08-15,Botafogo,1,3,Palmeiras
+1965-08-15,Santos,3,1,Prudentina
+1965-08-15,Corinthians,2,1,Portuguesa
+1965-08-15,XV de Piracicaba,2,2,Noroeste
+1965-08-15,América,3,1,Juventus
+1965-08-15,Ferroviária,0,1,Port. Santista
+1965-08-18,Corinthians,2,0,Botafogo
+1965-08-18,Ferroviária,1,3,Palmeiras
+1965-08-18,Comercial (RP),1,2,América
+1965-08-18,São Bento,0,3,Santos
+1965-08-19,Portuguesa,3,1,XV de Piracicaba
+1965-08-22,Juventus,3,1,Botafogo
+1965-08-22,Santos,4,0,Portuguesa
+1965-08-22,América,2,3,Corinthians
+1965-08-22,Noroeste,2,3,São Paulo
+1965-08-22,São Bento,3,2,Prudentina
+1965-08-22,Comercial (RP),3,1,Guarani
+1965-08-22,Palmeiras,3,0,Port. Santista
+1965-08-22,XV de Piracicaba,2,0,Ferroviária
+1965-08-25,Juventus,4,0,Portuguesa
+1965-08-25,Santos,0,0,XV de Piracicaba
+1965-08-26,Port. Santista,0,0,São Bento
+1965-08-28,Juventus,2,2,Ferroviária
+1965-08-29,Corinthians,3,4,Santos
+1965-08-29,Prudentina,1,0,Noroeste
+1965-08-29,América,0,1,Palmeiras
+1965-08-29,Guarani,3,2,XV de Piracicaba
+1965-08-29,São Bento,3,1,Comercial (RP)
+1965-08-29,Botafogo,0,1,Portuguesa
+1965-08-29,Port. Santista,0,3,São Paulo
+1965-09-01,Portuguesa,4,1,Prudentina
+1965-09-01,São Paulo,0,0,São Bento
+1965-09-01,Ferroviária,2,2,Comercial (RP)
+1965-09-04,Corinthians,3,2,Guarani
+1965-09-04,Prudentina,4,3,Juventus
+1965-09-04,Noroeste,2,1,América
+1965-09-04,XV de Piracicaba,0,0,Palmeiras
+1965-09-04,Botafogo,1,7,Santos
+1965-09-04,Portuguesa,2,0,São Paulo
+1965-09-05,São Bento,1,1,Ferroviária
+1965-09-05,Comercial (RP),3,1,Port. Santista
+1965-09-07,XV de Piracicaba,0,0,São Paulo
+1965-09-07,América,2,1,Prudentina
+1965-09-07,Noroeste,0,2,Corinthians
+1965-09-08,Juventus,1,3,Santos
+1965-09-11,Portuguesa,2,0,São Bento
+1965-09-11,Santos,7,0,Guarani
+1965-09-11,Juventus,2,0,Noroeste
+1965-09-12,Comercial (RP),2,0,Botafogo
+1965-09-12,Prudentina,0,0,Port. Santista
+1965-09-12,Ferroviária,0,1,São Paulo
+1965-09-12,América,2,0,XV de Piracicaba
+1965-09-12,Palmeiras,0,0,Corinthians
+1965-09-15,Palmeiras,2,0,São Bento
+1965-09-16,Port. Santista,2,1,Juventus
+1965-09-16,Corinthians,2,1,Ferroviária
+1965-09-18,São Paulo,4,0,América
+1965-09-19,Ferroviária,2,3,Prudentina
+1965-09-19,Santos,0,1,Palmeiras
+1965-09-19,Guarani,6,0,Noroeste
+1965-09-19,São Bento,1,0,Botafogo
+1965-09-19,Comercial (RP),2,2,Juventus
+1965-09-19,Portuguesa,3,1,Port. Santista
+1965-09-19,XV de Piracicaba,1,3,Corinthians
+1965-09-22,Comercial (RP),3,2,Noroeste
+1965-09-22,XV de Piracicaba,0,2,Guarani
+1965-09-22,Santos,4,2,Ferroviária
+1965-09-22,São Bento,2,0,Port. Santista
+1965-09-23,Palmeiras,1,0,Prudentina
+1965-09-26,Guarani,1,0,Port. Santista
+1965-09-26,XV de Piracicaba,3,1,Comercial (RP)
+1965-09-26,Prudentina,0,0,São Paulo
+1965-09-26,América,2,2,Botafogo
+1965-09-26,São Bento,2,4,Corinthians
+1965-09-29,Port. Santista,2,0,América
+1965-09-29,Botafogo,3,2,Guarani
+1965-09-29,Ferroviária,2,0,Portuguesa
+1965-10-02,Botafogo,2,0,Ferroviária
+1965-10-02,Juventus,2,1,XV de Piracicaba
+1965-10-03,América,1,1,São Bento
+1965-10-03,Noroeste,0,3,Santos
+1965-10-03,Comercial (RP),3,1,Palmeiras
+1965-10-03,Port. Santista,1,1,Portuguesa
+1965-10-03,Corinthians,1,1,São Paulo
+1965-10-03,Prudentina,1,0,Guarani
+1965-10-06,Guarani,0,2,São Paulo
+1965-10-06,Noroeste,0,0,Port. Santista
+1965-10-06,Portuguesa,2,2,Palmeiras
+1965-10-07,Santos,4,2,São Bento
+1965-10-10,Ferroviária,2,0,XV de Piracicaba
+1965-10-10,Port. Santista,0,0,Botafogo
+1965-10-10,Comercial (RP),0,2,Santos
+1965-10-10,Guarani,2,0,América
+1965-10-10,São Paulo,3,1,Juventus
+1965-10-10,Corinthians,2,0,Prudentina
+1965-10-10,Noroeste,1,0,Palmeiras
+1965-10-13,Santos,3,0,Port. Santista
+1965-10-14,Portuguesa,5,1,Guarani
+1965-10-16,Santos,0,0,São Paulo
+1965-10-17,Botafogo,3,0,XV de Piracicaba
+1965-10-17,Palmeiras,1,0,Guarani
+1965-10-17,Corinthians,2,1,Port. Santista
+1965-10-17,Prudentina,2,0,Comercial (RP)
+1965-10-17,América,0,1,Portuguesa
+1965-10-17,Ferroviária,0,2,Noroeste
+1965-10-17,São Bento,3,0,Juventus
+1965-10-20,América,1,0,Ferroviária
+1965-10-20,São Bento,4,1,Noroeste
+1965-10-20,XV de Piracicaba,1,3,Prudentina
+1965-10-21,Corinthians,6,2,Juventus
+1965-10-23,Palmeiras,2,1,São Paulo
+1965-10-23,São Paulo,2,1,Botafogo
+1965-10-24,América,0,4,Santos
+1965-10-24,Ferroviária,1,2,Guarani
+1965-10-24,XV de Piracicaba,3,1,São Bento
+1965-10-24,Botafogo,0,2,Prudentina
+1965-10-24,Guarani,0,1,Juventus
+1965-10-24,Corinthians,2,1,Comercial (RP)
+1965-10-24,Noroeste,1,0,Portuguesa
+1965-10-27,Portuguesa,0,1,Santos
+1965-10-30,Juventus,0,2,América
+1965-10-31,Comercial (RP),1,0,São Paulo
+1965-10-31,Noroeste,1,0,XV de Piracicaba
+1965-10-31,Corinthians,2,0,Portuguesa
+1965-10-31,Prudentina,2,5,Santos
+1965-10-31,Guarani,1,1,São Bento
+1965-11-03,XV de Piracicaba,1,1,Port. Santista
+1965-11-03,América,2,0,Comercial (RP)
+1965-11-04,Portuguesa,1,1,Botafogo
+1965-11-06,Comercial (RP),3,1,Ferroviária
+1965-11-07,Botafogo,2,2,Juventus
+1965-11-07,Prudentina,1,2,São Bento
+1965-11-07,Corinthians,4,0,América
+1965-11-07,São Paulo,8,0,Noroeste
+1965-11-07,Port. Santista,1,2,Palmeiras
+1965-11-07,XV de Piracicaba,0,2,Santos
+1965-11-10,Botafogo,1,0,Noroeste
+1965-11-10,Port. Santista,1,3,Comercial (RP)
+1965-11-11,Juventus,1,1,Portuguesa
+1965-11-13,Palmeiras,2,1,América
+1965-11-13,São Paulo,6,1,Port. Santista
+1965-11-14,Ferroviária,1,1,Juventus
+1965-11-14,XV de Piracicaba,1,0,Portuguesa
+1965-11-14,Noroeste,0,0,Prudentina
+1965-11-14,Comercial (RP),2,3,São Bento
+1965-11-14,Santos,4,2,Corinthians
+1965-11-17,Juventus,2,0,Prudentina
+1965-11-17,Port. Santista,1,0,Ferroviária
+1965-11-20,América,2,1,Noroeste
+1965-11-20,Ferroviária,3,2,São Bento
+1965-11-24,Palmeiras,1,0,XV de Piracicaba
+1965-11-24,Portuguesa,2,1,São Paulo
+1965-11-24,Juventus,1,0,Port. Santista
+1965-11-25,Santos,5,0,Botafogo
+1965-11-25,Guarani,3,1,Corinthians
+1965-11-27,Palmeiras,4,3,Ferroviária
+1965-11-27,Santos,4,0,Juventus
+1965-11-28,Corinthians,5,1,Noroeste
+1965-11-28,São Bento,2,2,Portuguesa
+1965-11-28,Guarani,3,1,Comercial (RP)
+1965-11-28,São Paulo,4,1,XV de Piracicaba
+1965-11-28,Prudentina,1,1,América
+1965-11-30,Palmeiras,2,1,Botafogo
+1965-12-01,São Bento,2,0,São Paulo
+1965-12-04,Guarani,0,1,Santos
+1965-12-04,São Paulo,1,0,Ferroviária
+1965-12-05,Comercial (RP),0,0,Botafogo
+1965-12-05,Port. Santista,1,1,Prudentina
+1965-12-05,Noroeste,2,2,Juventus
+1965-12-05,XV de Piracicaba,2,1,América
+1965-12-05,Palmeiras,1,0,Corinthians
+1965-12-08,Ferroviária,2,1,Corinthians
+1965-12-09,Portuguesa,3,1,Comercial (RP)
+1965-12-09,São Bento,1,3,Palmeiras
+1965-12-11,Botafogo,0,0,Corinthians
+1965-12-12,América,1,0,São Paulo
+1965-12-12,Palmeiras,5,0,Santos
+1965-12-12,Juventus,1,2,Comercial (RP)
+1965-12-12,Prudentina,2,0,Ferroviária
+1965-12-12,Noroeste,1,1,Guarani
+1965-12-15,Corinthians,7,0,XV de Piracicaba
+1965-12-15,Botafogo,1,2,São Bento
+1965-12-16,Palmeiras,1,0,Juventus
+1965-12-16,Prudentina,1,1,"Portuguesa
+Classificação Final
+
+
+
+
+PG"

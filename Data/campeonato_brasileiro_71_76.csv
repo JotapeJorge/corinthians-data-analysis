@@ -1,0 +1,411 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Série A,1976,1976-08-29,Mixto-MT,1,1,Goiás,E,1,1,1
+Série A,1976,1976-08-29,Remo,2,0,Ceará,VC,3,0,2
+Série A,1976,1976-08-29,Corinthians,2,1,Fortaleza,VC,3,0,3
+Série A,1976,1976-08-29,Coritiba,0,2,São Paulo,VV,0,3,4
+Série A,1976,1976-08-29,Sampaio Corrêa,0,0,Flamengo-PI,E,1,1,5
+Série A,1976,1976-08-29,Sport,1,0,ABC,VC,3,0,6
+Série A,1976,1976-08-29,Rio Negro-AM,0,3,Guarani,VV,0,3,7
+Série A,1976,1976-08-29,América-RN,0,0,Santa Cruz,E,1,1,8
+Série A,1976,1976-08-29,Treze,0,2,CRB,VV,0,3,9
+Série A,1976,1976-08-29,Fluminense-BA,0,0,CSA,E,1,1,10
+Série A,1976,1976-08-29,Confiança,2,1,Portuguesa,VC,3,0,11
+Série A,1976,1976-08-29,Londrina,0,3,Atlético-PR,VV,0,3,12
+Série A,1976,1976-08-29,América-MG,6,0,Goiânia,VC,3,0,13
+Série A,1976,1976-08-29,Botafogo-PB,1,0,Vitória,VC,3,0,14
+Série A,1976,1976-09-01,Uberaba,0,0,Atlético-PR,E,1,1,15
+Série A,1976,1976-09-01,Sampaio Corrêa,0,2,Santa Cruz,VV,0,3,16
+Série A,1976,1976-09-01,Flamengo,2,0,ABC,VC,3,0,17
+Série A,1976,1976-09-01,Londrina,0,0,São Paulo,E,1,1,18
+Série A,1976,1976-09-01,Internacional,6,0,Figueirense,VC,3,0,19
+Série A,1976,1976-09-01,Ponte Preta,1,1,Corinthians,E,1,1,20
+Série A,1976,1976-09-01,Rio Negro-AM,1,1,Ceará,E,1,1,21
+Série A,1976,1976-09-01,Fluminense,1,1,CSA,E,1,1,22
+Série A,1976,1976-09-01,Treze,0,2,Vitória,VV,0,3,23
+Série A,1976,1976-09-01,Botafogo-PB,0,0,Botafogo,E,1,1,24
+Série A,1976,1976-09-01,Fluminense-BA,0,2,Bahia,VV,0,3,25
+Série A,1976,1976-09-01,Americano,1,2,Goiás,VV,0,3,26
+Série A,1976,1976-09-01,Goiânia,1,1,Atlético-MG,E,1,1,27
+Série A,1976,1976-09-01,Mixto-MT,1,1,Operário-MS,E,1,1,28
+Série A,1976,1976-09-01,Remo,0,0,Guarani,E,1,1,29
+Série A,1976,1976-09-01,Volta Redonda,1,1,América-RN,E,1,1,30
+Série A,1976,1976-09-01,Náutico,3,0,Flamengo-PI,VC,3,0,31
+Série A,1976,1976-09-01,Vasco,1,0,América-MG,VC,3,0,32
+Série A,1976,1976-09-01,Santos,2,1,Caxias,VC,3,0,33
+Série A,1976,1976-09-01,Rio Branco-ES,1,4,Grêmio,VV,0,3,34
+Série A,1976,1976-09-02,Paysandu,3,0,Nacional-AM,VC,3,0,35
+Série A,1976,1976-09-04,Grêmio,1,0,Caxias,VC,3,0,36
+Série A,1976,1976-09-04,Desportiva Capixaba,0,1,Palmeiras,VV,0,3,37
+Série A,1976,1976-09-04,Vasco,1,0,Goiás,VC,3,0,38
+Série A,1976,1976-09-04,Figueirense,1,4,Santos,VV,0,3,39
+Série A,1976,1976-09-04,Vitória,3,1,CSA,VC,3,0,40
+Série A,1976,1976-09-04,Treze,2,4,Botafogo,VV,0,3,41
+Série A,1976,1976-09-04,Fortaleza,1,0,Remo,VC,3,0,42
+Série A,1976,1976-09-04,Ceará,0,0,Guarani,E,1,1,43
+Série A,1976,1976-09-04,Volta Redonda,0,0,ABC,E,1,1,44
+Série A,1976,1976-09-04,São Paulo,0,0,Portuguesa,E,1,1,45
+Série A,1976,1976-09-04,América-RN,1,0,Náutico,VC,3,0,46
+Série A,1976,1976-09-04,Flamengo-PI,2,3,Flamengo,VV,0,3,47
+Série A,1976,1976-09-04,Sport,1,0,Santa Cruz,VC,3,0,48
+Série A,1976,1976-09-04,Cruzeiro,0,0,Botafogo-SP,E,1,1,49
+Série A,1976,1976-09-05,Confiança,1,0,Londrina,VC,3,0,50
+Série A,1976,1976-09-05,Atlético-MG,1,0,América-MG,VC,3,0,51
+Série A,1976,1976-09-05,Operário-MS,1,1,America-RJ,E,1,1,52
+Série A,1976,1976-09-05,Americano,3,2,Mixto-MT,VC,3,0,53
+Série A,1976,1976-09-07,Botafogo-PB,2,0,Treze,VC,3,0,54
+Série A,1976,1976-09-07,CRB,2,1,CSA,VC,3,0,55
+Série A,1976,1976-09-07,Bahia,0,0,Vitória,E,1,1,56
+Série A,1976,1976-09-07,Botafogo,2,0,Fluminense,VC,3,0,57
+Série A,1976,1976-09-07,Remo,5,2,Paysandu,VC,3,0,58
+Série A,1976,1976-09-07,Ceará,0,1,Fortaleza,VV,0,3,59
+Série A,1976,1976-09-07,Nacional-AM,2,1,Rio Negro-AM,VC,3,0,60
+Série A,1976,1976-09-07,América-RN,3,1,ABC,VC,3,0,61
+Série A,1976,1976-09-07,Goiás,3,0,Goiânia,VC,3,0,62
+Série A,1976,1976-09-07,Uberaba,0,1,Botafogo-SP,VV,0,3,63
+Série A,1976,1976-09-07,Desportiva Capixaba,2,1,Rio Branco-ES,VC,3,0,64
+Série A,1976,1976-09-07,Internacional,3,1,Grêmio,VC,3,0,65
+Série A,1976,1976-09-07,Palmeiras,0,1,Santos,VV,0,3,66
+Série A,1976,1976-09-07,Sampaio Corrêa,2,3,Náutico,VV,0,3,67
+Série A,1976,1976-09-07,Santa Cruz,2,1,Flamengo,VC,3,0,68
+Série A,1976,1976-09-07,Cruzeiro,2,1,Portuguesa,VC,3,0,69
+Série A,1976,1976-09-08,Figueirense,1,0,Avaí,VC,3,0,70
+Série A,1976,1976-09-08,Volta Redonda,1,0,Sport,VC,3,0,71
+Série A,1976,1976-09-08,Americano,2,3,Vasco,VV,0,3,72
+Série A,1976,1976-09-08,Operário-MS,1,1,Atlético-MG,E,1,1,73
+Série A,1976,1976-09-08,Confiança,1,1,São Paulo,E,1,1,74
+Série A,1976,1976-09-08,Coritiba,2,1,Atlético-PR,VC,3,0,75
+Série A,1976,1976-09-08,America-RJ,1,0,Mixto-MT,VC,3,0,76
+Série A,1976,1976-09-11,Paysandu,1,5,Fortaleza,VV,0,3,77
+Série A,1976,1976-09-11,Palmeiras,4,0,Figueirense,VC,3,0,78
+Série A,1976,1976-09-11,Vitória,2,0,Fluminense-BA,VC,3,0,79
+Série A,1976,1976-09-11,America-RJ,2,1,Atlético-MG,VC,3,0,80
+Série A,1976,1976-09-12,Caxias,2,1,Internacional,VC,3,0,81
+Série A,1976,1976-09-12,ABC,1,1,Náutico,E,1,1,82
+Série A,1976,1976-09-12,Volta Redonda,5,1,Sampaio Corrêa,VC,3,0,83
+Série A,1976,1976-09-12,Desportiva Capixaba,0,3,Avaí,VV,0,3,84
+Série A,1976,1976-09-12,Mixto-MT,3,0,América-MG,VC,3,0,85
+Série A,1976,1976-09-12,Bahia,0,0,Fluminense,E,1,1,86
+Série A,1976,1976-09-12,Grêmio,0,0,Santos,E,1,1,87
+Série A,1976,1976-09-12,Goiânia,2,4,Vasco,VV,0,3,88
+Série A,1976,1976-09-12,Remo,2,0,Rio Negro-AM,VC,3,0,89
+Série A,1976,1976-09-12,Corinthians,0,1,Guarani,VV,0,3,90
+Série A,1976,1976-09-12,CRB,0,0,Botafogo-PB,E,1,1,91
+Série A,1976,1976-09-12,Uberaba,1,0,Portuguesa,VC,3,0,92
+Série A,1976,1976-09-12,Atlético-PR,1,1,Cruzeiro,E,1,1,93
+Série A,1976,1976-09-12,Botafogo-SP,2,0,São Paulo,VC,3,0,94
+Série A,1976,1976-09-12,Nacional-AM,1,0,Ponte Preta,VC,3,0,95
+Série A,1976,1976-09-15,Volta Redonda,0,0,Náutico,E,1,1,96
+Série A,1976,1976-09-15,Sport,0,0,América-RN,E,1,1,97
+Série A,1976,1976-09-15,São Paulo,0,2,Atlético-PR,VV,0,3,98
+Série A,1976,1976-09-15,Confiança,1,1,Coritiba,E,1,1,99
+Série A,1976,1976-09-15,Rio Branco-ES,0,0,Figueirense,E,1,1,100
+Série A,1976,1976-09-15,CRB,0,2,Vitória,VV,0,3,101
+Série A,1976,1976-09-15,Botafogo,0,0,Bahia,E,1,1,102
+Série A,1976,1976-09-15,Fluminense-BA,2,3,Fluminense,VV,0,3,103
+Série A,1976,1976-09-15,Nacional-AM,0,0,Fortaleza,E,1,1,104
+Série A,1976,1976-09-15,Paysandu,0,0,Ponte Preta,E,1,1,105
+Série A,1976,1976-09-15,Atlético-MG,2,1,Goiás,VC,3,0,106
+Série A,1976,1976-09-15,Santos,0,0,Avaí,E,1,1,107
+Série A,1976,1976-09-15,Caxias,0,0,Palmeiras,E,1,1,108
+Série A,1976,1976-09-15,Flamengo-PI,0,0,Santa Cruz,E,1,1,109
+Série A,1976,1976-09-15,Mixto-MT,1,0,Vasco,VC,3,0,110
+Série A,1976,1976-09-15,Americano,0,0,America-RJ,E,1,1,111
+Série A,1976,1976-09-16,Operário-MS,5,3,Goiânia,VC,3,0,112
+Série A,1976,1976-09-16,Flamengo,8,1,Sampaio Corrêa,VC,3,0,113
+Série A,1976,1976-09-16,Londrina,1,1,Cruzeiro,E,1,1,114
+Série A,1976,1976-09-16,Rio Negro-AM,1,2,Corinthians,VV,0,3,115
+Série A,1976,1976-09-18,São Paulo,4,0,Uberaba,VC,3,0,116
+Série A,1976,1976-09-18,Desportiva Capixaba,1,0,Figueirense,VC,3,0,117
+Série A,1976,1976-09-18,América-MG,0,1,Americano,VV,0,3,118
+Série A,1976,1976-09-18,Botafogo,2,1,CRB,VC,3,0,119
+Série A,1976,1976-09-18,Guarani,1,1,Fortaleza,E,1,1,120
+Série A,1976,1976-09-19,CSA,1,1,Bahia,E,1,1,121
+Série A,1976,1976-09-19,Fluminense-BA,0,1,Botafogo-PB,VV,0,3,122
+Série A,1976,1976-09-19,Mixto-MT,1,2,Goiânia,VV,0,3,123
+Série A,1976,1976-09-19,ABC,2,4,Santa Cruz,VV,0,3,124
+Série A,1976,1976-09-19,Flamengo-PI,2,2,Volta Redonda,E,1,1,125
+Série A,1976,1976-09-19,Sport,1,0,Náutico,VC,3,0,126
+Série A,1976,1976-09-19,Goiás,1,1,Operário-MS,E,1,1,127
+Série A,1976,1976-09-19,Treze,0,2,Fluminense,VV,0,3,128
+Série A,1976,1976-09-19,Vasco,0,2,America-RJ,VV,0,3,129
+Série A,1976,1976-09-19,Sampaio Corrêa,0,0,América-RN,E,1,1,130
+Série A,1976,1976-09-19,Rio Branco-ES,0,1,Santos,VV,0,3,131
+Série A,1976,1976-09-19,Nacional-AM,1,0,Remo,VC,3,0,132
+Série A,1976,1976-09-19,Ponte Preta,2,0,Ceará,VC,3,0,133
+Série A,1976,1976-09-19,Paysandu,0,0,Corinthians,E,1,1,134
+Série A,1976,1976-09-19,Atlético-PR,0,0,Portuguesa,E,1,1,135
+Série A,1976,1976-09-19,Cruzeiro,2,1,Coritiba,VC,3,0,136
+Série A,1976,1976-09-19,Londrina,1,0,Botafogo-SP,VC,3,0,137
+Série A,1976,1976-09-19,Avaí,0,4,Internacional,VV,0,3,138
+Série A,1976,1976-09-19,Palmeiras,0,0,Grêmio,E,1,1,139
+Série A,1976,1976-09-22,Rio Negro-AM,2,0,Paysandu,VC,3,0,140
+Série A,1976,1976-09-22,CSA,2,1,Botafogo,VC,3,0,141
+Série A,1976,1976-09-22,Bahia,3,0,Treze,VC,3,0,142
+Série A,1976,1976-09-22,Fluminense-BA,2,0,CRB,VC,3,0,143
+Série A,1976,1976-09-22,Flamengo-PI,0,0,ABC,E,1,1,144
+Série A,1976,1976-09-22,Palmeiras,1,0,Rio Branco-ES,VC,3,0,145
+Série A,1976,1976-09-22,Desportiva Capixaba,1,4,Internacional,VV,0,3,146
+Série A,1976,1976-09-22,América-MG,0,0,America-RJ,E,1,1,147
+Série A,1976,1976-09-22,Ceará,0,2,Corinthians,VV,0,3,148
+Série A,1976,1976-09-22,Guarani,1,1,Nacional-AM,E,1,1,149
+Série A,1976,1976-09-22,Atlético-PR,1,0,Confiança,VC,3,0,150
+Série A,1976,1976-09-22,Fluminense,3,0,Botafogo-PB,VC,3,0,151
+Série A,1976,1976-09-22,Operário-MS,0,0,Americano,E,1,1,152
+Série A,1976,1976-09-22,Caxias,1,0,Avaí,VC,3,0,153
+Série A,1976,1976-09-22,Sampaio Corrêa,0,3,Sport,VV,0,3,154
+Série A,1976,1976-09-22,Santa Cruz,2,0,Volta Redonda,VC,3,0,155
+Série A,1976,1976-09-22,América-RN,0,0,Flamengo,E,1,1,156
+Série A,1976,1976-09-23,Portuguesa,3,1,Botafogo-SP,VC,3,0,157
+Série A,1976,1976-09-23,Coritiba,1,0,Uberaba,VC,3,0,158
+Série A,1976,1976-09-23,Atlético-MG,3,1,Mixto-MT,VC,3,0,159
+Série A,1976,1976-09-23,Fortaleza,3,1,Ponte Preta,VC,3,0,160
+Série A,1976,1976-09-23,Figueirense,0,2,Grêmio,VV,0,3,161
+Série A,1976,1976-09-25,Avaí,2,1,Rio Branco-ES,VC,3,0,162
+Série A,1976,1976-09-25,Botafogo,4,1,Fluminense-BA,VC,3,0,163
+Série A,1976,1976-09-25,Botafogo-SP,3,0,Confiança,VC,3,0,164
+Série A,1976,1976-09-25,Goiânia,0,0,Americano,E,1,1,165
+Série A,1976,1976-09-25,Ceará,0,1,Paysandu,VV,0,3,166
+Série A,1976,1976-09-25,Corinthians,2,0,Nacional-AM,VC,3,0,167
+Série A,1976,1976-09-26,Coritiba,1,0,Londrina,VC,3,0,168
+Série A,1976,1976-09-26,Goiás,1,0,America-RJ,VC,3,0,169
+Série A,1976,1976-09-26,Operário-MS,1,1,América-MG,E,1,1,170
+Série A,1976,1976-09-26,Grêmio,3,1,Desportiva Capixaba,VC,3,0,171
+Série A,1976,1976-09-26,Santos,1,3,Internacional,VV,0,3,172
+Série A,1976,1976-09-26,Figueirense,1,0,Caxias,VC,3,0,173
+Série A,1976,1976-09-26,Atlético-MG,3,0,Vasco,VC,3,0,174
+Série A,1976,1976-09-26,Ponte Preta,1,1,Remo,E,1,1,175
+Série A,1976,1976-09-26,Fortaleza,0,0,Rio Negro-AM,E,1,1,176
+Série A,1976,1976-09-26,Flamengo-PI,1,2,Sport,VV,0,3,177
+Série A,1976,1976-09-26,Uberaba,1,1,Cruzeiro,E,1,1,178
+Série A,1976,1976-09-26,CSA,3,2,Treze,VC,3,0,179
+Série A,1976,1976-09-26,Bahia,3,0,CRB,VC,3,0,180
+Série A,1976,1976-09-26,Fluminense,0,1,Vitória,VV,0,3,181
+Série A,1976,1976-09-26,ABC,1,1,Sampaio Corrêa,E,1,1,182
+Série A,1976,1976-09-26,Náutico,0,3,Flamengo,VV,0,3,183
+Série A,1976,1976-09-29,Corinthians,3,0,Remo,VC,3,0,184
+Série A,1976,1976-09-29,Cruzeiro,2,0,Confiança,VC,3,0,185
+Série A,1976,1976-09-29,Uberaba,1,2,Londrina,VV,0,3,186
+Série A,1976,1976-09-29,Portuguesa,0,2,Coritiba,VV,0,3,187
+Série A,1976,1976-09-29,Internacional,3,0,Rio Branco-ES,VC,3,0,188
+Série A,1976,1976-09-29,Avaí,0,1,Palmeiras,VV,0,3,189
+Série A,1976,1976-09-29,Caxias,2,0,Desportiva Capixaba,VC,3,0,190
+Série A,1976,1976-09-29,Vitória,1,1,Botafogo,E,1,1,191
+Série A,1976,1976-09-29,Americano,1,3,Atlético-MG,VV,0,3,192
+Série A,1976,1976-09-29,Goiás,2,1,América-MG,VC,3,0,193
+Série A,1976,1976-09-29,Vasco,0,1,Operário-MS,VV,0,3,194
+Série A,1976,1976-09-29,America-RJ,3,1,Goiânia,VC,3,0,195
+Série A,1976,1976-09-29,Ponte Preta,1,1,Rio Negro-AM,E,1,1,196
+Série A,1976,1976-09-29,Botafogo-SP,1,0,Atlético-PR,VC,3,0,197
+Série A,1976,1976-09-29,Treze,2,1,Fluminense-BA,VC,3,0,198
+Série A,1976,1976-09-29,Botafogo-PB,1,1,CSA,E,1,1,199
+Série A,1976,1976-09-29,CRB,0,4,Fluminense,VV,0,3,200
+Série A,1976,1976-09-29,Santa Cruz,2,1,Náutico,VC,3,0,201
+Série A,1976,1976-09-30,Flamengo,4,0,Volta Redonda,VC,3,0,202
+Série A,1976,1976-09-30,América-RN,1,2,Flamengo-PI,VV,0,3,203
+Série A,1976,1976-09-30,Ceará,1,1,Nacional-AM,E,1,1,204
+Série A,1976,1976-09-30,Botafogo-PB,1,2,Bahia,VV,0,3,205
+Série A,1976,1976-09-30,Guarani,2,0,Paysandu,VC,3,0,206
+Série A,1976,1976-10-02,Portuguesa,1,1,Londrina,E,1,1,207
+Série A,1976,1976-10-02,Rio Branco-ES,0,2,Caxias,VV,0,3,208
+Série A,1976,1976-10-03,Santos,0,0,Desportiva Capixaba,E,1,1,209
+Série A,1976,1976-10-03,Avaí,0,3,Grêmio,VV,0,3,210
+Série A,1976,1976-10-03,Internacional,1,0,Palmeiras,VC,3,0,211
+Série A,1976,1976-10-03,Botafogo-SP,1,1,Coritiba,E,1,1,212
+Série A,1976,1976-10-03,São Paulo,1,0,Cruzeiro,VC,3,0,213
+Série A,1976,1976-10-03,Confiança,1,1,Uberaba,E,1,1,214
+Série A,1976,1976-10-03,Guarani,0,0,Ponte Preta,E,1,1,215
+Série A,1976,1976-10-09,Ponte Preta,3,0,Paysandu,VC,3,0,216
+Série A,1976,1976-10-09,America-RJ,1,1,São Paulo,E,1,1,217
+Série A,1976,1976-10-09,Portuguesa,1,0,Uberaba,VC,3,0,218
+Série A,1976,1976-10-09,Bahia,3,0,Santa Cruz,VC,3,0,219
+Série A,1976,1976-10-10,América-RN,1,3,Botafogo-SP,VV,0,3,220
+Série A,1976,1976-10-10,Náutico,2,1,ABC,VC,3,0,221
+Série A,1976,1976-10-10,Fluminense-BA,1,0,Treze,VC,3,0,222
+Série A,1976,1976-10-10,CSA,3,5,Botafogo-PB,VV,0,3,223
+Série A,1976,1976-10-10,Fluminense,1,1,Internacional,E,1,1,224
+Série A,1976,1976-10-10,Vitória,0,3,Flamengo,VV,0,3,225
+Série A,1976,1976-10-10,Guarani,0,1,Palmeiras,VV,0,3,226
+Série A,1976,1976-10-10,Grêmio,3,0,Corinthians,VC,3,0,227
+Série A,1976,1976-10-10,Coritiba,1,0,Sport,VC,3,0,228
+Série A,1976,1976-10-10,Volta Redonda,0,0,Flamengo-PI,E,1,1,229
+Série A,1976,1976-10-10,Operário-MS,2,0,Botafogo,VC,3,0,230
+Série A,1976,1976-10-10,Fortaleza,1,1,Goiás,E,1,1,231
+Série A,1976,1976-10-10,Goiânia,4,0,América-MG,VC,3,0,232
+Série A,1976,1976-10-10,Mixto-MT,4,1,Americano,VC,3,0,233
+Série A,1976,1976-10-10,Santos,2,1,Atlético-PR,VC,3,0,234
+Série A,1976,1976-10-10,Figueirense,3,1,Desportiva Capixaba,VC,3,0,235
+Série A,1976,1976-10-10,Nacional-AM,1,1,Ceará,E,1,1,236
+Série A,1976,1976-10-10,Caxias,0,0,Rio Branco-ES,E,1,1,237
+Série A,1976,1976-10-13,Londrina,1,2,Uberaba,VV,0,3,238
+Série A,1976,1976-10-13,América-MG,1,3,Mixto-MT,VV,0,3,239
+Série A,1976,1976-10-13,Desportiva Capixaba,0,0,Caxias,E,1,1,240
+Série A,1976,1976-10-13,Ponte Preta,5,0,Nacional-AM,VC,3,0,241
+Série A,1976,1976-10-13,CRB,1,1,Fluminense-BA,E,1,1,242
+Série A,1976,1976-10-13,Bahia,1,0,Atlético-PR,VC,3,0,243
+Série A,1976,1976-10-13,Santa Cruz,2,2,Atlético-MG,E,1,1,244
+Série A,1976,1976-10-13,Portuguesa,4,0,Confiança,VC,3,0,245
+Série A,1976,1976-10-13,America-RJ,3,0,Vitória,VC,3,0,246
+Série A,1976,1976-10-13,Remo,1,2,Santos,VV,0,3,247
+Série A,1976,1976-10-13,Corinthians,1,0,Coritiba,VC,3,0,248
+Série A,1976,1976-10-13,Sampaio Corrêa,2,0,ABC,VC,3,0,249
+Série A,1976,1976-10-13,Grêmio,1,0,Operário-MS,VC,3,0,250
+Série A,1976,1976-10-13,Botafogo,1,0,Sport,VC,3,0,251
+Série A,1976,1976-10-13,América-RN,2,1,Fluminense,VC,3,0,252
+Série A,1976,1976-10-13,Treze,1,0,CSA,VC,3,0,253
+Série A,1976,1976-10-13,Goiás,0,3,Internacional,VV,0,3,254
+Série A,1976,1976-10-13,Fortaleza,1,1,Botafogo-SP,E,1,1,255
+Série A,1976,1976-10-14,São Paulo,0,1,Guarani,VV,0,3,256
+Série A,1976,1976-10-14,Rio Branco-ES,0,0,Avaí,E,1,1,257
+Série A,1976,1976-10-14,Vasco,2,2,Goiânia,E,1,1,258
+Série A,1976,1976-10-14,Náutico,0,0,Volta Redonda,E,1,1,259
+Série A,1976,1976-10-14,Flamengo,0,2,Palmeiras,VV,0,3,260
+Série A,1976,1976-10-14,Paysandu,2,0,Rio Negro-AM,VC,3,0,261
+Série A,1976,1976-10-16,Fluminense,3,1,Fortaleza,VC,3,0,262
+Série A,1976,1976-10-16,Sport,0,2,Operário-MS,VV,0,3,263
+Série A,1976,1976-10-16,Corinthians,1,2,Botafogo,VV,0,3,264
+Série A,1976,1976-10-16,Santos,0,0,Bahia,E,1,1,265
+Série A,1976,1976-10-16,Cruzeiro,1,0,Uberaba,VC,3,0,266
+Série A,1976,1976-10-17,Internacional,2,0,América-RN,VC,3,0,267
+Série A,1976,1976-10-17,CRB,1,0,CSA,VC,3,0,268
+Série A,1976,1976-10-17,Avaí,1,0,Figueirense,VC,3,0,269
+Série A,1976,1976-10-17,Botafogo-SP,4,0,Goiás,VC,3,0,270
+Série A,1976,1976-10-17,Rio Negro-AM,1,0,Nacional-AM,VC,3,0,271
+Série A,1976,1976-10-17,Londrina,1,2,Confiança,VV,0,3,272
+Série A,1976,1976-10-17,Rio Branco-ES,1,0,Desportiva Capixaba,VC,3,0,273
+Série A,1976,1976-10-17,Ceará,2,1,Ponte Preta,VC,3,0,274
+Série A,1976,1976-10-17,Vitória,0,4,Guarani,VV,0,3,275
+Série A,1976,1976-10-17,Flamengo-PI,2,0,Sampaio Corrêa,VC,3,0,276
+Série A,1976,1976-10-17,ABC,0,1,Volta Redonda,VV,0,3,277
+Série A,1976,1976-10-17,Flamengo,1,0,America-RJ,VC,3,0,278
+Série A,1976,1976-10-17,São Paulo,1,2,Palmeiras,VV,0,3,279
+Série A,1976,1976-10-17,Vasco,3,1,Americano,VC,3,0,280
+Série A,1976,1976-10-17,Goiânia,0,1,Mixto-MT,VV,0,3,281
+Série A,1976,1976-10-17,Coritiba,1,1,Grêmio,E,1,1,282
+Série A,1976,1976-10-17,Santa Cruz,2,1,Remo,VC,3,0,283
+Série A,1976,1976-10-17,Atlético-MG,5,0,Atlético-PR,VC,3,0,284
+Série A,1976,1976-10-17,Treze,2,1,Botafogo-PB,VC,3,0,285
+Série A,1976,1976-10-20,Sampaio Corrêa,3,1,Volta Redonda,VC,3,0,286
+Série A,1976,1976-10-20,Paysandu,1,0,Ceará,VC,3,0,287
+Série A,1976,1976-10-20,CRB,2,0,Treze,VC,3,0,288
+Série A,1976,1976-10-20,Botafogo-PB,2,1,Fluminense-BA,VC,3,0,289
+Série A,1976,1976-10-20,Rio Negro-AM,1,1,Ponte Preta,E,1,1,290
+Série A,1976,1976-10-20,Flamengo-PI,0,0,Náutico,E,1,1,291
+Série A,1976,1976-10-20,Flamengo,4,0,Guarani,VC,3,0,292
+Série A,1976,1976-10-20,Internacional,2,0,Fortaleza,VC,3,0,293
+Série A,1976,1976-10-20,Vitória,2,4,São Paulo,VV,0,3,294
+Série A,1976,1976-10-20,Atlético-PR,1,1,Remo,E,1,1,295
+Série A,1976,1976-10-20,Botafogo-SP,1,1,Fluminense,E,1,1,296
+Série A,1976,1976-10-20,Figueirense,0,1,Rio Branco-ES,VV,0,3,297
+Série A,1976,1976-10-20,Corinthians,3,1,Operário-MS,VC,3,0,298
+Série A,1976,1976-10-20,Atlético-MG,2,1,Bahia,VC,3,0,299
+Série A,1976,1976-10-20,Uberaba,1,0,Confiança,VC,3,0,300
+Série A,1976,1976-10-20,Santa Cruz,2,0,Santos,VC,3,0,301
+Série A,1976,1976-10-20,Goiás,0,0,América-RN,E,1,1,302
+Série A,1976,1976-10-21,Avaí,0,0,Caxias,E,1,1,303
+Série A,1976,1976-10-21,América-MG,2,3,Vasco,VV,0,3,304
+Série A,1976,1976-10-21,Botafogo,0,2,Coritiba,VV,0,3,305
+Série A,1976,1976-10-21,Grêmio,1,0,Sport,VC,3,0,306
+Série A,1976,1976-10-21,Americano,5,0,Goiânia,VC,3,0,307
+Série A,1976,1976-10-21,Portuguesa,1,1,Cruzeiro,E,1,1,308
+Série A,1976,1976-10-21,Palmeiras,0,0,America-RJ,E,1,1,309
+Série A,1976,1976-10-23,Fluminense,1,1,Goiás,E,1,1,310
+Série A,1976,1976-10-23,Nacional-AM,2,2,Paysandu,E,1,1,311
+Série A,1976,1976-10-23,Ceará,0,0,Rio Negro-AM,E,1,1,312
+Série A,1976,1976-10-23,Náutico,4,0,Sampaio Corrêa,VC,3,0,313
+Série A,1976,1976-10-23,ABC,5,1,Flamengo-PI,VC,3,0,314
+Série A,1976,1976-10-24,Botafogo-PB,2,2,CRB,E,1,1,315
+Série A,1976,1976-10-24,Fortaleza,2,1,América-RN,VC,3,0,316
+Série A,1976,1976-10-24,Internacional,3,0,Botafogo-SP,VC,3,0,317
+Série A,1976,1976-10-24,CSA,1,1,Fluminense-BA,E,1,1,318
+Série A,1976,1976-10-24,Sport,0,1,Corinthians,VV,0,3,319
+Série A,1976,1976-10-24,Confiança,0,3,Cruzeiro,VV,0,3,320
+Série A,1976,1976-10-24,Operário-MS,0,1,Coritiba,VV,0,3,321
+Série A,1976,1976-10-24,Vasco,1,0,Mixto-MT,VC,3,0,322
+Série A,1976,1976-10-24,Americano,0,1,América-MG,VV,0,3,323
+Série A,1976,1976-10-24,Bahia,3,1,Remo,VC,3,0,324
+Série A,1976,1976-10-24,Atlético-PR,1,0,Santa Cruz,VC,3,0,325
+Série A,1976,1976-10-24,Atlético-MG,1,1,Santos,E,1,1,326
+Série A,1976,1976-10-24,Guarani,6,1,America-RJ,VC,3,0,327
+Série A,1976,1976-10-24,Londrina,1,3,Portuguesa,VV,0,3,328
+Série A,1976,1976-10-24,Palmeiras,2,0,Vitória,VC,3,0,329
+Série A,1976,1976-10-24,São Paulo,1,2,Flamengo,VV,0,3,330
+Série A,1976,1976-10-24,Caxias,5,1,Figueirense,VC,3,0,331
+Série A,1976,1976-10-24,Botafogo,0,1,Grêmio,VV,0,3,332
+Série A,1976,1976-10-24,Avaí,1,0,Desportiva Capixaba,VC,3,0,333
+Série A,1976,1976-10-27,Remo,1,1,Atlético-MG,E,1,1,334
+Série A,1976,1976-10-27,Cruzeiro,1,0,Londrina,VC,3,0,335
+Série A,1976,1976-10-30,Coritiba,1,0,Internacional,VC,3,0,336
+Série A,1976,1976-10-30,Vasco,1,0,CRB,VC,3,0,337
+Série A,1976,1976-10-30,Ponte Preta,1,0,Botafogo-SP,VC,3,0,338
+Série A,1976,1976-10-30,Bahia,1,1,Náutico,E,1,1,339
+Série A,1976,1976-10-31,Corinthians,0,0,Portuguesa,E,1,1,340
+Série A,1976,1976-10-31,Santa Cruz,3,3,Palmeiras,E,1,1,341
+Série A,1976,1976-10-31,Flamengo,2,1,Atlético-MG,VC,3,0,342
+Série A,1976,1976-10-31,Grêmio,1,2,Fluminense,VV,0,3,343
+Série A,1976,1976-11-03,Náutico,1,1,Vasco,E,1,1,344
+Série A,1976,1976-11-03,Fluminense,1,0,CRB,VC,3,0,345
+Série A,1976,1976-11-03,Guarani,1,1,Flamengo,E,1,1,346
+Série A,1976,1976-11-03,Bahia,0,2,Atlético-MG,VV,0,3,347
+Série A,1976,1976-11-03,Caxias,1,2,Santa Cruz,VV,0,3,348
+Série A,1976,1976-11-03,Palmeiras,2,1,Portuguesa,VC,3,0,349
+Série A,1976,1976-11-03,Coritiba,1,0,Corinthians,VC,3,0,350
+Série A,1976,1976-11-03,Botafogo-SP,1,4,Internacional,VV,0,3,351
+Série A,1976,1976-11-06,Vasco,0,1,Bahia,VV,0,3,352
+Série A,1976,1976-11-07,Atlético-MG,4,1,CRB,VC,3,0,353
+Série A,1976,1976-11-07,Internacional,5,1,Santa Cruz,VC,3,0,354
+Série A,1976,1976-11-07,Botafogo-SP,1,0,Caxias,VC,3,0,355
+Série A,1976,1976-11-07,Grêmio,1,1,Guarani,E,1,1,356
+Série A,1976,1976-11-07,Fluminense,1,0,Flamengo,VC,3,0,357
+Série A,1976,1976-11-07,Ponte Preta,1,0,Coritiba,VC,3,0,358
+Série A,1976,1976-11-07,Palmeiras,0,0,Corinthians,E,1,1,359
+Série A,1976,1976-11-10,Fluminense,4,2,Guarani,VC,3,0,360
+Série A,1976,1976-11-10,Santa Cruz,2,4,Coritiba,VV,0,3,361
+Série A,1976,1976-11-10,CRB,0,2,Flamengo,VV,0,3,362
+Série A,1976,1976-11-10,Bahia,2,1,Grêmio,VC,3,0,363
+Série A,1976,1976-11-10,Portuguesa,0,1,Ponte Preta,VV,0,3,364
+Série A,1976,1976-11-10,Internacional,2,0,Caxias,VC,3,0,365
+Série A,1976,1976-11-10,Atlético-MG,2,0,Náutico,VC,3,0,366
+Série A,1976,1976-11-11,Corinthians,2,1,Botafogo-SP,VC,3,0,367
+Série A,1976,1976-11-14,CRB,2,0,Guarani,VC,3,0,368
+Série A,1976,1976-11-14,Bahia,2,2,Flamengo,E,1,1,369
+Série A,1976,1976-11-14,Náutico,0,3,Grêmio,VV,0,3,370
+Série A,1976,1976-11-14,Fluminense,3,0,Vasco,VC,3,0,371
+Série A,1976,1976-11-14,Palmeiras,1,2,Internacional,VV,0,3,372
+Série A,1976,1976-11-14,Caxias,1,4,Corinthians,VV,0,3,373
+Série A,1976,1976-11-14,Botafogo-SP,3,0,Portuguesa,VC,3,0,374
+Série A,1976,1976-11-14,Ponte Preta,2,0,Santa Cruz,VC,3,0,375
+Série A,1976,1976-11-17,Botafogo-SP,0,3,Palmeiras,VV,0,3,376
+Série A,1976,1976-11-17,Caxias,3,0,Coritiba,VC,3,0,377
+Série A,1976,1976-11-17,Portuguesa,2,2,Santa Cruz,E,1,1,378
+Série A,1976,1976-11-17,Guarani,1,0,Atlético-MG,VC,3,0,379
+Série A,1976,1976-11-17,CRB,2,2,Bahia,E,1,1,380
+Série A,1976,1976-11-17,Náutico,3,1,Fluminense,VC,3,0,381
+Série A,1976,1976-11-17,Grêmio,1,3,Vasco,VV,0,3,382
+Série A,1976,1976-11-18,Corinthians,2,0,Ponte Preta,VC,3,0,383
+Série A,1976,1976-11-20,Portuguesa,3,4,Caxias,VV,0,3,384
+Série A,1976,1976-11-21,Corinthians,2,1,Internacional,VC,3,0,385
+Série A,1976,1976-11-21,Coritiba,0,1,Botafogo-SP,VV,0,3,386
+Série A,1976,1976-11-21,Náutico,0,1,Guarani,VV,0,3,387
+Série A,1976,1976-11-21,Atlético-MG,0,0,Fluminense,E,1,1,388
+Série A,1976,1976-11-21,Grêmio,2,1,CRB,VC,3,0,389
+Série A,1976,1976-11-21,Vasco,1,0,Flamengo,VC,3,0,390
+Série A,1976,1976-11-21,Ponte Preta,2,1,Palmeiras,VC,3,0,391
+Série A,1976,1976-11-24,CRB,1,3,Náutico,VV,0,3,392
+Série A,1976,1976-11-24,Palmeiras,0,0,Caxias,E,1,1,393
+Série A,1976,1976-11-24,Flamengo,5,1,Grêmio,VC,3,0,394
+Série A,1976,1976-11-24,Santa Cruz,3,1,Botafogo-SP,VC,3,0,395
+Série A,1976,1976-11-24,Internacional,2,0,Ponte Preta,VC,3,0,396
+Série A,1976,1976-11-24,Coritiba,2,1,Portuguesa,VC,3,0,397
+Série A,1976,1976-11-24,Guarani,3,0,Bahia,VC,3,0,398
+Série A,1976,1976-11-25,Vasco,0,4,Atlético-MG,VV,0,3,399
+Série A,1976,1976-11-27,Flamengo,2,0,Náutico,VC,3,0,400
+Série A,1976,1976-11-27,Palmeiras,0,0,Coritiba,E,1,1,401
+Série A,1976,1976-11-28,Santa Cruz,1,2,Corinthians,VV,0,3,402
+Série A,1976,1976-11-28,Caxias,1,0,Ponte Preta,VC,3,0,403
+Série A,1976,1976-11-28,Internacional,3,0,Portuguesa,VC,3,0,404
+Série A,1976,1976-11-28,Guarani,2,3,Vasco,VV,0,3,405
+Série A,1976,1976-11-28,Fluminense,1,0,Bahia,VC,3,0,406
+Série A,1976,1976-11-28,Atlético-MG,0,0,Grêmio,E,1,1,407
+Série A,1976,1976-12-05,Fluminense,1,1,Corinthians,E,1,1,408
+Série A,1976,1976-12-05,Internacional,2,1,Atlético-MG,VC,3,0,409
+Série A,1976,1976-12-12,Internacional,2,0,Corinthians,VC,3,0,410

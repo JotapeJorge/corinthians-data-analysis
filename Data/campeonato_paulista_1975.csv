@@ -1,0 +1,279 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1975,1975-03-01,Palmeiras,3,0,Portuguesa Santista,VC,3,0,1
+Paulista,1975,1975-03-02,Botafogo (SP),1,1,Ponte Preta,E,1,1,2
+Paulista,1975,1975-03-02,Guarani,3,0,Saad,VC,3,0,3
+Paulista,1975,1975-03-02,América (SP),1,0,Comercial (SP),VC,3,0,4
+Paulista,1975,1975-03-02,São Paulo,4,0,Paulista,VC,3,0,5
+Paulista,1975,1975-03-02,Corinthians,1,1,XV de Piracicaba,E,1,1,6
+Paulista,1975,1975-03-02,Portuguesa,1,0,Ferroviária (SP),VC,3,0,7
+Paulista,1975,1975-03-02,Juventus (SP),1,1,São Bento,E,1,1,8
+Paulista,1975,1975-03-02,Santos,1,2,Marília,VV,0,3,9
+Paulista,1975,1975-03-05,Guarani,4,1,XV de Piracicaba,VC,3,0,10
+Paulista,1975,1975-03-05,São Bento,2,2,Ponte Preta,E,1,1,11
+Paulista,1975,1975-03-05,Comercial (SP),0,2,São Paulo,VV,0,3,12
+Paulista,1975,1975-03-05,Noroeste,2,0,América (SP),VC,3,0,13
+Paulista,1975,1975-03-08,São Paulo,4,0,Ferroviária (SP),VC,3,0,14
+Paulista,1975,1975-03-09,Marília,1,1,Corinthians,E,1,1,15
+Paulista,1975,1975-03-09,XV de Piracicaba,2,3,Botafogo (SP),VV,0,3,16
+Paulista,1975,1975-03-09,Ponte Preta,2,0,América (SP),VC,3,0,17
+Paulista,1975,1975-03-09,Saad,1,1,Noroeste,E,1,1,18
+Paulista,1975,1975-03-09,Portuguesa Santista,0,2,Santos,VV,0,3,19
+Paulista,1975,1975-03-09,Paulista,0,1,Portuguesa,VV,0,3,20
+Paulista,1975,1975-03-09,Juventus (SP),1,1,Palmeiras,E,1,1,21
+Paulista,1975,1975-03-09,Comercial (SP),0,1,São Bento,VV,0,3,22
+Paulista,1975,1975-03-12,Ferroviária (SP),2,1,Comercial (SP),VC,3,0,23
+Paulista,1975,1975-03-12,XV de Piracicaba,1,0,Juventus (SP),VC,3,0,24
+Paulista,1975,1975-03-12,Corinthians,4,1,Saad,VC,3,0,25
+Paulista,1975,1975-03-12,Portuguesa Santista,3,0,Marília,VC,3,0,26
+Paulista,1975,1975-03-12,América (SP),2,1,Santos,VC,3,0,27
+Paulista,1975,1975-03-15,Juventus (SP),1,0,América (SP),VC,3,0,28
+Paulista,1975,1975-03-15,Saad,3,2,Santos,VC,3,0,29
+Paulista,1975,1975-03-16,Paulista,0,0,Corinthians,E,1,1,30
+Paulista,1975,1975-03-16,XV de Piracicaba,1,0,Portuguesa,VC,3,0,31
+Paulista,1975,1975-03-16,Marília,3,3,São Bento,E,1,1,32
+Paulista,1975,1975-03-16,Ponte Preta,2,0,Ferroviária (SP),VC,3,0,33
+Paulista,1975,1975-03-16,Comercial (SP),5,2,Portuguesa Santista,VC,3,0,34
+Paulista,1975,1975-03-16,São Paulo,0,0,Guarani,E,1,1,35
+Paulista,1975,1975-03-16,Noroeste,1,1,Botafogo (SP),E,1,1,36
+Paulista,1975,1975-03-19,Portuguesa Santista,1,1,Ponte Preta,E,1,1,37
+Paulista,1975,1975-03-19,São Paulo,2,1,Marília,VC,3,0,38
+Paulista,1975,1975-03-19,Comercial (SP),1,1,Saad,E,1,1,39
+Paulista,1975,1975-03-19,Noroeste,0,1,Corinthians,VV,0,3,40
+Paulista,1975,1975-03-20,Palmeiras,1,0,XV de Piracicaba,VC,3,0,41
+Paulista,1975,1975-03-20,Botafogo (SP),1,0,Juventus (SP),VC,3,0,42
+Paulista,1975,1975-03-22,Corinthians,2,1,Comercial (SP),VC,3,0,43
+Paulista,1975,1975-03-23,Botafogo (SP),1,2,Palmeiras,VV,0,3,44
+Paulista,1975,1975-03-23,Juventus (SP),2,0,Portuguesa Santista,VC,3,0,45
+Paulista,1975,1975-03-23,Portuguesa,3,1,Santos,VC,3,0,46
+Paulista,1975,1975-03-23,Ponte Preta,0,1,Guarani,VV,0,3,47
+Paulista,1975,1975-03-23,Noroeste,0,0,Ferroviária (SP),E,1,1,48
+Paulista,1975,1975-03-23,América (SP),0,1,São Paulo,VV,0,3,49
+Paulista,1975,1975-03-23,Saad,2,0,XV de Piracicaba,VC,3,0,50
+Paulista,1975,1975-03-26,Guarani,2,2,Paulista,E,1,1,51
+Paulista,1975,1975-03-26,Santos,2,1,Juventus (SP),VC,3,0,52
+Paulista,1975,1975-03-26,Portuguesa,1,0,Noroeste,VC,3,0,53
+Paulista,1975,1975-03-27,Palmeiras,1,2,Saad,VV,0,3,54
+Paulista,1975,1975-03-29,Portuguesa,2,1,Juventus (SP),VC,3,0,55
+Paulista,1975,1975-03-29,Corinthians,0,2,São Paulo,VV,0,3,56
+Paulista,1975,1975-03-29,Portuguesa Santista,0,0,Noroeste,E,1,1,57
+Paulista,1975,1975-03-29,Ferroviária (SP),1,1,América (SP),E,1,1,58
+Paulista,1975,1975-03-29,XV de Piracicaba,1,2,Marília,VV,0,3,59
+Paulista,1975,1975-03-29,Comercial (SP),1,3,Santos,VV,0,3,60
+Paulista,1975,1975-03-30,Saad,3,0,Ponte Preta,VC,3,0,61
+Paulista,1975,1975-03-30,Guarani,5,0,São Bento,VC,3,0,62
+Paulista,1975,1975-03-30,Paulista,0,3,Palmeiras,VV,0,3,63
+Paulista,1975,1975-04-02,Noroeste,1,1,Paulista,E,1,1,64
+Paulista,1975,1975-04-02,Portuguesa,1,0,Saad,VC,3,0,65
+Paulista,1975,1975-04-05,São Paulo,1,0,XV de Piracicaba,VC,3,0,66
+Paulista,1975,1975-04-06,Ferroviária (SP),0,3,Corinthians,VV,0,3,67
+Paulista,1975,1975-04-06,Noroeste,0,0,Guarani,E,1,1,68
+Paulista,1975,1975-04-06,Marília,4,2,América (SP),VC,3,0,69
+Paulista,1975,1975-04-06,Botafogo (SP),1,1,Comercial (SP),E,1,1,70
+Paulista,1975,1975-04-06,São Bento,0,0,Portuguesa Santista,E,1,1,71
+Paulista,1975,1975-04-06,Ponte Preta,0,0,Juventus (SP),E,1,1,72
+Paulista,1975,1975-04-06,Paulista,2,1,Saad,VC,3,0,73
+Paulista,1975,1975-04-06,Palmeiras,0,2,Santos,VV,0,3,74
+Paulista,1975,1975-04-09,Palmeiras,3,1,América (SP),VC,3,0,75
+Paulista,1975,1975-04-09,Santos,2,0,Paulista,VC,3,0,76
+Paulista,1975,1975-04-09,Guarani,2,0,Botafogo (SP),VC,3,0,77
+Paulista,1975,1975-04-12,Juventus (SP),2,0,Comercial (SP),VC,3,0,78
+Paulista,1975,1975-04-13,Portuguesa Santista,0,0,Saad,E,1,1,79
+Paulista,1975,1975-04-13,Botafogo (SP),2,3,Corinthians,VV,0,3,80
+Paulista,1975,1975-04-13,América (SP),1,3,Guarani,VV,0,3,81
+Paulista,1975,1975-04-13,Paulista,0,1,Marília,VV,0,3,82
+Paulista,1975,1975-04-13,Ponte Preta,0,1,Santos,VV,0,3,83
+Paulista,1975,1975-04-13,Ferroviária (SP),0,0,Palmeiras,E,1,1,84
+Paulista,1975,1975-04-13,Portuguesa,0,0,São Paulo,E,1,1,85
+Paulista,1975,1975-04-13,XV de Piracicaba,1,0,Noroeste,VC,3,0,86
+Paulista,1975,1975-04-16,XV de Piracicaba,1,0,Ferroviária (SP),VC,3,0,87
+Paulista,1975,1975-04-16,América (SP),2,0,Portuguesa,VC,3,0,88
+Paulista,1975,1975-04-16,Comercial (SP),4,1,Guarani,VC,3,0,89
+Paulista,1975,1975-04-16,São Bento,0,3,Palmeiras,VV,0,3,90
+Paulista,1975,1975-04-16,Portuguesa Santista,0,1,São Paulo,VV,0,3,91
+Paulista,1975,1975-04-19,Palmeiras,2,0,Comercial (SP),VC,3,0,92
+Paulista,1975,1975-04-20,Saad,2,4,Marília,VV,0,3,93
+Paulista,1975,1975-04-20,Santos,0,0,Corinthians,E,1,1,94
+Paulista,1975,1975-04-20,Portuguesa Santista,3,1,XV de Piracicaba,VC,3,0,95
+Paulista,1975,1975-04-20,Ponte Preta,1,2,São Paulo,VV,0,3,96
+Paulista,1975,1975-04-20,Botafogo (SP),1,0,América (SP),VC,3,0,97
+Paulista,1975,1975-04-20,Ferroviária (SP),0,0,São Bento,E,1,1,98
+Paulista,1975,1975-04-20,Paulista,1,0,Juventus (SP),VC,3,0,99
+Paulista,1975,1975-04-21,Guarani,2,2,Portuguesa,E,1,1,100
+Paulista,1975,1975-04-23,Ferroviária (SP),1,2,Marília,VV,0,3,101
+Paulista,1975,1975-04-23,América (SP),3,2,Portuguesa Santista,VC,3,0,102
+Paulista,1975,1975-04-23,XV de Piracicaba,2,1,Santos,VC,3,0,103
+Paulista,1975,1975-04-23,Corinthians,2,1,Ponte Preta,VC,3,0,104
+Paulista,1975,1975-04-23,São Bento,1,2,Paulista,VV,0,3,105
+Paulista,1975,1975-04-23,Botafogo (SP),0,1,São Paulo,VV,0,3,106
+Paulista,1975,1975-04-26,São Paulo,3,2,Juventus (SP),VC,3,0,107
+Paulista,1975,1975-04-26,Portuguesa Santista,6,3,Botafogo (SP),VC,3,0,108
+Paulista,1975,1975-04-26,XV de Piracicaba,0,2,Ponte Preta,VV,0,3,109
+Paulista,1975,1975-04-27,Palmeiras,1,0,Portuguesa,VC,3,0,110
+Paulista,1975,1975-04-27,Paulista,0,0,Ferroviária (SP),E,1,1,111
+Paulista,1975,1975-04-27,Guarani,0,0,Corinthians,E,1,1,112
+Paulista,1975,1975-04-27,Santos,1,1,Noroeste,E,1,1,113
+Paulista,1975,1975-04-27,Saad,3,2,São Bento,VC,3,0,114
+Paulista,1975,1975-04-27,Marília,0,0,Comercial (SP),E,1,1,115
+Paulista,1975,1975-04-30,América (SP),2,0,Paulista,VC,3,0,116
+Paulista,1975,1975-04-30,Juventus (SP),0,3,Corinthians,VV,0,3,117
+Paulista,1975,1975-05-01,Ferroviária (SP),3,2,Guarani,VC,3,0,118
+Paulista,1975,1975-05-01,São Bento,1,1,XV de Piracicaba,E,1,1,119
+Paulista,1975,1975-05-01,Ponte Preta,1,1,Marília,E,1,1,120
+Paulista,1975,1975-05-01,Comercial (SP),0,0,Noroeste,E,1,1,121
+Paulista,1975,1975-05-01,Portuguesa,1,0,Botafogo (SP),VC,3,0,122
+Paulista,1975,1975-05-03,Corinthians,2,0,América (SP),VC,3,0,123
+Paulista,1975,1975-05-04,Botafogo (SP),0,0,Ferroviária (SP),E,1,1,124
+Paulista,1975,1975-05-04,São Paulo,2,0,Santos,VC,3,0,125
+Paulista,1975,1975-05-04,Guarani,3,1,Portuguesa Santista,VC,3,0,126
+Paulista,1975,1975-05-04,Portuguesa,2,2,São Bento,E,1,1,127
+Paulista,1975,1975-05-04,Saad,0,1,Juventus (SP),VV,0,3,128
+Paulista,1975,1975-05-04,Paulista,0,1,XV de Piracicaba,VV,0,3,129
+Paulista,1975,1975-05-04,Ponte Preta,3,0,Comercial (SP),VC,3,0,130
+Paulista,1975,1975-05-04,Marília,0,2,Palmeiras,VV,0,3,131
+Paulista,1975,1975-05-07,São Paulo,2,1,São Bento,VC,3,0,132
+Paulista,1975,1975-05-07,Portuguesa,3,1,Portuguesa Santista,VC,3,0,133
+Paulista,1975,1975-05-07,Noroeste,1,1,Ponte Preta,E,1,1,134
+Paulista,1975,1975-05-07,Ferroviária (SP),2,0,Juventus (SP),VC,3,0,135
+Paulista,1975,1975-05-07,Marília,0,1,Botafogo (SP),VV,0,3,136
+Paulista,1975,1975-05-10,Comercial (SP),0,2,Portuguesa,VV,0,3,137
+Paulista,1975,1975-05-10,Saad,0,1,São Paulo,VV,0,3,138
+Paulista,1975,1975-05-10,Portuguesa Santista,1,1,Ferroviária (SP),E,1,1,139
+Paulista,1975,1975-05-10,Juventus (SP),1,1,Guarani,E,1,1,140
+Paulista,1975,1975-05-11,Marília,2,0,Noroeste,VC,3,0,141
+Paulista,1975,1975-05-11,São Bento,0,1,América (SP),VV,0,3,142
+Paulista,1975,1975-05-11,Palmeiras,2,1,Corinthians,VC,3,0,143
+Paulista,1975,1975-05-11,Santos,4,0,Botafogo (SP),VC,3,0,144
+Paulista,1975,1975-05-11,Ponte Preta,4,1,Paulista,VC,3,0,145
+Paulista,1975,1975-05-14,Palmeiras,0,0,Ponte Preta,E,1,1,146
+Paulista,1975,1975-05-14,Ferroviária (SP),2,3,Saad,VV,0,3,147
+Paulista,1975,1975-05-14,São Bento,0,0,Noroeste,E,1,1,148
+Paulista,1975,1975-05-14,Santos,2,3,Guarani,VV,0,3,149
+Paulista,1975,1975-05-17,Santos,3,0,Ferroviária (SP),VC,3,0,150
+Paulista,1975,1975-05-17,Juventus (SP),1,1,Marília,E,1,1,151
+Paulista,1975,1975-05-18,Comercial (SP),1,1,XV de Piracicaba,E,1,1,152
+Paulista,1975,1975-05-18,América (SP),0,1,Saad,VV,0,3,153
+Paulista,1975,1975-05-18,Guarani,0,1,Palmeiras,VV,0,3,154
+Paulista,1975,1975-05-18,Paulista,0,2,Portuguesa Santista,VV,0,3,155
+Paulista,1975,1975-05-18,Noroeste,0,0,São Paulo,E,1,1,156
+Paulista,1975,1975-05-18,Corinthians,2,1,Portuguesa,VC,3,0,157
+Paulista,1975,1975-05-18,São Bento,1,1,Botafogo (SP),E,1,1,158
+Paulista,1975,1975-05-21,Corinthians,1,0,São Bento,VC,3,0,159
+Paulista,1975,1975-05-21,Marília,2,5,Portuguesa,VV,0,3,160
+Paulista,1975,1975-05-21,Botafogo (SP),5,3,Paulista,VC,3,0,161
+Paulista,1975,1975-05-21,Noroeste,0,0,Palmeiras,E,1,1,162
+Paulista,1975,1975-05-24,Santos,1,1,São Bento,E,1,1,163
+Paulista,1975,1975-05-24,Portuguesa,1,0,Ponte Preta,VC,3,0,164
+Paulista,1975,1975-05-24,Corinthians,3,1,Portuguesa Santista,VC,3,0,165
+Paulista,1975,1975-05-24,Juventus (SP),2,0,Noroeste,VC,3,0,166
+Paulista,1975,1975-05-25,São Paulo,1,0,Palmeiras,VC,3,0,167
+Paulista,1975,1975-05-25,América (SP),0,0,XV de Piracicaba,E,1,1,168
+Paulista,1975,1975-05-25,Saad,0,0,Botafogo (SP),E,1,1,169
+Paulista,1975,1975-05-25,Paulista,0,0,Comercial (SP),E,1,1,170
+Paulista,1975,1975-05-25,Marília,1,1,Guarani,E,1,1,171
+Paulista,1975,1975-05-28,Saad,0,1,Portuguesa,VV,0,3,172
+Paulista,1975,1975-05-29,Corinthians,4,1,Botafogo (SP),VC,3,0,173
+Paulista,1975,1975-05-29,Palmeiras,3,3,Ferroviária (SP),E,1,1,174
+Paulista,1975,1975-05-29,Marília,0,2,XV de Piracicaba,VV,0,3,175
+Paulista,1975,1975-05-29,São Paulo,3,0,Portuguesa Santista,VC,3,0,176
+Paulista,1975,1975-05-29,América (SP),4,0,São Bento,VC,3,0,177
+Paulista,1975,1975-05-29,Guarani,1,0,Paulista,VC,3,0,178
+Paulista,1975,1975-05-29,Noroeste,0,1,Juventus (SP),VV,0,3,179
+Paulista,1975,1975-05-29,Santos,1,0,Ponte Preta,VC,3,0,180
+Paulista,1975,1975-06-01,Comercial (SP),1,0,Corinthians,VC,3,0,181
+Paulista,1975,1975-06-01,São Bento,1,1,Guarani,E,1,1,182
+Paulista,1975,1975-06-01,América (SP),1,2,Palmeiras,VV,0,3,183
+Paulista,1975,1975-06-01,Marília,1,3,São Paulo,VV,0,3,184
+Paulista,1975,1975-06-01,XV de Piracicaba,0,1,Portuguesa,VV,0,3,185
+Paulista,1975,1975-06-01,Saad,1,1,Paulista,E,1,1,186
+Paulista,1975,1975-06-01,Ferroviária (SP),1,0,Portuguesa Santista,VC,3,0,187
+Paulista,1975,1975-06-01,Ponte Preta,1,1,Noroeste,E,1,1,188
+Paulista,1975,1975-06-01,Juventus (SP),0,2,Santos,VV,0,3,189
+Paulista,1975,1975-06-04,Corinthians,1,1,São Bento,E,1,1,190
+Paulista,1975,1975-06-04,Guarani,2,0,Marília,VC,3,0,191
+Paulista,1975,1975-06-07,Portuguesa Santista,1,1,Juventus (SP),E,1,1,192
+Paulista,1975,1975-06-08,São Bento,0,0,Ferroviária (SP),E,1,1,193
+Paulista,1975,1975-06-08,Paulista,0,2,América (SP),VV,0,3,194
+Paulista,1975,1975-06-08,Noroeste,2,1,Corinthians,VC,3,0,195
+Paulista,1975,1975-06-08,Marília,0,1,Ponte Preta,VV,0,3,196
+Paulista,1975,1975-06-08,Portuguesa,1,1,São Paulo,E,1,1,197
+Paulista,1975,1975-06-08,Botafogo (SP),2,2,XV de Piracicaba,E,1,1,198
+Paulista,1975,1975-06-08,Guarani,3,1,Comercial (SP),VC,3,0,199
+Paulista,1975,1975-06-08,Saad,0,0,Santos,E,1,1,200
+Paulista,1975,1975-06-11,Palmeiras,1,0,Guarani,VC,3,0,201
+Paulista,1975,1975-06-11,XV de Piracicaba,0,0,Comercial (SP),E,1,1,202
+Paulista,1975,1975-06-11,Corinthians,4,1,Paulista,VC,3,0,203
+Paulista,1975,1975-06-14,Portuguesa,2,0,Guarani,VC,3,0,204
+Paulista,1975,1975-06-15,Marília,2,1,Saad,VC,3,0,205
+Paulista,1975,1975-06-15,Comercial (SP),0,0,Juventus (SP),E,1,1,206
+Paulista,1975,1975-06-15,XV de Piracicaba,1,1,São Bento,E,1,1,207
+Paulista,1975,1975-06-15,Ponte Preta,1,0,Portuguesa Santista,VC,3,0,208
+Paulista,1975,1975-06-15,Ferroviária (SP),1,1,Noroeste,E,1,1,209
+Paulista,1975,1975-06-15,Santos,2,1,América (SP),VC,3,0,210
+Paulista,1975,1975-06-15,Palmeiras,0,2,Corinthians,VV,0,3,211
+Paulista,1975,1975-06-15,Paulista,0,1,São Paulo,VV,0,3,212
+Paulista,1975,1975-06-21,América (SP),2,0,Marília,VC,3,0,213
+Paulista,1975,1975-06-21,Comercial (SP),2,1,Ferroviária (SP),VC,3,0,214
+Paulista,1975,1975-06-21,Ponte Preta,3,0,Botafogo (SP),VC,3,0,215
+Paulista,1975,1975-06-25,São Paulo,3,0,São Bento,VC,3,0,216
+Paulista,1975,1975-06-25,Santos,0,0,XV de Piracicaba,E,1,1,217
+Paulista,1975,1975-06-25,Botafogo (SP),0,1,Saad,VV,0,3,218
+Paulista,1975,1975-06-28,Juventus (SP),3,1,Botafogo (SP),VC,3,0,219
+Paulista,1975,1975-06-29,São Bento,1,2,Saad,VV,0,3,220
+Paulista,1975,1975-06-29,Paulista,2,1,Ponte Preta,VC,3,0,221
+Paulista,1975,1975-06-29,Comercial (SP),0,1,América (SP),VV,0,3,222
+Paulista,1975,1975-06-29,Guarani,1,0,Noroeste,VC,3,0,223
+Paulista,1975,1975-06-29,Palmeiras,2,0,XV de Piracicaba,VC,3,0,224
+Paulista,1975,1975-06-29,Ferroviária (SP),1,1,Portuguesa,E,1,1,225
+Paulista,1975,1975-06-29,São Paulo,1,0,Santos,VC,3,0,226
+Paulista,1975,1975-06-29,Portuguesa Santista,0,0,Corinthians,E,1,1,227
+Paulista,1975,1975-07-05,São Paulo,3,1,Comercial (SP),VC,3,0,228
+Paulista,1975,1975-07-05,Ponte Preta,2,0,São Bento,VC,3,0,229
+Paulista,1975,1975-07-06,América (SP),2,0,Botafogo (SP),VC,3,0,230
+Paulista,1975,1975-07-06,Paulista,0,1,Juventus (SP),VV,0,3,231
+Paulista,1975,1975-07-06,Guarani,1,1,Santos,E,1,1,232
+Paulista,1975,1975-07-06,Marília,1,1,Ferroviária (SP),E,1,1,233
+Paulista,1975,1975-07-06,Portuguesa,5,1,Corinthians,VC,3,0,234
+Paulista,1975,1975-07-06,Saad,1,2,Palmeiras,VV,0,3,235
+Paulista,1975,1975-07-06,XV de Piracicaba,2,1,Portuguesa Santista,VC,3,0,236
+Paulista,1975,1975-07-09,Comercial (SP),2,1,Ponte Preta,VC,3,0,237
+Paulista,1975,1975-07-10,Juventus (SP),1,2,Palmeiras,VV,0,3,238
+Paulista,1975,1975-07-10,São Paulo,5,0,Noroeste,VC,3,0,239
+Paulista,1975,1975-07-12,Portuguesa,0,0,América (SP),E,1,1,240
+Paulista,1975,1975-07-13,Noroeste,1,1,XV de Piracicaba,E,1,1,241
+Paulista,1975,1975-07-13,Ponte Preta,0,1,Palmeiras,VV,0,3,242
+Paulista,1975,1975-07-13,Ferroviária (SP),2,1,Paulista,VC,3,0,243
+Paulista,1975,1975-07-13,Portuguesa Santista,1,1,Guarani,E,1,1,244
+Paulista,1975,1975-07-13,Corinthians,1,0,Santos,VC,3,0,245
+Paulista,1975,1975-07-13,Botafogo (SP),2,4,São Paulo,VV,0,3,246
+Paulista,1975,1975-07-13,Saad,1,0,Comercial (SP),VC,3,0,247
+Paulista,1975,1975-07-13,Juventus (SP),2,0,Marília,VC,3,0,248
+Paulista,1975,1975-07-17,Noroeste,3,2,Saad,VC,3,0,249
+Paulista,1975,1975-07-17,Juventus (SP),0,2,Portuguesa,VV,0,3,250
+Paulista,1975,1975-07-17,Portuguesa Santista,1,2,América (SP),VV,0,3,251
+Paulista,1975,1975-07-17,Ferroviária (SP),2,0,Botafogo (SP),VC,3,0,252
+Paulista,1975,1975-07-19,Corinthians,2,0,Marília,VC,3,0,253
+Paulista,1975,1975-07-20,XV de Piracicaba,1,0,Paulista,VC,3,0,254
+Paulista,1975,1975-07-20,Santos,1,0,Ferroviária (SP),VC,3,0,255
+Paulista,1975,1975-07-20,Botafogo (SP),0,0,Guarani,E,1,1,256
+Paulista,1975,1975-07-20,América (SP),0,1,Noroeste,VV,0,3,257
+Paulista,1975,1975-07-20,Saad,2,1,Portuguesa Santista,VC,3,0,258
+Paulista,1975,1975-07-20,Portuguesa,1,1,Ponte Preta,E,1,1,259
+Paulista,1975,1975-07-20,Palmeiras,1,1,São Paulo,E,1,1,260
+Paulista,1975,1975-07-20,São Bento,2,1,Juventus (SP),VC,3,0,261
+Paulista,1975,1975-07-26,Corinthians,0,0,América (SP),E,1,1,262
+Paulista,1975,1975-07-27,Santos,0,2,Palmeiras,VV,0,3,263
+Paulista,1975,1975-07-27,São Paulo,1,1,Portuguesa,E,1,1,264
+Paulista,1975,1975-07-30,América (SP),0,1,São Paulo,VV,0,3,265
+Paulista,1975,1975-07-31,Portuguesa,3,0,Palmeiras,VC,3,0,266
+Paulista,1975,1975-07-31,Corinthians,0,2,Santos,VV,0,3,267
+Paulista,1975,1975-08-03,Santos,1,2,América (SP),VV,0,3,268
+Paulista,1975,1975-08-03,São Paulo,0,0,Palmeiras,E,1,1,269
+Paulista,1975,1975-08-03,Portuguesa,1,1,Corinthians,E,1,1,270
+Paulista,1975,1975-08-06,Portuguesa,1,0,América (SP),VC,3,0,271
+Paulista,1975,1975-08-07,Santos,2,1,São Paulo,VC,3,0,272
+Paulista,1975,1975-08-07,Palmeiras,1,2,Corinthians,VV,0,3,273
+Paulista,1975,1975-08-10,Santos,1,0,Portuguesa,VC,3,0,274
+Paulista,1975,1975-08-10,Palmeiras,1,2,América (SP),VV,0,3,275
+Paulista,1975,1975-08-10,São Paulo,2,1,Corinthians,VC,3,0,276
+Paulista,1975,1975-08-14,São Paulo,1,0,Portuguesa,VC,3,0,277
+Paulista,1975,1975-08-17,Portuguesa,1,0,São Paulo,VC,3,0,278

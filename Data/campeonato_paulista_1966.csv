@@ -1,0 +1,210 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1966,1966-07-31,Portuguesa Santista,1,0,Guarani,VC,3,0,1
+Paulista,1966,1966-07-31,Portuguesa,4,3,Prudentina,VC,3,0,2
+Paulista,1966,1966-07-31,Juventus (SP),2,0,América (SP),VC,3,0,3
+Paulista,1966,1966-07-31,Comercial,2,0,Bragantino,VC,3,0,4
+Paulista,1966,1966-07-31,São Paulo,4,2,Noroeste,VC,3,0,5
+Paulista,1966,1966-08-07,Portuguesa,2,1,Portuguesa Santista,VC,3,0,6
+Paulista,1966,1966-08-07,Prudentina,3,2,América (SP),VC,3,0,7
+Paulista,1966,1966-08-07,São Bento,1,0,Bragantino,VC,3,0,8
+Paulista,1966,1966-08-07,Guarani,1,1,Botafogo (SP),E,1,1,9
+Paulista,1966,1966-08-07,Santos,5,1,Noroeste,VC,3,0,10
+Paulista,1966,1966-08-07,São Paulo,1,1,Juventus (SP),E,1,1,11
+Paulista,1966,1966-08-10,Corinthians,3,0,São Bento,VC,3,0,12
+Paulista,1966,1966-08-10,Santos,3,3,Portuguesa Santista,E,1,1,13
+Paulista,1966,1966-08-10,Noroeste,1,1,Comercial,E,1,1,14
+Paulista,1966,1966-08-10,Botafogo (SP),1,0,Prudentina,VC,3,0,15
+Paulista,1966,1966-08-13,Botafogo (SP),2,1,Juventus (SP),VC,3,0,16
+Paulista,1966,1966-08-14,América (SP),2,5,Santos,VV,0,3,17
+Paulista,1966,1966-08-14,Prudentina,1,1,São Paulo,E,1,1,18
+Paulista,1966,1966-08-14,Bragantino,3,1,Portuguesa,VC,3,0,19
+Paulista,1966,1966-08-14,Comercial,3,1,Guarani,VC,3,0,20
+Paulista,1966,1966-08-14,Palmeiras,3,1,Noroeste,VC,3,0,21
+Paulista,1966,1966-08-17,Corinthians,3,1,Guarani,VC,3,0,22
+Paulista,1966,1966-08-17,Santos,1,1,Juventus (SP),E,1,1,23
+Paulista,1966,1966-08-17,São Bento,3,0,Palmeiras,VC,3,0,24
+Paulista,1966,1966-08-18,Portuguesa Santista,1,1,Botafogo (SP),E,1,1,25
+Paulista,1966,1966-08-20,Comercial,1,0,Portuguesa,VC,3,0,26
+Paulista,1966,1966-08-21,América (SP),3,1,Noroeste,VC,3,0,27
+Paulista,1966,1966-08-21,Botafogo (SP),3,4,Corinthians,VV,0,3,28
+Paulista,1966,1966-08-21,Bragantino,0,2,Palmeiras,VV,0,3,29
+Paulista,1966,1966-08-21,Juventus (SP),0,0,Portuguesa Santista,E,1,1,30
+Paulista,1966,1966-08-21,São Bento,0,1,Sào Paulo,VV,0,3,31
+Paulista,1966,1966-08-21,Guarani,3,1,Prudentina,VC,3,0,32
+Paulista,1966,1966-08-24,Portuguesa,3,6,Corinthians,VV,0,3,33
+Paulista,1966,1966-08-25,Palmeiras,3,1,Comercial,VC,3,0,34
+Paulista,1966,1966-08-28,Palmeiras,3,2,Prudentina,VC,3,0,35
+Paulista,1966,1966-08-28,Guarani,3,2,Portuguesa,VC,3,0,36
+Paulista,1966,1966-08-28,São Bento,2,0,Portuguesa Santista,VC,3,0,37
+Paulista,1966,1966-08-28,Comercial,5,0,Botafogo (SP),VC,3,0,38
+Paulista,1966,1966-08-28,América (SP),0,1,São Paulo,VV,0,3,39
+Paulista,1966,1966-08-28,Noroeste,0,2,Corinthians,VV,0,3,40
+Paulista,1966,1966-08-31,Prudentina,1,0,Comercial,VC,3,0,41
+Paulista,1966,1966-08-31,Portuguesa Santista,2,0,Noroeste,VC,3,0,42
+Paulista,1966,1966-08-31,Juventus (SP),1,3,Palmeiras,VV,0,3,43
+Paulista,1966,1966-09-03,Juventus (SP),3,2,Bragantino,VC,3,0,44
+Paulista,1966,1966-09-04,São Paulo,3,0,Comercial,VC,3,0,45
+Paulista,1966,1966-09-04,Portuguesa Santista,2,1,Prudentina,VC,3,0,46
+Paulista,1966,1966-09-04,Portuguesa,1,0,América (SP),VC,3,0,47
+Paulista,1966,1966-09-04,Botafogo (SP),1,4,Palmeiras,VV,0,3,48
+Paulista,1966,1966-09-04,Guarani,3,0,São Bento,VC,3,0,49
+Paulista,1966,1966-09-07,Guarani,3,0,Santos,VC,3,0,50
+Paulista,1966,1966-09-07,São Paulo,1,0,Bragantino,VC,3,0,51
+Paulista,1966,1966-09-07,América (SP),5,3,Botafogo (SP),VC,3,0,52
+Paulista,1966,1966-09-07,Noroeste,1,1,Prudentina,E,1,1,53
+Paulista,1966,1966-09-08,Palmeiras,3,1,Portuguesa,VC,3,0,54
+Paulista,1966,1966-09-10,São Paulo,2,0,Guarani,VC,3,0,55
+Paulista,1966,1966-09-10,Corinthians,3,0,Bragantino,VC,3,0,56
+Paulista,1966,1966-09-11,Portuguesa,2,2,Botafogo (SP),E,1,1,57
+Paulista,1966,1966-09-11,Prudentina,1,3,Santos,VV,0,3,58
+Paulista,1966,1966-09-11,Juventus (SP),1,2,Comercial,VV,0,3,59
+Paulista,1966,1966-09-11,Noroeste,0,0,São Bento,E,1,1,60
+Paulista,1966,1966-09-11,Palmeiras,2,2,Portuguesa Santista,E,1,1,61
+Paulista,1966,1966-09-14,São Bento,1,0,América (SP),VC,3,0,62
+Paulista,1966,1966-09-14,Santos,0,2,Portuguesa,VV,0,3,63
+Paulista,1966,1966-09-14,Palmeiras,1,0,Guarani,VC,3,0,64
+Paulista,1966,1966-09-15,Juventus (SP),1,1,Corinthians,E,1,1,65
+Paulista,1966,1966-09-15,Portuguesa Santista,1,1,São Paulo,E,1,1,66
+Paulista,1966,1966-09-18,América (SP),1,2,Palmeiras,VV,0,3,67
+Paulista,1966,1966-09-18,Prudentina,3,1,Juventus (SP),VC,3,0,68
+Paulista,1966,1966-09-18,Bragantino,3,0,Botafogo (SP),VC,3,0,69
+Paulista,1966,1966-09-18,Comercial,3,1,Santos,VC,3,0,70
+Paulista,1966,1966-09-18,Guarani,0,0,Noroeste,E,1,1,71
+Paulista,1966,1966-09-18,Corinthians,0,3,São Paulo,VV,0,3,72
+Paulista,1966,1966-09-21,América (SP),2,0,Portuguesa Santista,VC,3,0,73
+Paulista,1966,1966-09-21,Prudentina,3,2,São Bento,VC,3,0,74
+Paulista,1966,1966-09-21,Corinthians,2,0,Comercial,VC,3,0,75
+Paulista,1966,1966-09-21,Botafogo (SP),2,4,São Paulo,VV,0,3,76
+Paulista,1966,1966-09-21,Guarani,4,1,Bragantino,VC,3,0,77
+Paulista,1966,1966-09-22,Palmeiras,2,2,Santos,E,1,1,78
+Paulista,1966,1966-09-25,Bragantino,3,0,América (SP),VC,3,0,79
+Paulista,1966,1966-09-25,Noroeste,2,1,Juventus (SP),VC,3,0,80
+Paulista,1966,1966-09-25,Botafogo (SP),2,1,Santos,VC,3,0,81
+Paulista,1966,1966-09-25,Portuguesa Santista,1,1,Comercial,E,1,1,82
+Paulista,1966,1966-09-25,Portuguesa,4,1,São Bento,VC,3,0,83
+Paulista,1966,1966-09-25,Prudentina,2,3,Corinthians,VV,0,3,84
+Paulista,1966,1966-09-28,Bragantino,2,0,Noroeste,VC,3,0,85
+Paulista,1966,1966-09-28,Botafogo (SP),1,0,São Bento,VC,3,0,86
+Paulista,1966,1966-09-28,Santos,1,0,São Paulo,VC,3,0,87
+Paulista,1966,1966-09-28,Corinthians,5,3,América (SP),VC,3,0,88
+Paulista,1966,1966-10-01,Juventus (SP),2,0,Guarani,VC,3,0,89
+Paulista,1966,1966-10-02,São Bento,3,3,Santos,E,1,1,90
+Paulista,1966,1966-10-02,Noroeste,1,2,Botafogo (SP),VV,0,3,91
+Paulista,1966,1966-10-02,Corinthians,1,0,Palmeiras,VC,3,0,92
+Paulista,1966,1966-10-02,Bragantino,4,0,Portuguesa Santista,VC,3,0,93
+Paulista,1966,1966-10-02,Comercial,4,2,América (SP),VC,3,0,94
+Paulista,1966,1966-10-05,América (SP),4,1,Guarani,VC,3,0,95
+Paulista,1966,1966-10-05,Portuguesa,0,1,Juventus (SP),VV,0,3,96
+Paulista,1966,1966-10-05,Comercial,3,2,São Bento,VC,3,0,97
+Paulista,1966,1966-10-05,Santos,6,2,Bragantino,VC,3,0,98
+Paulista,1966,1966-10-08,Santos,3,0,Corinthians,VC,3,0,99
+Paulista,1966,1966-10-09,Bragantino,0,1,Prudentina,VV,0,3,100
+Paulista,1966,1966-10-09,Noroeste,1,1,Portuguesa,E,1,1,101
+Paulista,1966,1966-10-09,São Bento,4,2,Juventus (SP),VC,3,0,102
+Paulista,1966,1966-10-09,São Paulo,2,4,Palmeiras,VV,0,3,103
+Paulista,1966,1966-10-12,São Paulo,0,2,Portuguesa,VV,0,3,104
+Paulista,1966,1966-10-13,Palmeiras,3,0,São Bento,VC,3,0,105
+Paulista,1966,1966-10-13,Santos,7,5,Comercial,VC,3,0,106
+Paulista,1966,1966-10-13,Bragantino,0,1,Juventus (SP),VV,0,3,107
+Paulista,1966,1966-10-13,Guarani,2,0,Portuguesa Santista,VC,3,0,108
+Paulista,1966,1966-10-15,São Paulo,3,4,América (SP),VV,0,3,109
+Paulista,1966,1966-10-16,Portuguesa,2,1,Guarani,VC,3,0,110
+Paulista,1966,1966-10-16,Prudentina,4,1,Portuguesa Santista,VC,3,0,111
+Paulista,1966,1966-10-16,Comercial,5,1,Juventus (SP),VC,3,0,112
+Paulista,1966,1966-10-16,Santos,2,2,São Bento,E,1,1,113
+Paulista,1966,1966-10-16,Palmeiras,6,2,Botafogo (SP),VC,3,0,114
+Paulista,1966,1966-10-16,Corinthians,3,4,Noroeste,VV,0,3,115
+Paulista,1966,1966-10-19,Botafogo (SP),2,1,Guarani,VC,3,0,116
+Paulista,1966,1966-10-19,São Bento,1,1,Prudentina,E,1,1,117
+Paulista,1966,1966-10-19,Bragantino,2,4,Comercial,VV,0,3,118
+Paulista,1966,1966-10-19,Portuguesa Santista,2,0,Portuguesa,VC,3,0,119
+Paulista,1966,1966-10-20,Juventus (SP),0,0,São Paulo,E,1,1,120
+Paulista,1966,1966-10-23,América (SP),0,1,Corinthians,VV,0,3,121
+Paulista,1966,1966-10-23,Prudentina,3,0,Botafogo (SP),VC,3,0,122
+Paulista,1966,1966-10-23,Juventus (SP),0,1,Portuguesa,VV,0,3,123
+Paulista,1966,1966-10-23,Noroeste,1,4,Santos,VV,0,3,124
+Paulista,1966,1966-10-23,Guarani,0,3,Palmeiras,VV,0,3,125
+Paulista,1966,1966-10-23,São Paulo,3,2,Bragantino,VC,3,0,126
+Paulista,1966,1966-10-26,Portuguesa Santista,0,3,Santos,VV,0,3,127
+Paulista,1966,1966-10-26,São Bento,1,0,Corinthians,VC,3,0,128
+Paulista,1966,1966-10-27,Portuguesa,1,2,Noroeste,VV,0,3,129
+Paulista,1966,1966-10-30,São Paulo,2,1,Santos,VC,3,0,130
+Paulista,1966,1966-10-30,Guarani,0,2,Corinthians,VV,0,3,131
+Paulista,1966,1966-10-30,Prudentina,1,1,Bragantino,E,1,1,132
+Paulista,1966,1966-10-30,São Bento,2,2,Portuguesa,E,1,1,133
+Paulista,1966,1966-11-03,Juventus (SP),2,2,Palmeiras,E,1,1,134
+Paulista,1966,1966-11-03,Comercial,3,0,Prudentina,VC,3,0,135
+Paulista,1966,1966-11-03,São Bento,2,1,Botafogo (SP),VC,3,0,136
+Paulista,1966,1966-11-03,Corinthians,1,1,Portuguesa Santista,E,1,1,137
+Paulista,1966,1966-11-05,Juventus (SP),0,3,Santos,VV,0,3,138
+Paulista,1966,1966-11-06,Corinthians,5,1,Botafogo (SP),VC,3,0,139
+Paulista,1966,1966-11-06,Noroeste,2,1,América (SP),VC,3,0,140
+Paulista,1966,1966-11-06,Palmeiras,2,0,Bragantino,VC,3,0,141
+Paulista,1966,1966-11-06,Prudentina,2,0,Portuguesa,VC,3,0,142
+Paulista,1966,1966-11-06,Portuguesa Santista,1,1,São Bento,E,1,1,143
+Paulista,1966,1966-11-06,Comercial,2,2,São Paulo,E,1,1,144
+Paulista,1966,1966-11-09,América (SP),5,1,Juventus (SP),VC,3,0,145
+Paulista,1966,1966-11-09,São Bento,5,1,Noroeste,VC,3,0,146
+Paulista,1966,1966-11-10,Portuguesa,4,4,Comercial,E,1,1,147
+Paulista,1966,1966-11-10,São Paulo,3,1,Portuguesa Santista,VC,3,0,148
+Paulista,1966,1966-11-12,Juventus (SP),0,0,São Bento,E,1,1,149
+Paulista,1966,1966-11-13,Noroeste,0,0,Portuguesa Santista,E,1,1,150
+Paulista,1966,1966-11-13,Palmeiras,2,0,América (SP),VC,3,0,151
+Paulista,1966,1966-11-13,Prudentina,3,0,Guarani,VC,3,0,152
+Paulista,1966,1966-11-13,Botafogo (SP),2,2,Comercial,E,1,1,153
+Paulista,1966,1966-11-13,Bragantino,2,3,Santos,VV,0,3,154
+Paulista,1966,1966-11-13,Corinthians,1,3,Portuguesa,VV,0,3,155
+Paulista,1966,1966-11-16,São Paulo,2,2,Prudentina,E,1,1,156
+Paulista,1966,1966-11-16,São Bento,2,3,Guarani,VV,0,3,157
+Paulista,1966,1966-11-16,Noroeste,2,1,Palmeiras,VC,3,0,158
+Paulista,1966,1966-11-16,América (SP),1,0,Bragantino,VC,3,0,159
+Paulista,1966,1966-11-19,Portuguesa Santista,4,1,Bragantino,VC,3,0,160
+Paulista,1966,1966-11-19,Botafogo (SP),2,1,Portuguesa,VC,3,0,161
+Paulista,1966,1966-11-20,América (SP),2,0,São Bento,VC,3,0,162
+Paulista,1966,1966-11-20,Juventus (SP),1,0,Noroeste,VC,3,0,163
+Paulista,1966,1966-11-20,Comercial,0,0,Corinthians,E,1,1,164
+Paulista,1966,1966-11-20,Guarani,0,0,São Paulo,E,1,1,165
+Paulista,1966,1966-11-23,Botafogo (SP),6,2,América (SP),VC,3,0,166
+Paulista,1966,1966-11-23,Guarani,0,1,Comercial,VV,0,3,167
+Paulista,1966,1966-11-23,Santos,2,0,Palmeiras,VC,3,0,168
+Paulista,1966,1966-11-23,Corinthians,1,0,Prudentina,VC,3,0,169
+Paulista,1966,1966-11-24,Portuguesa,1,0,São Paulo,VC,3,0,170
+Paulista,1966,1966-11-26,Santos,1,2,Guarani,VV,0,3,171
+Paulista,1966,1966-11-27,América (SP),1,0,Portuguesa,VC,3,0,172
+Paulista,1966,1966-11-27,Bragantino,0,3,Corinthians,VV,0,3,173
+Paulista,1966,1966-11-27,Juventus (SP),1,0,Botafogo (SP),VC,3,0,174
+Paulista,1966,1966-11-27,Noroeste,1,1,São Paulo,E,1,1,175
+Paulista,1966,1966-11-27,Portuguesa Santista,1,2,Palmeiras,VV,0,3,176
+Paulista,1966,1966-11-30,Prudentina,2,3,Palmeiras,VV,0,3,177
+Paulista,1966,1966-11-30,Comercial,3,1,Noroeste,VC,3,0,178
+Paulista,1966,1966-11-30,Guarani,2,1,América (SP),VC,3,0,179
+Paulista,1966,1966-11-30,Corinthians,2,0,Juventus (SP),VC,3,0,180
+Paulista,1966,1966-12-01,São Paulo,2,2,Botafogo (SP),E,1,1,181
+Paulista,1966,1966-12-03,Portuguesa,0,1,Palmeiras,VV,0,3,182
+Paulista,1966,1966-12-03,Portuguesa Santista,5,0,América (SP),VC,3,0,183
+Paulista,1966,1966-12-04,Prudentina,4,1,Noroeste,VC,3,0,184
+Paulista,1966,1966-12-04,Bragantino,2,1,Guarani,VC,3,0,185
+Paulista,1966,1966-12-04,São Paulo,2,1,Corinthians,VC,3,0,186
+Paulista,1966,1966-12-04,Santos,3,1,Botafogo (SP),VC,3,0,187
+Paulista,1966,1966-12-07,Bragantino,4,2,São Bento,VC,3,0,188
+Paulista,1966,1966-12-07,Comercial,1,5,Palmeiras,VV,0,3,189
+Paulista,1966,1966-12-08,Botafogo (SP),3,1,Portuguesa Santista,VC,3,0,190
+Paulista,1966,1966-12-10,São Paulo,1,1,São Bento,E,1,1,191
+Paulista,1966,1966-12-10,Guarani,2,0,Juventus (SP),VC,3,0,192
+Paulista,1966,1966-12-11,Palmeiras,0,1,Corinthians,VV,0,3,193
+Paulista,1966,1966-12-11,Noroeste,2,0,Bragantino,VC,3,0,194
+Paulista,1966,1966-12-11,América (SP),3,0,Prudentina,VC,3,0,195
+Paulista,1966,1966-12-11,Comercial,1,1,Portuguesa Santista,E,1,1,196
+Paulista,1966,1966-12-12,Portuguesa,1,0,Santos,VC,3,0,197
+Paulista,1966,1966-12-14,Portuguesa,4,1,Bragantino,VC,3,0,198
+Paulista,1966,1966-12-14,Botafogo (SP),5,3,Noroeste,VC,3,0,199
+Paulista,1966,1966-12-14,São Bento,0,0,Comercial,E,1,1,200
+Paulista,1966,1966-12-14,Santos,2,1,América (SP),VC,3,0,201
+Paulista,1966,1966-12-15,Portuguesa Santista,1,0,Juventus (SP),VC,3,0,202
+Paulista,1966,1966-12-15,Palmeiras,3,0,São Paulo,VC,3,0,203
+Paulista,1966,1966-12-17,Corinthians,1,1,Santos,E,1,1,204
+Paulista,1966,1966-12-17,Noroeste,5,1,Guarani,VC,3,0,205
+Paulista,1966,1966-12-17,Juventus (SP),0,0,Prudentina,E,1,1,206
+Paulista,1966,1966-12-17,América (SP),4,1,Comercial,VC,3,0,207
+Paulista,1966,1966-12-17,Botafogo (SP),5,1,Bragantino,VC,3,0,208
+Paulista,1966,1966-12-19,Santos,3,0,Prudentina,VC,3,0,209

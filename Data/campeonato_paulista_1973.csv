@@ -1,0 +1,134 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1973,1973-03-11,Guarani,1,0,Juventus (SP),VC,3,0,1
+Paulista,1973,1973-03-11,Portuguesa,1,0,São Bento,VC,3,0,2
+Paulista,1973,1973-03-11,São Paulo,3,1,Ponte Preta,VC,3,0,3
+Paulista,1973,1973-03-14,Palmeiras,1,0,América (SP),VC,3,0,4
+Paulista,1973,1973-03-18,Ferroviária (SP),0,1,Ponte Preta,VV,0,3,5
+Paulista,1973,1973-03-18,Botafogo (SP),1,1,Juventus (SP),E,1,1,6
+Paulista,1973,1973-03-18,Corinthians,1,0,Portuguesa,VC,3,0,7
+Paulista,1973,1973-03-18,Guarani,1,0,São Paulo,VC,3,0,8
+Paulista,1973,1973-03-21,Santos,0,0,Ferroviária (SP),E,1,1,9
+Paulista,1973,1973-03-21,São Paulo,1,0,América (SP),VC,3,0,10
+Paulista,1973,1973-03-24,Portuguesa,2,2,Ferroviária (SP),E,1,1,11
+Paulista,1973,1973-03-25,São Bento,0,1,Guarani,VV,0,3,12
+Paulista,1973,1973-03-25,América (SP),4,2,Botafogo (SP),VC,3,0,13
+Paulista,1973,1973-03-25,São Paulo,2,2,Santos,E,1,1,14
+Paulista,1973,1973-03-25,Ponte Preta,0,0,Corinthians,E,1,1,15
+Paulista,1973,1973-04-01,Portuguesa,2,2,Guarani,E,1,1,16
+Paulista,1973,1973-04-01,Botafogo (SP),0,2,Ferroviária (SP),VV,0,3,17
+Paulista,1973,1973-04-01,Ponte Preta,0,0,São Bento,E,1,1,18
+Paulista,1973,1973-04-04,Santos,6,0,Juventus (SP),VC,3,0,19
+Paulista,1973,1973-04-04,Corinthians,1,1,Palmeiras,E,1,1,20
+Paulista,1973,1973-04-06,São Paulo,2,0,Ferroviária (SP),VC,3,0,21
+Paulista,1973,1973-04-07,São Bento,0,0,Juventus (SP),E,1,1,22
+Paulista,1973,1973-04-07,Guarani,2,1,Botafogo (SP),VC,3,0,23
+Paulista,1973,1973-04-07,Corinthians,0,1,América (SP),VV,0,3,24
+Paulista,1973,1973-04-08,Santos,1,0,Portuguesa,VC,3,0,25
+Paulista,1973,1973-04-08,Ponte Preta,1,1,Palmeiras,E,1,1,26
+Paulista,1973,1973-04-10,Palmeiras,2,1,Juventus (SP),VC,3,0,27
+Paulista,1973,1973-04-13,Palmeiras,4,2,Botafogo (SP),VC,3,0,28
+Paulista,1973,1973-04-14,Santos,1,0,São Bento,VC,3,0,29
+Paulista,1973,1973-04-15,Ponte Preta,0,0,Portuguesa,E,1,1,30
+Paulista,1973,1973-04-15,América (SP),1,1,Juventus (SP),E,1,1,31
+Paulista,1973,1973-04-15,São Paulo,0,0,Corinthians,E,1,1,32
+Paulista,1973,1973-04-15,Ferroviária (SP),0,1,Guarani,VV,0,3,33
+Paulista,1973,1973-04-18,Santos,1,0,América (SP),VC,3,0,34
+Paulista,1973,1973-04-18,Palmeiras,6,1,São Bento,VC,3,0,35
+Paulista,1973,1973-04-21,Corinthians,4,0,São Bento,VC,3,0,36
+Paulista,1973,1973-04-22,Juventus (SP),1,2,Ferroviária (SP),VV,0,3,37
+Paulista,1973,1973-04-22,Botafogo (SP),3,1,São Paulo,VC,3,0,38
+Paulista,1973,1973-04-22,América (SP),1,1,Ponte Preta,E,1,1,39
+Paulista,1973,1973-04-22,Guarani,0,1,Santos,VV,0,3,40
+Paulista,1973,1973-04-22,Palmeiras,2,0,Portuguesa,VC,3,0,41
+Paulista,1973,1973-04-27,Palmeiras,2,1,Guarani,VC,3,0,42
+Paulista,1973,1973-04-28,Portuguesa,1,1,América (SP),E,1,1,43
+Paulista,1973,1973-04-29,Santos,3,0,Corinthians,VC,3,0,44
+Paulista,1973,1973-04-29,Ponte Preta,5,1,Botafogo (SP),VC,3,0,45
+Paulista,1973,1973-04-29,São Bento,1,0,Ferroviária (SP),VC,3,0,46
+Paulista,1973,1973-05-01,São Paulo,1,1,Juventus (SP),E,1,1,47
+Paulista,1973,1973-05-04,São Bento,0,1,São Paulo,VV,0,3,48
+Paulista,1973,1973-05-06,Botafogo (SP),1,3,Portuguesa,VV,0,3,49
+Paulista,1973,1973-05-06,Ferroviária (SP),0,2,Corinthians,VV,0,3,50
+Paulista,1973,1973-05-06,Juventus (SP),0,2,Ponte Preta,VV,0,3,51
+Paulista,1973,1973-05-06,Palmeiras,1,1,Santos,E,1,1,52
+Paulista,1973,1973-05-06,Guarani,2,0,América (SP),VC,3,0,53
+Paulista,1973,1973-05-11,Corinthians,2,0,Juventus (SP),VC,3,0,54
+Paulista,1973,1973-05-12,América (SP),3,0,São Bento,VC,3,0,55
+Paulista,1973,1973-05-13,São Paulo,1,1,Portuguesa,E,1,1,56
+Paulista,1973,1973-05-13,Guarani,2,0,Ponte Preta,VC,3,0,57
+Paulista,1973,1973-05-13,Ferroviária (SP),2,4,Palmeiras,VV,0,3,58
+Paulista,1973,1973-05-13,Botafogo (SP),1,2,Santos,VV,0,3,59
+Paulista,1973,1973-05-16,Corinthians,0,0,Botafogo (SP),E,1,1,60
+Paulista,1973,1973-05-18,Portuguesa,1,1,Juventus (SP),E,1,1,61
+Paulista,1973,1973-05-20,São Bento,2,1,Botafogo (SP),VC,3,0,62
+Paulista,1973,1973-05-20,Palmeiras,0,0,São Paulo,E,1,1,63
+Paulista,1973,1973-05-20,Ferroviária (SP),0,1,América (SP),VV,0,3,64
+Paulista,1973,1973-05-20,Guarani,0,2,Corinthians,VV,0,3,65
+Paulista,1973,1973-05-20,Santos,5,1,Ponte Preta,VC,3,0,66
+Paulista,1973,1973-07-04,América (SP),0,2,Guarani,VV,0,3,67
+Paulista,1973,1973-07-05,São Paulo,2,1,Botafogo (SP),VC,3,0,68
+Paulista,1973,1973-07-07,São Bento,1,2,Portuguesa,VV,0,3,69
+Paulista,1973,1973-07-08,Juventus (SP),0,0,Palmeiras,E,1,1,70
+Paulista,1973,1973-07-08,São Paulo,1,1,Guarani,E,1,1,71
+Paulista,1973,1973-07-08,Santos,2,0,Botafogo (SP),VC,3,0,72
+Paulista,1973,1973-07-08,América (SP),2,1,Corinthians,VC,3,0,73
+Paulista,1973,1973-07-08,Ponte Preta,1,0,Ferroviária (SP),VC,3,0,74
+Paulista,1973,1973-07-11,Portuguesa,1,1,São Paulo,E,1,1,75
+Paulista,1973,1973-07-12,Corinthians,3,1,São Bento,VC,3,0,76
+Paulista,1973,1973-07-14,Ponte Preta,0,1,Juventus (SP),VV,0,3,77
+Paulista,1973,1973-07-15,São Paulo,1,1,Palmeiras,E,1,1,78
+Paulista,1973,1973-07-15,América (SP),1,1,Ferroviária (SP),E,1,1,79
+Paulista,1973,1973-07-15,São Bento,0,1,Santos,VV,0,3,80
+Paulista,1973,1973-07-15,Guarani,1,1,Portuguesa,E,1,1,81
+Paulista,1973,1973-07-15,Botafogo (SP),0,2,Corinthians,VV,0,3,82
+Paulista,1973,1973-07-18,Botafogo (SP),1,0,América (SP),VC,3,0,83
+Paulista,1973,1973-07-18,Palmeiras,0,2,Portuguesa,VV,0,3,84
+Paulista,1973,1973-07-19,Juventus (SP),0,0,Corinthians,E,1,1,85
+Paulista,1973,1973-07-21,Ponte Preta,1,0,São Paulo,VC,3,0,86
+Paulista,1973,1973-07-22,Juventus (SP),5,0,São Bento,VC,3,0,87
+Paulista,1973,1973-07-22,Santos,1,1,Corinthians,E,1,1,88
+Paulista,1973,1973-07-22,Guarani,1,1,Palmeiras,E,1,1,89
+Paulista,1973,1973-07-22,Ferroviária (SP),1,1,Botafogo (SP),E,1,1,90
+Paulista,1973,1973-07-22,América (SP),0,2,Portuguesa,VV,0,3,91
+Paulista,1973,1973-07-25,Corinthians,1,1,Guarani,E,1,1,92
+Paulista,1973,1973-07-25,São Bento,0,1,América (SP),VV,0,3,93
+Paulista,1973,1973-07-26,Juventus (SP),0,0,Santos,E,1,1,94
+Paulista,1973,1973-07-28,Corinthians,3,1,Ferroviária (SP),VC,3,0,95
+Paulista,1973,1973-07-29,Juventus (SP),0,0,América (SP),E,1,1,96
+Paulista,1973,1973-07-29,São Paulo,0,0,Santos,E,1,1,97
+Paulista,1973,1973-07-29,Guarani,0,0,Ponte Preta,E,1,1,98
+Paulista,1973,1973-07-29,Botafogo (SP),0,0,Palmeiras,E,1,1,99
+Paulista,1973,1973-08-01,Juventus (SP),1,0,Botafogo (SP),VC,3,0,100
+Paulista,1973,1973-08-02,Palmeiras,1,1,Ferroviária (SP),E,1,1,101
+Paulista,1973,1973-08-04,São Paulo,0,1,Juventus (SP),VV,0,3,102
+Paulista,1973,1973-08-05,Guarani,1,0,São Bento,VC,3,0,103
+Paulista,1973,1973-08-05,Corinthians,1,1,Palmeiras,E,1,1,104
+Paulista,1973,1973-08-05,América (SP),0,1,Santos,VV,0,3,105
+Paulista,1973,1973-08-05,Ferroviária (SP),0,0,Portuguesa,E,1,1,106
+Paulista,1973,1973-08-05,Botafogo (SP),0,0,Ponte Preta,E,1,1,107
+Paulista,1973,1973-08-08,Ferroviária (SP),1,0,Juventus (SP),VC,3,0,108
+Paulista,1973,1973-08-08,Portuguesa,1,0,Santos,VC,3,0,109
+Paulista,1973,1973-08-09,São Paulo,3,0,São Bento,VC,3,0,110
+Paulista,1973,1973-08-11,Corinthians,3,0,Ponte Preta,VC,3,0,111
+Paulista,1973,1973-08-12,Guarani,2,0,Ferroviária (SP),VC,3,0,112
+Paulista,1973,1973-08-12,Portuguesa,2,0,Juventus (SP),VC,3,0,113
+Paulista,1973,1973-08-12,Santos,0,1,Palmeiras,VV,0,3,114
+Paulista,1973,1973-08-12,América (SP),2,1,São Paulo,VC,3,0,115
+Paulista,1973,1973-08-12,Botafogo (SP),3,0,São Bento,VC,3,0,116
+Paulista,1973,1973-08-15,Ferroviária (SP),1,0,São Paulo,VC,3,0,117
+Paulista,1973,1973-08-15,Corinthians,0,2,Portuguesa,VV,0,3,118
+Paulista,1973,1973-08-15,Santos,1,0,Guarani,VC,3,0,119
+Paulista,1973,1973-08-16,Palmeiras,0,0,Ponte Preta,E,1,1,120
+Paulista,1973,1973-08-18,Juventus (SP),1,1,Guarani,E,1,1,121
+Paulista,1973,1973-08-19,Portuguesa,2,0,Botafogo (SP),VC,3,0,122
+Paulista,1973,1973-08-19,Corinthians,2,1,São Paulo,VC,3,0,123
+Paulista,1973,1973-08-19,América (SP),1,1,Palmeiras,E,1,1,124
+Paulista,1973,1973-08-19,Ponte Preta,2,1,Santos,VC,3,0,125
+Paulista,1973,1973-08-19,Ferroviária (SP),1,0,São Bento,VC,3,0,126
+Paulista,1973,1973-08-22,Ferroviária (SP),1,1,Santos,E,1,1,127
+Paulista,1973,1973-08-22,São Bento,1,3,Palmeiras,VV,0,3,128
+Paulista,1973,1973-08-22,Botafogo (SP),1,1,Guarani,E,1,1,129
+Paulista,1973,1973-08-23,Portuguesa,0,0,Ponte Preta,E,1,1,130
+Paulista,1973,1973-08-26,Ponte Preta,0,1,América (SP),VV,0,3,131
+Paulista,1973,1973-08-26,Portuguesa,0,0,Santos,E,1,1,132
+Paulista,1973,1973-09-04,São Bento,0,1,Ponte Preta,VV,0,3,133

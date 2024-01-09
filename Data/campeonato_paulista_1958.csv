@@ -1,0 +1,381 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1958,1958-05-25,América (SP),1,0,Taubaté,VC,3,0,1
+Paulista,1958,1958-05-25,Nacional (SP),4,2,Ypiranga (SP),VC,3,0,2
+Paulista,1958,1958-05-25,XV de Piracicaba,2,1,Comercial (SP),VC,3,0,3
+Paulista,1958,1958-05-25,Botafogo (SP),4,3,Guarani,VC,3,0,4
+Paulista,1958,1958-05-25,Ponte Preta,1,2,Ferroviária (SP),VV,0,3,5
+Paulista,1958,1958-05-25,Jabaquara,1,1,Noroeste,E,1,1,6
+Paulista,1958,1958-05-25,XV de Jaú,2,1,Juventus (SP),VC,3,0,7
+Paulista,1958,1958-05-28,Noroeste,6,0,XV de Jaú,VC,3,0,8
+Paulista,1958,1958-05-28,América (SP),1,1,Portuguesa Santista,E,1,1,9
+Paulista,1958,1958-05-28,Botafogo (SP),2,1,Juventus (SP),VC,3,0,10
+Paulista,1958,1958-05-31,Guarani,1,0,Juventus (SP),VC,3,0,11
+Paulista,1958,1958-06-01,Ferroviária (SP),1,1,Jabaquara,E,1,1,12
+Paulista,1958,1958-06-01,Taubaté,1,2,Nacional (SP),VV,0,3,13
+Paulista,1958,1958-06-01,Noroeste,3,0,Ponte Preta,VC,3,0,14
+Paulista,1958,1958-06-01,XV de Piracicaba,2,0,XV de Jaú,VC,3,0,15
+Paulista,1958,1958-06-01,Comercial (SP),2,2,Ypiranga (SP),E,1,1,16
+Paulista,1958,1958-06-01,Portuguesa Santista,3,2,Botafogo (SP),VC,3,0,17
+Paulista,1958,1958-06-04,América (SP),2,0,Ferroviária (SP),VC,3,0,18
+Paulista,1958,1958-06-05,Noroeste,2,2,Taubaté,E,1,1,19
+Paulista,1958,1958-06-07,Jabaquara,2,0,Portuguesa Santista,VC,3,0,20
+Paulista,1958,1958-06-08,XV de Jaú,1,1,Comercial (SP),E,1,1,21
+Paulista,1958,1958-06-08,Nacional (SP),1,1,América (SP),E,1,1,22
+Paulista,1958,1958-06-08,Ypiranga (SP),1,2,Ferroviária (SP),VV,0,3,23
+Paulista,1958,1958-06-08,XV de Piracicaba,2,1,Botafogo (SP),VC,3,0,24
+Paulista,1958,1958-06-08,Noroeste,6,1,Juventus (SP),VC,3,0,25
+Paulista,1958,1958-06-08,Ponte Preta,2,3,Taubaté,VV,0,3,26
+Paulista,1958,1958-06-11,Ferroviária (SP),4,1,Comercial (SP),VC,3,0,27
+Paulista,1958,1958-06-11,Jabaquara,4,1,Nacional (SP),VC,3,0,28
+Paulista,1958,1958-06-11,Botafogo (SP),4,0,América (SP),VC,3,0,29
+Paulista,1958,1958-06-14,América (SP),2,1,XV de Jaú,VC,3,0,30
+Paulista,1958,1958-06-14,Botafogo (SP),4,0,Ypiranga (SP),VC,3,0,31
+Paulista,1958,1958-06-14,Portuguesa Santista,2,3,Ponte Preta,VV,0,3,32
+Paulista,1958,1958-06-14,Guarani,5,1,Jabaquara,VC,3,0,33
+Paulista,1958,1958-06-14,Juventus (SP),3,2,Comercial (SP),VC,3,0,34
+Paulista,1958,1958-06-15,Noroeste,2,0,Nacional (SP),VC,3,0,35
+Paulista,1958,1958-06-15,Ferroviária (SP),1,2,XV de Piracicaba,VV,0,3,36
+Paulista,1958,1958-06-18,América (SP),3,0,Guarani,VC,3,0,37
+Paulista,1958,1958-06-18,Noroeste,3,2,Portuguesa Santista,VC,3,0,38
+Paulista,1958,1958-06-19,Juventus (SP),3,2,Jabaquara,VC,3,0,39
+Paulista,1958,1958-06-22,Ponte Preta,1,0,Botafogo (SP),VC,3,0,40
+Paulista,1958,1958-06-22,XV de Jaú,0,2,Ferroviária (SP),VV,0,3,41
+Paulista,1958,1958-06-22,Nacional (SP),1,0,Portuguesa Santista,VC,3,0,42
+Paulista,1958,1958-06-22,XV de Piracicaba,2,3,Noroeste,VV,0,3,43
+Paulista,1958,1958-06-22,Taubaté,5,0,Juventus (SP),VC,3,0,44
+Paulista,1958,1958-06-22,Jabaquara,0,0,América (SP),E,1,1,45
+Paulista,1958,1958-06-22,Ypiranga (SP),1,1,Guarani,E,1,1,46
+Paulista,1958,1958-06-25,Comercial (SP),0,2,Noroeste,VV,0,3,47
+Paulista,1958,1958-06-25,Ferroviária (SP),1,1,Guarani,E,1,1,48
+Paulista,1958,1958-06-25,Juventus (SP),0,2,América (SP),VV,0,3,49
+Paulista,1958,1958-06-28,Guarani,2,1,Taubaté,VC,3,0,50
+Paulista,1958,1958-06-28,América (SP),1,1,Ponte Preta,E,1,1,51
+Paulista,1958,1958-06-28,Comercial (SP),2,0,Nacional (SP),VC,3,0,52
+Paulista,1958,1958-06-29,Portuguesa Santista,2,2,Juventus (SP),E,1,1,53
+Paulista,1958,1958-06-29,Botafogo (SP),1,0,Jabaquara,VC,3,0,54
+Paulista,1958,1958-06-29,XV de Piracicaba,6,1,Ypiranga (SP),VC,3,0,55
+Paulista,1958,1958-06-29,Ferroviária (SP),0,0,Noroeste,E,1,1,56
+Paulista,1958,1958-07-02,Guarani,2,1,Nacional (SP),VC,3,0,57
+Paulista,1958,1958-07-02,Portuguesa Santista,1,0,Ypiranga (SP),VC,3,0,58
+Paulista,1958,1958-07-02,Ferroviária (SP),1,1,Juventus (SP),E,1,1,59
+Paulista,1958,1958-07-06,Noroeste,3,1,América (SP),VC,3,0,60
+Paulista,1958,1958-07-06,Ypiranga (SP),0,0,XV de Jaú,E,1,1,61
+Paulista,1958,1958-07-06,Nacional (SP),1,0,Ferroviária (SP),VC,3,0,62
+Paulista,1958,1958-07-06,Guarani,1,1,Portuguesa Santista,E,1,1,63
+Paulista,1958,1958-07-06,Jabaquara,0,1,Comercial (SP),VV,0,3,64
+Paulista,1958,1958-07-06,Juventus (SP),1,0,XV de Piracicaba,VC,3,0,65
+Paulista,1958,1958-07-06,Taubaté,1,0,Botafogo (SP),VC,3,0,66
+Paulista,1958,1958-07-09,Comercial (SP),2,2,Portuguesa Santista,E,1,1,67
+Paulista,1958,1958-07-09,Nacional (SP),3,1,Juventus (SP),VC,3,0,68
+Paulista,1958,1958-07-09,Ypiranga (SP),2,1,Taubaté,VC,3,0,69
+Paulista,1958,1958-07-12,Corinthians,4,0,Nacional (SP),VC,3,0,70
+Paulista,1958,1958-07-12,Palmeiras,4,2,Portuguesa Santista,VC,3,0,71
+Paulista,1958,1958-07-13,XV de Piracicaba,2,0,Taubaté,VC,3,0,72
+Paulista,1958,1958-07-13,XV de Jaú,0,0,Botafogo (SP),E,1,1,73
+Paulista,1958,1958-07-13,América (SP),2,1,Portuguesa,VC,3,0,74
+Paulista,1958,1958-07-13,Comercial (SP),1,1,São Paulo,E,1,1,75
+Paulista,1958,1958-07-13,Ponte Preta,1,0,Jabaquara,VC,3,0,76
+Paulista,1958,1958-07-16,Santos,7,3,Jabaquara,VC,3,0,77
+Paulista,1958,1958-07-16,Corinthians,2,2,Comercial (SP),E,1,1,78
+Paulista,1958,1958-07-16,Palmeiras,1,1,Taubaté,E,1,1,79
+Paulista,1958,1958-07-17,Nacional (SP),4,2,Portuguesa,VC,3,0,80
+Paulista,1958,1958-07-17,São Paulo,4,0,XV de Piracicaba,VC,3,0,81
+Paulista,1958,1958-07-20,Jabaquara,1,2,São Paulo,VV,0,3,82
+Paulista,1958,1958-07-20,Portuguesa,2,1,Comercial (SP),VC,3,0,83
+Paulista,1958,1958-07-20,Juventus (SP),0,2,Santos,VV,0,3,84
+Paulista,1958,1958-07-20,Ypiranga (SP),1,1,Ponte Preta,E,1,1,85
+Paulista,1958,1958-07-20,Taubaté,1,0,XV de Jaú,VC,3,0,86
+Paulista,1958,1958-07-20,Nacional (SP),1,1,XV de Piracicaba,E,1,1,87
+Paulista,1958,1958-07-20,Guarani,4,2,Palmeiras,VC,3,0,88
+Paulista,1958,1958-07-20,Noroeste,2,5,Corinthians,VV,0,3,89
+Paulista,1958,1958-07-23,São Paulo,1,1,Noroeste,E,1,1,90
+Paulista,1958,1958-07-23,Santos,6,0,XV de Piracicaba,VC,3,0,91
+Paulista,1958,1958-07-23,Juventus (SP),3,2,Portuguesa,VC,3,0,92
+Paulista,1958,1958-07-24,Comercial (SP),3,1,Palmeiras,VC,3,0,93
+Paulista,1958,1958-07-24,Corinthians,0,0,Taubaté,E,1,1,94
+Paulista,1958,1958-07-27,Juventus (SP),1,2,Ponte Preta,VV,0,3,95
+Paulista,1958,1958-07-27,Corinthians,3,1,América (SP),VC,3,0,96
+Paulista,1958,1958-07-27,Portuguesa,1,1,XV de Piracicaba,E,1,1,97
+Paulista,1958,1958-07-27,Portuguesa Santista,2,1,Taubaté,VC,3,0,98
+Paulista,1958,1958-07-27,Ferroviária (SP),2,4,São Paulo,VV,0,3,99
+Paulista,1958,1958-07-27,Botafogo (SP),2,2,Santos,E,1,1,100
+Paulista,1958,1958-07-27,XV de Jaú,1,3,Jabaquara,VV,0,3,101
+Paulista,1958,1958-07-27,Palmeiras,2,0,Ypiranga (SP),VC,3,0,102
+Paulista,1958,1958-07-27,Guarani,4,1,Noroeste,VC,3,0,103
+Paulista,1958,1958-07-30,Corinthians,6,3,Ponte Preta,VC,3,0,104
+Paulista,1958,1958-07-30,Palmeiras,3,2,Ferroviária (SP),VC,3,0,105
+Paulista,1958,1958-07-31,Comercial (SP),1,1,Santos,E,1,1,106
+Paulista,1958,1958-07-31,Portuguesa,2,1,Botafogo (SP),VC,3,0,107
+Paulista,1958,1958-07-31,São Paulo,3,0,Ypiranga (SP),VC,3,0,108
+Paulista,1958,1958-08-03,Ponte Preta,1,1,Comercial (SP),E,1,1,109
+Paulista,1958,1958-08-03,Jabaquara,1,1,Ypiranga (SP),E,1,1,110
+Paulista,1958,1958-08-03,XV de Piracicaba,1,1,Corinthians,E,1,1,111
+Paulista,1958,1958-08-03,Noroeste,1,1,Palmeiras,E,1,1,112
+Paulista,1958,1958-08-03,Ferroviária (SP),1,1,Portuguesa,E,1,1,113
+Paulista,1958,1958-08-03,XV de Jaú,0,1,Guarani,VV,0,3,114
+Paulista,1958,1958-08-03,Nacional (SP),1,1,São Paulo,E,1,1,115
+Paulista,1958,1958-08-03,América (SP),0,0,Santos,E,1,1,116
+Paulista,1958,1958-08-06,Palmeiras,3,1,Nacional (SP),VC,3,0,117
+Paulista,1958,1958-08-06,Santos,4,3,Portuguesa,VC,3,0,118
+Paulista,1958,1958-08-06,Corinthians,1,0,Jabaquara,VC,3,0,119
+Paulista,1958,1958-08-07,São Paulo,6,0,Guarani,VC,3,0,120
+Paulista,1958,1958-08-10,Portuguesa Santista,1,2,Ferroviária (SP),VV,0,3,121
+Paulista,1958,1958-08-10,Nacional (SP),0,2,XV de Jaú,VV,0,3,122
+Paulista,1958,1958-08-10,XV de Piracicaba,2,2,Palmeiras,E,1,1,123
+Paulista,1958,1958-08-10,Ponte Preta,4,1,Guarani,VC,3,0,124
+Paulista,1958,1958-08-10,América (SP),1,0,Ypiranga (SP),VC,3,0,125
+Paulista,1958,1958-08-10,São Paulo,5,1,Portuguesa,VC,3,0,126
+Paulista,1958,1958-08-10,Noroeste,1,0,Santos,VC,3,0,127
+Paulista,1958,1958-08-10,Corinthians,2,1,Botafogo (SP),VC,3,0,128
+Paulista,1958,1958-08-13,Santos,4,3,Ferroviária (SP),VC,3,0,129
+Paulista,1958,1958-08-13,Corinthians,2,0,São Paulo,VC,3,0,130
+Paulista,1958,1958-08-14,Palmeiras,2,0,XV de Jaú,VC,3,0,131
+Paulista,1958,1958-08-14,Portuguesa,3,2,Portuguesa Santista,VC,3,0,132
+Paulista,1958,1958-08-16,Ponte Preta,0,0,XV de Piracicaba,E,1,1,133
+Paulista,1958,1958-08-16,Comercial (SP),1,1,Botafogo (SP),E,1,1,134
+Paulista,1958,1958-08-17,Juventus (SP),2,0,Ypiranga (SP),VC,3,0,135
+Paulista,1958,1958-08-17,Taubaté,4,1,Jabaquara,VC,3,0,136
+Paulista,1958,1958-08-17,Palmeiras,4,1,América (SP),VC,3,0,137
+Paulista,1958,1958-08-17,XV de Jaú,2,3,Portuguesa,VV,0,3,138
+Paulista,1958,1958-08-17,Guarani,0,1,Corinthians,VV,0,3,139
+Paulista,1958,1958-08-17,Santos,1,0,São Paulo,VC,3,0,140
+Paulista,1958,1958-08-20,São Paulo,2,0,Juventus (SP),VC,3,0,141
+Paulista,1958,1958-08-20,Santos,4,0,Ponte Preta,VC,3,0,142
+Paulista,1958,1958-08-21,Portuguesa,6,1,Noroeste,VC,3,0,143
+Paulista,1958,1958-08-21,Palmeiras,4,0,Corinthians,VC,3,0,144
+Paulista,1958,1958-08-24,Ferroviária (SP),1,2,Botafogo (SP),VV,0,3,145
+Paulista,1958,1958-08-24,Ponte Preta,1,0,XV de Jaú,VC,3,0,146
+Paulista,1958,1958-08-24,Taubaté,1,2,São Paulo,VV,0,3,147
+Paulista,1958,1958-08-24,Noroeste,3,0,Ypiranga (SP),VC,3,0,148
+Paulista,1958,1958-08-24,Portuguesa Santista,3,0,Corinthians,VC,3,0,149
+Paulista,1958,1958-08-24,XV de Piracicaba,3,2,América (SP),VC,3,0,150
+Paulista,1958,1958-08-24,Palmeiras,0,1,Santos,VV,0,3,151
+Paulista,1958,1958-08-24,Portuguesa,3,1,Guarani,VC,3,0,152
+Paulista,1958,1958-08-27,Palmeiras,2,0,Jabaquara,VC,3,0,153
+Paulista,1958,1958-08-28,São Paulo,3,2,Portuguesa Santista,VC,3,0,154
+Paulista,1958,1958-08-28,Santos,5,2,XV de Jaú,VC,3,0,155
+Paulista,1958,1958-08-31,Comercial (SP),0,0,América (SP),E,1,1,156
+Paulista,1958,1958-08-31,Nacional (SP),3,0,Ponte Preta,VC,3,0,157
+Paulista,1958,1958-08-31,XV de Jaú,0,3,São Paulo,VV,0,3,158
+Paulista,1958,1958-08-31,Corinthians,3,1,Ypiranga (SP),VC,3,0,159
+Paulista,1958,1958-08-31,Santos,2,1,Portuguesa Santista,VC,3,0,160
+Paulista,1958,1958-08-31,Botafogo (SP),1,0,Palmeiras,VC,3,0,161
+Paulista,1958,1958-08-31,Guarani,1,1,XV de Piracicaba,E,1,1,162
+Paulista,1958,1958-08-31,Taubaté,2,2,Portuguesa,E,1,1,163
+Paulista,1958,1958-09-03,Corinthians,1,0,Ferroviária (SP),VC,3,0,164
+Paulista,1958,1958-09-03,São Paulo,3,2,Botafogo (SP),VC,3,0,165
+Paulista,1958,1958-09-04,Santos,3,0,Taubaté,VC,3,0,166
+Paulista,1958,1958-09-07,Jabaquara,1,2,XV de Piracicaba,VV,0,3,167
+Paulista,1958,1958-09-07,XV de Jaú,1,0,Portuguesa Santista,VC,3,0,168
+Paulista,1958,1958-09-07,Botafogo (SP),1,2,Nacional (SP),VV,0,3,169
+Paulista,1958,1958-09-07,Ponte Preta,2,6,Portuguesa,VV,0,3,170
+Paulista,1958,1958-09-07,Ypiranga (SP),1,4,Santos,VV,0,3,171
+Paulista,1958,1958-09-07,Corinthians,5,3,Juventus (SP),VC,3,0,172
+Paulista,1958,1958-09-07,Taubaté,2,1,Comercial (SP),VC,3,0,173
+Paulista,1958,1958-09-10,Palmeiras,2,1,Ponte Preta,VC,3,0,174
+Paulista,1958,1958-09-10,Portuguesa,6,1,Ypiranga (SP),VC,3,0,175
+Paulista,1958,1958-09-10,Corinthians,3,1,XV de Jaú,VC,3,0,176
+Paulista,1958,1958-09-11,Santos,10,0,Nacional (SP),VC,3,0,177
+Paulista,1958,1958-09-11,São Paulo,3,1,América (SP),VC,3,0,178
+Paulista,1958,1958-09-13,Guarani,1,1,Comercial (SP),E,1,1,179
+Paulista,1958,1958-09-14,Jabaquara,4,1,Portuguesa,VC,3,0,180
+Paulista,1958,1958-09-14,Taubaté,2,1,Ferroviária (SP),VC,3,0,181
+Paulista,1958,1958-09-14,Palmeiras,5,2,Juventus (SP),VC,3,0,182
+Paulista,1958,1958-09-14,XV de Piracicaba,3,1,Portuguesa Santista,VC,3,0,183
+Paulista,1958,1958-09-14,Corinthians,0,1,Santos,VV,0,3,184
+Paulista,1958,1958-09-14,Ponte Preta,1,3,São Paulo,VV,0,3,185
+Paulista,1958,1958-09-17,São Paulo,1,1,Palmeiras,E,1,1,186
+Paulista,1958,1958-09-17,Santos,8,1,Guarani,VC,3,0,187
+Paulista,1958,1958-09-20,Botafogo (SP),1,0,Noroeste,VC,3,0,188
+Paulista,1958,1958-09-21,Portuguesa,2,1,Palmeiras,VC,3,0,189
+Paulista,1958,1958-09-25,Corinthians,4,2,Portuguesa,VC,3,0,190
+Paulista,1958,1958-09-28,Ferroviária (SP),2,0,Portuguesa Santista,VC,3,0,191
+Paulista,1958,1958-09-28,Ponte Preta,2,1,Juventus (SP),VC,3,0,192
+Paulista,1958,1958-09-28,América (SP),1,2,Comercial (SP),VV,0,3,193
+Paulista,1958,1958-09-28,Jabaquara,1,4,Guarani,VV,0,3,194
+Paulista,1958,1958-09-28,São Paulo,3,0,XV de Jaú,VC,3,0,195
+Paulista,1958,1958-09-28,Botafogo (SP),5,1,XV de Piracicaba,VC,3,0,196
+Paulista,1958,1958-09-28,Nacional (SP),5,3,Ypiranga (SP),VC,3,0,197
+Paulista,1958,1958-10-01,Palmeiras,1,0,Noroeste,VC,3,0,198
+Paulista,1958,1958-10-01,Santos,8,1,Ypiranga (SP),VC,3,0,199
+Paulista,1958,1958-10-01,Guarani,2,4,XV de Jaú,VV,0,3,200
+Paulista,1958,1958-10-02,Ponte Preta,1,3,Portuguesa Santista,VV,0,3,201
+Paulista,1958,1958-10-04,Nacional (SP),2,0,Guarani,VC,3,0,202
+Paulista,1958,1958-10-05,Jabaquara,0,0,Botafogo (SP),E,1,1,203
+Paulista,1958,1958-10-05,São Paulo,4,1,Comercial (SP),VC,3,0,204
+Paulista,1958,1958-10-05,XV de Piracicaba,5,0,Juventus (SP),VC,3,0,205
+Paulista,1958,1958-10-05,Corinthians,4,0,Portuguesa Santista,VC,3,0,206
+Paulista,1958,1958-10-05,Noroeste,1,1,Portuguesa,E,1,1,207
+Paulista,1958,1958-10-05,Taubaté,3,2,Santos,VC,3,0,208
+Paulista,1958,1958-10-05,Ferroviária (SP),0,2,Palmeiras,VV,0,3,209
+Paulista,1958,1958-10-05,Ponte Preta,3,0,Ypiranga (SP),VC,3,0,210
+Paulista,1958,1958-10-05,XV de Jaú,2,2,América (SP),E,1,1,211
+Paulista,1958,1958-10-08,Ferroviária (SP),3,0,Ponte Preta,VC,3,0,212
+Paulista,1958,1958-10-08,Corinthians,2,0,XV de Piracicaba,VC,3,0,213
+Paulista,1958,1958-10-08,São Paulo,2,0,Taubaté,VC,3,0,214
+Paulista,1958,1958-10-09,Ypiranga (SP),3,2,América (SP),VC,3,0,215
+Paulista,1958,1958-10-09,Nacional (SP),4,0,Jabaquara,VC,3,0,216
+Paulista,1958,1958-10-09,Portuguesa Santista,2,0,Portuguesa,VC,3,0,217
+Paulista,1958,1958-10-11,Palmeiras,1,1,XV de Piracicaba,E,1,1,218
+Paulista,1958,1958-10-11,Santos,3,0,Noroeste,VC,3,0,219
+Paulista,1958,1958-10-12,Portuguesa,6,0,Ponte Preta,VC,3,0,220
+Paulista,1958,1958-10-12,Guarani,0,1,São Paulo,VV,0,3,221
+Paulista,1958,1958-10-12,Portuguesa Santista,5,1,Jabaquara,VC,3,0,222
+Paulista,1958,1958-10-12,Ypiranga (SP),0,3,Botafogo (SP),VV,0,3,223
+Paulista,1958,1958-10-12,XV de Jaú,1,1,Nacional (SP),E,1,1,224
+Paulista,1958,1958-10-12,Juventus (SP),2,2,Taubaté,E,1,1,225
+Paulista,1958,1958-10-12,América (SP),2,4,Corinthians,VV,0,3,226
+Paulista,1958,1958-10-12,Comercial (SP),0,0,Ferroviária (SP),E,1,1,227
+Paulista,1958,1958-10-15,Santos,6,1,Portuguesa Santista,VC,3,0,228
+Paulista,1958,1958-10-15,São Paulo,3,2,Nacional (SP),VC,3,0,229
+Paulista,1958,1958-10-15,Portuguesa,4,1,XV de Jaú,VC,3,0,230
+Paulista,1958,1958-10-16,Taubaté,0,0,Ypiranga (SP),E,1,1,231
+Paulista,1958,1958-10-16,XV de Piracicaba,1,0,Ferroviária (SP),VC,3,0,232
+Paulista,1958,1958-10-16,Palmeiras,4,2,Comercial (SP),VC,3,0,233
+Paulista,1958,1958-10-18,Corinthians,8,1,Guarani,VC,3,0,234
+Paulista,1958,1958-10-18,Portuguesa Santista,4,1,América (SP),VC,3,0,235
+Paulista,1958,1958-10-18,Botafogo (SP),2,1,São Paulo,VC,3,0,236
+Paulista,1958,1958-10-19,Santos,3,1,América (SP),VC,3,0,237
+Paulista,1958,1958-10-22,Portuguesa,5,0,Ferroviária (SP),VC,3,0,238
+Paulista,1958,1958-10-22,XV de Jaú,2,4,Ponte Preta,VV,0,3,239
+Paulista,1958,1958-10-22,Santos,6,2,Jabaquara,VC,3,0,240
+Paulista,1958,1958-10-22,Palmeiras,1,1,Juventus (SP),E,1,1,241
+Paulista,1958,1958-10-22,Taubaté,3,1,América (SP),VC,3,0,242
+Paulista,1958,1958-10-23,Guarani,1,1,Ypiranga (SP),E,1,1,243
+Paulista,1958,1958-10-23,Botafogo (SP),5,1,Portuguesa Santista,VC,3,0,244
+Paulista,1958,1958-10-23,Corinthians,1,0,Comercial (SP),VC,3,0,245
+Paulista,1958,1958-10-25,América (SP),1,2,Nacional (SP),VV,0,3,246
+Paulista,1958,1958-10-25,Jabaquara,1,2,Ferroviária (SP),VV,0,3,247
+Paulista,1958,1958-10-26,São Paulo,5,1,Ypiranga (SP),VC,3,0,248
+Paulista,1958,1958-10-26,Ponte Preta,1,4,Corinthians,VV,0,3,249
+Paulista,1958,1958-10-26,XV de Jaú,0,1,Palmeiras,VV,0,3,250
+Paulista,1958,1958-10-26,Santos,4,0,Botafogo (SP),VC,3,0,251
+Paulista,1958,1958-10-26,Comercial (SP),1,4,XV de Piracicaba,VV,0,3,252
+Paulista,1958,1958-10-26,Taubaté,2,2,Portuguesa Santista,E,1,1,253
+Paulista,1958,1958-10-26,Portuguesa,3,1,Juventus (SP),VC,3,0,254
+Paulista,1958,1958-10-26,Noroeste,3,1,Guarani,VC,3,0,255
+Paulista,1958,1958-10-28,Jabaquara,0,2,Palmeiras,VV,0,3,256
+Paulista,1958,1958-10-29,Taubaté,2,0,Ponte Preta,VC,3,0,257
+Paulista,1958,1958-10-29,Corinthians,2,0,Ypiranga (SP),VC,3,0,258
+Paulista,1958,1958-10-29,Portuguesa,1,1,Santos,E,1,1,259
+Paulista,1958,1958-10-29,Botafogo (SP),3,0,XV de Jaú,VC,3,0,260
+Paulista,1958,1958-10-29,São Paulo,4,2,Juventus (SP),VC,3,0,261
+Paulista,1958,1958-11-01,Botafogo (SP),3,3,Corinthians,E,1,1,262
+Paulista,1958,1958-11-01,Juventus (SP),3,2,Ypiranga (SP),VC,3,0,263
+Paulista,1958,1958-11-01,Portuguesa Santista,3,0,Guarani,VC,3,0,264
+Paulista,1958,1958-11-01,Comercial (SP),2,0,Jabaquara,VC,3,0,265
+Paulista,1958,1958-11-01,Palmeiras,4,2,Nacional (SP),VC,3,0,266
+Paulista,1958,1958-11-01,XV de Jaú,0,0,Santos,E,1,1,267
+Paulista,1958,1958-11-01,América (SP),0,2,São Paulo,VV,0,3,268
+Paulista,1958,1958-11-01,Ferroviária (SP),3,0,Taubaté,VC,3,0,269
+Paulista,1958,1958-11-01,Ponte Preta,0,0,Noroeste,E,1,1,270
+Paulista,1958,1958-11-01,XV de Piracicaba,3,3,Portuguesa,E,1,1,271
+Paulista,1958,1958-11-05,Portuguesa Santista,4,2,Nacional (SP),VC,3,0,272
+Paulista,1958,1958-11-05,Juventus (SP),3,2,Nacional (SP),VC,3,0,273
+Paulista,1958,1958-11-05,XV de Piracicaba,2,0,Guarani,VC,3,0,274
+Paulista,1958,1958-11-05,Palmeiras,2,1,Corinthians,VC,3,0,275
+Paulista,1958,1958-11-05,Comercial (SP),1,0,Taubaté,VC,3,0,276
+Paulista,1958,1958-11-05,São Paulo,2,1,Ferroviária (SP),VC,3,0,277
+Paulista,1958,1958-11-05,Noroeste,3,1,Jabaquara,VC,3,0,278
+Paulista,1958,1958-11-05,Jabaquara,2,1,XV de Jaú,VC,3,0,279
+Paulista,1958,1958-11-06,XV de Piracicaba,0,5,Santos,VV,0,3,280
+Paulista,1958,1958-11-06,Ferroviária (SP),3,0,Ypiranga (SP),VC,3,0,281
+Paulista,1958,1958-11-06,Portuguesa,3,1,Taubaté,VC,3,0,282
+Paulista,1958,1958-11-06,Noroeste,1,0,Comercial (SP),VC,3,0,283
+Paulista,1958,1958-11-06,Ponte Preta,2,1,Palmeiras,VC,3,0,284
+Paulista,1958,1958-11-08,Palmeiras,4,3,Botafogo (SP),VC,3,0,285
+Paulista,1958,1958-11-09,Comercial (SP),2,1,Nacional (SP),VC,3,0,286
+Paulista,1958,1958-11-09,Jabaquara,2,0,Ponte Preta,VC,3,0,287
+Paulista,1958,1958-11-09,São Paulo,3,1,Portuguesa,VC,3,0,288
+Paulista,1958,1958-11-09,Ferroviária (SP),2,1,Santos,VC,3,0,289
+Paulista,1958,1958-11-09,Juventus (SP),1,2,XV de Jaú,VV,0,3,290
+Paulista,1958,1958-11-09,Taubaté,2,1,Corinthians,VC,3,0,291
+Paulista,1958,1958-11-09,Guarani,1,0,América (SP),VC,3,0,292
+Paulista,1958,1958-11-09,Noroeste,3,3,XV de Piracicaba,E,1,1,293
+Paulista,1958,1958-11-09,Ypiranga (SP),1,1,Portuguesa Santista,E,1,1,294
+Paulista,1958,1958-11-12,Portuguesa Santista,1,1,XV de Piracicaba,E,1,1,295
+Paulista,1958,1958-11-12,Juventus (SP),1,0,Botafogo (SP),VC,3,0,296
+Paulista,1958,1958-11-12,Ferroviária (SP),4,2,XV de Jaú,VC,3,0,297
+Paulista,1958,1958-11-12,Portuguesa,1,1,Comercial (SP),E,1,1,298
+Paulista,1958,1958-11-13,Jabaquara,1,1,Corinthians,E,1,1,299
+Paulista,1958,1958-11-13,Nacional (SP),3,1,Noroeste,VC,3,0,300
+Paulista,1958,1958-11-15,Botafogo (SP),0,1,Taubaté,VV,0,3,301
+Paulista,1958,1958-11-15,Portuguesa Santista,5,0,Comercial (SP),VC,3,0,302
+Paulista,1958,1958-11-16,América (SP),4,1,Jabaquara,VC,3,0,303
+Paulista,1958,1958-11-16,Noroeste,3,2,Ferroviária (SP),VC,3,0,304
+Paulista,1958,1958-11-16,Santos,2,1,Palmeiras,VC,3,0,305
+Paulista,1958,1958-11-16,XV de Jaú,5,2,Ypiranga (SP),VC,3,0,306
+Paulista,1958,1958-11-16,XV de Piracicaba,2,2,São Paulo,E,1,1,307
+Paulista,1958,1958-11-16,Ponte Preta,1,1,Nacional (SP),E,1,1,308
+Paulista,1958,1958-11-16,Corinthians,3,1,Portuguesa,VC,3,0,309
+Paulista,1958,1958-11-16,Juventus (SP),1,0,Guarani,VC,3,0,310
+Paulista,1958,1958-11-19,Santos,9,1,Comercial (SP),VC,3,0,311
+Paulista,1958,1958-11-19,Botafogo (SP),3,0,Portuguesa,VC,3,0,312
+Paulista,1958,1958-11-19,XV de Jaú,1,1,Noroeste,E,1,1,313
+Paulista,1958,1958-11-19,Juventus (SP),1,1,Ferroviária (SP),E,1,1,314
+Paulista,1958,1958-11-20,XV de Piracicaba,2,0,Nacional (SP),VC,3,0,315
+Paulista,1958,1958-11-22,Botafogo (SP),2,1,Ferroviária (SP),VC,3,0,316
+Paulista,1958,1958-11-22,Comercial (SP),0,2,Guarani,VV,0,3,317
+Paulista,1958,1958-11-22,Jabaquara,1,0,Taubaté,VC,3,0,318
+Paulista,1958,1958-11-23,Portuguesa,2,1,Nacional (SP),VC,3,0,319
+Paulista,1958,1958-11-23,Ypiranga (SP),1,0,XV de Piracicaba,VC,3,0,320
+Paulista,1958,1958-11-23,XV de Jaú,0,4,Corinthians,VV,0,3,321
+Paulista,1958,1958-11-23,América (SP),1,0,Palmeiras,VC,3,0,322
+Paulista,1958,1958-11-23,Ponte Preta,1,2,Santos,VV,0,3,323
+Paulista,1958,1958-11-26,Portuguesa,1,0,América (SP),VC,3,0,324
+Paulista,1958,1958-11-26,Corinthians,1,1,São Paulo,E,1,1,325
+Paulista,1958,1958-11-27,Ypiranga (SP),2,0,Comercial (SP),VC,3,0,326
+Paulista,1958,1958-11-27,Noroeste,3,0,Botafogo (SP),VC,3,0,327
+Paulista,1958,1958-11-27,Palmeiras,6,0,Guarani,VC,3,0,328
+Paulista,1958,1958-11-29,Jabaquara,1,2,Juventus (SP),VV,0,3,329
+Paulista,1958,1958-11-29,São Paulo,1,1,Ponte Preta,E,1,1,330
+Paulista,1958,1958-11-30,Ypiranga (SP),0,0,Noroeste,E,1,1,331
+Paulista,1958,1958-11-30,Portuguesa Santista,2,1,XV de Jaú,VC,3,0,332
+Paulista,1958,1958-11-30,Ferroviária (SP),2,3,Corinthians,VV,0,3,333
+Paulista,1958,1958-11-30,Nacional (SP),3,4,Santos,VV,0,3,334
+Paulista,1958,1958-11-30,Taubaté,2,2,Palmeiras,E,1,1,335
+Paulista,1958,1958-11-30,Botafogo (SP),4,2,Comercial (SP),VC,3,0,336
+Paulista,1958,1958-11-30,Guarani,2,8,Portuguesa,VV,0,3,337
+Paulista,1958,1958-11-30,América (SP),1,1,XV de Piracicaba,E,1,1,338
+Paulista,1958,1958-12-03,Ponte Preta,1,1,América (SP),E,1,1,339
+Paulista,1958,1958-12-03,São Paulo,4,1,Jabaquara,VC,3,0,340
+Paulista,1958,1958-12-03,Nacional (SP),4,2,Taubaté,VC,3,0,341
+Paulista,1958,1958-12-04,Guarani,5,2,Ferroviária (SP),VC,3,0,342
+Paulista,1958,1958-12-04,XV de Jaú,1,0,XV de Piracicaba,VC,3,0,343
+Paulista,1958,1958-12-04,Corinthians,1,1,Juventus (SP),E,1,1,344
+Paulista,1958,1958-12-06,América (SP),3,1,Botafogo (SP),VC,3,0,345
+Paulista,1958,1958-12-06,Portuguesa Santista,2,1,Noroeste,VC,3,0,346
+Paulista,1958,1958-12-06,Palmeiras,2,2,São Paulo,E,1,1,347
+Paulista,1958,1958-12-07,Juventus (SP),4,2,Comercial (SP),VC,3,0,348
+Paulista,1958,1958-12-07,Santos,6,1,Corinthians,VC,3,0,349
+Paulista,1958,1958-12-07,Ponte Preta,2,2,Guarani,E,1,1,350
+Paulista,1958,1958-12-07,XV de Jaú,5,1,Taubaté,VC,3,0,351
+Paulista,1958,1958-12-07,Ferroviária (SP),4,0,Nacional (SP),VC,3,0,352
+Paulista,1958,1958-12-07,Portuguesa,5,2,Ypiranga (SP),VC,3,0,353
+Paulista,1958,1958-12-07,XV de Piracicaba,4,2,Jabaquara,VC,3,0,354
+Paulista,1958,1958-12-09,Noroeste,1,3,São Paulo,VV,0,3,355
+Paulista,1958,1958-12-09,Santos,7,1,Juventus (SP),VC,3,0,356
+Paulista,1958,1958-12-10,Palmeiras,4,2,Ypiranga (SP),VC,3,0,357
+Paulista,1958,1958-12-10,Portuguesa,2,0,Jabaquara,VC,3,0,358
+Paulista,1958,1958-12-11,XV de Piracicaba,2,1,Ponte Preta,VC,3,0,359
+Paulista,1958,1958-12-11,América (SP),3,1,Noroeste,VC,3,0,360
+Paulista,1958,1958-12-11,Nacional (SP),2,1,Botafogo (SP),VC,3,0,361
+Paulista,1958,1958-12-13,Portuguesa Santista,1,1,São Paulo,E,1,1,362
+Paulista,1958,1958-12-13,Comercial (SP),3,1,XV de Jaú,VC,3,0,363
+Paulista,1958,1958-12-13,Palmeiras,2,0,Portuguesa,VC,3,0,364
+Paulista,1958,1958-12-14,Botafogo (SP),5,1,Ponte Preta,VC,3,0,365
+Paulista,1958,1958-12-14,Nacional (SP),2,2,Corinthians,E,1,1,366
+Paulista,1958,1958-12-14,Ferroviária (SP),1,0,América (SP),VC,3,0,367
+Paulista,1958,1958-12-14,Ypiranga (SP),3,3,Jabaquara,E,1,1,368
+Paulista,1958,1958-12-14,Taubaté,1,2,XV de Piracicaba,VV,0,3,369
+Paulista,1958,1958-12-14,Guarani,1,7,Santos,VV,0,3,370
+Paulista,1958,1958-12-14,Juventus (SP),3,1,Noroeste,VC,3,0,371
+Paulista,1958,1958-12-16,Portuguesa Santista,1,2,Palmeiras,VV,0,3,372
+Paulista,1958,1958-12-17,América (SP),1,0,Juventus (SP),VC,3,0,373
+Paulista,1958,1958-12-17,Taubaté,3,0,Guarani,VC,3,0,374
+Paulista,1958,1958-12-18,São Paulo,2,2,Santos,E,1,1,375
+Paulista,1958,1958-12-18,Corinthians,4,0,Noroeste,VC,3,0,376
+Paulista,1958,1958-12-18,Comercial (SP),0,2,Ponte Preta,VV,0,3,377
+Paulista,1958,1958-12-20,Taubaté,5,2,Noroeste,VC,3,0,378
+Paulista,1958,1958-12-20,Juventus (SP),1,1,Portuguesa Santista,E,1,1,379
+Paulista,1958,1958-12-20,Guarani,1,0,Botafogo (SP),VC,3,0,380

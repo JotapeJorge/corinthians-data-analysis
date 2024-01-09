@@ -1,0 +1,369 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Paulista,1957,1957-06-09,Portuguesa Santista,3,1,Ferroviária (SP),VC,3,0,1
+Paulista,1957,1957-06-09,XV de Jaú,4,1,Ypiranga (SP),VC,3,0,2
+Paulista,1957,1957-06-09,Palmeiras,5,2,Noroeste,VC,3,0,3
+Paulista,1957,1957-06-09,Juventus (SP),1,1,Botafogo (SP),E,1,1,4
+Paulista,1957,1957-06-09,Guarani,5,1,Jabaquara,VC,3,0,5
+Paulista,1957,1957-06-09,Nacional (SP),4,1,Linense,VC,3,0,6
+Paulista,1957,1957-06-09,Portuguesa,2,2,Ponte Preta,E,1,1,7
+Paulista,1957,1957-06-09,XV de Piracicaba,1,0,Taubaté,VC,3,0,8
+Paulista,1957,1957-06-13,Ypiranga (SP),2,1,Juventus (SP),VC,3,0,9
+Paulista,1957,1957-06-15,São Bento (SP),1,0,XV de Jaú,VC,3,0,10
+Paulista,1957,1957-06-16,Linense,2,3,XV de Piracicaba,VV,0,3,11
+Paulista,1957,1957-06-16,Ponte Preta,3,1,Juventus (SP),VC,3,0,12
+Paulista,1957,1957-06-16,Botafogo (SP),1,0,Portuguesa Santista,VC,3,0,13
+Paulista,1957,1957-06-16,Nacional (SP),1,0,Ypiranga (SP),VC,3,0,14
+Paulista,1957,1957-06-16,Taubaté,2,2,Corinthians,E,1,1,15
+Paulista,1957,1957-06-16,Jabaquara,1,4,Ferroviária (SP),VV,0,3,16
+Paulista,1957,1957-06-16,Noroeste,1,1,Portuguesa,E,1,1,17
+Paulista,1957,1957-06-23,XV de Piracicaba,4,2,Jabaquara,VC,3,0,18
+Paulista,1957,1957-06-23,Santos,7,1,Linense,VC,3,0,19
+Paulista,1957,1957-06-23,Botafogo (SP),4,1,XV de Jaú,VC,3,0,20
+Paulista,1957,1957-06-23,São Bento (SP),0,0,Guarani,E,1,1,21
+Paulista,1957,1957-06-23,Ponte Preta,3,1,Palmeiras,VC,3,0,22
+Paulista,1957,1957-06-23,Ypiranga (SP),2,1,Ferroviária (SP),VC,3,0,23
+Paulista,1957,1957-06-23,Noroeste,1,1,Portuguesa Santista,E,1,1,24
+Paulista,1957,1957-06-23,Taubaté,5,3,Nacional (SP),VC,3,0,25
+Paulista,1957,1957-06-26,Portuguesa Santista,3,2,XV de Piracicaba,VC,3,0,26
+Paulista,1957,1957-06-30,Palmeiras,1,1,Ypiranga (SP),E,1,1,27
+Paulista,1957,1957-06-30,Taubaté,1,0,Linense,VC,3,0,28
+Paulista,1957,1957-06-30,Ferroviária (SP),4,1,Juventus (SP),VC,3,0,29
+Paulista,1957,1957-06-30,Portuguesa,3,1,XV de Piracicaba,VC,3,0,30
+Paulista,1957,1957-06-30,Noroeste,2,2,Botafogo (SP),E,1,1,31
+Paulista,1957,1957-06-30,XV de Jaú,1,0,Ponte Preta,VC,3,0,32
+Paulista,1957,1957-06-30,Guarani,6,3,Nacional (SP),VC,3,0,33
+Paulista,1957,1957-06-30,Santos,5,2,São Bento (SP),VC,3,0,34
+Paulista,1957,1957-07-07,Linense,0,7,Noroeste,VV,0,3,35
+Paulista,1957,1957-07-07,Ypiranga (SP),0,3,Guarani,VV,0,3,36
+Paulista,1957,1957-07-07,Botafogo (SP),2,1,Taubaté,VC,3,0,37
+Paulista,1957,1957-07-07,Ponte Preta,0,2,São Bento (SP),VV,0,3,38
+Paulista,1957,1957-07-07,Jabaquara,2,1,Portuguesa Santista,VC,3,0,39
+Paulista,1957,1957-07-07,XV de Piracicaba,6,3,XV de Jaú,VC,3,0,40
+Paulista,1957,1957-07-10,Jabaquara,1,0,Botafogo (SP),VC,3,0,41
+Paulista,1957,1957-07-11,Portuguesa,3,2,Juventus (SP),VC,3,0,42
+Paulista,1957,1957-07-13,Corinthians,3,1,Ypiranga (SP),VC,3,0,43
+Paulista,1957,1957-07-14,São Bento (SP),1,2,Noroeste,VV,0,3,44
+Paulista,1957,1957-07-14,Guarani,0,2,Portuguesa Santista,VV,0,3,45
+Paulista,1957,1957-07-14,Nacional (SP),0,2,Ponte Preta,VV,0,3,46
+Paulista,1957,1957-07-14,XV de Jaú,1,1,Linense,E,1,1,47
+Paulista,1957,1957-07-14,Botafogo (SP),1,0,São Paulo,VC,3,0,48
+Paulista,1957,1957-07-14,Ferroviária (SP),2,1,Taubaté,VC,3,0,49
+Paulista,1957,1957-07-14,Juventus (SP),0,1,Jabaquara,VV,0,3,50
+Paulista,1957,1957-07-14,Portuguesa,2,1,Palmeiras,VC,3,0,51
+Paulista,1957,1957-07-14,Santos,5,3,XV de Piracicaba,VC,3,0,52
+Paulista,1957,1957-07-17,Palmeiras,4,0,São Bento (SP),VC,3,0,53
+Paulista,1957,1957-07-17,Santos,1,0,Noroeste,VC,3,0,54
+Paulista,1957,1957-07-18,Corinthians,7,1,Ferroviária (SP),VC,3,0,55
+Paulista,1957,1957-07-20,São Paulo,7,0,Linense,VC,3,0,56
+Paulista,1957,1957-07-21,Noroeste,3,3,Guarani,E,1,1,57
+Paulista,1957,1957-07-21,Portuguesa Santista,0,0,São Bento (SP),E,1,1,58
+Paulista,1957,1957-07-21,Palmeiras,2,0,Botafogo (SP),VC,3,0,59
+Paulista,1957,1957-07-21,Portuguesa,2,0,XV de Jaú,VC,3,0,60
+Paulista,1957,1957-07-21,Ponte Preta,4,0,Ferroviária (SP),VC,3,0,61
+Paulista,1957,1957-07-21,XV de Piracicaba,1,0,Ypiranga (SP),VC,3,0,62
+Paulista,1957,1957-07-21,Corinthians,2,1,Santos,VC,3,0,63
+Paulista,1957,1957-07-24,São Paulo,4,2,Taubaté,VC,3,0,64
+Paulista,1957,1957-07-25,Corinthians,1,1,XV de Jaú,E,1,1,65
+Paulista,1957,1957-07-27,Santos,7,2,Ponte Preta,VC,3,0,66
+Paulista,1957,1957-07-27,Palmeiras,1,0,Nacional (SP),VC,3,0,67
+Paulista,1957,1957-07-28,Guarani,1,3,Botafogo (SP),VV,0,3,68
+Paulista,1957,1957-07-28,São Paulo,4,1,Noroeste,VC,3,0,69
+Paulista,1957,1957-07-28,Linense,1,0,Portuguesa Santista,VC,3,0,70
+Paulista,1957,1957-07-28,Corinthians,2,1,XV de Piracicaba,VC,3,0,71
+Paulista,1957,1957-07-28,Juventus (SP),2,0,XV de Jaú,VC,3,0,72
+Paulista,1957,1957-07-28,Jabaquara,3,2,Ypiranga (SP),VC,3,0,73
+Paulista,1957,1957-07-28,São Bento (SP),3,1,Ferroviária (SP),VC,3,0,74
+Paulista,1957,1957-07-28,Portuguesa,3,0,Taubaté,VC,3,0,75
+Paulista,1957,1957-07-31,Jabaquara,6,4,Santos,VC,3,0,76
+Paulista,1957,1957-07-31,Juventus (SP),4,1,São Bento (SP),VC,3,0,77
+Paulista,1957,1957-08-01,São Paulo,1,1,XV de Jaú,E,1,1,78
+Paulista,1957,1957-08-03,Botafogo (SP),6,0,Linense,VC,3,0,79
+Paulista,1957,1957-08-03,Corinthians,2,1,Guarani,VC,3,0,80
+Paulista,1957,1957-08-03,Portuguesa Santista,1,2,Nacional (SP),VV,0,3,81
+Paulista,1957,1957-08-04,XV de Piracicaba,4,0,Juventus (SP),VC,3,0,82
+Paulista,1957,1957-08-04,Palmeiras,0,0,São Paulo,E,1,1,83
+Paulista,1957,1957-08-04,XV de Jaú,3,3,Noroeste,E,1,1,84
+Paulista,1957,1957-08-04,Portuguesa,3,0,São Bento (SP),VC,3,0,85
+Paulista,1957,1957-08-04,Ferroviária (SP),3,2,Santos,VC,3,0,86
+Paulista,1957,1957-08-04,Jabaquara,2,1,Taubaté,VC,3,0,87
+Paulista,1957,1957-08-04,Ypiranga (SP),1,3,Ponte Preta,VV,0,3,88
+Paulista,1957,1957-08-07,São Paulo,0,0,Nacional (SP),E,1,1,89
+Paulista,1957,1957-08-08,Portuguesa,1,0,Botafogo (SP),VC,3,0,90
+Paulista,1957,1957-08-10,Palmeiras,0,0,Ferroviária (SP),E,1,1,91
+Paulista,1957,1957-08-10,São Paulo,2,0,Jabaquara,VC,3,0,92
+Paulista,1957,1957-08-11,Corinthians,2,1,Portuguesa,VC,3,0,93
+Paulista,1957,1957-08-11,Taubaté,0,1,Noroeste,VV,0,3,94
+Paulista,1957,1957-08-11,Ponte Preta,2,1,Guarani,VC,3,0,95
+Paulista,1957,1957-08-11,Nacional (SP),3,0,XV de Jaú,VC,3,0,96
+Paulista,1957,1957-08-11,Ypiranga (SP),1,4,Portuguesa Santista,VV,0,3,97
+Paulista,1957,1957-08-11,Linense,0,2,Juventus (SP),VV,0,3,98
+Paulista,1957,1957-08-11,São Bento (SP),2,0,XV de Piracicaba,VC,3,0,99
+Paulista,1957,1957-08-11,Santos,4,2,Botafogo (SP),VC,3,0,100
+Paulista,1957,1957-08-14,Palmeiras,6,2,Linense,VC,3,0,101
+Paulista,1957,1957-08-15,Santos,8,1,Guarani,VC,3,0,102
+Paulista,1957,1957-08-15,São Paulo,1,1,Ferroviária (SP),E,1,1,103
+Paulista,1957,1957-08-15,Corinthians,1,0,Nacional (SP),VC,3,0,104
+Paulista,1957,1957-08-17,Palmeiras,5,2,XV de Jaú,VC,3,0,105
+Paulista,1957,1957-08-18,Taubaté,0,0,Guarani,E,1,1,106
+Paulista,1957,1957-08-18,Ponte Preta,1,2,Portuguesa Santista,VV,0,3,107
+Paulista,1957,1957-08-18,Juventus (SP),2,1,São Paulo,VC,3,0,108
+Paulista,1957,1957-08-18,São Bento (SP),3,0,Botafogo (SP),VC,3,0,109
+Paulista,1957,1957-08-18,Ferroviária (SP),1,2,XV de Piracicaba,VV,0,3,110
+Paulista,1957,1957-08-18,Santos,5,2,Portuguesa,VC,3,0,111
+Paulista,1957,1957-08-18,Nacional (SP),2,2,Jabaquara,E,1,1,112
+Paulista,1957,1957-08-18,Corinthians,5,0,Linense,VC,3,0,113
+Paulista,1957,1957-08-18,Noroeste,4,0,Ypiranga (SP),VC,3,0,114
+Paulista,1957,1957-08-21,Corinthians,3,2,Noroeste,VC,3,0,115
+Paulista,1957,1957-08-21,Portuguesa Santista,1,0,Taubaté,VC,3,0,116
+Paulista,1957,1957-08-24,Juventus (SP),3,1,Palmeiras,VC,3,0,117
+Paulista,1957,1957-08-24,Jabaquara,3,1,Noroeste,VC,3,0,118
+Paulista,1957,1957-08-25,Portuguesa,2,2,Ypiranga (SP),E,1,1,119
+Paulista,1957,1957-08-25,XV de Piracicaba,6,4,Guarani,VC,3,0,120
+Paulista,1957,1957-08-25,Corinthians,2,1,São Paulo,VC,3,0,121
+Paulista,1957,1957-08-25,Santos,3,1,Taubaté,VC,3,0,122
+Paulista,1957,1957-08-25,Nacional (SP),1,2,São Bento (SP),VV,0,3,123
+Paulista,1957,1957-08-25,XV de Jaú,2,0,Portuguesa Santista,VC,3,0,124
+Paulista,1957,1957-08-25,Linense,0,2,Ferroviária (SP),VV,0,3,125
+Paulista,1957,1957-08-25,Botafogo (SP),0,0,Ponte Preta,E,1,1,126
+Paulista,1957,1957-08-28,Portuguesa Santista,2,0,Juventus (SP),VC,3,0,127
+Paulista,1957,1957-08-28,São Paulo,4,2,Guarani,VC,3,0,128
+Paulista,1957,1957-08-29,Portuguesa,0,0,Linense,E,1,1,129
+Paulista,1957,1957-08-31,São Paulo,2,1,Portuguesa Santista,VC,3,0,130
+Paulista,1957,1957-09-01,Juventus (SP),3,1,Taubaté,VC,3,0,131
+Paulista,1957,1957-09-01,Ypiranga (SP),0,2,São Bento (SP),VV,0,3,132
+Paulista,1957,1957-09-01,Corinthians,5,1,Botafogo (SP),VC,3,0,133
+Paulista,1957,1957-09-01,Linense,1,2,Ponte Preta,VV,0,3,134
+Paulista,1957,1957-09-01,Santos,3,1,XV de Jaú,VC,3,0,135
+Paulista,1957,1957-09-01,Guarani,2,0,Ferroviária (SP),VC,3,0,136
+Paulista,1957,1957-09-01,Palmeiras,1,1,Jabaquara,E,1,1,137
+Paulista,1957,1957-09-01,XV de Piracicaba,3,2,Noroeste,VC,3,0,138
+Paulista,1957,1957-09-01,Portuguesa,2,1,Nacional (SP),VC,3,0,139
+Paulista,1957,1957-09-04,Palmeiras,3,1,Guarani,VC,3,0,140
+Paulista,1957,1957-09-04,Jabaquara,2,1,São Bento (SP),VC,3,0,141
+Paulista,1957,1957-09-05,São Paulo,1,2,XV de Piracicaba,VV,0,3,142
+Paulista,1957,1957-09-07,Corinthians,0,0,Portuguesa Santista,E,1,1,143
+Paulista,1957,1957-09-07,Nacional (SP),1,4,Noroeste,VV,0,3,144
+Paulista,1957,1957-09-08,São Bento (SP),3,1,Linense,VC,3,0,145
+Paulista,1957,1957-09-08,XV de Jaú,0,3,Jabaquara,VV,0,3,146
+Paulista,1957,1957-09-08,Santos,1,2,Palmeiras,VV,0,3,147
+Paulista,1957,1957-09-08,Ponte Preta,5,2,XV de Piracicaba,VC,3,0,148
+Paulista,1957,1957-09-08,Taubaté,3,1,Ypiranga (SP),VC,3,0,149
+Paulista,1957,1957-09-08,Portuguesa,2,2,São Paulo,E,1,1,150
+Paulista,1957,1957-09-08,Ferroviária (SP),1,0,Botafogo (SP),VC,3,0,151
+Paulista,1957,1957-09-08,Juventus (SP),3,1,Guarani,VC,3,0,152
+Paulista,1957,1957-09-11,Santos,7,1,Nacional (SP),VC,3,0,153
+Paulista,1957,1957-09-11,Corinthians,2,2,Ponte Preta,E,1,1,154
+Paulista,1957,1957-09-12,São Paulo,3,0,Ypiranga (SP),VC,3,0,155
+Paulista,1957,1957-09-14,Corinthians,3,0,Juventus (SP),VC,3,0,156
+Paulista,1957,1957-09-15,Taubaté,6,0,XV de Jaú,VC,3,0,157
+Paulista,1957,1957-09-15,Portuguesa,0,1,Jabaquara,VV,0,3,158
+Paulista,1957,1957-09-15,Palmeiras,0,1,Portuguesa Santista,VV,0,3,159
+Paulista,1957,1957-09-15,Guarani,2,1,Linense,VC,3,0,160
+Paulista,1957,1957-09-15,São Paulo,3,2,Santos,VC,3,0,161
+Paulista,1957,1957-09-15,Noroeste,1,0,Ponte Preta,VC,3,0,162
+Paulista,1957,1957-09-15,Botafogo (SP),2,0,XV de Piracicaba,VC,3,0,163
+Paulista,1957,1957-09-15,Ferroviária (SP),2,2,Nacional (SP),E,1,1,164
+Paulista,1957,1957-09-18,Jabaquara,1,3,Ponte Preta,VV,0,3,165
+Paulista,1957,1957-09-18,Corinthians,2,1,São Bento (SP),VC,3,0,166
+Paulista,1957,1957-09-19,Juventus (SP),4,3,Nacional (SP),VC,3,0,167
+Paulista,1957,1957-09-21,Palmeiras,2,0,XV de Piracicaba,VC,3,0,168
+Paulista,1957,1957-09-22,Ypiranga (SP),2,0,Linense,VC,3,0,169
+Paulista,1957,1957-09-22,Portuguesa,4,0,Guarani,VC,3,0,170
+Paulista,1957,1957-09-22,Juventus (SP),1,2,Noroeste,VV,0,3,171
+Paulista,1957,1957-09-22,São Paulo,5,0,São Bento (SP),VC,3,0,172
+Paulista,1957,1957-09-22,Ponte Preta,3,1,Taubaté,VC,3,0,173
+Paulista,1957,1957-09-22,Santos,1,1,Portuguesa Santista,E,1,1,174
+Paulista,1957,1957-09-22,Nacional (SP),0,1,Botafogo (SP),VV,0,3,175
+Paulista,1957,1957-09-22,Corinthians,1,1,Jabaquara,E,1,1,176
+Paulista,1957,1957-09-22,Ferroviária (SP),2,1,XV de Jaú,VC,3,0,177
+Paulista,1957,1957-09-25,Palmeiras,2,3,Taubaté,VV,0,3,178
+Paulista,1957,1957-09-25,Santos,9,1,Ypiranga (SP),VC,3,0,179
+Paulista,1957,1957-09-26,Portuguesa,2,1,Ferroviária (SP),VC,3,0,180
+Paulista,1957,1957-09-28,São Paulo,5,0,Ponte Preta,VC,3,0,181
+Paulista,1957,1957-09-29,XV de Jaú,3,2,Guarani,VC,3,0,182
+Paulista,1957,1957-09-29,Portuguesa,2,0,Portuguesa Santista,VC,3,0,183
+Paulista,1957,1957-09-29,São Bento (SP),1,3,Taubaté,VV,0,3,184
+Paulista,1957,1957-09-29,Linense,1,2,Jabaquara,VV,0,3,185
+Paulista,1957,1957-09-29,Corinthians,1,1,Palmeiras,E,1,1,186
+Paulista,1957,1957-09-29,Nacional (SP),0,4,XV de Piracicaba,VV,0,3,187
+Paulista,1957,1957-09-29,Noroeste,3,1,Ferroviária (SP),VC,3,0,188
+Paulista,1957,1957-09-29,Ypiranga (SP),1,2,Botafogo (SP),VV,0,3,189
+Paulista,1957,1957-09-29,Santos,6,1,Juventus (SP),VC,3,0,190
+Paulista,1957,1957-10-09,São Paulo,1,1,Botafogo (SP),E,1,1,191
+Paulista,1957,1957-10-10,Portuguesa,4,0,XV de Piracicaba,VC,3,0,192
+Paulista,1957,1957-10-13,Santos,6,1,Ponte Preta,VC,3,0,193
+Paulista,1957,1957-10-13,Portuguesa,3,1,Portuguesa Santista,VC,3,0,194
+Paulista,1957,1957-10-13,São Paulo,2,0,Jabaquara,VC,3,0,195
+Paulista,1957,1957-10-13,Botafogo (SP),2,1,Palmeiras,VC,3,0,196
+Paulista,1957,1957-10-15,Corinthians,3,1,XV de Piracicaba,VC,3,0,197
+Paulista,1957,1957-10-16,Ponte Preta,1,0,Botafogo (SP),VC,3,0,198
+Paulista,1957,1957-10-16,São Paulo,5,1,Portuguesa Santista,VC,3,0,199
+Paulista,1957,1957-10-16,Santos,4,0,Jabaquara,VC,3,0,200
+Paulista,1957,1957-10-19,Portuguesa,1,1,Palmeiras,E,1,1,201
+Paulista,1957,1957-10-20,Portuguesa Santista,3,3,Jabaquara,E,1,1,202
+Paulista,1957,1957-10-20,Corinthians,1,1,São Paulo,E,1,1,203
+Paulista,1957,1957-10-20,XV de Piracicaba,2,1,Ponte Preta,VC,3,0,204
+Paulista,1957,1957-10-20,Botafogo (SP),4,2,Santos,VC,3,0,205
+Paulista,1957,1957-10-20,Taubaté,2,0,Ferroviária (SP),VC,3,0,206
+Paulista,1957,1957-10-20,XV de Jaú,3,2,Juventus (SP),VC,3,0,207
+Paulista,1957,1957-10-20,Guarani,3,1,Noroeste,VC,3,0,208
+Paulista,1957,1957-10-20,Nacional (SP),2,1,Ypiranga (SP),VC,3,0,209
+Paulista,1957,1957-10-23,Santos,2,2,Portuguesa Santista,E,1,1,210
+Paulista,1957,1957-10-23,Corinthians,4,0,Botafogo (SP),VC,3,0,211
+Paulista,1957,1957-10-24,Jabaquara,1,1,Portuguesa,E,1,1,212
+Paulista,1957,1957-10-26,Palmeiras,3,4,Santos,VV,0,3,213
+Paulista,1957,1957-10-27,São Bento (SP),2,1,Ypiranga (SP),VC,3,0,214
+Paulista,1957,1957-10-27,Guarani,6,2,Taubaté,VC,3,0,215
+Paulista,1957,1957-10-27,Ferroviária (SP),4,0,XV de Jaú,VC,3,0,216
+Paulista,1957,1957-10-27,Botafogo (SP),3,1,XV de Piracicaba,VC,3,0,217
+Paulista,1957,1957-10-27,Portuguesa,4,0,São Paulo,VC,3,0,218
+Paulista,1957,1957-10-27,Portuguesa Santista,2,3,Corinthians,VV,0,3,219
+Paulista,1957,1957-10-27,Linense,0,3,Nacional (SP),VV,0,3,220
+Paulista,1957,1957-10-27,Juventus (SP),1,1,Noroeste,E,1,1,221
+Paulista,1957,1957-10-30,Jabaquara,0,1,Corinthians,VV,0,3,222
+Paulista,1957,1957-10-30,Palmeiras,1,2,Ponte Preta,VV,0,3,223
+Paulista,1957,1957-10-31,Noroeste,6,0,Linense,VC,3,0,224
+Paulista,1957,1957-11-03,XV de Piracicaba,3,0,Jabaquara,VC,3,0,225
+Paulista,1957,1957-11-03,Portuguesa,5,0,Botafogo (SP),VC,3,0,226
+Paulista,1957,1957-11-03,Ponte Preta,0,2,São Paulo,VV,0,3,227
+Paulista,1957,1957-11-03,Linense,3,2,Guarani,VC,3,0,228
+Paulista,1957,1957-11-03,Portuguesa Santista,2,2,Palmeiras,E,1,1,229
+Paulista,1957,1957-11-03,XV de Jaú,0,0,São Bento (SP),E,1,1,230
+Paulista,1957,1957-11-03,Ypiranga (SP),3,4,Noroeste,VV,0,3,231
+Paulista,1957,1957-11-03,Taubaté,2,1,Juventus (SP),VC,3,0,232
+Paulista,1957,1957-11-03,Corinthians,3,3,Santos,E,1,1,233
+Paulista,1957,1957-11-03,Nacional (SP),6,2,Ferroviária (SP),VC,3,0,234
+Paulista,1957,1957-11-06,Santos,3,1,Portuguesa,VC,3,0,235
+Paulista,1957,1957-11-06,Ponte Preta,1,3,Corinthians,VV,0,3,236
+Paulista,1957,1957-11-06,Palmeiras,1,1,XV de Piracicaba,E,1,1,237
+Paulista,1957,1957-11-09,Portuguesa,2,2,Corinthians,E,1,1,238
+Paulista,1957,1957-11-10,Ferroviária (SP),1,0,São Bento (SP),VC,3,0,239
+Paulista,1957,1957-11-10,Linense,1,1,Taubaté,E,1,1,240
+Paulista,1957,1957-11-10,XV de Piracicaba,0,3,Santos,VV,0,3,241
+Paulista,1957,1957-11-10,Guarani,4,0,Ypiranga (SP),VC,3,0,242
+Paulista,1957,1957-11-10,Botafogo (SP),0,1,Portuguesa Santista,VV,0,3,243
+Paulista,1957,1957-11-10,Jabaquara,4,1,Ponte Preta,VC,3,0,244
+Paulista,1957,1957-11-10,XV de Jaú,1,2,Nacional (SP),VV,0,3,245
+Paulista,1957,1957-11-10,São Paulo,4,2,Palmeiras,VC,3,0,246
+Paulista,1957,1957-11-13,Jabaquara,0,0,Palmeiras,E,1,1,247
+Paulista,1957,1957-11-13,São Paulo,7,1,XV de Piracicaba,VC,3,0,248
+Paulista,1957,1957-11-13,Noroeste,3,1,Ferroviária (SP),VC,3,0,249
+Paulista,1957,1957-11-17,Corinthians,1,0,Palmeiras,VC,3,0,250
+Paulista,1957,1957-11-17,Botafogo (SP),1,1,Jabaquara,E,1,1,251
+Paulista,1957,1957-11-17,Santos,2,6,São Paulo,VV,0,3,252
+Paulista,1957,1957-11-17,XV de Piracicaba,0,0,Portuguesa Santista,E,1,1,253
+Paulista,1957,1957-11-17,Ferroviária (SP),2,1,Linense,VC,3,0,254
+Paulista,1957,1957-11-17,Taubaté,4,0,XV de Jaú,VC,3,0,255
+Paulista,1957,1957-11-17,Nacional (SP),3,2,Guarani,VC,3,0,256
+Paulista,1957,1957-11-17,Ypiranga (SP),2,1,Juventus (SP),VC,3,0,257
+Paulista,1957,1957-11-17,São Bento (SP),1,0,Noroeste,VC,3,0,258
+Paulista,1957,1957-11-17,Ponte Preta,0,0,Portuguesa,E,1,1,259
+Paulista,1957,1957-11-20,Juventus (SP),5,1,Nacional (SP),VC,3,0,260
+Paulista,1957,1957-11-20,Portuguesa,2,1,Jabaquara,VC,3,0,261
+Paulista,1957,1957-11-20,São Paulo,6,2,Ponte Preta,VC,3,0,262
+Paulista,1957,1957-11-21,Corinthians,5,1,Portuguesa Santista,VC,3,0,263
+Paulista,1957,1957-11-21,Palmeiras,3,0,Botafogo (SP),VC,3,0,264
+Paulista,1957,1957-11-24,Corinthians,5,1,Ponte Preta,VC,3,0,265
+Paulista,1957,1957-11-24,São Bento (SP),1,3,Taubaté,VV,0,3,266
+Paulista,1957,1957-11-24,Guarani,3,0,Juventus (SP),VC,3,0,267
+Paulista,1957,1957-11-24,Noroeste,3,0,Nacional (SP),VC,3,0,268
+Paulista,1957,1957-11-24,Ferroviária (SP),0,0,Ypiranga (SP),E,1,1,269
+Paulista,1957,1957-11-24,Palmeiras,3,4,Portuguesa Santista,VV,0,3,270
+Paulista,1957,1957-11-24,Botafogo (SP),2,2,Portuguesa,E,1,1,271
+Paulista,1957,1957-11-24,XV de Piracicaba,3,5,São Paulo,VV,0,3,272
+Paulista,1957,1957-11-24,Santos,5,1,Jabaquara,VC,3,0,273
+Paulista,1957,1957-11-24,Linense,0,0,XV de Jaú,E,1,1,274
+Paulista,1957,1957-11-27,Corinthians,3,1,Palmeiras,VC,3,0,275
+Paulista,1957,1957-11-27,Santos,6,2,XV de Piracicaba,VC,3,0,276
+Paulista,1957,1957-11-27,Juventus (SP),0,0,São Bento (SP),E,1,1,277
+Paulista,1957,1957-11-27,Ypiranga (SP),0,0,Taubaté,E,1,1,278
+Paulista,1957,1957-11-27,Ponte Preta,3,1,Jabaquara,VC,3,0,279
+Paulista,1957,1957-11-30,Botafogo (SP),2,2,Corinthians,E,1,1,280
+Paulista,1957,1957-11-30,Jabaquara,1,2,São Paulo,VV,0,3,281
+Paulista,1957,1957-12-01,Santos,6,2,Portuguesa Santista,VC,3,0,282
+Paulista,1957,1957-12-01,XV de Jaú,3,0,Ypiranga (SP),VC,3,0,283
+Paulista,1957,1957-12-01,Juventus (SP),4,0,Linense,VC,3,0,284
+Paulista,1957,1957-12-01,Taubaté,2,1,Noroeste,VC,3,0,285
+Paulista,1957,1957-12-01,Ferroviária (SP),4,3,Guarani,VC,3,0,286
+Paulista,1957,1957-12-01,São Bento (SP),2,2,Nacional (SP),E,1,1,287
+Paulista,1957,1957-12-01,Ponte Preta,2,1,Palmeiras,VC,3,0,288
+Paulista,1957,1957-12-01,XV de Piracicaba,5,3,Portuguesa,VC,3,0,289
+Paulista,1957,1957-12-03,Guarani,6,3,XV de Jaú,VC,3,0,290
+Paulista,1957,1957-12-03,São Paulo,2,2,Santos,E,1,1,291
+Paulista,1957,1957-12-04,Portuguesa,2,0,Palmeiras,VC,3,0,292
+Paulista,1957,1957-12-04,Portuguesa Santista,4,2,XV de Piracicaba,VC,3,0,293
+Paulista,1957,1957-12-04,Botafogo (SP),2,1,Ponte Preta,VC,3,0,294
+Paulista,1957,1957-12-07,Botafogo (SP),0,0,São Paulo,E,1,1,295
+Paulista,1957,1957-12-08,Juventus (SP),2,0,Ferroviária (SP),VC,3,0,296
+Paulista,1957,1957-12-08,Noroeste,2,1,XV de Jaú,VC,3,0,297
+Paulista,1957,1957-12-08,São Bento (SP),1,1,Guarani,E,1,1,298
+Paulista,1957,1957-12-08,Ypiranga (SP),4,1,Linense,VC,3,0,299
+Paulista,1957,1957-12-08,Corinthians,1,0,Portuguesa,VC,3,0,300
+Paulista,1957,1957-12-08,Ponte Preta,1,2,Santos,VV,0,3,301
+Paulista,1957,1957-12-08,Jabaquara,1,1,Portuguesa Santista,E,1,1,302
+Paulista,1957,1957-12-08,XV de Piracicaba,1,6,Palmeiras,VV,0,3,303
+Paulista,1957,1957-12-08,Nacional (SP),2,1,Taubaté,VC,3,0,304
+Paulista,1957,1957-12-11,Portuguesa Santista,1,1,Botafogo (SP),E,1,1,305
+Paulista,1957,1957-12-11,Ponte Preta,1,0,XV de Piracicaba,VC,3,0,306
+Paulista,1957,1957-12-11,Palmeiras,2,2,Jabaquara,E,1,1,307
+Paulista,1957,1957-12-14,Jabaquara,1,2,Botafogo (SP),VV,0,3,308
+Paulista,1957,1957-12-15,Portuguesa,0,6,Santos,VV,0,3,309
+Paulista,1957,1957-12-15,XV de Piracicaba,2,5,Corinthians,VV,0,3,310
+Paulista,1957,1957-12-15,Nacional (SP),1,1,Linense,E,1,1,311
+Paulista,1957,1957-12-15,Taubaté,4,1,Ypiranga (SP),VC,3,0,312
+Paulista,1957,1957-12-15,Noroeste,3,2,Juventus (SP),VC,3,0,313
+Paulista,1957,1957-12-15,XV de Jaú,2,3,Guarani,VV,0,3,314
+Paulista,1957,1957-12-15,Portuguesa Santista,2,3,São Paulo,VV,0,3,315
+Paulista,1957,1957-12-15,São Bento (SP),2,1,Ferroviária (SP),VC,3,0,316
+Paulista,1957,1957-12-18,Nacional (SP),1,0,Ypiranga (SP),VC,3,0,317
+Paulista,1957,1957-12-18,Linense,1,0,Noroeste,VC,3,0,318
+Paulista,1957,1957-12-18,Santos,2,1,Botafogo (SP),VC,3,0,319
+Paulista,1957,1957-12-18,Ponte Preta,2,1,Portuguesa Santista,VC,3,0,320
+Paulista,1957,1957-12-18,Corinthians,1,0,Jabaquara,VC,3,0,321
+Paulista,1957,1957-12-19,São Paulo,3,1,Portuguesa,VC,3,0,322
+Paulista,1957,1957-12-21,Jabaquara,2,0,XV de Piracicaba,VC,3,0,323
+Paulista,1957,1957-12-22,Nacional (SP),5,2,XV de Jaú,VC,3,0,324
+Paulista,1957,1957-12-22,Juventus (SP),3,2,Guarani,VC,3,0,325
+Paulista,1957,1957-12-22,Noroeste,1,0,Taubaté,VC,3,0,326
+Paulista,1957,1957-12-22,Ypiranga (SP),1,1,Ferroviária (SP),E,1,1,327
+Paulista,1957,1957-12-22,São Paulo,1,0,Palmeiras,VC,3,0,328
+Paulista,1957,1957-12-22,Portuguesa,5,2,Ponte Preta,VC,3,0,329
+Paulista,1957,1957-12-22,Santos,1,0,Corinthians,VC,3,0,330
+Paulista,1957,1957-12-22,Linense,2,2,São Bento (SP),E,1,1,331
+Paulista,1957,1957-12-28,Santos,4,1,Palmeiras,VC,3,0,332
+Paulista,1957,1957-12-29,São Paulo,3,1,Corinthians,VC,3,0,333
+Paulista,1957,1957-12-29,Portuguesa Santista,2,2,Portuguesa,E,1,1,334
+Paulista,1957,1957-12-29,XV de Piracicaba,1,3,Botafogo (SP),VV,0,3,335
+Paulista,1957,1957-12-29,Taubaté,4,1,XV de Jaú,VC,3,0,336
+Paulista,1957,1957-12-29,Ferroviária (SP),4,0,Nacional (SP),VC,3,0,337
+Paulista,1957,1957-12-29,Noroeste,2,0,Ypiranga (SP),VC,3,0,338
+Paulista,1957,1957-12-29,Guarani,4,4,São Bento (SP),E,1,1,339
+Paulista,1957,1957-12-29,Juventus (SP),1,0,Linense,VC,3,0,340
+Paulista,1957,1958-01-05,São Bento (SP),2,2,Juventus (SP),E,1,1,341
+Paulista,1957,1958-01-05,Ypiranga (SP),1,0,Guarani,VC,3,0,342
+Paulista,1957,1958-01-05,Taubaté,3,2,Linense,VC,3,0,343
+Paulista,1957,1958-01-05,Nacional (SP),1,1,Noroeste,E,1,1,344
+Paulista,1957,1958-01-05,XV de Jaú,3,4,Ferroviária (SP),VV,0,3,345
+Paulista,1957,1958-01-08,Taubaté,1,0,Guarani,VC,3,0,346
+Paulista,1957,1958-01-08,Ypiranga (SP),2,0,São Bento (SP),VC,3,0,347
+Paulista,1957,1958-01-12,Guarani,3,0,Nacional (SP),VC,3,0,348
+Paulista,1957,1958-01-12,São Bento (SP),3,1,Taubaté,VC,3,0,349
+Paulista,1957,1958-01-12,XV de Jaú,4,1,Noroeste,VC,3,0,350
+Paulista,1957,1958-01-12,Juventus (SP),3,1,Ypiranga (SP),VC,3,0,351
+Paulista,1957,1958-01-12,Linense,3,2,Ferroviária (SP),VC,3,0,352
+Paulista,1957,1958-01-15,São Bento (SP),2,0,XV de Jaú,VC,3,0,353
+Paulista,1957,1958-01-15,Ferroviária (SP),0,2,Noroeste,VV,0,3,354
+Paulista,1957,1958-01-15,Juventus (SP),1,4,Taubaté,VV,0,3,355
+Paulista,1957,1958-01-19,Guarani,4,0,Linense,VC,3,0,356
+Paulista,1957,1958-01-19,Ypiranga (SP),0,2,XV de Jaú,VV,0,3,357
+Paulista,1957,1958-01-19,Noroeste,1,1,São Bento (SP),E,1,1,358
+Paulista,1957,1958-01-19,Ferroviária (SP),1,1,Juventus (SP),E,1,1,359
+Paulista,1957,1958-01-19,Taubaté,4,1,Nacional (SP),VC,3,0,360
+Paulista,1957,1958-01-22,XV de Jaú,5,0,Linense,VC,3,0,361
+Paulista,1957,1958-01-22,Guarani,8,2,Ferroviária (SP),VC,3,0,362
+Paulista,1957,1958-01-22,Nacional (SP),3,1,Juventus (SP),VC,3,0,363
+Paulista,1957,1958-01-26,Noroeste,3,2,Guarani,VC,3,0,364
+Paulista,1957,1958-01-26,Nacional (SP),2,0,São Bento (SP),VC,3,0,365
+Paulista,1957,1958-01-26,Ferroviária (SP),3,1,Taubaté,VC,3,0,366
+Paulista,1957,1958-01-26,Linense,2,2,Ypiranga (SP),E,1,1,367
+Paulista,1957,1958-01-28,Juventus (SP),4,1,XV de Jaú,VC,3,0,368

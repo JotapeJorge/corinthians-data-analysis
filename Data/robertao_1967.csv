@@ -1,0 +1,118 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Robertão,1967,1967-03-05,Fluminense,2,4,Palmeiras,VV,0,3,1
+Robertão,1967,1967-03-05,Cruzeiro,4,0,Atlético-MG,VC,3,0,2
+Robertão,1967,1967-03-05,Portuguesa,1,2,Flamengo,VV,0,3,3
+Robertão,1967,1967-03-05,Ferroviário-CE,1,1,Bangu,E,1,1,4
+Robertão,1967,1967-03-05,Internacional,2,0,Grêmio,VC,3,0,5
+Robertão,1967,1967-03-08,Bangu,2,0,Vasco,VC,3,0,6
+Robertão,1967,1967-03-08,Atlético-MG,0,1,Santos,VV,0,3,7
+Robertão,1967,1967-03-08,Internacional,1,1,Flamengo,E,1,1,8
+Robertão,1967,1967-03-09,Palmeiras,2,1,Corinthians,VC,3,0,9
+Robertão,1967,1967-03-11,Botafogo,4,4,Atlético-MG,E,1,1,10
+Robertão,1967,1967-03-11,Portuguesa,2,1,Internacional,VC,3,0,11
+Robertão,1967,1967-03-12,Grêmio,1,1,Santos,E,1,1,12
+Robertão,1967,1967-03-12,Ferroviário-CE,1,2,Corinthians,VV,0,3,13
+Robertão,1967,1967-03-12,Cruzeiro,3,1,Fluminense,VC,3,0,14
+Robertão,1967,1967-03-12,Bangu,2,1,São Paulo,VC,3,0,15
+Robertão,1967,1967-03-12,Palmeiras,5,0,Vasco,VC,3,0,16
+Robertão,1967,1967-03-15,Flamengo,2,0,Cruzeiro,VC,3,0,17
+Robertão,1967,1967-03-15,Santos,5,1,Internacional,VC,3,0,18
+Robertão,1967,1967-03-18,Vasco,3,3,Portuguesa,E,1,1,19
+Robertão,1967,1967-03-19,Grêmio,2,0,Palmeiras,VC,3,0,20
+Robertão,1967,1967-03-19,São Paulo,1,1,Botafogo,E,1,1,21
+Robertão,1967,1967-03-19,Flamengo,0,1,Santos,VV,0,3,22
+Robertão,1967,1967-03-19,Atlético-MG,0,1,Bangu,VV,0,3,23
+Robertão,1967,1967-03-19,Corinthians,3,3,Fluminense,E,1,1,24
+Robertão,1967,1967-03-19,Ferroviário-CE,0,1,Internacional,VV,0,3,25
+Robertão,1967,1967-03-22,Santos,0,0,Botafogo,E,1,1,26
+Robertão,1967,1967-03-22,Internacional,1,0,São Paulo,VC,3,0,27
+Robertão,1967,1967-03-22,Vasco,1,1,Cruzeiro,E,1,1,28
+Robertão,1967,1967-03-25,Bangu,4,3,Flamengo,VC,3,0,29
+Robertão,1967,1967-03-26,Vasco,2,1,Santos,VC,3,0,30
+Robertão,1967,1967-03-26,Cruzeiro,2,1,Portuguesa,VC,3,0,31
+Robertão,1967,1967-03-26,São Paulo,1,2,Fluminense,VV,0,3,32
+Robertão,1967,1967-03-26,Ferroviário-CE,2,4,Palmeiras,VV,0,3,33
+Robertão,1967,1967-03-26,Grêmio,0,0,Botafogo,E,1,1,34
+Robertão,1967,1967-03-29,Flamengo,1,2,Grêmio,VV,0,3,35
+Robertão,1967,1967-03-29,Atlético-MG,4,2,Palmeiras,VC,3,0,36
+Robertão,1967,1967-03-29,Corinthians,4,2,Cruzeiro,VC,3,0,37
+Robertão,1967,1967-03-29,Internacional,0,1,Botafogo,VV,0,3,38
+Robertão,1967,1967-04-01,Santos,1,1,São Paulo,E,1,1,39
+Robertão,1967,1967-04-01,Vasco,2,2,Fluminense,E,1,1,40
+Robertão,1967,1967-04-02,Internacional,2,2,Corinthians,E,1,1,41
+Robertão,1967,1967-04-02,Ferroviário-CE,2,3,Portuguesa,VV,0,3,42
+Robertão,1967,1967-04-02,Atlético-MG,3,1,Flamengo,VC,3,0,43
+Robertão,1967,1967-04-02,Bangu,1,1,Grêmio,E,1,1,44
+Robertão,1967,1967-04-02,Palmeiras,3,2,Cruzeiro,VC,3,0,45
+Robertão,1967,1967-04-05,Fluminense,0,2,Atlético-MG,VV,0,3,46
+Robertão,1967,1967-04-05,Palmeiras,1,1,Portuguesa,E,1,1,47
+Robertão,1967,1967-04-05,Grêmio,1,2,Corinthians,VV,0,3,48
+Robertão,1967,1967-04-08,Bangu,0,0,Botafogo,E,1,1,49
+Robertão,1967,1967-04-08,Palmeiras,2,1,Santos,VC,3,0,50
+Robertão,1967,1967-04-09,Ferroviário-CE,1,2,Fluminense,VV,0,3,51
+Robertão,1967,1967-04-09,Corinthians,2,0,Vasco,VC,3,0,52
+Robertão,1967,1967-04-09,Internacional,2,1,Cruzeiro,VC,3,0,53
+Robertão,1967,1967-04-09,Flamengo,2,2,São Paulo,E,1,1,54
+Robertão,1967,1967-04-09,Atlético-MG,1,1,Grêmio,E,1,1,55
+Robertão,1967,1967-04-12,Corinthians,2,1,Portuguesa,VC,3,0,56
+Robertão,1967,1967-04-12,Internacional,2,2,Palmeiras,E,1,1,57
+Robertão,1967,1967-04-12,Flamengo,4,2,Botafogo,VC,3,0,58
+Robertão,1967,1967-04-12,Cruzeiro,3,0,Bangu,VC,3,0,59
+Robertão,1967,1967-04-15,Fluminense,4,3,Botafogo,VC,3,0,60
+Robertão,1967,1967-04-15,Santos,2,2,Portuguesa,E,1,1,61
+Robertão,1967,1967-04-16,Bangu,1,4,Corinthians,VV,0,3,62
+Robertão,1967,1967-04-16,Atlético-MG,0,0,Internacional,E,1,1,63
+Robertão,1967,1967-04-16,Palmeiras,3,3,Flamengo,E,1,1,64
+Robertão,1967,1967-04-16,Ferroviário-CE,0,1,Vasco,VV,0,3,65
+Robertão,1967,1967-04-16,Grêmio,1,1,São Paulo,E,1,1,66
+Robertão,1967,1967-04-19,Cruzeiro,3,1,Santos,VC,3,0,67
+Robertão,1967,1967-04-19,São Paulo,4,0,Ferroviário-CE,VC,3,0,68
+Robertão,1967,1967-04-19,Internacional,3,0,Fluminense,VC,3,0,69
+Robertão,1967,1967-04-22,Vasco,0,0,Flamengo,E,1,1,70
+Robertão,1967,1967-04-22,Corinthians,1,0,São Paulo,VC,3,0,71
+Robertão,1967,1967-04-23,Grêmio,3,1,Fluminense,VC,3,0,72
+Robertão,1967,1967-04-23,Ferroviário-CE,0,0,Cruzeiro,E,1,1,73
+Robertão,1967,1967-04-23,Atlético-MG,1,3,Portuguesa,VV,0,3,74
+Robertão,1967,1967-04-23,Botafogo,0,0,Palmeiras,E,1,1,75
+Robertão,1967,1967-04-23,Santos,3,0,Bangu,VC,3,0,76
+Robertão,1967,1967-04-26,Vasco,1,0,Botafogo,VC,3,0,77
+Robertão,1967,1967-04-26,Atlético-MG,0,0,Corinthians,E,1,1,78
+Robertão,1967,1967-04-26,Portuguesa,1,1,São Paulo,E,1,1,79
+Robertão,1967,1967-04-26,Internacional,2,2,Bangu,E,1,1,80
+Robertão,1967,1967-04-29,Botafogo,0,2,Corinthians,VV,0,3,81
+Robertão,1967,1967-04-30,Fluminense,3,0,Santos,VC,3,0,82
+Robertão,1967,1967-04-30,Cruzeiro,0,2,São Paulo,VV,0,3,83
+Robertão,1967,1967-04-30,Portuguesa,1,0,Bangu,VC,3,0,84
+Robertão,1967,1967-04-30,Ferroviário-CE,1,1,Flamengo,E,1,1,85
+Robertão,1967,1967-04-30,Grêmio,4,0,Vasco,VC,3,0,86
+Robertão,1967,1967-05-03,Internacional,0,0,Vasco,E,1,1,87
+Robertão,1967,1967-05-03,Santos,3,0,Ferroviário-CE,VC,3,0,88
+Robertão,1967,1967-05-03,Fluminense,0,1,Portuguesa,VV,0,3,89
+Robertão,1967,1967-05-03,Atlético-MG,0,3,São Paulo,VV,0,3,90
+Robertão,1967,1967-05-06,Flamengo,2,3,Corinthians,VV,0,3,91
+Robertão,1967,1967-05-06,Palmeiras,1,1,São Paulo,E,1,1,92
+Robertão,1967,1967-05-07,Bangu,2,0,Fluminense,VC,3,0,93
+Robertão,1967,1967-05-07,Atlético-MG,1,0,Vasco,VC,3,0,94
+Robertão,1967,1967-05-07,Ferroviário-CE,0,0,Botafogo,E,1,1,95
+Robertão,1967,1967-05-07,Grêmio,1,0,Cruzeiro,VC,3,0,96
+Robertão,1967,1967-05-10,Portuguesa,3,0,Botafogo,VC,3,0,97
+Robertão,1967,1967-05-10,Grêmio,2,0,Ferroviário-CE,VC,3,0,98
+Robertão,1967,1967-05-13,Flamengo,1,1,Fluminense,E,1,1,99
+Robertão,1967,1967-05-13,Corinthians,1,1,Santos,E,1,1,100
+Robertão,1967,1967-05-14,Ferroviário-CE,1,2,Atlético-MG,VV,0,3,101
+Robertão,1967,1967-05-14,São Paulo,0,0,Vasco,E,1,1,102
+Robertão,1967,1967-05-14,Grêmio,1,1,Portuguesa,E,1,1,103
+Robertão,1967,1967-05-14,Cruzeiro,2,1,Botafogo,VC,3,0,104
+Robertão,1967,1967-05-14,Bangu,0,2,Palmeiras,VV,0,3,105
+Robertão,1967,1967-05-20,Corinthians,2,1,Grêmio,VC,3,0,106
+Robertão,1967,1967-05-21,Internacional,1,2,Palmeiras,VV,0,3,107
+Robertão,1967,1967-05-24,Corinthians,2,2,Palmeiras,E,1,1,108
+Robertão,1967,1967-05-24,Grêmio,1,1,Internacional,E,1,1,109
+Robertão,1967,1967-05-28,Corinthians,0,1,Internacional,VV,0,3,110
+Robertão,1967,1967-05-28,Grêmio,1,1,Palmeiras,E,1,1,111
+Robertão,1967,1967-06-01,Palmeiras,0,0,Internacional,E,1,1,112
+Robertão,1967,1967-06-01,Grêmio,0,1,Corinthians,VV,0,3,113
+Robertão,1967,1967-06-04,Palmeiras,1,0,Corinthians,VC,3,0,114
+Robertão,1967,1967-06-04,Internacional,0,0,Grêmio,E,1,1,115
+Robertão,1967,1967-06-07,Internacional,3,0,Corinthians,VC,3,0,116
+Robertão,1967,1967-06-08,Palmeiras,2,1,Grêmio,VC,3,0,117
