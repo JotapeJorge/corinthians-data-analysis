@@ -1,0 +1,2512 @@
+,Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+0,Série A,1971,1971-08-07,Santa Cruz,1,4,Corinthians,VV,0,3,1
+9,Série A,1971,1971-08-07,Botafogo,0,0,America-RJ,E,1,1,10
+7,Série A,1971,1971-08-07,Bahia,0,0,Santos,E,1,1,8
+6,Série A,1971,1971-08-07,Sport,1,0,Flamengo,VC,3,0,7
+5,Série A,1971,1971-08-07,São Paulo,0,3,Grêmio,VV,0,3,6
+8,Série A,1971,1971-08-07,Atlético-MG,1,1,América-MG,E,1,1,9
+3,Série A,1971,1971-08-07,Ceará,0,0,Vasco,E,1,1,4
+2,Série A,1971,1971-08-07,Palmeiras,1,0,Portuguesa,VC,3,0,3
+1,Série A,1971,1971-08-07,Internacional,0,0,Fluminense,E,1,1,2
+4,Série A,1971,1971-08-07,Coritiba,0,2,Cruzeiro,VV,0,3,5
+10,Série A,1971,1971-08-11,Sport,0,2,Santos,VV,0,3,11
+11,Série A,1971,1971-08-11,Bahia,1,1,Flamengo,E,1,1,12
+12,Série A,1971,1971-08-11,America-RJ,0,2,Grêmio,VV,0,3,13
+13,Série A,1971,1971-08-11,Ceará,0,1,Corinthians,VV,0,3,14
+14,Série A,1971,1971-08-11,Cruzeiro,2,1,Portuguesa,VC,3,0,15
+15,Série A,1971,1971-08-12,Santa Cruz,1,0,Vasco,VC,3,0,16
+19,Série A,1971,1971-08-14,Grêmio,1,1,Atlético-MG,E,1,1,20
+18,Série A,1971,1971-08-14,América-MG,1,1,America-RJ,E,1,1,19
+17,Série A,1971,1971-08-14,Botafogo,1,1,Flamengo,E,1,1,18
+16,Série A,1971,1971-08-14,Santos,3,1,São Paulo,VC,3,0,17
+20,Série A,1971,1971-08-15,Bahia,3,0,Sport,VC,3,0,21
+21,Série A,1971,1971-08-15,Coritiba,2,1,Portuguesa,VC,3,0,22
+22,Série A,1971,1971-08-15,Corinthians,0,0,Palmeiras,E,1,1,23
+23,Série A,1971,1971-08-15,Fluminense,0,1,Vasco,VV,0,3,24
+24,Série A,1971,1971-08-15,Ceará,0,0,Santa Cruz,E,1,1,25
+25,Série A,1971,1971-08-15,Cruzeiro,2,0,Internacional,VC,3,0,26
+29,Série A,1971,1971-08-18,Bahia,0,1,São Paulo,VV,0,3,30
+28,Série A,1971,1971-08-18,Fluminense,2,1,Coritiba,VC,3,0,29
+27,Série A,1971,1971-08-18,Santos,0,0,Botafogo,E,1,1,28
+26,Série A,1971,1971-08-18,América-MG,0,0,Grêmio,E,1,1,27
+30,Série A,1971,1971-08-21,Internacional,2,1,Palmeiras,VC,3,0,31
+31,Série A,1971,1971-08-21,Corinthians,0,0,Cruzeiro,E,1,1,32
+32,Série A,1971,1971-08-21,Coritiba,1,0,Santa Cruz,VC,3,0,33
+33,Série A,1971,1971-08-21,Ceará,1,0,Fluminense,VC,3,0,34
+34,Série A,1971,1971-08-21,Flamengo,0,1,Atlético-MG,VV,0,3,35
+38,Série A,1971,1971-08-22,Grêmio,1,1,Botafogo,E,1,1,39
+37,Série A,1971,1971-08-22,Santos,0,0,America-RJ,E,1,1,38
+35,Série A,1971,1971-08-22,Vasco,0,3,Portuguesa,VV,0,3,36
+36,Série A,1971,1971-08-22,Sport,0,0,São Paulo,E,1,1,37
+39,Série A,1971,1971-08-25,Santa Cruz,2,2,Fluminense,E,1,1,40
+40,Série A,1971,1971-08-25,Palmeiras,1,1,Cruzeiro,E,1,1,41
+41,Série A,1971,1971-08-25,Coritiba,0,1,Internacional,VV,0,3,42
+42,Série A,1971,1971-08-25,Grêmio,2,0,Sport,VC,3,0,43
+43,Série A,1971,1971-08-25,Atlético-MG,4,0,Bahia,VC,3,0,44
+44,Série A,1971,1971-08-25,Botafogo,2,1,América-MG,VC,3,0,45
+45,Série A,1971,1971-08-26,Corinthians,4,1,Portuguesa,VC,3,0,46
+46,Série A,1971,1971-08-26,Flamengo,1,1,America-RJ,E,1,1,47
+47,Série A,1971,1971-08-28,Sport,1,1,Atlético-MG,E,1,1,48
+53,Série A,1971,1971-08-29,Bahia,0,0,América-MG,E,1,1,54
+52,Série A,1971,1971-08-29,Coritiba,0,2,Vasco,VV,0,3,53
+51,Série A,1971,1971-08-29,Cruzeiro,6,0,Ceará,VC,3,0,52
+54,Série A,1971,1971-08-29,São Paulo,0,0,Flamengo,E,1,1,55
+49,Série A,1971,1971-08-29,Internacional,0,1,Portuguesa,VV,0,3,50
+48,Série A,1971,1971-08-29,Santa Cruz,2,2,Palmeiras,E,1,1,49
+50,Série A,1971,1971-08-29,Fluminense,0,1,Corinthians,VV,0,3,51
+61,Série A,1971,1971-09-01,Portuguesa,1,0,Fluminense,VC,3,0,62
+60,Série A,1971,1971-09-01,Santa Cruz,1,0,Cruzeiro,VC,3,0,61
+59,Série A,1971,1971-09-01,Ceará,0,3,Palmeiras,VV,0,3,60
+55,Série A,1971,1971-09-01,Atlético-MG,2,0,São Paulo,VC,3,0,56
+57,Série A,1971,1971-09-01,Bahia,1,3,America-RJ,VV,0,3,58
+56,Série A,1971,1971-09-01,Grêmio,1,0,Santos,VC,3,0,57
+58,Série A,1971,1971-09-01,Vasco,1,1,Internacional,E,1,1,59
+62,Série A,1971,1971-09-02,América-MG,1,1,Flamengo,E,1,1,63
+63,Série A,1971,1971-09-02,Sport,0,1,Botafogo,VV,0,3,64
+64,Série A,1971,1971-09-04,Palmeiras,1,0,Fluminense      ,VC,3,0,65
+65,Série A,1971,1971-09-04,Cruzeiro,0,0,Vasco da Gama   ,E,1,1,66
+71,Série A,1971,1971-09-05,Internacional,2,2,Corinthians     ,E,1,1,72
+66,Série A,1971,1971-09-05,Bahia,0,1,Botafogo        ,VV,0,3,67
+67,Série A,1971,1971-09-05,Atlético-MG,2,1,Santos          ,VC,3,0,68
+68,Série A,1971,1971-09-05,Flamengo,1,1,Grêmio          ,E,1,1,69
+69,Série A,1971,1971-09-05,Sport,0,3,América-GB       ,VV,0,3,70
+70,Série A,1971,1971-09-05,Coritiba,2,1,Ceará           ,VC,3,0,71
+72,Série A,1971,1971-09-05,São Paulo,1,1,América-MG      ,E,1,1,73
+73,Série A,1971,1971-09-07,Vasco,1,0,Palmeiras       ,VC,3,0,74
+77,Série A,1971,1971-09-08,America-RJ,2,0,Atlético-MG,VC,3,0,78
+76,Série A,1971,1971-09-08,Ceará,0,0,Internacional,E,1,1,77
+75,Série A,1971,1971-09-08,Corinthians,2,3,Coritiba,VV,0,3,76
+74,Série A,1971,1971-09-08,Santa Cruz,3,2,Portuguesa,VC,3,0,75
+78,Série A,1971,1971-09-09,Botafogo,2,1,São Paulo,VC,3,0,79
+79,Série A,1971,1971-09-09,Santos,3,0,América-MG,VC,3,0,80
+80,Série A,1971,1971-09-11,Coritiba,0,1,Palmeiras,VV,0,3,81
+81,Série A,1971,1971-09-11,Santa Cruz,2,2,Internacional,E,1,1,82
+82,Série A,1971,1971-09-11,Fluminense,0,1,Cruzeiro,VV,0,3,83
+83,Série A,1971,1971-09-11,Ceará,0,0,Portuguesa,E,1,1,84
+84,Série A,1971,1971-09-11,Corinthians,1,0,Vasco,VC,3,0,85
+89,Série A,1971,1971-09-12,São Paulo,2,1,America-RJ,VC,3,0,90
+88,Série A,1971,1971-09-12,Atlético-MG,2,2,Botafogo,E,1,1,89
+86,Série A,1971,1971-09-12,Flamengo,1,0,Santos,VC,3,0,87
+85,Série A,1971,1971-09-12,Sport,1,0,América-MG,VC,3,0,86
+87,Série A,1971,1971-09-12,Grêmio,0,0,Bahia,E,1,1,88
+90,Série A,1971,1971-09-18,Vasco,0,0,São Paulo,E,1,1,91
+91,Série A,1971,1971-09-18,Sport,0,1,Corinthians,VV,0,3,92
+92,Série A,1971,1971-09-18,Santos,0,0,Portuguesa,E,1,1,93
+97,Série A,1971,1971-09-19,Coritiba,2,0,Grêmio,VC,3,0,98
+99,Série A,1971,1971-09-19,Santa Cruz,0,0,Botafogo,E,1,1,100
+98,Série A,1971,1971-09-19,Palmeiras,1,2,Flamengo,VV,0,3,99
+96,Série A,1971,1971-09-19,Internacional,1,0,América-MG,VC,3,0,97
+93,Série A,1971,1971-09-19,Fluminense,0,0,America-RJ,E,1,1,94
+94,Série A,1971,1971-09-19,Ceará,0,2,Atlético-MG,VV,0,3,95
+95,Série A,1971,1971-09-19,Cruzeiro,0,0,Bahia,E,1,1,96
+100,Série A,1971,1971-09-22,Corinthians,0,0,Atlético-MG,E,1,1,101
+101,Série A,1971,1971-09-25,Grêmio,1,0,Ceará,VC,3,0,102
+102,Série A,1971,1971-09-25,Flamengo,1,1,Coritiba,E,1,1,103
+103,Série A,1971,1971-09-25,Portuguesa,0,3,America-RJ,VV,0,3,104
+104,Série A,1971,1971-09-25,Atlético-MG,2,2,Santa Cruz,E,1,1,105
+110,Série A,1971,1971-09-26,Internacional,1,1,Santos,E,1,1,111
+105,Série A,1971,1971-09-26,Bahia,1,2,Corinthians,VV,0,3,106
+106,Série A,1971,1971-09-26,São Paulo,1,1,Cruzeiro,E,1,1,107
+107,Série A,1971,1971-09-26,Fluminense,0,0,Botafogo,E,1,1,108
+108,Série A,1971,1971-09-26,América-MG,1,2,Palmeiras,VV,0,3,109
+109,Série A,1971,1971-09-26,Sport,0,1,Vasco,VV,0,3,110
+111,Série A,1971,1971-09-29,America-RJ,2,1,Cruzeiro,VC,3,0,112
+113,Série A,1971,1971-10-02,Corinthians,3,1,América-MG,VC,3,0,114
+112,Série A,1971,1971-10-02,Internacional,2,0,America-RJ,VC,3,0,113
+121,Série A,1971,1971-10-03,Sport,0,1,Fluminense,VV,0,3,122
+119,Série A,1971,1971-10-03,Bahia,2,0,Santa Cruz,VC,3,0,120
+120,Série A,1971,1971-10-03,Coritiba,1,0,Atlético-MG,VC,3,0,121
+118,Série A,1971,1971-10-03,Grêmio,1,0,Portuguesa,VC,3,0,119
+114,Série A,1971,1971-10-03,Cruzeiro,0,1,Santos,VV,0,3,115
+116,Série A,1971,1971-10-03,Palmeiras,3,1,Botafogo,VC,3,0,117
+115,Série A,1971,1971-10-03,Ceará,0,1,São Paulo,VV,0,3,116
+117,Série A,1971,1971-10-03,Vasco,0,0,Flamengo,E,1,1,118
+122,Série A,1971,1971-10-06,Vasco,2,0,América-MG,VC,3,0,123
+123,Série A,1971,1971-10-06,São Paulo,1,1,Internacional,E,1,1,124
+124,Série A,1971,1971-10-06,Santa Cruz,1,1,Grêmio,E,1,1,125
+125,Série A,1971,1971-10-09,Botafogo,1,0,Corinthians,VC,3,0,126
+126,Série A,1971,1971-10-09,América-MG,0,0,Santa Cruz,E,1,1,127
+133,Série A,1971,1971-10-10,Coritiba,2,1,America-RJ,VC,3,0,134
+132,Série A,1971,1971-10-10,Grêmio,1,0,Vasco,VC,3,0,133
+131,Série A,1971,1971-10-10,Bahia,1,1,Internacional,E,1,1,132
+134,Série A,1971,1971-10-10,São Paulo,0,1,Portuguesa,VV,0,3,135
+129,Série A,1971,1971-10-10,Atlético-MG,1,1,Cruzeiro,E,1,1,130
+128,Série A,1971,1971-10-10,Ceará,0,0,Santos,E,1,1,129
+127,Série A,1971,1971-10-10,Flamengo,0,1,Fluminense,VV,0,3,128
+130,Série A,1971,1971-10-10,Sport,0,2,Palmeiras,VV,0,3,131
+135,Série A,1971,1971-10-13,Flamengo,1,0,Portuguesa,VC,3,0,136
+136,Série A,1971,1971-10-13,América-MG,2,0,Coritiba,VC,3,0,137
+137,Série A,1971,1971-10-16,Palmeiras,0,1,Santos,VV,0,3,138
+138,Série A,1971,1971-10-16,Fluminense,2,0,Atlético-MG,VC,3,0,139
+145,Série A,1971,1971-10-17,Corinthians,0,2,São Paulo,VV,0,3,146
+144,Série A,1971,1971-10-17,Santa Cruz,1,1,Flamengo,E,1,1,145
+143,Série A,1971,1971-10-17,Vasco,2,2,America-RJ,E,1,1,144
+140,Série A,1971,1971-10-17,Coritiba,2,0,Bahia,VC,3,0,141
+141,Série A,1971,1971-10-17,Cruzeiro,5,1,Sport,VC,3,0,142
+139,Série A,1971,1971-10-17,Internacional,1,0,Grêmio,VC,3,0,140
+142,Série A,1971,1971-10-17,Ceará,1,0,Botafogo,VC,3,0,143
+146,Série A,1971,1971-10-20,Sport,2,1,Coritiba,VC,3,0,147
+147,Série A,1971,1971-10-20,Bahia,3,1,Ceará,VC,3,0,148
+149,Série A,1971,1971-10-23,Botafogo,0,0,Internacional,E,1,1,150
+148,Série A,1971,1971-10-23,São Paulo,1,1,Palmeiras,E,1,1,149
+150,Série A,1971,1971-10-23,Atlético-MG,5,1,Portuguesa,VC,3,0,151
+155,Série A,1971,1971-10-24,Grêmio,1,0,Fluminense,VC,3,0,156
+154,Série A,1971,1971-10-24,Santa Cruz,1,1,Sport,E,1,1,155
+156,Série A,1971,1971-10-24,Flamengo,1,3,Corinthians,VV,0,3,157
+152,Série A,1971,1971-10-24,Cruzeiro,0,0,América-MG,E,1,1,153
+151,Série A,1971,1971-10-24,Ceará,0,1,America-RJ,VV,0,3,152
+153,Série A,1971,1971-10-24,Santos,2,0,Vasco,VC,3,0,154
+157,Série A,1971,1971-10-27,Coritiba,1,0,Santos,VC,3,0,158
+158,Série A,1971,1971-10-27,Fluminense,0,0,América-MG,E,1,1,159
+159,Série A,1971,1971-10-27,Portuguesa,3,1,Botafogo,VC,3,0,160
+160,Série A,1971,1971-10-30,Santa Cruz,0,2,São Paulo,VV,0,3,161
+161,Série A,1971,1971-10-30,Corinthians,1,1,Santos,E,1,1,162
+162,Série A,1971,1971-10-30,Cruzeiro,2,1,Grêmio,VC,3,0,163
+163,Série A,1971,1971-10-30,America-RJ,2,0,Palmeiras,VC,3,0,164
+168,Série A,1971,1971-10-31,Vasco,1,0,Botafogo,VC,3,0,169
+167,Série A,1971,1971-10-31,Ceará,0,1,Flamengo,VV,0,3,168
+164,Série A,1971,1971-10-31,Atlético-MG,3,1,Internacional,VC,3,0,165
+165,Série A,1971,1971-10-31,Sport,0,0,Portuguesa,E,1,1,166
+166,Série A,1971,1971-10-31,Bahia,0,0,Fluminense,E,1,1,167
+169,Série A,1971,1971-11-06,São Paulo,2,1,Fluminense,VC,3,0,170
+170,Série A,1971,1971-11-06,Vasco,0,0,Atlético-MG,E,1,1,171
+171,Série A,1971,1971-11-06,Internacional,2,1,Sport,VC,3,0,172
+177,Série A,1971,1971-11-07,Coritiba,0,0,Botafogo,E,1,1,178
+178,Série A,1971,1971-11-07,Bahia,1,0,Portuguesa,VC,3,0,179
+176,Série A,1971,1971-11-07,Grêmio,0,1,Palmeiras,VV,0,3,177
+173,Série A,1971,1971-11-07,Santa Cruz,0,1,Santos,VV,0,3,174
+174,Série A,1971,1971-11-07,Flamengo,0,0,Cruzeiro,E,1,1,175
+172,Série A,1971,1971-11-07,Corinthians,3,1,America-RJ,VC,3,0,173
+175,Série A,1971,1971-11-07,América-MG,2,0,Ceará,VC,3,0,176
+179,Série A,1971,1971-11-10,Palmeiras,0,0,Bahia,E,1,1,180
+180,Série A,1971,1971-11-13,Portuguesa,1,0,América-MG,VC,3,0,181
+181,Série A,1971,1971-11-13,Fluminense,3,1,Santos,VC,3,0,182
+189,Série A,1971,1971-11-14,Coritiba,2,0,São Paulo,VC,3,0,190
+188,Série A,1971,1971-11-14,Internacional,3,0,Flamengo,VC,3,0,189
+187,Série A,1971,1971-11-14,Atlético-MG,0,0,Palmeiras,E,1,1,188
+186,Série A,1971,1971-11-14,Corinthians,1,1,Grêmio,E,1,1,187
+184,Série A,1971,1971-11-14,Santa Cruz,0,0,America-RJ,E,1,1,185
+183,Série A,1971,1971-11-14,Botafogo,2,2,Cruzeiro,E,1,1,184
+182,Série A,1971,1971-11-14,Ceará,1,2,Sport,VV,0,3,183
+185,Série A,1971,1971-11-14,Bahia,1,0,Vasco,VC,3,0,186
+191,Série A,1971,1971-11-20,Internacional,1,1,Santos,E,1,1,192
+190,Série A,1971,1971-11-20,Palmeiras,1,1,Coritiba,E,1,1,191
+194,Série A,1971,1971-11-21,Atlético-MG,2,1,Vasco,VC,3,0,195
+195,Série A,1971,1971-11-21,Grêmio,1,1,Botafogo,E,1,1,196
+192,Série A,1971,1971-11-21,Corinthians,0,1,São Paulo,VV,0,3,193
+193,Série A,1971,1971-11-21,America-RJ,0,0,Cruzeiro,E,1,1,194
+196,Série A,1971,1971-11-24,Corinthians,1,0,America-RJ,VC,3,0,197
+197,Série A,1971,1971-11-24,Coritiba,0,1,Grêmio,VV,0,3,198
+198,Série A,1971,1971-11-24,Cruzeiro,0,2,São Paulo,VV,0,3,199
+199,Série A,1971,1971-11-24,Botafogo,3,3,Palmeiras,E,1,1,200
+200,Série A,1971,1971-11-25,Vasco,2,0,Internacional,VC,3,0,201
+201,Série A,1971,1971-11-25,Santos,2,1,Atlético-MG,VC,3,0,202
+202,Série A,1971,1971-11-27,São Paulo,1,0,America-RJ,VC,3,0,203
+207,Série A,1971,1971-11-28,Coritiba,1,0,Botafogo,VC,3,0,208
+206,Série A,1971,1971-11-28,Internacional,1,4,Atlético-MG,VV,0,3,207
+203,Série A,1971,1971-11-28,Palmeiras,3,1,Grêmio,VC,3,0,204
+204,Série A,1971,1971-11-28,Cruzeiro,1,0,Corinthians,VC,3,0,205
+205,Série A,1971,1971-11-28,Vasco,0,0,Santos,E,1,1,206
+208,Série A,1971,1971-12-01,Atlético-MG,2,0,Santos,VC,3,0,209
+209,Série A,1971,1971-12-01,Internacional,3,0,Vasco,VC,3,0,210
+210,Série A,1971,1971-12-01,São Paulo,1,1,Cruzeiro,E,1,1,211
+211,Série A,1971,1971-12-01,America-RJ,3,1,Corinthians,VC,3,0,212
+212,Série A,1971,1971-12-02,Palmeiras,0,1,Botafogo,VV,0,3,213
+213,Série A,1971,1971-12-02,Grêmio,2,0,Coritiba,VC,3,0,214
+215,Série A,1971,1971-12-04,São Paulo,0,0,Corinthians,E,1,1,216
+214,Série A,1971,1971-12-04,Vasco,1,1,Atlético-MG,E,1,1,215
+216,Série A,1971,1971-12-05,Santos,0,1,Internacional,VV,0,3,217
+217,Série A,1971,1971-12-05,Cruzeiro,0,0,America-RJ,E,1,1,218
+218,Série A,1971,1971-12-05,Coritiba,0,0,Palmeiras,E,1,1,219
+219,Série A,1971,1971-12-05,Botafogo,3,1,Grêmio,VC,3,0,220
+220,Série A,1971,1971-12-08,São Paulo,1,1,America-RJ,E,1,1,221
+221,Série A,1971,1971-12-08,Corinthians,2,0,Cruzeiro,VC,3,0,222
+225,Série A,1971,1971-12-09,Grêmio,0,0,Palmeiras,E,1,1,226
+224,Série A,1971,1971-12-09,Botafogo,3,0,Coritiba,VC,3,0,225
+222,Série A,1971,1971-12-09,Atlético-MG,0,1,Internacional,VV,0,3,223
+223,Série A,1971,1971-12-09,Santos,4,0,Vasco,VC,3,0,224
+226,Série A,1971,1971-12-12,Atlético-MG,1,0,São Paulo,VC,3,0,227
+227,Série A,1971,1971-12-15,São Paulo,4,1,Botafogo,VC,3,0,228
+228,Série A,1971,1971-12-19,Botafogo,0,1,Atlético-MG,VV,0,3,229
+229,Série A,1971,1971-12-19,Botafogo,0,1,Atlético-MG,VV,0,3,230
+2,Série A,1972,1972-09-09,Cruzeiro,0,0,América-MG,E,1,1,3
+0,Série A,1972,1972-09-09,Botafogo,1,1,Santos,E,1,1,1
+1,Série A,1972,1972-09-09,Vitória,0,0,Remo,E,1,1,2
+10,Série A,1972,1972-09-10,Sergipe,1,3,Ceará,VV,0,3,11
+9,Série A,1972,1972-09-10,ABC,0,0,CRB,E,1,1,10
+11,Série A,1972,1972-09-10,Náutico,0,0,Santa Cruz,E,1,1,12
+8,Série A,1972,1972-09-10,Coritiba,1,0,Palmeiras,VC,3,0,9
+3,Série A,1972,1972-09-10,Flamengo,1,1,America-RJ,E,1,1,4
+6,Série A,1972,1972-09-10,Atlético-MG,0,1,Vasco,VV,0,3,7
+5,Série A,1972,1972-09-10,Corinthians,1,1,Fluminense,E,1,1,6
+4,Série A,1972,1972-09-10,Bahia,1,0,Nacional-AM,VC,3,0,5
+7,Série A,1972,1972-09-10,Grêmio,2,0,São Paulo,VC,3,0,8
+12,Série A,1972,1972-09-13,Sergipe,0,1,Santos,VV,0,3,13
+13,Série A,1972,1972-09-13,Portuguesa,0,1,Santa Cruz,VV,0,3,14
+14,Série A,1972,1972-09-13,Remo,0,0,Vasco,E,1,1,15
+15,Série A,1972,1972-09-13,Bahia,0,0,America-RJ,E,1,1,16
+16,Série A,1972,1972-09-13,América-MG,0,0,Corinthians,E,1,1,17
+17,Série A,1972,1972-09-13,Ceará,3,1,Internacional,VC,3,0,18
+18,Série A,1972,1972-09-13,Nacional-AM,0,0,Flamengo,E,1,1,19
+19,Série A,1972,1972-09-13,Grêmio,1,0,Atlético-MG,VC,3,0,20
+20,Série A,1972,1972-09-13,Coritiba,0,0,Botafogo,E,1,1,21
+21,Série A,1972,1972-09-13,Náutico,1,2,Cruzeiro,VV,0,3,22
+22,Série A,1972,1972-09-13,ABC,0,3,São Paulo,VV,0,3,23
+23,Série A,1972,1972-09-13,CRB,0,2,Fluminense,VV,0,3,24
+24,Série A,1972,1972-09-14,Vitória,0,3,Palmeiras,VV,0,3,25
+25,Série A,1972,1972-09-16,Náutico,0,1,Fluminense,VV,0,3,26
+37,Série A,1972,1972-09-17,Santa Cruz,1,1,America-RJ,E,1,1,38
+36,Série A,1972,1972-09-17,Corinthians,1,1,Atlético-MG,E,1,1,37
+35,Série A,1972,1972-09-17,Sergipe,1,1,Palmeiras,E,1,1,36
+34,Série A,1972,1972-09-17,Vitória,1,0,Santos,VC,3,0,35
+32,Série A,1972,1972-09-17,América-MG,2,2,Portuguesa,E,1,1,33
+33,Série A,1972,1972-09-17,CRB,1,4,Cruzeiro,VV,0,3,34
+30,Série A,1972,1972-09-17,Coritiba,1,0,Bahia,VC,3,0,31
+29,Série A,1972,1972-09-17,Ceará,1,1,São Paulo,E,1,1,30
+28,Série A,1972,1972-09-17,ABC,1,2,Internacional,VV,0,3,29
+27,Série A,1972,1972-09-17,Remo,1,0,Flamengo,VC,3,0,28
+26,Série A,1972,1972-09-17,Nacional-AM,1,3,Vasco,VV,0,3,27
+31,Série A,1972,1972-09-17,Botafogo,1,2,Grêmio,VV,0,3,32
+44,Série A,1972,1972-09-20,Coritiba,0,0,Santos,E,1,1,45
+46,Série A,1972,1972-09-20,Vasco,3,0,America-RJ,VC,3,0,47
+47,Série A,1972,1972-09-20,Palmeiras,2,2,Botafogo,E,1,1,48
+43,Série A,1972,1972-09-20,Internacional,1,0,Grêmio,VC,3,0,44
+45,Série A,1972,1972-09-20,Ceará,0,0,Vitória,E,1,1,46
+41,Série A,1972,1972-09-20,ABC,3,3,Nacional-AM,E,1,1,42
+40,Série A,1972,1972-09-20,Cruzeiro,0,1,Corinthians,VV,0,3,41
+39,Série A,1972,1972-09-20,Santa Cruz,0,0,Sergipe,E,1,1,40
+38,Série A,1972,1972-09-20,Bahia,1,1,Remo,E,1,1,39
+42,Série A,1972,1972-09-20,CRB,0,0,Náutico,E,1,1,43
+48,Série A,1972,1972-09-21,São Paulo,1,1,Portuguesa,E,1,1,49
+49,Série A,1972,1972-09-21,América-MG,0,0,Fluminense,E,1,1,50
+50,Série A,1972,1972-09-21,Flamengo,1,0,Atlético-MG,VC,3,0,51
+51,Série A,1972,1972-09-23,Vasco,1,2,Internacional,VV,0,3,52
+52,Série A,1972,1972-09-23,Palmeiras,3,0,Santa Cruz,VC,3,0,53
+62,Série A,1972,1972-09-24,São Paulo,0,0,Flamengo,E,1,1,63
+61,Série A,1972,1972-09-24,Cruzeiro,1,0,Bahia,VC,3,0,62
+60,Série A,1972,1972-09-24,Nacional-AM,2,0,Corinthians,VC,3,0,61
+59,Série A,1972,1972-09-24,Vitória,0,0,América-MG,E,1,1,60
+58,Série A,1972,1972-09-24,Náutico,1,1,America-RJ,E,1,1,59
+63,Série A,1972,1972-09-24,Coritiba,2,0,Sergipe,VC,3,0,64
+56,Série A,1972,1972-09-24,Ceará,0,0,Grêmio,E,1,1,57
+55,Série A,1972,1972-09-24,Fluminense,2,1,Santos,VC,3,0,56
+54,Série A,1972,1972-09-24,ABC,1,2,Atlético-MG,VV,0,3,55
+53,Série A,1972,1972-09-24,Remo,1,1,Botafogo,E,1,1,54
+57,Série A,1972,1972-09-24,CRB,0,0,Portuguesa,E,1,1,58
+74,Série A,1972,1972-09-27,Fluminense,1,2,Cruzeiro,VV,0,3,75
+73,Série A,1972,1972-09-27,Palmeiras,1,1,Internacional,E,1,1,74
+72,Série A,1972,1972-09-27,Bahia,0,1,Flamengo,VV,0,3,73
+70,Série A,1972,1972-09-27,Ceará,1,3,Atlético-MG,VV,0,3,71
+69,Série A,1972,1972-09-27,Coritiba,3,0,Vitória,VC,3,0,70
+71,Série A,1972,1972-09-27,Remo,2,2,Corinthians,E,1,1,72
+67,Série A,1972,1972-09-27,ABC,1,1,Grêmio,E,1,1,68
+66,Série A,1972,1972-09-27,Náutico,2,1,Portuguesa,VC,3,0,67
+65,Série A,1972,1972-09-27,CRB,0,1,America-RJ,VV,0,3,66
+64,Série A,1972,1972-09-27,Sergipe,0,2,América-MG,VV,0,3,65
+68,Série A,1972,1972-09-27,Nacional-AM,1,2,Botafogo,VV,0,3,69
+75,Série A,1972,1972-09-28,Santos,1,0,São Paulo,VC,3,0,76
+76,Série A,1972,1972-09-28,Santa Cruz,2,0,Vasco,VC,3,0,77
+77,Série A,1972,1972-09-30,Bahia,0,0,Grêmio,E,1,1,78
+78,Série A,1972,1972-09-30,Náutico,1,2,Palmeiras,VV,0,3,79
+86,Série A,1972,1972-10-01,Botafogo,0,2,America-RJ,VV,0,3,87
+89,Série A,1972,1972-10-01,Santa Cruz,4,1,América-MG,VC,3,0,90
+88,Série A,1972,1972-10-01,Atlético-MG,2,0,Coritiba,VC,3,0,89
+87,Série A,1972,1972-10-01,Nacional-AM,2,2,Internacional,E,1,1,88
+85,Série A,1972,1972-10-01,Corinthians,3,2,Portuguesa,VC,3,0,86
+81,Série A,1972,1972-10-01,Ceará,1,3,Flamengo,VV,0,3,82
+83,Série A,1972,1972-10-01,CRB,1,3,Santos,VV,0,3,84
+82,Série A,1972,1972-10-01,Vitória,0,0,Fluminense,E,1,1,83
+84,Série A,1972,1972-10-01,ABC,1,2,Vasco,VV,0,3,85
+80,Série A,1972,1972-10-01,Remo,0,1,São Paulo,VV,0,3,81
+79,Série A,1972,1972-10-01,Sergipe,0,1,Cruzeiro,VV,0,3,80
+99,Série A,1972,1972-10-04,CRB,1,3,Palmeiras,VV,0,3,100
+98,Série A,1972,1972-10-04,America-RJ,2,0,Atlético-MG,VC,3,0,99
+97,Série A,1972,1972-10-04,Coritiba,2,0,América-MG,VC,3,0,98
+96,Série A,1972,1972-10-04,Bahia,1,1,Botafogo,E,1,1,97
+95,Série A,1972,1972-10-04,Nacional-AM,1,1,São Paulo,E,1,1,96
+93,Série A,1972,1972-10-04,Náutico,1,1,Santos,E,1,1,94
+100,Série A,1972,1972-10-04,Cruzeiro,4,0,Vitória,VC,3,0,101
+92,Série A,1972,1972-10-04,Remo,0,0,Internacional,E,1,1,93
+91,Série A,1972,1972-10-04,Ceará,0,0,Vasco,E,1,1,92
+90,Série A,1972,1972-10-04,ABC,0,0,Flamengo,E,1,1,91
+94,Série A,1972,1972-10-04,Sergipe,1,1,Fluminense,E,1,1,95
+101,Série A,1972,1972-10-04,Grêmio,1,1,Portuguesa,E,1,1,102
+102,Série A,1972,1972-10-05,Santa Cruz,3,3,Corinthians,E,1,1,103
+103,Série A,1972,1972-10-07,Remo,0,1,America-RJ,VV,0,3,104
+104,Série A,1972,1972-10-07,Náutico,0,1,Corinthians,VV,0,3,105
+115,Série A,1972,1972-10-08,Ceará,2,0,América-MG,VC,3,0,116
+114,Série A,1972,1972-10-08,Palmeiras,2,2,Cruzeiro,E,1,1,115
+113,Série A,1972,1972-10-08,Sergipe,0,2,Grêmio,VV,0,3,114
+112,Série A,1972,1972-10-08,ABC,0,0,Coritiba,E,1,1,113
+110,Série A,1972,1972-10-08,Bahia,1,0,São Paulo,VC,3,0,111
+111,Série A,1972,1972-10-08,Internacional,0,0,Santos,E,1,1,112
+108,Série A,1972,1972-10-08,Vasco,1,2,Flamengo,VV,0,3,109
+107,Série A,1972,1972-10-08,Santa Cruz,1,2,Fluminense,VV,0,3,108
+106,Série A,1972,1972-10-08,CRB,3,2,Botafogo,VC,3,0,107
+105,Série A,1972,1972-10-08,Nacional-AM,2,0,Portuguesa,VC,3,0,106
+109,Série A,1972,1972-10-08,Atlético-MG,5,0,Vitória,VC,3,0,110
+123,Série A,1972,1972-10-11,Sergipe,0,1,Atlético-MG,VV,0,3,124
+126,Série A,1972,1972-10-11,Ceará,0,0,Coritiba,E,1,1,127
+125,Série A,1972,1972-10-11,Grêmio,0,0,Vitória,E,1,1,126
+124,Série A,1972,1972-10-11,ABC,1,0,América-MG,VC,3,0,125
+122,Série A,1972,1972-10-11,Flamengo,1,0,Santa Cruz,VC,3,0,123
+121,Série A,1972,1972-10-11,Remo,2,0,Portuguesa,VC,3,0,122
+120,Série A,1972,1972-10-11,CRB,0,0,Corinthians,E,1,1,121
+119,Série A,1972,1972-10-11,Náutico,1,2,Botafogo,VV,0,3,120
+118,Série A,1972,1972-10-11,São Paulo,0,1,Vasco,VV,0,3,119
+117,Série A,1972,1972-10-11,Cruzeiro,2,0,Santos,VC,3,0,118
+116,Série A,1972,1972-10-11,Nacional-AM,0,0,America-RJ,E,1,1,117
+127,Série A,1972,1972-10-12,Bahia,0,0,Internacional,E,1,1,128
+128,Série A,1972,1972-10-12,Fluminense,0,1,Palmeiras,VV,0,3,129
+129,Série A,1972,1972-10-14,Cruzeiro,2,0,America-RJ,VC,3,0,130
+130,Série A,1972,1972-10-14,Flamengo,0,0,Corinthians,E,1,1,131
+131,Série A,1972,1972-10-14,Santos,3,2,Grêmio,VC,3,0,132
+132,Série A,1972,1972-10-14,Vitória,1,0,CRB,VC,3,0,133
+141,Série A,1972,1972-10-15,Coritiba,4,0,São Paulo,VC,3,0,142
+140,Série A,1972,1972-10-15,ABC,0,1,Remo,VV,0,3,141
+138,Série A,1972,1972-10-15,Internacional,0,0,América-MG,E,1,1,139
+137,Série A,1972,1972-10-15,Náutico,3,0,Sergipe,VC,3,0,138
+139,Série A,1972,1972-10-15,Vasco,0,0,Botafogo,E,1,1,140
+135,Série A,1972,1972-10-15,Palmeiras,1,0,Portuguesa,VC,3,0,136
+134,Série A,1972,1972-10-15,Atlético-MG,2,0,Fluminense,VC,3,0,135
+133,Série A,1972,1972-10-15,Ceará,1,0,Nacional-AM,VC,3,0,134
+136,Série A,1972,1972-10-15,Bahia,1,1,Santa Cruz,E,1,1,137
+151,Série A,1972,1972-10-18,Coritiba,2,1,Flamengo,VC,3,0,152
+150,Série A,1972,1972-10-18,Grêmio,1,1,Cruzeiro,E,1,1,151
+149,Série A,1972,1972-10-18,CRB,0,0,Bahia,E,1,1,150
+148,Série A,1972,1972-10-18,Vitória,0,1,Náutico,VV,0,3,149
+147,Série A,1972,1972-10-18,Remo,1,1,Ceará,E,1,1,148
+145,Série A,1972,1972-10-18,São Paulo,3,1,Corinthians,VC,3,0,146
+144,Série A,1972,1972-10-18,Atlético-MG,0,3,Palmeiras,VV,0,3,145
+143,Série A,1972,1972-10-18,Santa Cruz,2,1,Nacional-AM,VC,3,0,144
+142,Série A,1972,1972-10-18,Fluminense,2,2,Portuguesa,E,1,1,143
+146,Série A,1972,1972-10-18,Sergipe,0,1,ABC,VV,0,3,147
+152,Série A,1972,1972-10-19,América-MG,0,0,Vasco,E,1,1,153
+153,Série A,1972,1972-10-19,Internacional,0,0,Botafogo,E,1,1,154
+154,Série A,1972,1972-10-19,America-RJ,0,2,Santos,VV,0,3,155
+160,Série A,1972,1972-10-21,São Paulo,0,3,Fluminense,VV,0,3,161
+161,Série A,1972,1972-10-21,Ceará,1,0,ABC,VC,3,0,162
+159,Série A,1972,1972-10-21,Atlético-MG,1,0,Portuguesa,VC,3,0,160
+162,Série A,1972,1972-10-21,Coritiba,3,3,America-RJ,E,1,1,163
+157,Série A,1972,1972-10-21,Sergipe,0,2,Vitória,VV,0,3,158
+155,Série A,1972,1972-10-21,Palmeiras,1,0,Flamengo,VC,3,0,156
+158,Série A,1972,1972-10-21,Cruzeiro,1,1,Internacional,E,1,1,159
+156,Série A,1972,1972-10-21,CRB,1,2,Nacional-AM,VV,0,3,157
+163,Série A,1972,1972-10-22,Remo,4,0,Santa Cruz,VC,3,0,164
+164,Série A,1972,1972-10-22,Grêmio,1,0,América-MG,VC,3,0,165
+165,Série A,1972,1972-10-22,Vasco,1,1,Santos,E,1,1,166
+166,Série A,1972,1972-10-22,Corinthians,0,0,Botafogo,E,1,1,167
+167,Série A,1972,1972-10-22,Náutico,0,0,Bahia,E,1,1,168
+177,Série A,1972,1972-10-25,Remo,0,0,Coritiba,E,1,1,178
+176,Série A,1972,1972-10-25,Nacional-AM,1,1,América-MG,E,1,1,177
+175,Série A,1972,1972-10-25,Palmeiras,0,1,Santos,VV,0,3,176
+174,Série A,1972,1972-10-25,Santa Cruz,2,2,São Paulo,E,1,1,175
+173,Série A,1972,1972-10-25,Vitória,1,0,Botafogo,VC,3,0,174
+178,Série A,1972,1972-10-25,Internacional,0,0,Flamengo,E,1,1,179
+171,Série A,1972,1972-10-25,Sergipe,1,3,Corinthians,VV,0,3,172
+169,Série A,1972,1972-10-25,ABC,0,1,America-RJ,VV,0,3,170
+168,Série A,1972,1972-10-25,CRB,0,2,Grêmio,VV,0,3,169
+172,Série A,1972,1972-10-25,Vasco,1,0,Cruzeiro,VC,3,0,173
+170,Série A,1972,1972-10-25,Ceará,1,4,Portuguesa,VV,0,3,171
+180,Série A,1972,1972-10-26,Náutico,3,0,Atlético-MG,VC,3,0,181
+179,Série A,1972,1972-10-26,Bahia,1,0,Fluminense,VC,3,0,180
+181,Série A,1972,1972-10-28,Náutico,1,1,Grêmio,E,1,1,182
+182,Série A,1972,1972-10-28,Vasco,0,0,Palmeiras,E,1,1,183
+183,Série A,1972,1972-10-28,Vitória,1,2,Corinthians,VV,0,3,184
+193,Série A,1972,1972-10-29,Flamengo,0,1,Fluminense,VV,0,3,194
+192,Série A,1972,1972-10-29,Nacional-AM,1,2,Coritiba,VV,0,3,193
+191,Série A,1972,1972-10-29,Sergipe,0,1,Botafogo,VV,0,3,192
+190,Série A,1972,1972-10-29,Santa Cruz,2,3,Internacional,VV,0,3,191
+189,Série A,1972,1972-10-29,Remo,0,0,América-MG,E,1,1,190
+187,Série A,1972,1972-10-29,São Paulo,2,1,Cruzeiro,VC,3,0,188
+186,Série A,1972,1972-10-29,Ceará,1,1,America-RJ,E,1,1,187
+185,Série A,1972,1972-10-29,Bahia,0,2,Santos,VV,0,3,186
+184,Série A,1972,1972-10-29,CRB,1,1,Atlético-MG,E,1,1,185
+188,Série A,1972,1972-10-29,ABC,2,1,Portuguesa,VC,3,0,189
+200,Série A,1972,1972-11-01,Botafogo,1,1,Cruzeiro,E,1,1,201
+202,Série A,1972,1972-11-01,Corinthians,1,0,Palmeiras,VC,3,0,203
+201,Série A,1972,1972-11-01,Coritiba,2,0,Fluminense,VC,3,0,202
+203,Série A,1972,1972-11-01,Internacional,0,1,America-RJ,VV,0,3,204
+199,Série A,1972,1972-11-01,ABC,0,1,Bahia,VV,0,3,200
+197,Série A,1972,1972-11-01,Santa Cruz,1,1,CRB,E,1,1,198
+196,Série A,1972,1972-11-01,Vitória,0,0,Nacional-AM,E,1,1,197
+195,Série A,1972,1972-11-01,Sergipe,3,0,Remo,VC,3,0,196
+194,Série A,1972,1972-11-01,Ceará,2,1,Náutico,VC,3,0,195
+198,Série A,1972,1972-11-01,América-MG,1,1,Santos,E,1,1,199
+204,Série A,1972,1972-11-02,Grêmio,0,1,Vasco,VV,0,3,205
+205,Série A,1972,1972-11-02,Portuguesa,0,1,Flamengo,VV,0,3,206
+206,Série A,1972,1972-11-02,São Paulo,2,1,Atlético-MG,VC,3,0,207
+218,Série A,1972,1972-11-05,Atlético-MG,2,0,Botafogo,VC,3,0,219
+217,Série A,1972,1972-11-05,Náutico,0,6,São Paulo,VV,0,3,218
+216,Série A,1972,1972-11-05,Coritiba,0,1,Corinthians,VV,0,3,217
+215,Série A,1972,1972-11-05,Flamengo,1,0,Vitória,VC,3,0,216
+214,Série A,1972,1972-11-05,ABC,0,1,Fluminense,VV,0,3,215
+213,Série A,1972,1972-11-05,Bahia,2,1,América-MG,VC,3,0,214
+219,Série A,1972,1972-11-05,Ceará,1,1,Cruzeiro,E,1,1,220
+211,Série A,1972,1972-11-05,Sergipe,0,2,Vasco,VV,0,3,212
+210,Série A,1972,1972-11-05,Nacional-AM,0,0,Palmeiras,E,1,1,211
+209,Série A,1972,1972-11-05,Remo,1,1,Santos,E,1,1,210
+208,Série A,1972,1972-11-05,Portuguesa,1,0,America-RJ,VC,3,0,209
+207,Série A,1972,1972-11-05,CRB,2,3,Internacional,VV,0,3,208
+212,Série A,1972,1972-11-05,Grêmio,0,1,Santa Cruz,VV,0,3,213
+230,Série A,1972,1972-11-08,America-RJ,3,0,América-MG,VC,3,0,231
+229,Série A,1972,1972-11-08,Nacional-AM,0,0,Santos,E,1,1,230
+228,Série A,1972,1972-11-08,Corinthians,1,0,Grêmio,VC,3,0,229
+227,Série A,1972,1972-11-08,Coritiba,1,1,Portuguesa,E,1,1,228
+225,Série A,1972,1972-11-08,Sergipe,0,2,Flamengo,VV,0,3,226
+226,Série A,1972,1972-11-08,Bahia,1,3,Atlético-MG,VV,0,3,227
+223,Série A,1972,1972-11-08,Santa Cruz,3,2,Botafogo,VC,3,0,224
+222,Série A,1972,1972-11-08,CRB,2,6,São Paulo,VV,0,3,223
+221,Série A,1972,1972-11-08,Remo,0,2,Palmeiras,VV,0,3,222
+220,Série A,1972,1972-11-08,Ceará,3,0,Fluminense,VC,3,0,221
+224,Série A,1972,1972-11-08,ABC,0,2,Cruzeiro,VV,0,3,225
+231,Série A,1972,1972-11-09,Náutico,0,1,Internacional,VV,0,3,232
+232,Série A,1972,1972-11-09,Vitória,2,0,Vasco,VC,3,0,233
+233,Série A,1972,1972-11-11,América-MG,2,0,Flamengo,VC,3,0,234
+234,Série A,1972,1972-11-11,Botafogo,3,2,São Paulo,VC,3,0,235
+245,Série A,1972,1972-11-12,Coritiba,1,1,Internacional,E,1,1,246
+244,Série A,1972,1972-11-12,Corinthians,1,1,Vasco,E,1,1,245
+243,Série A,1972,1972-11-12,Portuguesa,2,0,Santos,VC,3,0,244
+242,Série A,1972,1972-11-12,ABC,2,0,Santa Cruz,VC,3,0,243
+241,Série A,1972,1972-11-12,Grêmio,0,1,Palmeiras,VV,0,3,242
+238,Série A,1972,1972-11-12,Sergipe,0,0,Nacional-AM,E,1,1,239
+239,Série A,1972,1972-11-12,Fluminense,0,0,America-RJ,E,1,1,240
+237,Série A,1972,1972-11-12,Ceará,2,2,CRB,E,1,1,238
+236,Série A,1972,1972-11-12,Náutico,2,2,Remo,E,1,1,237
+235,Série A,1972,1972-11-12,Cruzeiro,0,0,Atlético-MG,E,1,1,236
+240,Série A,1972,1972-11-12,Bahia,0,0,Vitória,E,1,1,241
+246,Série A,1972,1972-11-15,Flamengo,0,6,Botafogo,VV,0,3,247
+257,Série A,1972,1972-11-16,Internacional,2,0,Corinthians,VC,3,0,258
+256,Série A,1972,1972-11-16,Cruzeiro,2,0,Portuguesa,VC,3,0,257
+255,Série A,1972,1972-11-16,Atlético-MG,0,1,Santos,VV,0,3,256
+254,Série A,1972,1972-11-16,Coritiba,1,0,Vasco,VC,3,0,255
+253,Série A,1972,1972-11-16,Santa Cruz,1,1,Vitória,E,1,1,254
+258,Série A,1972,1972-11-16,Fluminense,2,0,Grêmio,VC,3,0,259
+251,Série A,1972,1972-11-16,CRB,0,3,Sergipe,VV,0,3,252
+250,Série A,1972,1972-11-16,Remo,1,0,Nacional-AM,VC,3,0,251
+249,Série A,1972,1972-11-16,Ceará,0,0,Bahia,E,1,1,250
+248,Série A,1972,1972-11-16,São Paulo,2,1,América-MG,VC,3,0,249
+247,Série A,1972,1972-11-16,Palmeiras,2,0,America-RJ,VC,3,0,248
+252,Série A,1972,1972-11-16,ABC,3,4,Náutico,VV,0,3,253
+259,Série A,1972,1972-11-18,Vasco,3,1,Portuguesa,VC,3,0,260
+260,Série A,1972,1972-11-18,Internacional,1,1,Atlético-MG,E,1,1,261
+271,Série A,1972,1972-11-19,Coritiba,2,3,Cruzeiro,VV,0,3,272
+270,Série A,1972,1972-11-19,CRB,1,1,Remo,E,1,1,271
+269,Série A,1972,1972-11-19,São Paulo,2,0,America-RJ,VC,3,0,270
+268,Série A,1972,1972-11-19,América-MG,1,2,Palmeiras,VV,0,3,269
+267,Série A,1972,1972-11-19,Grêmio,1,0,Flamengo,VC,3,0,268
+264,Série A,1972,1972-11-19,Ceará,0,1,Corinthians,VV,0,3,265
+265,Série A,1972,1972-11-19,Botafogo,2,1,Fluminense,VC,3,0,266
+263,Série A,1972,1972-11-19,Nacional-AM,2,3,Náutico,VV,0,3,264
+262,Série A,1972,1972-11-19,ABC,0,0,Vitória,E,1,1,263
+261,Série A,1972,1972-11-19,Santa Cruz,2,4,Santos,VV,0,3,262
+266,Série A,1972,1972-11-19,Sergipe,1,2,Bahia,VV,0,3,267
+272,Série A,1972,1972-11-21,Internacional,5,1,Portuguesa,VC,3,0,273
+280,Série A,1972,1972-11-22,Remo,0,1,Grêmio,VV,0,3,281
+282,Série A,1972,1972-11-22,Palmeiras,0,0,São Paulo,E,1,1,283
+281,Série A,1972,1972-11-22,ABC,0,3,Corinthians,VV,0,3,282
+278,Série A,1972,1972-11-22,Vasco,0,0,Bahia,E,1,1,279
+279,Série A,1972,1972-11-22,Cruzeiro,1,0,Santa Cruz,VC,3,0,280
+276,Série A,1972,1972-11-22,Ceará,0,0,Botafogo,E,1,1,277
+277,Série A,1972,1972-11-22,Atlético-MG,4,2,Nacional-AM,VC,3,0,278
+275,Série A,1972,1972-11-22,Náutico,3,2,América-MG,VC,3,0,276
+274,Série A,1972,1972-11-22,Sergipe,0,1,America-RJ,VV,0,3,275
+273,Série A,1972,1972-11-22,CRB,0,3,Coritiba,VV,0,3,274
+283,Série A,1972,1972-11-23,Fluminense,0,0,Internacional,E,1,1,284
+284,Série A,1972,1972-11-23,Vitória,0,0,Portuguesa,E,1,1,285
+285,Série A,1972,1972-11-23,Santos,0,0,Flamengo,E,1,1,286
+286,Série A,1972,1972-11-25,Náutico,1,1,Coritiba,E,1,1,287
+287,Série A,1972,1972-11-25,Palmeiras,4,1,Bahia,VC,3,0,288
+297,Série A,1972,1972-11-26,Internacional,3,1,São Paulo,VC,3,0,298
+296,Série A,1972,1972-11-26,Cruzeiro,1,1,Flamengo,E,1,1,297
+295,Série A,1972,1972-11-26,Remo,1,1,Atlético-MG,E,1,1,296
+294,Série A,1972,1972-11-26,Nacional-AM,0,2,Grêmio,VV,0,3,295
+293,Série A,1972,1972-11-26,ABC,2,1,Botafogo          ,VC,3,0,294
+298,Série A,1972,1972-11-26,Vitória,2,0,America-RJ,VC,3,0,299
+291,Série A,1972,1972-11-26,Vasco,0,0,Fluminense,E,1,1,292
+290,Série A,1972,1972-11-26,Sergipe,1,1,Portuguesa,E,1,1,291
+289,Série A,1972,1972-11-26,Santa Cruz,1,1,Ceará,E,1,1,290
+288,Série A,1972,1972-11-26,Santos,4,0,Corinthians,VC,3,0,289
+292,Série A,1972,1972-11-26,CRB,0,0,América-MG,E,1,1,293
+311,Série A,1972,1972-11-29,Náutico,0,1,Flamengo,VV,0,3,312
+310,Série A,1972,1972-11-29,Ceará,0,3,Palmeiras,VV,0,3,311
+309,Série A,1972,1972-11-29,Internacional,1,0,Vitória,VC,3,0,310
+308,Série A,1972,1972-11-29,ABC,0,2,Santos,VV,0,3,309
+307,Série A,1972,1972-11-29,Corinthians,3,1,Bahia,VC,3,0,308
+305,Série A,1972,1972-11-29,Santa Cruz,1,2,Coritiba,VV,0,3,306
+306,Série A,1972,1972-11-29,Nacional-AM,2,1,Cruzeiro,VC,3,0,307
+303,Série A,1972,1972-11-29,Atlético-MG,1,1,América-MG,E,1,1,304
+302,Série A,1972,1972-11-29,Sergipe,0,5,São Paulo,VV,0,3,303
+301,Série A,1972,1972-11-29,Portuguesa,1,1,Botafogo,E,1,1,302
+300,Série A,1972,1972-11-29,Grêmio,0,0,America-RJ,E,1,1,301
+299,Série A,1972,1972-11-29,CRB,0,0,Vasco,E,1,1,300
+304,Série A,1972,1972-11-29,Remo,0,0,Fluminense,E,1,1,305
+312,Série A,1972,1972-12-02,Náutico,1,2,Vasco,VV,0,3,313
+320,Série A,1972,1972-12-03,CRB,2,5,Flamengo,VV,0,3,321
+323,Série A,1972,1972-12-03,America-RJ,0,0,Corinthians,E,1,1,324
+322,Série A,1972,1972-12-03,América-MG,3,1,Botafogo,VC,3,0,323
+321,Série A,1972,1972-12-03,ABC,2,2,Palmeiras,E,1,1,322
+324,Série A,1972,1972-12-03,Nacional-AM,0,1,Fluminense,VV,0,3,325
+319,Série A,1972,1972-12-03,Ceará,2,1,Santos,VC,3,0,320
+316,Série A,1972,1972-12-03,Bahia,2,3,Portuguesa,VV,0,3,317
+317,Série A,1972,1972-12-03,Santa Cruz,2,0,Atlético-MG,VC,3,0,318
+315,Série A,1972,1972-12-03,Coritiba,1,2,Grêmio,VV,0,3,316
+314,Série A,1972,1972-12-03,São Paulo,5,2,Vitória,VC,3,0,315
+313,Série A,1972,1972-12-03,Remo,2,2,Cruzeiro,E,1,1,314
+318,Série A,1972,1972-12-03,Sergipe,2,4,Internacional,VV,0,3,319
+325,Série A,1972,1972-12-09,Fluminense,0,0,Ceará,E,1,1,326
+326,Série A,1972,1972-12-09,Santos,2,0,Santa Cruz,VC,3,0,327
+327,Série A,1972,1972-12-09,Grêmio,0,0,Botafogo,E,1,1,328
+332,Série A,1972,1972-12-10,Vasco,1,1,Flamengo,E,1,1,333
+331,Série A,1972,1972-12-10,Internacional,3,2,Cruzeiro,VC,3,0,332
+328,Série A,1972,1972-12-10,São Paulo,2,0,Palmeiras,VC,3,0,329
+329,Série A,1972,1972-12-10,Coritiba,2,1,America-RJ,VC,3,0,330
+330,Série A,1972,1972-12-10,Atlético-MG,0,0,Corinthians,E,1,1,331
+336,Série A,1972,1972-12-13,Botafogo,4,1,Santa Cruz,VC,3,0,337
+333,Série A,1972,1972-12-13,São Paulo,2,0,Coritiba,VC,3,0,334
+334,Série A,1972,1972-12-13,Palmeiras,3,1,America-RJ,VC,3,0,335
+335,Série A,1972,1972-12-13,Fluminense,2,3,Atlético-MG,VV,0,3,336
+340,Série A,1972,1972-12-14,Flamengo,1,3,Internacional,VV,0,3,341
+339,Série A,1972,1972-12-14,Vasco,3,1,Cruzeiro,VC,3,0,340
+337,Série A,1972,1972-12-14,Corinthians,1,0,Ceará,VC,3,0,338
+338,Série A,1972,1972-12-14,Santos,0,1,Grêmio,VV,0,3,339
+341,Série A,1972,1972-12-16,America-RJ,1,0,São Paulo,VC,3,0,342
+342,Série A,1972,1972-12-16,Palmeiras,3,0,Coritiba,VC,3,0,343
+343,Série A,1972,1972-12-18,Ceará,1,1,Atlético-MG,E,1,1,344
+344,Série A,1972,1972-12-18,Corinthians,0,0,Fluminense,E,1,1,345
+345,Série A,1972,1972-12-18,Cruzeiro,1,1,Flamengo,E,1,1,346
+346,Série A,1972,1972-12-18,Internacional,1,1,Vasco,E,1,1,347
+347,Série A,1972,1972-12-18,Botafogo,2,1,Santos,VC,3,0,348
+348,Série A,1972,1972-12-18,Santa Cruz,2,1,Grêmio,VC,3,0,349
+349,Série A,1972,1972-12-20,Botafogo,2,1,Corinthians,VC,3,0,350
+350,Série A,1972,1972-12-20,Palmeiras,1,1,Internacional,E,1,1,351
+351,Série A,1972,1972-12-23,Palmeiras,0,0,Botafogo,E,1,1,352
+11,Série A,1973,1973-08-25,Tiradentes-PI,0,0,Fluminense,E,1,1,12
+16,Série A,1973,1973-08-25,América-RN,0,0,Rio Negro-AM,E,1,1,17
+12,Série A,1973,1973-08-25,Paysandu,2,1,Internacional,VC,3,0,13
+10,Série A,1973,1973-08-25,Figueirense,0,0,Coritiba,E,1,1,11
+14,Série A,1973,1973-08-25,Corinthians,0,0,America-RJ,E,1,1,15
+15,Série A,1973,1973-08-25,Bahia,1,1,São Paulo,E,1,1,16
+13,Série A,1973,1973-08-25,CEUB,0,0,Botafogo,E,1,1,14
+9,Série A,1973,1973-08-25,CRB,0,1,América-MG,VV,0,3,10
+4,Série A,1973,1973-08-25,Desportiva Capixaba,2,0,Sergipe,VC,3,0,5
+7,Série A,1973,1973-08-25,Athletico-PR,0,0,Vitória,E,1,1,8
+6,Série A,1973,1973-08-25,Remo,0,2,Palmeiras,VV,0,3,7
+5,Série A,1973,1973-08-25,Grêmio,4,0,Santa Cruz,VC,3,0,6
+3,Série A,1973,1973-08-25,Goiás,0,0,Olaria,E,1,1,4
+2,Série A,1973,1973-08-25,Comercial-MS,0,1,Flamengo,VV,0,3,3
+1,Série A,1973,1973-08-25,Ceará,2,2,Náutico,E,1,1,2
+0,Série A,1973,1973-08-25,Sport,0,0,Fortaleza,E,1,1,1
+8,Série A,1973,1973-08-25,Moto Clube,0,3,Cruzeiro,VV,0,3,9
+17,Série A,1973,1973-08-26,Nacional-AM,1,1,Guarani,E,1,1,18
+33,Série A,1973,1973-08-29,América-MG,4,1,Sport,VC,3,0,34
+32,Série A,1973,1973-08-29,Fortaleza,1,1,Bahia,E,1,1,33
+31,Série A,1973,1973-08-29,Coritiba,2,1,CEUB,VC,3,0,32
+30,Série A,1973,1973-08-29,Sergipe,0,3,Vasco,VV,0,3,31
+29,Série A,1973,1973-08-29,Goiás,1,0,Flamengo,VC,3,0,30
+28,Série A,1973,1973-08-29,Desportiva Capixaba,2,0,Atlético-MG,VC,3,0,29
+34,Série A,1973,1973-08-29,Comercial-MS,2,1,Olaria,VC,3,0,35
+27,Série A,1973,1973-08-29,Rio Negro-AM,1,2,Palmeiras,VV,0,3,28
+24,Série A,1973,1973-08-29,Guarani,0,1,Corinthians,VV,0,3,25
+25,Série A,1973,1973-08-29,Remo,1,0,Portuguesa,VC,3,0,26
+23,Série A,1973,1973-08-29,América-RN,1,1,Grêmio,E,1,1,24
+22,Série A,1973,1973-08-29,Santa Cruz,1,1,Ceará,E,1,1,23
+21,Série A,1973,1973-08-29,Tiradentes-PI,1,1,Cruzeiro,E,1,1,22
+20,Série A,1973,1973-08-29,CRB,0,1,São Paulo,VV,0,3,21
+19,Série A,1973,1973-08-29,Figueirense,2,2,Botafogo,E,1,1,20
+18,Série A,1973,1973-08-29,Moto Clube,1,4,Fluminense,VV,0,3,19
+26,Série A,1973,1973-08-29,Vitória,2,0,Santos,VC,3,0,27
+35,Série A,1973,1973-08-30,Nacional-AM,0,0,Internacional,E,1,1,36
+36,Série A,1973,1973-08-30,Paysandu,0,0,America-RJ,E,1,1,37
+37,Série A,1973,1973-08-30,Náutico,1,0,Athletico-PR,VC,3,0,38
+44,Série A,1973,1973-08-31,CEUB,2,1,Figueirense,VC,3,0,45
+45,Série A,1973,1973-08-31,Botafogo,4,0,Fluminense,VC,3,0,46
+43,Série A,1973,1973-08-31,Paysandu,0,2,Guarani,VV,0,3,44
+42,Série A,1973,1973-08-31,Coritiba,3,0,Corinthians,VC,3,0,43
+41,Série A,1973,1973-08-31,Nacional-AM,1,1,America-RJ,E,1,1,42
+40,Série A,1973,1973-08-31,América-MG,1,0,Fortaleza,VC,3,0,41
+39,Série A,1973,1973-08-31,Sport,0,3,São Paulo,VV,0,3,40
+38,Série A,1973,1973-08-31,Rio Negro-AM,1,3,Portuguesa,VV,0,3,39
+56,Série A,1973,1973-09-02,Goiás,2,0,Comercial-MS,VC,3,0,57
+55,Série A,1973,1973-09-02,América-RN,2,0,Sergipe,VC,3,0,56
+54,Série A,1973,1973-09-02,Ceará,0,1,Athletico-PR,VV,0,3,55
+52,Série A,1973,1973-09-02,Atlético-MG,0,0,Grêmio,E,1,1,53
+51,Série A,1973,1973-09-02,Santos,0,0,Palmeiras,E,1,1,52
+53,Série A,1973,1973-09-02,Desportiva Capixaba,0,1,Remo,VV,0,3,54
+49,Série A,1973,1973-09-02,Vitória,0,0,Vasco,E,1,1,50
+48,Série A,1973,1973-09-02,Moto Clube,0,1,Tiradentes-PI,VV,0,3,49
+47,Série A,1973,1973-09-02,CRB,0,1,Bahia,VV,0,3,48
+46,Série A,1973,1973-09-02,Internacional,0,1,Cruzeiro,VV,0,3,47
+50,Série A,1973,1973-09-02,Santa Cruz,3,1,Flamengo,VC,3,0,51
+67,Série A,1973,1973-09-05,CEUB,2,0,Cruzeiro,VC,3,0,68
+74,Série A,1973,1973-09-05,Goiás,3,0,Sergipe,VC,3,0,75
+73,Série A,1973,1973-09-05,América-RN,2,0,Ceará,VC,3,0,74
+72,Série A,1973,1973-09-05,Remo,1,0,Náutico,VC,3,0,73
+71,Série A,1973,1973-09-05,Rio Negro-AM,1,0,Santa Cruz,VC,3,0,72
+70,Série A,1973,1973-09-05,Comercial-MS,1,1,Atlético-MG,E,1,1,71
+69,Série A,1973,1973-09-05,Santos,0,0,Grêmio,E,1,1,70
+68,Série A,1973,1973-09-05,Athletico-PR,1,1,Palmeiras,E,1,1,69
+66,Série A,1973,1973-09-05,Olaria,0,1,Flamengo,VV,0,3,67
+64,Série A,1973,1973-09-05,Figueirense,1,1,Corinthians,E,1,1,65
+63,Série A,1973,1973-09-05,Guarani,1,1,São Paulo,E,1,1,64
+62,Série A,1973,1973-09-05,Bahia,0,1,Fluminense,VV,0,3,63
+61,Série A,1973,1973-09-05,Sport,0,1,Internacional,VV,0,3,62
+60,Série A,1973,1973-09-05,Tiradentes-PI,2,0,Paysandu,VC,3,0,61
+59,Série A,1973,1973-09-05,CRB,1,1,Nacional-AM,E,1,1,60
+58,Série A,1973,1973-09-05,Fortaleza,3,2,Coritiba,VC,3,0,59
+57,Série A,1973,1973-09-05,Desportiva Capixaba,0,1,Vasco,VV,0,3,58
+65,Série A,1973,1973-09-05,Moto Clube,0,2,Botafogo,VV,0,3,66
+75,Série A,1973,1973-09-06,America-RJ,1,0,América-MG,VC,3,0,76
+76,Série A,1973,1973-09-08,Vasco,1,1,Ceará,E,1,1,77
+77,Série A,1973,1973-09-08,Portuguesa,4,2,Olaria,VC,3,0,78
+78,Série A,1973,1973-09-08,Nacional-AM,0,1,Coritiba,VV,0,3,79
+90,Série A,1973,1973-09-09,Guarani,3,1,CEUB,VC,3,0,91
+91,Série A,1973,1973-09-09,Corinthians,1,0,São Paulo,VC,3,0,92
+92,Série A,1973,1973-09-09,Moto Clube,1,1,America-RJ,E,1,1,93
+89,Série A,1973,1973-09-09,Cruzeiro,1,0,América-MG,VC,3,0,90
+94,Série A,1973,1973-09-09,Paysandu,2,2,Sport,E,1,1,95
+95,Série A,1973,1973-09-09,CRB,1,2,Fluminense,VV,0,3,96
+93,Série A,1973,1973-09-09,Tiradentes-PI,0,0,Botafogo,E,1,1,94
+88,Série A,1973,1973-09-09,Bahia,1,2,Internacional,VV,0,3,89
+84,Série A,1973,1973-09-09,Athletico-PR,0,1,Atlético-MG,VV,0,3,85
+86,Série A,1973,1973-09-09,Fortaleza,2,0,Figueirense,VC,3,0,87
+85,Série A,1973,1973-09-09,Grêmio,0,0,Palmeiras,E,1,1,86
+87,Série A,1973,1973-09-09,Náutico,0,0,Santa Cruz,E,1,1,88
+83,Série A,1973,1973-09-09,Sergipe,1,0,Remo,VC,3,0,84
+82,Série A,1973,1973-09-09,Goiás,0,0,América-RN,E,1,1,83
+81,Série A,1973,1973-09-09,Comercial-MS,0,0,Desportiva Capixaba,E,1,1,82
+80,Série A,1973,1973-09-09,Rio Negro-AM,0,0,Vitória,E,1,1,81
+79,Série A,1973,1973-09-09,Flamengo,0,1,Santos,VV,0,3,80
+108,Série A,1973,1973-09-12,Fortaleza,0,2,Botafogo,VV,0,3,109
+109,Série A,1973,1973-09-12,Tiradentes-PI,0,0,America-RJ,E,1,1,110
+110,Série A,1973,1973-09-12,CEUB,0,0,Bahia,E,1,1,111
+113,Série A,1973,1973-09-12,CRB,0,1,Internacional,VV,0,3,114
+112,Série A,1973,1973-09-12,Figueirense,0,1,Cruzeiro,VV,0,3,113
+106,Série A,1973,1973-09-12,Paysandu,0,1,Coritiba,VV,0,3,107
+114,Série A,1973,1973-09-12,Moto Clube,0,0,Corinthians,E,1,1,115
+111,Série A,1973,1973-09-12,São Paulo,1,0,América-MG,VC,3,0,112
+105,Série A,1973,1973-09-12,Sport,1,2,Nacional-AM,VV,0,3,106
+107,Série A,1973,1973-09-12,Fluminense,3,0,Guarani,VC,3,0,108
+103,Série A,1973,1973-09-12,América-RN,1,1,Vasco,E,1,1,104
+102,Série A,1973,1973-09-12,Sergipe,0,1,Flamengo,VV,0,3,103
+101,Série A,1973,1973-09-12,Vitória,0,0,Olaria,E,1,1,102
+100,Série A,1973,1973-09-12,Comercial-MS,1,0,Santos,VC,3,0,101
+99,Série A,1973,1973-09-12,Goiás,0,0,Portuguesa,E,1,1,100
+98,Série A,1973,1973-09-12,Rio Negro-AM,1,2,Atlético-MG,VV,0,3,99
+97,Série A,1973,1973-09-12,Desportiva Capixaba,1,0,Náutico,VC,3,0,98
+96,Série A,1973,1973-09-12,Ceará,0,2,Palmeiras,VV,0,3,97
+104,Série A,1973,1973-09-12,Santa Cruz,2,1,Remo,VC,3,0,105
+118,Série A,1973,1973-09-15,Grêmio,2,0,Olaria,VC,3,0,119
+117,Série A,1973,1973-09-15,CEUB,1,2,CRB,VV,0,3,118
+116,Série A,1973,1973-09-15,Coritiba,3,0,Sport,VC,3,0,117
+115,Série A,1973,1973-09-15,Cruzeiro,1,0,Bahia,VC,3,0,116
+128,Série A,1973,1973-09-16,Nacional-AM,2,1,Paysandu,VC,3,0,129
+134,Série A,1973,1973-09-16,Fortaleza,0,0,São Paulo,E,1,1,135
+133,Série A,1973,1973-09-16,Atlético-MG,3,0,Flamengo,VC,3,0,134
+132,Série A,1973,1973-09-16,Fluminense,2,0,America-RJ,VC,3,0,133
+131,Série A,1973,1973-09-16,Internacional,0,1,Botafogo,VV,0,3,132
+130,Série A,1973,1973-09-16,Tiradentes-PI,1,0,Corinthians,VC,3,0,131
+129,Série A,1973,1973-09-16,Figueirense,1,1,Guarani,E,1,1,130
+127,Série A,1973,1973-09-16,Náutico,2,1,Vasco,VC,3,0,128
+122,Série A,1973,1973-09-16,Remo,1,0,Goiás,VC,3,0,123
+125,Série A,1973,1973-09-16,Palmeiras,1,1,Portuguesa,E,1,1,126
+119,Série A,1973,1973-09-16,Comercial-MS,1,0,Sergipe,VC,3,0,120
+120,Série A,1973,1973-09-16,Vitória,0,1,Ceará,VV,0,3,121
+121,Série A,1973,1973-09-16,Desportiva Capixaba,0,1,Rio Negro-AM,VV,0,3,122
+126,Série A,1973,1973-09-16,Moto Clube,0,0,América-MG,E,1,1,127
+123,Série A,1973,1973-09-16,América-RN,2,2,Santa Cruz,E,1,1,124
+124,Série A,1973,1973-09-16,Athletico-PR,0,2,Santos,VV,0,3,125
+135,Série A,1973,1973-09-19,Vasco,0,1,Portuguesa,VV,0,3,136
+136,Série A,1973,1973-09-19,Atlético-MG,0,0,Santos,E,1,1,137
+137,Série A,1973,1973-09-21,Palmeiras,1,0,Olaria,VC,3,0,138
+142,Série A,1973,1973-09-22,CEUB,1,1,Sport,E,1,1,143
+140,Série A,1973,1973-09-22,Rio Negro-AM,1,0,Goiás,VC,3,0,141
+141,Série A,1973,1973-09-22,Corinthians,1,0,Internacional,VC,3,0,142
+138,Série A,1973,1973-09-22,Fortaleza,2,1,America-RJ,VC,3,0,139
+139,Série A,1973,1973-09-22,América-MG,0,0,Tiradentes-PI,E,1,1,140
+151,Série A,1973,1973-09-23,Bahia,1,0,Figueirense,VC,3,0,152
+156,Série A,1973,1973-09-23,Ceará,2,0,Santos,VC,3,0,157
+155,Série A,1973,1973-09-23,Nacional-AM,1,1,Botafogo,E,1,1,156
+154,Série A,1973,1973-09-23,Guarani,1,0,Moto Clube,VC,3,0,155
+153,Série A,1973,1973-09-23,Cruzeiro,0,0,Coritiba,E,1,1,154
+152,Série A,1973,1973-09-23,CRB,3,2,Paysandu,VC,3,0,153
+150,Série A,1973,1973-09-23,Vasco,2,2,Flamengo,E,1,1,151
+148,Série A,1973,1973-09-23,Grêmio,1,0,Portuguesa,VC,3,0,149
+147,Série A,1973,1973-09-23,Sergipe,0,4,Atlético-MG,VV,0,3,148
+145,Série A,1973,1973-09-23,Remo,1,2,América-RN,VV,0,3,146
+144,Série A,1973,1973-09-23,Athletico-PR,1,0,Desportiva Capixaba,VC,3,0,145
+143,Série A,1973,1973-09-23,São Paulo,2,2,Fluminense,E,1,1,144
+149,Série A,1973,1973-09-23,Comercial-MS,1,2,Náutico,VV,0,3,150
+146,Série A,1973,1973-09-23,Santa Cruz,1,0,Vitória,VC,3,0,147
+173,Série A,1973,1973-09-26,Coritiba,2,0,America-RJ,VC,3,0,174
+166,Série A,1973,1973-09-26,Moto Clube,0,0,Fortaleza,E,1,1,167
+172,Série A,1973,1973-09-26,Cruzeiro,1,1,Guarani,E,1,1,173
+171,Série A,1973,1973-09-26,CEUB,0,0,São Paulo,E,1,1,172
+170,Série A,1973,1973-09-26,Nacional-AM,2,2,Bahia,E,1,1,171
+169,Série A,1973,1973-09-26,Paysandu,0,1,Botafogo,VV,0,3,170
+168,Série A,1973,1973-09-26,Figueirense,1,0,Fluminense,VC,3,0,169
+167,Série A,1973,1973-09-26,Comercial-MS,1,1,Rio Negro-AM,E,1,1,168
+165,Série A,1973,1973-09-26,Tiradentes-PI,1,1,CRB,E,1,1,166
+163,Série A,1973,1973-09-26,Santa Cruz,1,0,Olaria,VC,3,0,164
+162,Série A,1973,1973-09-26,Palmeiras,2,0,Náutico,VC,3,0,163
+161,Série A,1973,1973-09-26,América-RN,1,6,Santos,VV,0,3,162
+160,Série A,1973,1973-09-26,Desportiva Capixaba,1,1,Portuguesa,E,1,1,161
+159,Série A,1973,1973-09-26,Vitória,0,1,Atlético-MG,VV,0,3,160
+158,Série A,1973,1973-09-26,Sergipe,1,2,Grêmio,VV,0,3,159
+157,Série A,1973,1973-09-26,Goiás,1,0,Athletico-PR,VC,3,0,158
+164,Série A,1973,1973-09-26,Ceará,1,1,Flamengo,E,1,1,165
+174,Série A,1973,1973-09-27,Sport,1,2,Corinthians,VV,0,3,175
+175,Série A,1973,1973-09-27,Remo,0,1,Vasco,VV,0,3,176
+177,Série A,1973,1973-09-29,Nacional-AM,1,0,CEUB,VC,3,0,178
+176,Série A,1973,1973-09-29,Athletico-PR,0,0,Santa Cruz,E,1,1,177
+194,Série A,1973,1973-09-30,Internacional,0,0,America-RJ,E,1,1,195
+193,Série A,1973,1973-09-30,Bahia,3,0,Paysandu,VC,3,0,194
+192,Série A,1973,1973-09-30,Guarani,2,2,Fortaleza,E,1,1,193
+191,Série A,1973,1973-09-30,Moto Clube,0,2,Sport,VV,0,3,192
+190,Série A,1973,1973-09-30,CRB,0,3,Corinthians,VV,0,3,191
+189,Série A,1973,1973-09-30,Botafogo,1,0,São Paulo,VC,3,0,190
+195,Série A,1973,1973-09-30,Figueirense,1,0,Tiradentes-PI,VC,3,0,196
+188,Série A,1973,1973-09-30,Cruzeiro,0,0,Fluminense,E,1,1,189
+187,Série A,1973,1973-09-30,Rio Negro-AM,0,0,Vasco,E,1,1,188
+184,Série A,1973,1973-09-30,Palmeiras,1,0,Atlético-MG,VC,3,0,185
+185,Série A,1973,1973-09-30,América-RN,0,3,Flamengo,VV,0,3,186
+183,Série A,1973,1973-09-30,Náutico,0,3,Santos,VV,0,3,184
+182,Série A,1973,1973-09-30,Ceará,1,1,Portuguesa,E,1,1,183
+181,Série A,1973,1973-09-30,Goiás,0,2,Grêmio,VV,0,3,182
+180,Série A,1973,1973-09-30,Remo,1,0,Comercial-MS,VC,3,0,181
+179,Série A,1973,1973-09-30,Sergipe,0,1,Vitória,VV,0,3,180
+178,Série A,1973,1973-09-30,Desportiva Capixaba,1,1,Olaria,E,1,1,179
+186,Série A,1973,1973-09-30,Coritiba,0,2,América-MG,VV,0,3,187
+206,Série A,1973,1973-10-03,Paysandu,1,2,Cruzeiro,VV,0,3,207
+212,Série A,1973,1973-10-03,América-MG,0,0,Fluminense,E,1,1,213
+211,Série A,1973,1973-10-03,Figueirense,0,0,Nacional-AM,E,1,1,212
+210,Série A,1973,1973-10-03,Guarani,1,1,Botafogo,E,1,1,211
+209,Série A,1973,1973-10-03,CEUB,1,0,America-RJ,VC,3,0,210
+208,Série A,1973,1973-10-03,Bahia,0,1,Corinthians,VV,0,3,209
+207,Série A,1973,1973-10-03,Moto Clube,1,4,São Paulo,VV,0,3,208
+205,Série A,1973,1973-10-03,Fortaleza,0,0,Internacional,E,1,1,206
+198,Série A,1973,1973-10-03,América-RN,1,1,Portuguesa,E,1,1,199
+203,Série A,1973,1973-10-03,Desportiva Capixaba,0,0,Goiás,E,1,1,204
+196,Série A,1973,1973-10-03,Athletico-PR,1,0,Rio Negro-AM,VC,3,0,197
+197,Série A,1973,1973-10-03,Comercial-MS,1,0,Grêmio,VC,3,0,198
+199,Série A,1973,1973-10-03,Sergipe,0,3,Santos,VV,0,3,200
+204,Série A,1973,1973-10-03,CRB,0,3,Sport,VV,0,3,205
+201,Série A,1973,1973-10-03,Santa Cruz,0,2,Vasco,VV,0,3,202
+202,Série A,1973,1973-10-03,Tiradentes-PI,2,1,Coritiba,VC,3,0,203
+200,Série A,1973,1973-10-03,Flamengo,4,1,Náutico,VC,3,0,201
+213,Série A,1973,1973-10-04,Vitória,1,2,Palmeiras,VV,0,3,214
+214,Série A,1973,1973-10-04,Atlético-MG,1,1,Olaria,E,1,1,215
+215,Série A,1973,1973-10-04,Ceará,0,0,Remo,E,1,1,216
+218,Série A,1973,1973-10-06,CEUB,0,1,Internacional,VV,0,3,219
+216,Série A,1973,1973-10-06,Fluminense,1,0,Sport,VC,3,0,217
+217,Série A,1973,1973-10-06,América-MG,1,1,Guarani,E,1,1,218
+219,Série A,1973,1973-10-06,Athletico-PR,0,0,Portuguesa,E,1,1,220
+230,Série A,1973,1973-10-07,Nacional-AM,2,2,Cruzeiro,E,1,1,231
+231,Série A,1973,1973-10-07,Tiradentes-PI,0,2,São Paulo,VV,0,3,232
+232,Série A,1973,1973-10-07,Corinthians,1,1,Botafogo,E,1,1,233
+229,Série A,1973,1973-10-07,Paysandu,1,2,Figueirense,VV,0,3,230
+234,Série A,1973,1973-10-07,Bahia,2,1,America-RJ,VC,3,0,235
+235,Série A,1973,1973-10-07,Atlético-MG,3,0,Remo,VC,3,0,236
+233,Série A,1973,1973-10-07,Flamengo,0,2,Palmeiras,VV,0,3,234
+228,Série A,1973,1973-10-07,CRB,1,3,Fortaleza,VV,0,3,229
+224,Série A,1973,1973-10-07,Santa Cruz,3,2,Santos,VC,3,0,225
+226,Série A,1973,1973-10-07,Coritiba,4,0,Moto Clube,VC,3,0,227
+225,Série A,1973,1973-10-07,Sergipe,1,0,Olaria,VC,3,0,226
+223,Série A,1973,1973-10-07,Goiás,1,0,Náutico,VC,3,0,224
+222,Série A,1973,1973-10-07,Ceará,0,1,Rio Negro-AM,VV,0,3,223
+221,Série A,1973,1973-10-07,Comercial-MS,0,1,Vitória,VV,0,3,222
+220,Série A,1973,1973-10-07,Desportiva Capixaba,2,1,América-RN,VC,3,0,221
+227,Série A,1973,1973-10-07,Grêmio,1,0,Vasco,VC,3,0,228
+236,Série A,1973,1973-10-10,Internacional,1,1,América-MG,E,1,1,237
+237,Série A,1973,1973-10-10,Athletico-PR,1,1,Grêmio,E,1,1,238
+241,Série A,1973,1973-10-13,Portuguesa,3,0,Flamengo,VC,3,0,242
+240,Série A,1973,1973-10-13,Athletico-PR,0,2,Olaria,VV,0,3,241
+242,Série A,1973,1973-10-13,Botafogo,0,1,America-RJ,VV,0,3,243
+238,Série A,1973,1973-10-13,CEUB,1,2,Moto Clube,VV,0,3,239
+239,Série A,1973,1973-10-13,Paysandu,0,2,Corinthians,VV,0,3,240
+257,Série A,1973,1973-10-14,Atlético-MG,0,0,Ceará,E,1,1,258
+256,Série A,1973,1973-10-14,Sport,0,0,Bahia,E,1,1,257
+252,Série A,1973,1973-10-14,Guarani,1,1,CRB,E,1,1,253
+255,Série A,1973,1973-10-14,Figueirense,0,0,América-MG,E,1,1,256
+254,Série A,1973,1973-10-14,Coritiba,1,0,Fluminense,VC,3,0,255
+253,Série A,1973,1973-10-14,São Paulo,2,1,Cruzeiro,VC,3,0,254
+251,Série A,1973,1973-10-14,Tiradentes-PI,1,2,Internacional,VV,0,3,252
+244,Série A,1973,1973-10-14,Vitória,2,1,Desportiva Capixaba,VC,3,0,245
+249,Série A,1973,1973-10-14,Fortaleza,2,2,Nacional-AM,E,1,1,250
+248,Série A,1973,1973-10-14,Vasco,1,1,Santos,E,1,1,249
+247,Série A,1973,1973-10-14,Sergipe,0,0,Palmeiras,E,1,1,248
+246,Série A,1973,1973-10-14,Grêmio,3,0,Remo,VC,3,0,247
+245,Série A,1973,1973-10-14,Rio Negro-AM,1,0,Náutico,VC,3,0,246
+243,Série A,1973,1973-10-14,Comercial-MS,4,3,América-RN,VC,3,0,244
+250,Série A,1973,1973-10-14,Goiás,5,1,Santa Cruz,VC,3,0,251
+270,Série A,1973,1973-10-17,Desportiva Capixaba,1,0,Flamengo,VC,3,0,271
+271,Série A,1973,1973-10-17,Náutico,0,0,Olaria,E,1,1,272
+272,Série A,1973,1973-10-17,Goiás,0,0,Santos,E,1,1,273
+275,Série A,1973,1973-10-17,Santa Cruz,0,1,Palmeiras,VV,0,3,276
+274,Série A,1973,1973-10-17,Sergipe,0,0,Ceará,E,1,1,275
+269,Série A,1973,1973-10-17,Comercial-MS,1,1,Vasco,E,1,1,270
+276,Série A,1973,1973-10-17,Rio Negro-AM,1,1,Grêmio,E,1,1,277
+277,Série A,1973,1973-10-17,América-RN,2,1,Atlético-MG,VC,3,0,278
+273,Série A,1973,1973-10-17,Vitória,1,0,Portuguesa,VC,3,0,274
+268,Série A,1973,1973-10-17,Remo,0,1,Athletico-PR,VV,0,3,269
+265,Série A,1973,1973-10-17,Tiradentes-PI,0,1,Sport,VV,0,3,266
+266,Série A,1973,1973-10-17,Fortaleza,2,0,Paysandu,VC,3,0,267
+264,Série A,1973,1973-10-17,CRB,0,1,Cruzeiro,VV,0,3,265
+263,Série A,1973,1973-10-17,Figueirense,0,1,São Paulo,VV,0,3,264
+262,Série A,1973,1973-10-17,Nacional-AM,1,2,Corinthians,VV,0,3,263
+261,Série A,1973,1973-10-17,Guarani,3,1,America-RJ,VC,3,0,262
+260,Série A,1973,1973-10-17,Coritiba,1,0,Botafogo,VC,3,0,261
+259,Série A,1973,1973-10-17,CEUB,0,1,Fluminense,VV,0,3,260
+258,Série A,1973,1973-10-17,Moto Clube,0,2,Internacional,VV,0,3,259
+267,Série A,1973,1973-10-17,América-MG,1,2,Bahia,VV,0,3,268
+280,Série A,1973,1973-10-20,Vitória,3,3,Goiás,E,1,1,281
+281,Série A,1973,1973-10-20,Náutico,3,2,Portuguesa,VC,3,0,282
+279,Série A,1973,1973-10-20,CEUB,1,2,Fortaleza,VV,0,3,280
+278,Série A,1973,1973-10-20,América-MG,1,1,Botafogo,E,1,1,279
+292,Série A,1973,1973-10-21,Fluminense,1,3,Corinthians,VV,0,3,293
+297,Série A,1973,1973-10-21,Remo,2,1,Flamengo,VC,3,0,298
+296,Série A,1973,1973-10-21,Guarani,4,1,Sport,VC,3,0,297
+295,Série A,1973,1973-10-21,Internacional,2,2,São Paulo,E,1,1,296
+294,Série A,1973,1973-10-21,Athletico-PR,1,2,Vasco,VV,0,3,295
+293,Série A,1973,1973-10-21,Cruzeiro,2,1,America-RJ,VC,3,0,294
+291,Série A,1973,1973-10-21,Tiradentes-PI,0,0,Nacional-AM,E,1,1,292
+290,Série A,1973,1973-10-21,Moto Clube,1,1,Paysandu,E,1,1,291
+288,Série A,1973,1973-10-21,Bahia,2,0,Coritiba,VC,3,0,289
+287,Série A,1973,1973-10-21,Figueirense,1,0,CRB,VC,3,0,288
+286,Série A,1973,1973-10-21,América-RN,0,1,Palmeiras,VV,0,3,287
+285,Série A,1973,1973-10-21,Santa Cruz,1,1,Atlético-MG,E,1,1,286
+284,Série A,1973,1973-10-21,Rio Negro-AM,5,0,Sergipe,VC,3,0,285
+283,Série A,1973,1973-10-21,Ceará,1,0,Comercial-MS,VC,3,0,284
+282,Série A,1973,1973-10-21,Santos,1,2,Olaria,VV,0,3,283
+289,Série A,1973,1973-10-21,Desportiva Capixaba,0,1,Grêmio,VV,0,3,290
+308,Série A,1973,1973-10-24,Sport,1,2,America-RJ,VV,0,3,309
+309,Série A,1973,1973-10-24,Botafogo,2,1,Cruzeiro,VC,3,0,310
+311,Série A,1973,1973-10-24,Bahia,1,0,Tiradentes-PI,VC,3,0,312
+312,Série A,1973,1973-10-24,Figueirense,0,2,Internacional,VV,0,3,313
+307,Série A,1973,1973-10-24,Paysandu,0,2,São Paulo,VV,0,3,308
+310,Série A,1973,1973-10-24,Palmeiras,0,0,Vasco,E,1,1,311
+306,Série A,1973,1973-10-24,Moto Clube,0,1,Nacional-AM,VV,0,3,307
+302,Série A,1973,1973-10-24,Comercial-MS,2,2,Portuguesa,E,1,1,303
+304,Série A,1973,1973-10-24,Ceará,1,0,Olaria,VC,3,0,305
+303,Série A,1973,1973-10-24,Desportiva Capixaba,1,3,Santos,VV,0,3,304
+301,Série A,1973,1973-10-24,Goiás,3,1,Atlético-MG,VC,3,0,302
+300,Série A,1973,1973-10-24,Grêmio,1,0,Náutico,VC,3,0,301
+299,Série A,1973,1973-10-24,Sergipe,2,0,Athletico-PR,VC,3,0,300
+305,Série A,1973,1973-10-24,Coritiba,2,0,CRB,VC,3,0,306
+298,Série A,1973,1973-10-24,América-RN,1,1,Vitória,E,1,1,299
+313,Série A,1973,1973-10-25,Fortaleza,1,0,Fluminense,VC,3,0,314
+314,Série A,1973,1973-10-25,Corinthians,1,1,América-MG,E,1,1,315
+327,Série A,1973,1973-10-27,Sport,0,3,Cruzeiro,VV,0,3,328
+328,Série A,1973,1973-10-27,Tiradentes-PI,0,1,Guarani,VV,0,3,329
+329,Série A,1973,1973-10-27,São Paulo,0,0,Nacional-AM,E,1,1,330
+330,Série A,1973,1973-10-27,Fortaleza,1,1,Corinthians,E,1,1,331
+333,Série A,1973,1973-10-27,Paysandu,1,1,Fluminense,E,1,1,334
+332,Série A,1973,1973-10-27,Bahia,0,0,Botafogo,E,1,1,333
+334,Série A,1973,1973-10-27,Figueirense,0,0,Moto Clube,E,1,1,335
+326,Série A,1973,1973-10-27,Internacional,1,0,Coritiba,VC,3,0,327
+331,Série A,1973,1973-10-27,CRB,1,0,America-RJ,VC,3,0,332
+325,Série A,1973,1973-10-27,Flamengo,1,2,Grêmio,VV,0,3,326
+317,Série A,1973,1973-10-27,América-RN,2,0,Náutico,VC,3,0,318
+323,Série A,1973,1973-10-27,Olaria,1,0,Vasco,VC,3,0,324
+322,Série A,1973,1973-10-27,Vitória,1,0,Remo,VC,3,0,323
+321,Série A,1973,1973-10-27,Desportiva Capixaba,0,1,Palmeiras,VV,0,3,322
+320,Série A,1973,1973-10-27,Rio Negro-AM,1,1,Santos,E,1,1,321
+319,Série A,1973,1973-10-27,Atlético-MG,1,1,Portuguesa,E,1,1,320
+318,Série A,1973,1973-10-27,Sergipe,0,0,Santa Cruz,E,1,1,319
+316,Série A,1973,1973-10-27,Goiás,4,1,Ceará,VC,3,0,317
+315,Série A,1973,1973-10-27,Athletico-PR,4,1,Comercial-MS,VC,3,0,316
+324,Série A,1973,1973-10-27,CEUB,0,1,América-MG,VV,0,3,325
+345,Série A,1973,1973-10-31,America-RJ,0,0,São Paulo,E,1,1,346
+346,Série A,1973,1973-10-31,Náutico,3,1,Atlético-MG,VC,3,0,347
+347,Série A,1973,1973-10-31,Desportiva Capixaba,0,0,Santa Cruz,E,1,1,348
+344,Série A,1973,1973-10-31,Remo,0,1,Santos,VV,0,3,345
+349,Série A,1973,1973-10-31,Nacional-AM,0,0,Fluminense,E,1,1,350
+350,Série A,1973,1973-10-31,CEUB,2,1,Corinthians,VC,3,0,351
+348,Série A,1973,1973-10-31,Athletico-PR,2,1,América-RN,VC,3,0,349
+343,Série A,1973,1973-10-31,América-MG,2,0,Paysandu,VC,3,0,344
+351,Série A,1973,1973-10-31,Sergipe,1,3,Portuguesa,VV,0,3,352
+341,Série A,1973,1973-10-31,Fortaleza,0,0,Cruzeiro,E,1,1,342
+340,Série A,1973,1973-10-31,Figueirense,0,1,Sport,VV,0,3,341
+339,Série A,1973,1973-10-31,Internacional,2,1,Guarani,VC,3,0,340
+338,Série A,1973,1973-10-31,Moto Clube,0,0,Bahia,E,1,1,339
+337,Série A,1973,1973-10-31,Goiás,1,0,Vasco,VC,3,0,338
+336,Série A,1973,1973-10-31,Vitória,0,0,Flamengo,E,1,1,337
+335,Série A,1973,1973-10-31,CRB,0,2,Botafogo,VV,0,3,336
+342,Série A,1973,1973-10-31,Comercial-MS,0,4,Palmeiras,VV,0,3,343
+352,Série A,1973,1973-11-01,Rio Negro-AM,0,0,Olaria,E,1,1,353
+353,Série A,1973,1973-11-01,Ceará,0,0,Grêmio,E,1,1,354
+356,Série A,1973,1973-11-03,Paysandu,0,1,CEUB,VV,0,3,357
+354,Série A,1973,1973-11-03,Fluminense,0,1,Internacional,VV,0,3,355
+355,Série A,1973,1973-11-03,São Paulo,0,0,Coritiba,E,1,1,356
+371,Série A,1973,1973-11-04,Athletico-PR,1,0,Flamengo,VC,3,0,372
+370,Série A,1973,1973-11-04,Ceará,0,0,Desportiva Capixaba,E,1,1,371
+369,Série A,1973,1973-11-04,Remo,0,3,Olaria,VV,0,3,370
+368,Série A,1973,1973-11-04,Sergipe,0,0,Náutico,E,1,1,369
+367,Série A,1973,1973-11-04,Comercial-MS,0,0,Santa Cruz,E,1,1,368
+366,Série A,1973,1973-11-04,Grêmio,1,0,Vitória,VC,3,0,367
+365,Série A,1973,1973-11-04,Santos,3,2,Portuguesa,VC,3,0,366
+372,Série A,1973,1973-11-04,Tiradentes-PI,1,0,Fortaleza,VC,3,0,373
+363,Série A,1973,1973-11-04,Nacional-AM,0,0,América-MG,E,1,1,364
+362,Série A,1973,1973-11-04,Bahia,0,0,Guarani,E,1,1,363
+361,Série A,1973,1973-11-04,Cruzeiro,0,0,Corinthians,E,1,1,362
+360,Série A,1973,1973-11-04,Figueirense,1,1,America-RJ,E,1,1,361
+359,Série A,1973,1973-11-04,Sport,1,0,Botafogo,VC,3,0,360
+358,Série A,1973,1973-11-04,Moto Clube,1,1,CRB,E,1,1,359
+357,Série A,1973,1973-11-04,Vasco,2,0,Atlético-MG,VC,3,0,358
+364,Série A,1973,1973-11-04,Goiás,0,1,Palmeiras,VV,0,3,365
+378,Série A,1973,1973-11-07,Santa Cruz,0,4,Portuguesa,VV,0,3,379
+376,Série A,1973,1973-11-07,Remo,1,0,Rio Negro-AM,VC,3,0,377
+377,Série A,1973,1973-11-07,Tiradentes-PI,2,1,CEUB,VC,3,0,378
+374,Série A,1973,1973-11-07,Vitória,3,1,Náutico,VC,3,0,375
+373,Série A,1973,1973-11-07,América-RN,0,2,Olaria,VV,0,3,374
+375,Série A,1973,1973-11-07,Coritiba,0,0,Guarani,E,1,1,376
+379,Série A,1973,1973-11-10,Botafogo,2,2,Olaria,E,1,1,380
+380,Série A,1973,1973-11-10,América-MG,0,0,Vasco,E,1,1,381
+381,Série A,1973,1973-11-10,São Paulo,2,2,Coritiba,E,1,1,382
+382,Série A,1973,1973-11-10,Santa Cruz,3,0,Remo,VC,3,0,383
+392,Série A,1973,1973-11-11,Rio Negro-AM,0,1,Tiradentes-PI,VV,0,3,393
+398,Série A,1973,1973-11-11,Bahia,0,1,Vitória,VV,0,3,399
+397,Série A,1973,1973-11-11,Cruzeiro,0,0,Atlético-MG,E,1,1,398
+396,Série A,1973,1973-11-11,Palmeiras,2,0,Portuguesa,VC,3,0,397
+395,Série A,1973,1973-11-11,Guarani,1,0,Corinthians,VC,3,0,396
+393,Série A,1973,1973-11-11,Grêmio,1,1,Internacional,E,1,1,394
+391,Série A,1973,1973-11-11,Sergipe,2,1,Nacional-AM,VC,3,0,392
+394,Série A,1973,1973-11-11,Athletico-PR,0,1,Santos,VV,0,3,395
+389,Série A,1973,1973-11-11,Ceará,0,0,Fortaleza,E,1,1,390
+388,Série A,1973,1973-11-11,Goiás,0,2,Paysandu,VV,0,3,389
+387,Série A,1973,1973-11-11,Desportiva Capixaba,1,0,CEUB,VC,3,0,388
+386,Série A,1973,1973-11-11,Comercial-MS,2,0,Moto Clube,VC,3,0,387
+385,Série A,1973,1973-11-11,Náutico,0,0,Sport,E,1,1,386
+384,Série A,1973,1973-11-11,Fluminense,2,1,America-RJ,VC,3,0,385
+383,Série A,1973,1973-11-11,Figueirense,0,1,Flamengo,VV,0,3,384
+390,Série A,1973,1973-11-11,CRB,0,3,América-RN,VV,0,3,391
+416,Série A,1973,1973-11-14,Flamengo,1,2,Cruzeiro,VV,0,3,417
+415,Série A,1973,1973-11-14,Coritiba,2,1,Athletico-PR,VC,3,0,416
+414,Série A,1973,1973-11-14,Vasco,1,1,Olaria,E,1,1,415
+413,Série A,1973,1973-11-14,Figueirense,0,0,Fluminense,E,1,1,414
+411,Série A,1973,1973-11-14,Grêmio,0,0,Corinthians,E,1,1,412
+410,Série A,1973,1973-11-14,Guarani,1,1,Santos,E,1,1,411
+409,Série A,1973,1973-11-14,Paysandu,0,2,Desportiva Capixaba,VV,0,3,410
+408,Série A,1973,1973-11-14,Comercial-MS,1,1,Remo,E,1,1,409
+412,Série A,1973,1973-11-14,América-MG,1,0,Botafogo,VC,3,0,413
+406,Série A,1973,1973-11-14,Goiás,0,0,Santa Cruz,E,1,1,407
+405,Série A,1973,1973-11-14,Vitória,1,1,CRB,E,1,1,406
+404,Série A,1973,1973-11-14,Sport,3,0,CEUB,VC,3,0,405
+403,Série A,1973,1973-11-14,Moto Clube,1,1,Náutico,E,1,1,404
+402,Série A,1973,1973-11-14,São Paulo,1,1,Portuguesa,E,1,1,403
+401,Série A,1973,1973-11-14,Tiradentes-PI,1,1,Ceará,E,1,1,402
+400,Série A,1973,1973-11-14,Sergipe,0,1,Rio Negro-AM,VV,0,3,401
+399,Série A,1973,1973-11-14,América-RN,0,0,Fortaleza,E,1,1,400
+407,Série A,1973,1973-11-14,Nacional-AM,2,1,Bahia,VC,3,0,408
+417,Série A,1973,1973-11-15,Atlético-MG,2,3,America-RJ,VV,0,3,418
+418,Série A,1973,1973-11-15,Palmeiras,1,0,Internacional,VC,3,0,419
+427,Série A,1973,1973-11-17,Cruzeiro,2,0,Olaria,VC,3,0,428
+426,Série A,1973,1973-11-17,Grêmio,1,0,Guarani,VC,3,0,427
+425,Série A,1973,1973-11-17,Desportiva Capixaba,0,0,Goiás,E,1,1,426
+424,Série A,1973,1973-11-17,Remo,1,1,Paysandu,E,1,1,425
+420,Série A,1973,1973-11-17,Portuguesa,0,0,Athletico-PR,E,1,1,421
+422,Série A,1973,1973-11-17,Moto Clube,1,1,Santa Cruz,E,1,1,423
+421,Série A,1973,1973-11-17,Náutico,2,0,CEUB,VC,3,0,422
+419,Série A,1973,1973-11-17,Flamengo,1,1,América-MG,E,1,1,420
+423,Série A,1973,1973-11-17,Comercial-MS,1,0,Sport,VC,3,0,424
+434,Série A,1973,1973-11-18,Tiradentes-PI,2,0,CRB,VC,3,0,435
+438,Série A,1973,1973-11-18,Coritiba,1,2,Santos,VV,0,3,439
+437,Série A,1973,1973-11-18,Figueirense,1,0,America-RJ,VC,3,0,438
+436,Série A,1973,1973-11-18,Corinthians,1,2,Palmeiras,VV,0,3,437
+435,Série A,1973,1973-11-18,Atlético-MG,2,1,Vasco,VC,3,0,436
+433,Série A,1973,1973-11-18,Internacional,1,2,São Paulo,VV,0,3,434
+429,Série A,1973,1973-11-18,Botafogo,1,1,Fluminense,E,1,1,430
+431,Série A,1973,1973-11-18,Bahia,2,1,América-RN,VC,3,0,432
+430,Série A,1973,1973-11-18,Ceará,1,0,Vitória,VC,3,0,431
+432,Série A,1973,1973-11-18,Nacional-AM,0,0,Rio Negro-AM,E,1,1,433
+428,Série A,1973,1973-11-18,Sergipe,1,1,Fortaleza,E,1,1,429
+439,Série A,1973,1973-11-21,Rio Negro-AM,1,2,Flamengo,VV,0,3,440
+440,Série A,1973,1973-11-24,Botafogo,2,1,Atlético-MG,VC,3,0,441
+441,Série A,1973,1973-11-24,América-MG,1,0,Fluminense,VC,3,0,442
+442,Série A,1973,1973-11-24,Corinthians,1,0,Santos,VC,3,0,443
+458,Série A,1973,1973-11-25,Athletico-PR,2,0,Grêmio,VC,3,0,459
+457,Série A,1973,1973-11-25,CEUB,2,1,Comercial-MS,VC,3,0,458
+456,Série A,1973,1973-11-25,Moto Clube,0,0,Paysandu,E,1,1,457
+455,Série A,1973,1973-11-25,Remo,2,0,Goiás,VC,3,0,456
+454,Série A,1973,1973-11-25,Santa Cruz,1,1,Sport,E,1,1,455
+453,Série A,1973,1973-11-25,CRB,2,1,Sergipe,VC,3,0,454
+452,Série A,1973,1973-11-25,Ceará,2,1,Rio Negro-AM,VC,3,0,453
+451,Série A,1973,1973-11-25,Nacional-AM,3,1,América-RN,VC,3,0,452
+450,Série A,1973,1973-11-25,Tiradentes-PI,1,1,Bahia,E,1,1,451
+449,Série A,1973,1973-11-25,Vitória,0,0,Fortaleza,E,1,1,450
+448,Série A,1973,1973-11-25,Guarani,3,1,Portuguesa,VC,3,0,449
+447,Série A,1973,1973-11-25,Palmeiras,1,2,São Paulo,VV,0,3,448
+446,Série A,1973,1973-11-25,Figueirense,2,2,Olaria,E,1,1,447
+445,Série A,1973,1973-11-25,Cruzeiro,0,2,America-RJ,VV,0,3,446
+444,Série A,1973,1973-11-25,Vasco,0,2,Flamengo,VV,0,3,445
+443,Série A,1973,1973-11-25,Internacional,1,0,Coritiba,VC,3,0,444
+472,Série A,1973,1973-11-28,América-RN,2,1,Tiradentes-PI,VC,3,0,473
+471,Série A,1973,1973-11-28,CRB,1,1,Fortaleza,E,1,1,472
+470,Série A,1973,1973-11-28,Coritiba,2,0,Portuguesa,VC,3,0,471
+473,Série A,1973,1973-11-28,Bahia,1,0,Rio Negro-AM,VC,3,0,474
+468,Série A,1973,1973-11-28,Internacional,0,2,Santos,VV,0,3,469
+467,Série A,1973,1973-11-28,Santa Cruz,5,1,Comercial-MS,VC,3,0,468
+466,Série A,1973,1973-11-28,Remo,4,1,Sport,VC,3,0,467
+469,Série A,1973,1973-11-28,Sergipe,1,4,Ceará,VV,0,3,470
+464,Série A,1973,1973-11-28,Moto Clube,1,1,Desportiva Capixaba,E,1,1,465
+463,Série A,1973,1973-11-28,América-MG,1,1,America-RJ,E,1,1,464
+462,Série A,1973,1973-11-28,Guarani,2,0,Palmeiras,VC,3,0,463
+461,Série A,1973,1973-11-28,São Paulo,0,0,Grêmio,E,1,1,462
+460,Série A,1973,1973-11-28,Vasco,3,1,Cruzeiro,VC,3,0,461
+459,Série A,1973,1973-11-28,Figueirense,0,0,Botafogo,E,1,1,460
+465,Série A,1973,1973-11-28,Goiás,3,0,CEUB,VC,3,0,466
+474,Série A,1973,1973-11-29,Fluminense,1,2,Olaria,VV,0,3,475
+475,Série A,1973,1973-11-29,Atlético-MG,2,1,Flamengo,VC,3,0,476
+476,Série A,1973,1973-11-29,Athletico-PR,2,2,Corinthians,E,1,1,477
+477,Série A,1973,1973-11-29,Paysandu,0,0,Náutico,E,1,1,478
+482,Série A,1973,1973-12-01,Coritiba,1,0,Guarani,VC,3,0,483
+481,Série A,1973,1973-12-01,Botafogo,2,1,America-RJ,VC,3,0,482
+478,Série A,1973,1973-12-01,Rio Negro-AM,1,1,CRB,E,1,1,479
+479,Série A,1973,1973-12-01,CEUB,3,1,Paysandu,VC,3,0,480
+480,Série A,1973,1973-12-01,Santos,0,0,Portuguesa,E,1,1,481
+492,Série A,1973,1973-12-02,Nacional-AM,3,1,Ceará,VC,3,0,493
+496,Série A,1973,1973-12-02,Corinthians,0,0,São Paulo,E,1,1,497
+495,Série A,1973,1973-12-02,Figueirense,0,0,Vasco,E,1,1,496
+497,Série A,1973,1973-12-02,América-MG,2,2,Cruzeiro,E,1,1,498
+494,Série A,1973,1973-12-02,Grêmio,1,0,Palmeiras,VC,3,0,495
+493,Série A,1973,1973-12-02,Atlético-MG,1,1,Olaria,E,1,1,494
+491,Série A,1973,1973-12-02,Fluminense,2,1,Flamengo,VC,3,0,492
+485,Série A,1973,1973-12-02,Desportiva Capixaba,0,3,Comercial-MS,VV,0,3,486
+489,Série A,1973,1973-12-02,Fortaleza,2,1,Bahia,VC,3,0,490
+488,Série A,1973,1973-12-02,América-RN,0,1,Vitória,VV,0,3,489
+487,Série A,1973,1973-12-02,Tiradentes-PI,2,0,Sergipe,VC,3,0,488
+486,Série A,1973,1973-12-02,Remo,5,0,Moto Clube,VC,3,0,487
+484,Série A,1973,1973-12-02,Santa Cruz,2,1,Náutico,VC,3,0,485
+483,Série A,1973,1973-12-02,Goiás,0,0,Sport,E,1,1,484
+490,Série A,1973,1973-12-02,Athletico-PR,0,0,Internacional,E,1,1,491
+498,Série A,1973,1973-12-05,Desportiva Capixaba,2,0,Náutico,VC,3,0,499
+499,Série A,1973,1973-12-05,Vitória,2,0,Nacional-AM,VC,3,0,500
+500,Série A,1973,1973-12-07,America-RJ,0,2,Olaria,VV,0,3,501
+514,Série A,1973,1973-12-08,Paysandu,2,0,Santa Cruz,VC,3,0,515
+513,Série A,1973,1973-12-08,América-RN,1,0,Rio Negro-AM,VC,3,0,514
+515,Série A,1973,1973-12-08,Náutico,0,0,Remo,E,1,1,516
+508,Série A,1973,1973-12-08,Athletico-PR,0,0,São Paulo,E,1,1,509
+517,Série A,1973,1973-12-08,CEUB,1,0,Moto Clube,VC,3,0,518
+518,Série A,1973,1973-12-08,Comercial-MS,1,1,Goiás,E,1,1,519
+519,Série A,1973,1973-12-08,Ceará,3,0,CRB,VC,3,0,520
+512,Série A,1973,1973-12-08,Fortaleza,4,1,Nacional-AM,VC,3,0,513
+516,Série A,1973,1973-12-08,Desportiva Capixaba,1,1,Sport,E,1,1,517
+511,Série A,1973,1973-12-08,Bahia,3,0,Sergipe,VC,3,0,512
+507,Série A,1973,1973-12-08,Palmeiras,1,1,Santos,E,1,1,508
+509,Série A,1973,1973-12-08,Vasco,1,0,Fluminense,VC,3,0,510
+501,Série A,1973,1973-12-08,Grêmio,1,0,Coritiba,VC,3,0,502
+502,Série A,1973,1973-12-08,Flamengo,1,0,Botafogo,VC,3,0,503
+503,Série A,1973,1973-12-08,Figueirense,0,3,Cruzeiro,VV,0,3,504
+510,Série A,1973,1973-12-08,Vitória,0,0,Tiradentes-PI,E,1,1,511
+505,Série A,1973,1973-12-08,Corinthians,1,2,Portuguesa,VV,0,3,506
+506,Série A,1973,1973-12-08,Internacional,1,1,Guarani,E,1,1,507
+504,Série A,1973,1973-12-08,Atlético-MG,1,2,América-MG,VV,0,3,505
+535,Série A,1973,1973-12-12,CRB,3,2,Bahia,VC,3,0,536
+533,Série A,1973,1973-12-12,Flamengo,2,1,Olaria,VC,3,0,534
+532,Série A,1973,1973-12-12,América-MG,4,0,Figueirense,VC,3,0,533
+531,Série A,1973,1973-12-12,Coritiba,2,1,Corinthians,VC,3,0,532
+530,Série A,1973,1973-12-12,Santos,4,0,Grêmio,VC,3,0,531
+529,Série A,1973,1973-12-12,Guarani,0,0,São Paulo,E,1,1,530
+528,Série A,1973,1973-12-12,Internacional,1,0,Portuguesa,VC,3,0,529
+534,Série A,1973,1973-12-12,Vasco,2,1,America-RJ,VC,3,0,535
+526,Série A,1973,1973-12-12,Sergipe,0,1,Vitória,VV,0,3,527
+525,Série A,1973,1973-12-12,Tiradentes-PI,1,0,Nacional-AM,VC,3,0,526
+524,Série A,1973,1973-12-12,Rio Negro-AM,0,0,Fortaleza,E,1,1,525
+523,Série A,1973,1973-12-12,Ceará,1,0,América-RN,VC,3,0,524
+522,Série A,1973,1973-12-12,CEUB,2,2,Santa Cruz,E,1,1,523
+521,Série A,1973,1973-12-12,Sport,0,0,Paysandu,E,1,1,522
+520,Série A,1973,1973-12-12,Remo,2,1,Desportiva Capixaba,VC,3,0,521
+527,Série A,1973,1973-12-12,Moto Clube,0,2,Goiás,VV,0,3,528
+538,Série A,1973,1973-12-13,Athletico-PR,0,2,Palmeiras,VV,0,3,539
+539,Série A,1973,1973-12-13,Náutico,1,0,Comercial-MS,VC,3,0,540
+536,Série A,1973,1973-12-13,Fluminense,0,1,Atlético-MG,VV,0,3,537
+537,Série A,1973,1973-12-13,Cruzeiro,2,1,Botafogo,VC,3,0,538
+540,Série A,1973,1973-12-15,Sport,2,1,Moto Clube,VC,3,0,541
+541,Série A,1973,1973-12-15,CEUB,0,0,Remo,E,1,1,542
+542,Série A,1973,1973-12-15,América-MG,2,1,Olaria,VC,3,0,543
+543,Série A,1973,1973-12-15,Flamengo,3,2,America-RJ,VC,3,0,544
+544,Série A,1973,1973-12-15,Corinthians,2,2,Internacional,E,1,1,545
+558,Série A,1973,1973-12-16,Goiás,2,0,Náutico,VC,3,0,559
+557,Série A,1973,1973-12-16,Grêmio,1,0,Portuguesa,VC,3,0,558
+556,Série A,1973,1973-12-16,Vasco,1,0,Botafogo,VC,3,0,557
+555,Série A,1973,1973-12-16,Cruzeiro,1,1,Fluminense,E,1,1,556
+554,Série A,1973,1973-12-16,Figueirense,1,3,Atlético-MG,VV,0,3,555
+553,Série A,1973,1973-12-16,Guarani,2,1,Athletico-PR,VC,3,0,554
+552,Série A,1973,1973-12-16,Coritiba,0,1,Palmeiras,VV,0,3,553
+550,Série A,1973,1973-12-16,Rio Negro-AM,0,1,Vitória,VV,0,3,551
+549,Série A,1973,1973-12-16,CRB,3,1,Nacional-AM,VC,3,0,550
+551,Série A,1973,1973-12-16,Bahia,1,1,Ceará,E,1,1,552
+545,Série A,1973,1973-12-16,Santa Cruz,1,0,Desportiva Capixaba,VC,3,0,546
+547,Série A,1973,1973-12-16,América-RN,3,0,Sergipe,VC,3,0,548
+546,Série A,1973,1973-12-16,Fortaleza,3,0,Tiradentes-PI,VC,3,0,547
+548,Série A,1973,1973-12-16,Comercial-MS,4,1,Paysandu,VC,3,0,549
+559,Série A,1973,1973-12-17,Santos,1,0,São Paulo,VC,3,0,560
+560,Série A,1973,1974-01-12,Corinthians,2,2,Bahia,E,1,1,561
+561,Série A,1973,1974-01-12,Cruzeiro,1,0,Fortaleza,VC,3,0,562
+568,Série A,1973,1974-01-13,Santa Cruz,1,1,Santos,E,1,1,569
+569,Série A,1973,1974-01-13,Vitória,1,2,Botafogo,VV,0,3,570
+567,Série A,1973,1974-01-13,Goiás,2,2,São Paulo,E,1,1,568
+566,Série A,1973,1974-01-13,Grêmio,0,1,Guarani,VV,0,3,567
+565,Série A,1973,1974-01-13,Ceará,0,2,Tiradentes-PI,VV,0,3,566
+564,Série A,1973,1974-01-13,Vasco,1,2,América-MG,VV,0,3,565
+563,Série A,1973,1974-01-13,Atlético-MG,0,0,Internacional,E,1,1,564
+562,Série A,1973,1974-01-13,Palmeiras,0,0,Coritiba,E,1,1,563
+577,Série A,1973,1974-01-16,Tiradentes-PI,0,0,Atlético-MG,E,1,1,578
+576,Série A,1973,1974-01-16,Bahia,0,0,Palmeiras,E,1,1,577
+575,Série A,1973,1974-01-16,Corinthians,1,0,Coritiba,VC,3,0,576
+574,Série A,1973,1974-01-16,América-MG,4,1,Ceará,VC,3,0,575
+570,Série A,1973,1974-01-16,Fortaleza,0,1,Grêmio,VV,0,3,571
+572,Série A,1973,1974-01-16,Goiás,0,1,Cruzeiro,VV,0,3,573
+571,Série A,1973,1974-01-16,Botafogo,4,1,Santa Cruz,VC,3,0,572
+573,Série A,1973,1974-01-16,Guarani,1,1,Vitória,E,1,1,574
+578,Série A,1973,1974-01-17,Vasco,1,2,Internacional,VV,0,3,579
+579,Série A,1973,1974-01-19,Bahia,2,1,Ceará,VC,3,0,580
+580,Série A,1973,1974-01-19,Cruzeiro,0,0,Santa Cruz,E,1,1,581
+588,Série A,1973,1974-01-20,Atlético-MG,2,0,Corinthians,VC,3,0,589
+587,Série A,1973,1974-01-20,Vitória,2,1,Fortaleza,VC,3,0,588
+586,Série A,1973,1974-01-20,São Paulo,1,0,Grêmio,VC,3,0,587
+585,Série A,1973,1974-01-20,Botafogo,0,3,Santos,VV,0,3,586
+583,Série A,1973,1974-01-20,Internacional,0,0,Palmeiras,E,1,1,584
+582,Série A,1973,1974-01-20,Tiradentes-PI,0,2,América-MG,VV,0,3,583
+581,Série A,1973,1974-01-20,Guarani,1,1,Goiás,E,1,1,582
+584,Série A,1973,1974-01-20,Coritiba,0,0,Vasco,E,1,1,585
+596,Série A,1973,1974-01-23,Palmeiras,3,1,América-MG,VC,3,0,597
+595,Série A,1973,1974-01-23,Internacional,2,1,Tiradentes-PI,VC,3,0,596
+594,Série A,1973,1974-01-23,Bahia,0,0,Atlético-MG,E,1,1,595
+593,Série A,1973,1974-01-23,São Paulo,3,0,Guarani,VC,3,0,594
+591,Série A,1973,1974-01-23,Grêmio,1,0,Goiás,VC,3,0,592
+590,Série A,1973,1974-01-23,Cruzeiro,1,1,Botafogo,E,1,1,591
+589,Série A,1973,1974-01-23,Coritiba,4,2,Ceará,VC,3,0,590
+592,Série A,1973,1974-01-23,Fortaleza,1,5,Santos,VV,0,3,593
+597,Série A,1973,1974-01-24,Vitória,2,1,Santa Cruz,VC,3,0,598
+598,Série A,1973,1974-01-24,Corinthians,1,1,Vasco,E,1,1,599
+606,Série A,1973,1974-01-26,Goiás,2,0,Botafogo,VC,3,0,607
+608,Série A,1973,1974-01-26,Fortaleza,1,2,Guarani,VV,0,3,609
+607,Série A,1973,1974-01-26,Cruzeiro,6,1,Vitória,VC,3,0,608
+604,Série A,1973,1974-01-26,Santa Cruz,0,2,São Paulo,VV,0,3,605
+605,Série A,1973,1974-01-26,Grêmio,1,0,Santos,VC,3,0,606
+602,Série A,1973,1974-01-26,Ceará,1,1,Internacional,E,1,1,603
+601,Série A,1973,1974-01-26,Vasco,2,0,Tiradentes-PI,VC,3,0,602
+600,Série A,1973,1974-01-26,Palmeiras,0,0,Corinthians,E,1,1,601
+599,Série A,1973,1974-01-26,América-MG,1,2,Atlético-MG,VV,0,3,600
+603,Série A,1973,1974-01-26,Coritiba,1,1,Bahia,E,1,1,604
+609,Série A,1973,1974-01-29,Santos,1,2,São Paulo,VV,0,3,610
+616,Série A,1973,1974-01-30,Coritiba,1,0,Internacional,VC,3,0,617
+615,Série A,1973,1974-01-30,América-MG,1,0,Corinthians,VC,3,0,616
+613,Série A,1973,1974-01-30,Vasco,1,1,Atlético-MG,E,1,1,614
+614,Série A,1973,1974-01-30,Tiradentes-PI,0,0,Bahia,E,1,1,615
+611,Série A,1973,1974-01-30,Santa Cruz,1,0,Goiás,VC,3,0,612
+610,Série A,1973,1974-01-30,Grêmio,1,1,Cruzeiro,E,1,1,611
+612,Série A,1973,1974-01-30,Palmeiras,3,0,Ceará,VC,3,0,613
+617,Série A,1973,1974-01-31,Botafogo,2,1,Guarani,VC,3,0,618
+618,Série A,1973,1974-01-31,Santos,1,0,Vitória,VC,3,0,619
+619,Série A,1973,1974-01-31,São Paulo,1,0,Fortaleza,VC,3,0,620
+620,Série A,1973,1974-02-02,Atlético-MG,2,1,Coritiba,VC,3,0,621
+621,Série A,1973,1974-02-02,Fortaleza,2,3,Santa Cruz,VV,0,3,622
+627,Série A,1973,1974-02-03,Santos,2,0,Guarani,VC,3,0,628
+629,Série A,1973,1974-02-03,Tiradentes-PI,0,5,Palmeiras,VV,0,3,630
+628,Série A,1973,1974-02-03,Cruzeiro,1,0,São Paulo,VC,3,0,629
+626,Série A,1973,1974-02-03,Goiás,1,2,Vitória,VV,0,3,627
+622,Série A,1973,1974-02-03,Botafogo,3,0,Grêmio,VC,3,0,623
+624,Série A,1973,1974-02-03,Ceará,0,1,Corinthians,VV,0,3,625
+623,Série A,1973,1974-02-03,Bahia,1,2,Vasco,VV,0,3,624
+625,Série A,1973,1974-02-03,Internacional,1,0,América-MG,VC,3,0,626
+637,Série A,1973,1974-02-06,Vitória,0,2,São Paulo,VV,0,3,638
+635,Série A,1973,1974-02-06,Santa Cruz,0,1,Grêmio,VV,0,3,636
+634,Série A,1973,1974-02-06,Botafogo,6,1,Fortaleza,VC,3,0,635
+636,Série A,1973,1974-02-06,Santos,4,4,Goiás,E,1,1,637
+632,Série A,1973,1974-02-06,Ceará,0,2,Vasco,VV,0,3,633
+631,Série A,1973,1974-02-06,Internacional,2,1,Bahia,VC,3,0,632
+630,Série A,1973,1974-02-06,América-MG,0,1,Coritiba,VV,0,3,631
+633,Série A,1973,1974-02-06,Corinthians,3,0,Tiradentes-PI,VC,3,0,634
+638,Série A,1973,1974-02-07,Guarani,1,2,Cruzeiro,VV,0,3,639
+639,Série A,1973,1974-02-07,Palmeiras,3,0,Atlético-MG,VC,3,0,640
+640,Série A,1973,1974-02-09,São Paulo,0,0,Botafogo,E,1,1,641
+641,Série A,1973,1974-02-09,Grêmio,1,0,Vitória,VC,3,0,642
+647,Série A,1973,1974-02-10,Santa Cruz,2,1,Guarani,VC,3,0,648
+648,Série A,1973,1974-02-10,Santos,0,0,Cruzeiro,E,1,1,649
+649,Série A,1973,1974-02-10,Vasco,0,1,Palmeiras,VV,0,3,650
+646,Série A,1973,1974-02-10,Fortaleza,0,0,Goiás,E,1,1,647
+643,Série A,1973,1974-02-10,Internacional,0,0,Corinthians,E,1,1,644
+644,Série A,1973,1974-02-10,Atlético-MG,2,0,Ceará,VC,3,0,645
+642,Série A,1973,1974-02-10,Coritiba,0,0,Tiradentes-PI,E,1,1,643
+645,Série A,1973,1974-02-10,Bahia,2,2,América-MG,E,1,1,646
+650,Série A,1973,1974-02-13,São Paulo,4,1,Internacional,VC,3,0,651
+651,Série A,1973,1974-02-13,Cruzeiro,0,1,Palmeiras,VV,0,3,652
+652,Série A,1973,1974-02-17,Palmeiras,2,1,Internacional,VC,3,0,653
+653,Série A,1973,1974-02-17,Cruzeiro,1,0,São Paulo,VC,3,0,654
+654,Série A,1973,1974-02-20,Palmeiras,0,0,São Paulo,E,1,1,655
+655,Série A,1973,1974-02-20,Internacional,1,0,Cruzeiro,VC,3,0,656
+2,Série A,1974,1974-03-09,Palmeiras,4,3,Santa Cruz,VC,3,0,3
+0,Série A,1974,1974-03-09,Vasco,2,0,Coritiba,VC,3,0,1
+1,Série A,1974,1974-03-09,Ceará,1,1,Rio Negro-AM,E,1,1,2
+3,Série A,1974,1974-03-09,Bahia,2,1,Paysandu,VC,3,0,4
+13,Série A,1974,1974-03-10,Remo,2,2,Botafogo,E,1,1,14
+14,Série A,1974,1974-03-10,Desportiva Capixaba,1,0,Itabaiana,VC,3,0,15
+12,Série A,1974,1974-03-10,CEUB,1,2,Corinthians,VV,0,3,13
+16,Série A,1974,1974-03-10,Vitória,1,2,Tiradentes,VV,0,3,17
+18,Série A,1974,1974-03-10,América-RN,1,1,Avaí,E,1,1,19
+15,Série A,1974,1974-03-10,Athletico-PR,1,0,Internacional,VC,3,0,16
+11,Série A,1974,1974-03-10,Goiás,1,0,Sport,VC,3,0,12
+17,Série A,1974,1974-03-10,Sampaio Corrêa,1,2,Flamengo,VV,0,3,18
+9,Série A,1974,1974-03-10,Cruzeiro,0,0,Guarani,E,1,1,10
+4,Série A,1974,1974-03-10,Grêmio,1,0,Olaria,VC,3,0,5
+5,Série A,1974,1974-03-10,Nacional-AM,0,1,São Paulo,VV,0,3,6
+10,Série A,1974,1974-03-10,Fluminense,1,1,America-RJ,E,1,1,11
+7,Série A,1974,1974-03-10,Santos,1,2,Portuguesa,VV,0,3,8
+6,Série A,1974,1974-03-10,Fortaleza,2,0,América-MG,VC,3,0,7
+8,Série A,1974,1974-03-10,Náutico,2,0,Atlético-MG,VC,3,0,9
+32,Série A,1974,1974-03-13,América-RN,0,2,Flamengo,VV,0,3,33
+31,Série A,1974,1974-03-13,Sampaio Corrêa,2,2,Bahia,E,1,1,32
+30,Série A,1974,1974-03-13,Tiradentes,0,1,America-RJ,VV,0,3,31
+29,Série A,1974,1974-03-13,Paysandu,3,1,Botafogo,VC,3,0,30
+28,Série A,1974,1974-03-13,Vitória,0,0,Olaria,E,1,1,29
+27,Série A,1974,1974-03-13,Avaí,1,2,Internacional,VV,0,3,28
+26,Série A,1974,1974-03-13,Grêmio,2,0,Athletico-PR,VC,3,0,27
+24,Série A,1974,1974-03-13,Desportiva Capixaba,0,0,Vasco,E,1,1,25
+23,Série A,1974,1974-03-13,CEUB,1,0,Fortaleza,VC,3,0,24
+22,Série A,1974,1974-03-13,Rio Negro-AM,2,4,São Paulo,VV,0,3,23
+21,Série A,1974,1974-03-13,Sport,1,0,Atlético-MG,VC,3,0,22
+20,Série A,1974,1974-03-13,Cruzeiro,1,0,Náutico,VC,3,0,21
+19,Série A,1974,1974-03-13,Goiás,0,0,Corinthians,E,1,1,20
+25,Série A,1974,1974-03-13,Fluminense,2,1,Itabaiana,VC,3,0,26
+33,Série A,1974,1974-03-14,Remo,2,3,Coritiba,VV,0,3,34
+34,Série A,1974,1974-03-14,Nacional-AM,1,1,Santa Cruz,E,1,1,35
+39,Série A,1974,1974-03-16,Atlético-MG,0,0,Rio Negro-AM,E,1,1,40
+37,Série A,1974,1974-03-16,Botafogo,0,0,Olaria,E,1,1,38
+38,Série A,1974,1974-03-16,São Paulo,1,1,Guarani,E,1,1,39
+35,Série A,1974,1974-03-16,Coritiba,0,2,Grêmio,VV,0,3,36
+36,Série A,1974,1974-03-16,Vitória,2,2,Athletico-PR,E,1,1,37
+49,Série A,1974,1974-03-17,Internacional,5,1,Paysandu,VC,3,0,50
+53,Série A,1974,1974-03-17,Desportiva Capixaba,1,0,Avaí,VC,3,0,54
+52,Série A,1974,1974-03-17,Santa Cruz,1,3,Cruzeiro,VV,0,3,53
+51,Série A,1974,1974-03-17,América-RN,2,0,Itabaiana,VC,3,0,52
+50,Série A,1974,1974-03-17,Bahia,1,1,Remo,E,1,1,51
+48,Série A,1974,1974-03-17,Flamengo,1,1,Vasco,E,1,1,49
+47,Série A,1974,1974-03-17,Goiás,4,0,CSA,VC,3,0,48
+45,Série A,1974,1974-03-17,América-MG,0,2,Santos,VV,0,3,46
+44,Série A,1974,1974-03-17,Sampaio Corrêa,1,0,America-RJ,VC,3,0,45
+43,Série A,1974,1974-03-17,Fortaleza,2,1,Náutico,VC,3,0,44
+42,Série A,1974,1974-03-17,Nacional-AM,1,1,Ceará,E,1,1,43
+41,Série A,1974,1974-03-17,Corinthians,0,0,Palmeiras,E,1,1,42
+40,Série A,1974,1974-03-17,Tiradentes,0,0,Fluminense,E,1,1,41
+46,Série A,1974,1974-03-17,CEUB,0,0,Portuguesa,E,1,1,47
+65,Série A,1974,1974-03-20,Avaí,0,1,Grêmio,VV,0,3,66
+64,Série A,1974,1974-03-20,Coritiba,0,1,América-RN,VV,0,3,65
+66,Série A,1974,1974-03-20,Bahia,1,0,Olaria,VC,3,0,67
+63,Série A,1974,1974-03-20,Botafogo,3,1,Athletico-PR,VC,3,0,64
+68,Série A,1974,1974-03-20,Sampaio Corrêa,3,1,Fluminense,VC,3,0,69
+69,Série A,1974,1974-03-20,America-RJ,1,2,Vitória,VV,0,3,70
+67,Série A,1974,1974-03-20,Remo,1,2,Vasco,VV,0,3,68
+62,Série A,1974,1974-03-20,Itabaiana,1,2,Internacional,VV,0,3,63
+54,Série A,1974,1974-03-20,Portuguesa,2,1,Fortaleza,VC,3,0,55
+60,Série A,1974,1974-03-20,Santa Cruz,2,1,Goiás,VC,3,0,61
+59,Série A,1974,1974-03-20,São Paulo,1,1,Náutico,E,1,1,60
+58,Série A,1974,1974-03-20,CSA,0,5,Atlético-MG,VV,0,3,59
+57,Série A,1974,1974-03-20,CEUB,1,3,Santos,VV,0,3,58
+56,Série A,1974,1974-03-20,América-MG,2,0,Rio Negro-AM,VC,3,0,57
+55,Série A,1974,1974-03-20,Sport,0,0,Cruzeiro,E,1,1,56
+61,Série A,1974,1974-03-20,Ceará,0,1,Guarani,VV,0,3,62
+82,Série A,1974,1974-03-23,Sampaio Corrêa,1,0,Avaí,VC,3,0,83
+83,Série A,1974,1974-03-23,América-RN,1,3,America-RJ,VV,0,3,84
+84,Série A,1974,1974-03-23,Itabaiana,1,0,Remo,VC,3,0,85
+87,Série A,1974,1974-03-23,Ceará,1,1,Fortaleza,E,1,1,88
+86,Série A,1974,1974-03-23,CEUB,1,0,Sport,VC,3,0,87
+81,Série A,1974,1974-03-23,Paysandu,0,0,Vasco,E,1,1,82
+88,Série A,1974,1974-03-23,CSA,1,2,Nacional-AM,VV,0,3,89
+89,Série A,1974,1974-03-23,Goiás,0,0,Portuguesa,E,1,1,90
+85,Série A,1974,1974-03-23,Rio Negro-AM,0,4,Palmeiras,VV,0,3,86
+80,Série A,1974,1974-03-23,Bahia,1,1,Vitória,E,1,1,81
+77,Série A,1974,1974-03-23,Fluminense,2,3,Olaria,VV,0,3,78
+78,Série A,1974,1974-03-23,Grêmio,1,2,Internacional,VV,0,3,79
+76,Série A,1974,1974-03-23,Athletico-PR,1,0,Desportiva Capixaba,VC,3,0,77
+75,Série A,1974,1974-03-23,Flamengo,4,0,Tiradentes,VC,3,0,76
+74,Série A,1974,1974-03-23,Corinthians,3,1,América-MG,VC,3,0,75
+73,Série A,1974,1974-03-23,Náutico,2,0,Operário-MS,VC,3,0,74
+72,Série A,1974,1974-03-23,Guarani,2,2,Santos,E,1,1,73
+71,Série A,1974,1974-03-23,Cruzeiro,1,2,Atlético-MG,VV,0,3,72
+70,Série A,1974,1974-03-23,Santa Cruz,0,0,São Paulo,E,1,1,71
+79,Série A,1974,1974-03-23,Coritiba,3,2,Botafogo,VC,3,0,80
+94,Série A,1974,1974-03-27,America-RJ,2,0,Desportiva Capixaba,VC,3,0,95
+95,Série A,1974,1974-03-27,América-MG,2,1,Ceará,VC,3,0,96
+93,Série A,1974,1974-03-27,Nacional-AM,2,1,Palmeiras,VC,3,0,94
+91,Série A,1974,1974-03-27,Portuguesa,3,0,Operário-MS,VC,3,0,92
+92,Série A,1974,1974-03-27,Santa Cruz,3,0,CSA,VC,3,0,93
+90,Série A,1974,1974-03-27,Tiradentes,3,0,América-RN,VC,3,0,91
+110,Série A,1974,1974-03-30,Bahia,0,2,Flamengo,VV,0,3,111
+109,Série A,1974,1974-03-30,Guarani,3,0,Goiás,VC,3,0,110
+107,Série A,1974,1974-03-30,Náutico,1,1,Santos,E,1,1,108
+105,Série A,1974,1974-03-30,CEUB,1,1,Santa Cruz,E,1,1,106
+104,Série A,1974,1974-03-30,CSA,0,0,Portuguesa,E,1,1,105
+103,Série A,1974,1974-03-30,Vasco,0,0,Botafogo,E,1,1,104
+108,Série A,1974,1974-03-30,Atlético-MG,1,1,América-MG,E,1,1,109
+101,Série A,1974,1974-03-30,Athletico-PR,3,0,Fluminense,VC,3,0,102
+100,Série A,1974,1974-03-30,Avaí,3,0,Remo,VC,3,0,101
+99,Série A,1974,1974-03-30,Paysandu,1,1,Grêmio,E,1,1,100
+98,Série A,1974,1974-03-30,Sampaio Corrêa,0,2,Coritiba,VV,0,3,99
+97,Série A,1974,1974-03-30,Itabaiana,1,3,America-RJ,VV,0,3,98
+96,Série A,1974,1974-03-30,Desportiva Capixaba,1,1,Vitória,E,1,1,97
+102,Série A,1974,1974-03-30,Internacional,2,0,Tiradentes,VC,3,0,103
+106,Série A,1974,1974-03-30,Ceará,0,1,Corinthians,VV,0,3,107
+111,Série A,1974,1974-03-31,Rio Negro-AM,0,0,Cruzeiro,E,1,1,112
+112,Série A,1974,1974-04-03,Fortaleza,3,0,Guarani,VC,3,0,113
+113,Série A,1974,1974-04-03,Náutico,0,0,Nacional-AM,E,1,1,114
+114,Série A,1974,1974-04-03,Vasco,0,0,Bahia,E,1,1,115
+115,Série A,1974,1974-04-03,Santa Cruz,2,3,América-MG,VV,0,3,116
+116,Série A,1974,1974-04-03,São Paulo,2,0,Ceará,VC,3,0,117
+127,Série A,1974,1974-04-06,Vitória,1,1,América-RN,E,1,1,128
+126,Série A,1974,1974-04-06,Corinthians,2,2,Portuguesa,E,1,1,127
+130,Série A,1974,1974-04-06,Desportiva Capixaba,2,3,Botafogo,VV,0,3,131
+131,Série A,1974,1974-04-06,Sampaio Corrêa,1,1,Internacional,E,1,1,132
+125,Série A,1974,1974-04-06,Flamengo,2,1,America-RJ,VC,3,0,126
+128,Série A,1974,1974-04-06,Avaí,2,2,Fluminense,E,1,1,129
+124,Série A,1974,1974-04-06,Grêmio,1,0,Remo,VC,3,0,125
+129,Série A,1974,1974-04-06,Paysandu,1,1,Athletico-PR,E,1,1,130
+122,Série A,1974,1974-04-06,CSA,0,1,Guarani,VV,0,3,123
+121,Série A,1974,1974-04-06,CEUB,2,4,Atlético-MG,VV,0,3,122
+120,Série A,1974,1974-04-06,Fortaleza,2,1,Goiás,VC,3,0,121
+119,Série A,1974,1974-04-06,Sport,1,1,Santos,E,1,1,120
+118,Série A,1974,1974-04-06,Cruzeiro,3,0,Nacional-AM,VC,3,0,119
+117,Série A,1974,1974-04-06,Coritiba,3,2,Tiradentes,VC,3,0,118
+123,Série A,1974,1974-04-06,Rio Negro-AM,2,1,Náutico,VC,3,0,124
+135,Série A,1974,1974-04-10,Cruzeiro,1,1,Portuguesa,E,1,1,136
+134,Série A,1974,1974-04-10,Ceará,2,1,CEUB,VC,3,0,135
+133,Série A,1974,1974-04-10,Olaria,1,2,América-RN,VV,0,3,134
+132,Série A,1974,1974-04-10,São Paulo,2,1,Sport,VC,3,0,133
+149,Série A,1974,1974-04-13,Itabaiana,2,1,Botafogo,VC,3,0,150
+148,Série A,1974,1974-04-13,Vitória,0,0,Vasco,E,1,1,149
+147,Série A,1974,1974-04-13,Coritiba,0,1,America-RJ,VV,0,3,148
+146,Série A,1974,1974-04-13,Internacional,1,1,Flamengo,E,1,1,147
+145,Série A,1974,1974-04-13,Fluminense,0,1,Grêmio,VV,0,3,146
+143,Série A,1974,1974-04-13,Avaí,1,0,Athletico-PR,VC,3,0,144
+144,Série A,1974,1974-04-13,Desportiva Capixaba,0,0,Paysandu,E,1,1,145
+141,Série A,1974,1974-04-13,Santos,1,0,Cruzeiro,VC,3,0,142
+140,Série A,1974,1974-04-13,Guarani,2,1,Nacional-AM,VC,3,0,141
+139,Série A,1974,1974-04-13,Atlético-MG,2,1,Corinthians,VC,3,0,140
+138,Série A,1974,1974-04-13,Santa Cruz,0,0,Portuguesa,E,1,1,139
+137,Série A,1974,1974-04-13,Fortaleza,2,1,Palmeiras,VC,3,0,138
+136,Série A,1974,1974-04-13,CSA,1,0,CEUB,VC,3,0,137
+142,Série A,1974,1974-04-13,Remo,2,2,Olaria,E,1,1,143
+150,Série A,1974,1974-04-14,Tiradentes,3,0,Bahia,VC,3,0,151
+152,Série A,1974,1974-04-16,Sport,1,0,Náutico,VC,3,0,153
+153,Série A,1974,1974-04-16,Botafogo,5,1,Avaí,VC,3,0,154
+151,Série A,1974,1974-04-16,Portuguesa,0,0,América-MG,E,1,1,152
+154,Série A,1974,1974-04-17,Nacional-AM,0,2,CEUB,VV,0,3,155
+163,Série A,1974,1974-04-20,Sampaio Corrêa,0,3,Vitória,VV,0,3,164
+155,Série A,1974,1974-04-20,América-RN,0,2,Grêmio,VV,0,3,156
+156,Série A,1974,1974-04-20,Palmeiras,0,4,Santos,VV,0,3,157
+157,Série A,1974,1974-04-20,Internacional,3,0,Desportiva Capixaba,VC,3,0,158
+158,Série A,1974,1974-04-20,Náutico,2,0,Corinthians,VC,3,0,159
+159,Série A,1974,1974-04-20,Ceará,1,0,Santa Cruz,VC,3,0,160
+160,Série A,1974,1974-04-20,Goiás,0,1,Cruzeiro,VV,0,3,161
+161,Série A,1974,1974-04-20,Atlético-MG,1,0,Operário-MS,VC,3,0,162
+162,Série A,1974,1974-04-20,Paysandu,2,0,Olaria,VC,3,0,163
+164,Série A,1974,1974-04-20,Tiradentes,0,0,Remo,E,1,1,165
+170,Série A,1974,1974-04-21,Rio Negro-AM,1,0,Guarani,VC,3,0,171
+169,Série A,1974,1974-04-21,Vasco,1,2,Fluminense,VV,0,3,170
+168,Série A,1974,1974-04-21,Athletico-PR,1,2,Flamengo,VV,0,3,169
+166,Série A,1974,1974-04-21,Bahia,1,1,Coritiba,E,1,1,167
+165,Série A,1974,1974-04-21,CSA,0,0,São Paulo,E,1,1,166
+167,Série A,1974,1974-04-21,Avaí,0,2,America-RJ,VV,0,3,168
+171,Série A,1974,1974-04-23,Corinthians,1,0,Operário-MS,VC,3,0,172
+172,Série A,1974,1974-04-24,Rio Negro-AM,1,0,Fortaleza,VC,3,0,173
+173,Série A,1974,1974-04-24,Sport,1,1,Portuguesa,E,1,1,174
+174,Série A,1974,1974-04-24,Flamengo,4,0,Desportiva Capixaba,VC,3,0,175
+175,Série A,1974,1974-04-24,Paysandu,1,2,Vitória,VV,0,3,176
+176,Série A,1974,1974-04-24,América-MG,0,1,Nacional-AM,VV,0,3,177
+185,Série A,1974,1974-04-27,Desportiva Capixaba,1,0,Tiradentes,VC,3,0,186
+191,Série A,1974,1974-04-27,CSA,0,1,Náutico,VV,0,3,192
+190,Série A,1974,1974-04-27,São Paulo,0,0,Portuguesa,E,1,1,191
+189,Série A,1974,1974-04-27,Guarani,1,0,Santa Cruz,VC,3,0,190
+188,Série A,1974,1974-04-27,Cruzeiro,1,0,CEUB,VC,3,0,189
+187,Série A,1974,1974-04-27,Ceará,1,2,Atlético-MG,VV,0,3,188
+186,Série A,1974,1974-04-27,Avaí,0,1,Flamengo,VV,0,3,187
+182,Série A,1974,1974-04-27,Coritiba,1,1,Olaria,E,1,1,183
+183,Série A,1974,1974-04-27,Grêmio,2,0,Sampaio Corrêa,VC,3,0,184
+181,Série A,1974,1974-04-27,Sport,1,4,Corinthians,VV,0,3,182
+180,Série A,1974,1974-04-27,Bahia,0,0,Internacional,E,1,1,181
+179,Série A,1974,1974-04-27,Remo,1,1,Fluminense,E,1,1,180
+178,Série A,1974,1974-04-27,América-RN,2,3,Vasco,VV,0,3,179
+177,Série A,1974,1974-04-27,Itabaiana,1,0,Athletico-PR,VC,3,0,178
+184,Série A,1974,1974-04-27,Botafogo,1,1,America-RJ,E,1,1,185
+192,Série A,1974,1974-04-28,Nacional-AM,0,1,Santos,VV,0,3,193
+193,Série A,1974,1974-05-02,Santos,3,0,Rio Negro-AM,VC,3,0,194
+194,Série A,1974,1974-05-02,Fluminense,2,0,Paysandu,VC,3,0,195
+206,Série A,1974,1974-05-04,América-MG,0,0,São Paulo,E,1,1,207
+207,Série A,1974,1974-05-04,Fortaleza,3,3,Sport,E,1,1,208
+202,Série A,1974,1974-05-04,CSA,0,2,Palmeiras,VV,0,3,203
+209,Série A,1974,1974-05-04,Corinthians,1,1,Guarani,E,1,1,210
+210,Série A,1974,1974-05-04,Vitória,3,0,Avaí,VC,3,0,211
+205,Série A,1974,1974-05-04,CEUB,0,0,Goiás,E,1,1,206
+208,Série A,1974,1974-05-04,Náutico,2,1,Ceará,VC,3,0,209
+204,Série A,1974,1974-05-04,Remo,1,0,Internacional,VC,3,0,205
+200,Série A,1974,1974-05-04,Grêmio,2,1,America-RJ,VC,3,0,201
+201,Série A,1974,1974-05-04,Flamengo,0,0,Olaria,E,1,1,202
+199,Série A,1974,1974-05-04,Desportiva Capixaba,0,1,Coritiba,VV,0,3,200
+198,Série A,1974,1974-05-04,Itabaiana,0,3,Vasco,VV,0,3,199
+197,Série A,1974,1974-05-04,Sampaio Corrêa,0,0,América-RN,E,1,1,198
+196,Série A,1974,1974-05-04,Tiradentes,2,1,Botafogo,VC,3,0,197
+195,Série A,1974,1974-05-04,Athletico-PR,1,0,Bahia,VC,3,0,196
+203,Série A,1974,1974-05-04,Nacional-AM,0,2,Atlético-MG,VV,0,3,204
+217,Série A,1974,1974-05-08,Vasco,1,1,Olaria,E,1,1,218
+216,Série A,1974,1974-05-08,Palmeiras,0,0,Guarani,E,1,1,217
+215,Série A,1974,1974-05-08,Desportiva Capixaba,2,1,Sampaio Corrêa,VC,3,0,216
+213,Série A,1974,1974-05-08,Tiradentes,0,0,Paysandu,E,1,1,214
+212,Série A,1974,1974-05-08,América-MG,0,1,Goiás,VV,0,3,213
+211,Série A,1974,1974-05-08,Sport,0,2,Nacional-AM,VV,0,3,212
+214,Série A,1974,1974-05-08,Coritiba,3,0,Itabaiana,VC,3,0,215
+225,Série A,1974,1974-05-11,Avaí,0,0,Tiradentes,E,1,1,226
+229,Série A,1974,1974-05-11,Athletico-PR,2,0,Remo,VC,3,0,230
+228,Série A,1974,1974-05-11,Flamengo,1,0,Grêmio,VC,3,0,229
+227,Série A,1974,1974-05-11,Internacional,1,1,Vitória,E,1,1,228
+226,Série A,1974,1974-05-11,Goiás,3,2,Santos,VC,3,0,227
+224,Série A,1974,1974-05-11,Bahia,1,0,America-RJ,VC,3,0,225
+218,Série A,1974,1974-05-11,Corinthians,0,1,Cruzeiro,VV,0,3,219
+222,Série A,1974,1974-05-11,Sport,2,2,América-MG,E,1,1,223
+221,Série A,1974,1974-05-11,América-RN,1,0,Fluminense,VC,3,0,222
+220,Série A,1974,1974-05-11,Ceará,2,1,Portuguesa,VC,3,0,221
+219,Série A,1974,1974-05-11,Sampaio Corrêa,1,1,Botafogo,E,1,1,220
+223,Série A,1974,1974-05-11,Paysandu,1,0,Coritiba,VC,3,0,224
+230,Série A,1974,1974-05-12,Atlético-MG,0,1,Fortaleza,VV,0,3,231
+231,Série A,1974,1974-05-12,Rio Negro-AM,2,0,Santa Cruz,VC,3,0,232
+240,Série A,1974,1974-05-15,Botafogo,2,3,Internacional,VV,0,3,241
+241,Série A,1974,1974-05-15,Athletico-PR,4,0,Olaria,VC,3,0,242
+244,Série A,1974,1974-05-15,Tiradentes,0,1,Vasco,VV,0,3,245
+239,Série A,1974,1974-05-15,Itabaiana,0,1,Grêmio,VV,0,3,240
+243,Série A,1974,1974-05-15,Paysandu,0,0,Flamengo,E,1,1,244
+238,Série A,1974,1974-05-15,América-RN,0,1,Bahia,VV,0,3,239
+242,Série A,1974,1974-05-15,Vitória,0,0,Fluminense,E,1,1,243
+236,Série A,1974,1974-05-15,Náutico,1,1,Guarani,E,1,1,237
+235,Série A,1974,1974-05-15,Fortaleza,0,2,Santos,VV,0,3,236
+234,Série A,1974,1974-05-15,Rio Negro-AM,1,1,Corinthians,E,1,1,235
+237,Série A,1974,1974-05-15,São Paulo,1,2,Atlético-MG,VV,0,3,238
+233,Série A,1974,1974-05-15,Goiás,3,1,Ceará,VC,3,0,234
+232,Série A,1974,1974-05-15,CSA,0,1,Cruzeiro,VV,0,3,233
+245,Série A,1974,1974-05-16,Remo,2,0,Sampaio Corrêa,VC,3,0,246
+246,Série A,1974,1974-05-16,Palmeiras,1,0,América-MG,VC,3,0,247
+260,Série A,1974,1974-05-18,Avaí,0,2,Olaria,VV,0,3,261
+261,Série A,1974,1974-05-18,Coritiba,0,1,Athletico-PR,VV,0,3,262
+262,Série A,1974,1974-05-18,Grêmio,4,0,Tiradentes,VC,3,0,263
+266,Série A,1974,1974-05-18,America-RJ,3,0,Internacional,VC,3,0,267
+264,Série A,1974,1974-05-18,CSA,1,3,Ceará,VV,0,3,265
+265,Série A,1974,1974-05-18,Cruzeiro,2,2,América-MG,E,1,1,266
+258,Série A,1974,1974-05-18,Remo,0,0,Paysandu,E,1,1,259
+263,Série A,1974,1974-05-18,Goiás,0,0,Operário-MS,E,1,1,264
+257,Série A,1974,1974-05-18,Sampaio Corrêa,2,0,Vasco,VC,3,0,258
+259,Série A,1974,1974-05-18,Vitória,3,1,Botafogo,VC,3,0,260
+255,Série A,1974,1974-05-18,Itabaiana,0,1,Bahia,VV,0,3,256
+254,Série A,1974,1974-05-18,Portuguesa,2,2,Atlético-MG,E,1,1,255
+253,Série A,1974,1974-05-18,Corinthians,1,1,Santos,E,1,1,254
+252,Série A,1974,1974-05-18,Guarani,1,1,Sport,E,1,1,253
+251,Série A,1974,1974-05-18,Flamengo,0,0,Fluminense,E,1,1,252
+250,Série A,1974,1974-05-18,Náutico,0,0,Santa Cruz,E,1,1,251
+249,Série A,1974,1974-05-18,Fortaleza,1,1,São Paulo,E,1,1,250
+248,Série A,1974,1974-05-18,Nacional-AM,1,1,Rio Negro-AM,E,1,1,249
+247,Série A,1974,1974-05-18,CEUB,1,1,Palmeiras,E,1,1,248
+256,Série A,1974,1974-05-18,América-RN,0,0,Desportiva Capixaba,E,1,1,257
+273,Série A,1974,1974-05-22,Goiás,1,1,Palmeiras,E,1,1,274
+272,Série A,1974,1974-05-22,Sport,1,1,Rio Negro-AM,E,1,1,273
+271,Série A,1974,1974-05-22,Santos,1,0,CSA,VC,3,0,272
+268,Série A,1974,1974-05-22,Vitória,2,0,Itabaiana,VC,3,0,269
+269,Série A,1974,1974-05-22,América-RN,0,1,Athletico-PR,VV,0,3,270
+267,Série A,1974,1974-05-22,Olaria,2,0,Sampaio Corrêa,VC,3,0,268
+270,Série A,1974,1974-05-22,Guarani,2,0,CEUB,VC,3,0,271
+282,Série A,1974,1974-05-25,Atlético-MG,0,1,Guarani,VV,0,3,283
+285,Série A,1974,1974-05-25,Itabaiana,2,1,Sampaio Corrêa,VC,3,0,286
+284,Série A,1974,1974-05-25,Bahia,1,0,Fluminense,VC,3,0,285
+283,Série A,1974,1974-05-25,Desportiva Capixaba,0,5,Grêmio,VV,0,3,284
+286,Série A,1974,1974-05-25,Remo,3,1,Vitória,VC,3,0,287
+281,Série A,1974,1974-05-25,América-RN,1,0,Botafogo,VC,3,0,282
+277,Série A,1974,1974-05-25,Coritiba,2,1,Flamengo,VC,3,0,278
+279,Série A,1974,1974-05-25,Santa Cruz,0,0,Corinthians,E,1,1,280
+274,Série A,1974,1974-05-25,Ceará,1,1,Santos,E,1,1,275
+275,Série A,1974,1974-05-25,Palmeiras,2,2,Portuguesa,E,1,1,276
+280,Série A,1974,1974-05-25,Tiradentes,2,2,Athletico-PR,E,1,1,281
+278,Série A,1974,1974-05-25,Avaí,1,2,Paysandu,VV,0,3,279
+276,Série A,1974,1974-05-25,Internacional,2,0,Olaria,VC,3,0,277
+287,Série A,1974,1974-05-26,Goiás,0,3,São Paulo,VV,0,3,288
+288,Série A,1974,1974-05-26,Vasco,0,1,America-RJ,VV,0,3,289
+289,Série A,1974,1974-05-26,Nacional-AM,2,0,Fortaleza,VC,3,0,290
+290,Série A,1974,1974-05-29,Sport,1,1,Palmeiras,E,1,1,291
+291,Série A,1974,1974-05-29,Goiás,2,0,Rio Negro-AM,VC,3,0,292
+292,Série A,1974,1974-05-29,América-MG,0,3,Náutico,VV,0,3,293
+293,Série A,1974,1974-05-29,Fortaleza,1,0,CSA,VC,3,0,294
+294,Série A,1974,1974-05-29,América-RN,0,0,Paysandu,E,1,1,295
+295,Série A,1974,1974-05-29,Vasco,1,0,Avaí,VC,3,0,296
+296,Série A,1974,1974-05-29,CEUB,1,1,São Paulo,E,1,1,297
+297,Série A,1974,1974-05-30,Olaria,4,0,Itabaiana,VC,3,0,298
+299,Série A,1974,1974-06-01,Corinthians,5,0,Nacional-AM,VC,3,0,300
+298,Série A,1974,1974-06-01,Flamengo,3,0,Remo,VC,3,0,299
+300,Série A,1974,1974-06-02,Santa Cruz,3,3,Atlético-MG,E,1,1,301
+314,Série A,1974,1974-06-02,Itabaiana,2,0,Avaí,VC,3,0,315
+313,Série A,1974,1974-06-02,Sampaio Corrêa,0,1,Athletico-PR,VV,0,3,314
+312,Série A,1974,1974-06-02,Tiradentes,2,0,Olaria,VC,3,0,313
+311,Série A,1974,1974-06-02,Paysandu,0,1,America-RJ,VV,0,3,312
+310,Série A,1974,1974-06-02,Bahia,1,1,Desportiva Capixaba,E,1,1,311
+309,Série A,1974,1974-06-02,Coritiba,1,1,Internacional,E,1,1,310
+315,Série A,1974,1974-06-02,Botafogo,1,0,Fluminense,VC,3,0,316
+308,Série A,1974,1974-06-02,Grêmio,1,0,Vasco,VC,3,0,309
+306,Série A,1974,1974-06-02,Santos,1,1,São Paulo,E,1,1,307
+305,Série A,1974,1974-06-02,Guarani,3,3,América-MG,E,1,1,306
+304,Série A,1974,1974-06-02,CSA,0,1,Sport,VV,0,3,305
+303,Série A,1974,1974-06-02,CEUB,0,2,Náutico,VV,0,3,304
+302,Série A,1974,1974-06-02,Rio Negro-AM,0,1,Portuguesa,VV,0,3,303
+301,Série A,1974,1974-06-02,Ceará,0,0,Operário-MS,E,1,1,302
+307,Série A,1974,1974-06-02,Cruzeiro,0,0,Palmeiras,E,1,1,308
+324,Série A,1974,1974-06-05,Avaí,1,2,Coritiba,VV,0,3,325
+323,Série A,1974,1974-06-05,Vitória,1,0,Grêmio,VC,3,0,324
+327,Série A,1974,1974-06-05,Desportiva Capixaba,1,1,Fluminense,E,1,1,328
+325,Série A,1974,1974-06-05,Botafogo,0,0,Bahia,E,1,1,326
+322,Série A,1974,1974-06-05,Itabaiana,0,1,Flamengo,VV,0,3,323
+328,Série A,1974,1974-06-05,Remo,2,4,America-RJ,VV,0,3,329
+320,Série A,1974,1974-06-05,Palmeiras,1,1,Ceará,E,1,1,321
+321,Série A,1974,1974-06-05,CSA,0,3,Corinthians,VV,0,3,322
+316,Série A,1974,1974-06-05,Nacional-AM,0,1,Portuguesa,VV,0,3,317
+326,Série A,1974,1974-06-05,Internacional,3,0,América-RN,VC,3,0,327
+319,Série A,1974,1974-06-05,Atlético-MG,3,1,Goiás,VC,3,0,320
+318,Série A,1974,1974-06-05,Santa Cruz,0,3,Sport,VV,0,3,319
+317,Série A,1974,1974-06-05,Fortaleza,0,2,Cruzeiro,VV,0,3,318
+329,Série A,1974,1974-06-08,Santa Cruz,0,0,Fortaleza,E,1,1,330
+330,Série A,1974,1974-06-08,Rio Negro-AM,3,1,CSA,VC,3,0,331
+331,Série A,1974,1974-06-08,CEUB,0,2,América-MG,VV,0,3,332
+332,Série A,1974,1974-06-08,America-RJ,2,0,Olaria,VC,3,0,333
+333,Série A,1974,1974-06-08,Paysandu,2,0,Itabaiana,VC,3,0,334
+334,Série A,1974,1974-06-08,Coritiba,1,1,Vitória,E,1,1,335
+345,Série A,1974,1974-06-09,Tiradentes,2,0,Sampaio Corrêa,VC,3,0,346
+344,Série A,1974,1974-06-09,Remo,3,1,Desportiva Capixaba,VC,3,0,345
+343,Série A,1974,1974-06-09,Bahia,0,1,Grêmio,VV,0,3,344
+341,Série A,1974,1974-06-09,Botafogo,0,2,Flamengo,VV,0,3,342
+340,Série A,1974,1974-06-09,Náutico,0,1,Palmeiras,VV,0,3,341
+342,Série A,1974,1974-06-09,Athletico-PR,1,1,Vasco,E,1,1,343
+338,Série A,1974,1974-06-09,Guarani,1,0,Portuguesa,VC,3,0,339
+337,Série A,1974,1974-06-09,Nacional-AM,1,2,Operário-MS,VV,0,3,338
+336,Série A,1974,1974-06-09,Ceará,1,1,Cruzeiro,E,1,1,337
+335,Série A,1974,1974-06-09,Atlético-MG,2,1,Santos,VC,3,0,336
+339,Série A,1974,1974-06-09,São Paulo,1,1,Corinthians,E,1,1,340
+352,Série A,1974,1974-06-12,Sport,1,1,Ceará,E,1,1,353
+351,Série A,1974,1974-06-12,Palmeiras,1,0,São Paulo,VC,3,0,352
+350,Série A,1974,1974-06-12,Rio Negro-AM,1,0,CEUB,VC,3,0,351
+349,Série A,1974,1974-06-12,Fluminense,1,1,Coritiba,E,1,1,350
+347,Série A,1974,1974-06-12,Santos,1,1,Santa Cruz,E,1,1,348
+346,Série A,1974,1974-06-12,Paysandu,1,0,Sampaio Corrêa,VC,3,0,347
+348,Série A,1974,1974-06-12,Goiás,0,0,Náutico,E,1,1,349
+361,Série A,1974,1974-06-13,Vasco,3,1,Internacional,VC,3,0,362
+366,Série A,1974,1974-06-13,Remo,2,0,América-RN,VC,3,0,367
+364,Série A,1974,1974-06-13,Avaí,0,2,Bahia,VV,0,3,365
+363,Série A,1974,1974-06-13,Athletico-PR,1,2,America-RJ,VV,0,3,364
+362,Série A,1974,1974-06-13,Grêmio,2,2,Botafogo,E,1,1,363
+360,Série A,1974,1974-06-13,Cruzeiro,0,1,São Paulo,VV,0,3,361
+365,Série A,1974,1974-06-13,Vitória,1,0,Flamengo,VC,3,0,366
+358,Série A,1974,1974-06-13,Nacional-AM,0,3,Goiás,VV,0,3,359
+357,Série A,1974,1974-06-13,Fortaleza,2,0,Corinthians,VC,3,0,358
+356,Série A,1974,1974-06-13,Náutico,3,1,Portuguesa,VC,3,0,357
+355,Série A,1974,1974-06-13,Tiradentes,1,0,Itabaiana,VC,3,0,356
+354,Série A,1974,1974-06-13,Palmeiras,1,2,Atlético-MG,VV,0,3,355
+359,Série A,1974,1974-06-13,Desportiva Capixaba,0,1,Olaria,VV,0,3,360
+353,Série A,1974,1974-06-13,América-MG,1,0,CSA,VC,3,0,354
+367,Série A,1974,1974-06-19,Internacional,1,1,Fluminense,E,1,1,368
+374,Série A,1974,1974-06-29,Vasco,3,0,Operário-MS,VC,3,0,375
+373,Série A,1974,1974-06-29,Fortaleza,3,0,America-RJ,VC,3,0,374
+371,Série A,1974,1974-06-29,Santos,2,1,Coritiba,VC,3,0,372
+372,Série A,1974,1974-06-29,Grêmio,2,1,Náutico,VC,3,0,373
+369,Série A,1974,1974-06-29,Cruzeiro,2,1,Palmeiras,VC,3,0,370
+368,Série A,1974,1974-06-29,Bahia,1,1,Paysandu,E,1,1,369
+370,Série A,1974,1974-06-29,Flamengo,3,0,Guarani,VC,3,0,371
+375,Série A,1974,1974-06-30,Fluminense,0,1,São Paulo,VV,0,3,376
+376,Série A,1974,1974-06-30,Corinthians,1,0,Atlético-MG,VC,3,0,377
+377,Série A,1974,1974-06-30,Nacional-AM,1,0,Vitória,VC,3,0,378
+378,Série A,1974,1974-06-30,Goiás,0,1,Portuguesa,VV,0,3,379
+379,Série A,1974,1974-06-30,Internacional,1,1,Athletico-PR,E,1,1,380
+380,Série A,1974,1974-07-02,Guarani,3,1,Bahia,VC,3,0,381
+381,Série A,1974,1974-07-02,Palmeiras,3,1,Flamengo,VC,3,0,382
+388,Série A,1974,1974-07-03,Cruzeiro,4,1,Paysandu,VC,3,0,389
+390,Série A,1974,1974-07-03,Vitória,1,0,Corinthians,VC,3,0,391
+389,Série A,1974,1974-07-03,Nacional-AM,0,0,Vasco,E,1,1,390
+387,Série A,1974,1974-07-03,America-RJ,0,2,Santos,VV,0,3,388
+382,Série A,1974,1974-07-03,Goiás,1,1,São Paulo,E,1,1,383
+385,Série A,1974,1974-07-03,Athletico-PR,1,1,Portuguesa,E,1,1,386
+384,Série A,1974,1974-07-03,Fortaleza,1,3,Grêmio,VV,0,3,385
+383,Série A,1974,1974-07-03,Internacional,2,0,Fluminense,VC,3,0,384
+386,Série A,1974,1974-07-03,Náutico,4,2,Coritiba,VC,3,0,387
+395,Série A,1974,1974-07-06,Internacional,1,1,Goiás,E,1,1,396
+394,Série A,1974,1974-07-06,Corinthians,2,2,Nacional-AM,E,1,1,395
+396,Série A,1974,1974-07-06,Fluminense,0,1,Athletico-PR,VV,0,3,397
+392,Série A,1974,1974-07-06,Paysandu,1,2,Palmeiras,VV,0,3,393
+391,Série A,1974,1974-07-06,Bahia,1,1,Flamengo,E,1,1,392
+393,Série A,1974,1974-07-06,Cruzeiro,1,0,Guarani,VC,3,0,394
+397,Série A,1974,1974-07-07,Grêmio,0,1,Santos,VV,0,3,398
+398,Série A,1974,1974-07-07,São Paulo,1,1,Portuguesa,E,1,1,399
+399,Série A,1974,1974-07-07,Coritiba,2,0,America-RJ,VC,3,0,400
+400,Série A,1974,1974-07-07,Fortaleza,0,0,Náutico,E,1,1,401
+401,Série A,1974,1974-07-10,Atlético-MG,0,2,Vasco,VV,0,3,402
+403,Série A,1974,1974-07-10,America-RJ,0,1,Grêmio,VV,0,3,404
+402,Série A,1974,1974-07-10,Palmeiras,2,1,Guarani,VC,3,0,403
+404,Série A,1974,1974-07-11,Corinthians,0,0,Operário-MS,E,1,1,405
+408,Série A,1974,1974-07-13,Palmeiras,2,0,Bahia,VC,3,0,409
+407,Série A,1974,1974-07-13,Coritiba,0,0,Fortaleza,E,1,1,408
+405,Série A,1974,1974-07-13,Flamengo,1,3,Cruzeiro,VV,0,3,406
+406,Série A,1974,1974-07-13,São Paulo,0,0,Athletico-PR,E,1,1,407
+409,Série A,1974,1974-07-14,Portuguesa,0,1,Internacional,VV,0,3,410
+410,Série A,1974,1974-07-14,Goiás,1,1,Fluminense,E,1,1,411
+411,Série A,1974,1974-07-14,Atlético-MG,2,2,Vitória,E,1,1,412
+412,Série A,1974,1974-07-14,Paysandu,0,1,Guarani,VV,0,3,413
+413,Série A,1974,1974-07-14,Vasco,2,0,Corinthians,VC,3,0,414
+414,Série A,1974,1974-07-14,Nacional-AM,0,1,Operário-MS,VV,0,3,415
+415,Série A,1974,1974-07-15,Náutico,0,2,Santos,VV,0,3,416
+421,Série A,1974,1974-07-17,Bahia,0,1,Cruzeiro,VV,0,3,422
+420,Série A,1974,1974-07-17,Athletico-PR,2,1,Goiás,VC,3,0,421
+419,Série A,1974,1974-07-17,Atlético-MG,3,0,Nacional-AM,VC,3,0,420
+422,Série A,1974,1974-07-17,Náutico,2,2,America-RJ,E,1,1,423
+417,Série A,1974,1974-07-17,São Paulo,0,1,Internacional,VV,0,3,418
+416,Série A,1974,1974-07-17,Grêmio,1,0,Coritiba,VC,3,0,417
+418,Série A,1974,1974-07-17,Flamengo,6,0,Paysandu,VC,3,0,419
+423,Série A,1974,1974-07-18,Santos,1,1,Fortaleza,E,1,1,424
+424,Série A,1974,1974-07-18,Fluminense,3,1,Portuguesa,VC,3,0,425
+425,Série A,1974,1974-07-18,Vitória,0,0,Vasco,E,1,1,426
+426,Série A,1974,1974-07-21,Vasco,2,1,Santos,VC,3,0,427
+427,Série A,1974,1974-07-21,Internacional,1,1,Cruzeiro,E,1,1,428
+429,Série A,1974,1974-07-24,Santos,2,1,Internacional,VC,3,0,430
+428,Série A,1974,1974-07-24,Cruzeiro,1,1,Vasco,E,1,1,429
+430,Série A,1974,1974-07-28,Vasco,2,2,Internacional,E,1,1,431
+431,Série A,1974,1974-07-28,Santos,1,3,Cruzeiro,VV,0,3,432
+432,Série A,1974,1974-08-01,Vasco,2,1,Cruzeiro,VC,3,0,433
+9,Série A,1975,1975-08-20,Rio Negro-AM,1,1,Tiradentes,E,1,1,10
+8,Série A,1975,1975-08-20,Athletico-PR,2,1,Botafogo,VC,3,0,9
+7,Série A,1975,1975-08-20,Corinthians,1,0,America-RJ,VC,3,0,8
+6,Série A,1975,1975-08-20,Fortaleza,2,0,América-MG,VC,3,0,7
+5,Série A,1975,1975-08-20,Goiás,0,0,Santos,E,1,1,6
+10,Série A,1975,1975-08-20,Moto Clube,4,3,Paysandu,VC,3,0,11
+3,Série A,1975,1975-08-20,Internacional,3,1,Figueirense,VC,3,0,4
+2,Série A,1975,1975-08-20,Sergipe,0,0,São Paulo,E,1,1,3
+1,Série A,1975,1975-08-20,Desportiva Capixaba,0,0,Vitória,E,1,1,2
+0,Série A,1975,1975-08-20,Fluminense,0,1,Coritiba,VV,0,3,1
+4,Série A,1975,1975-08-20,CSA,1,0,Grêmio,VC,3,0,5
+11,Série A,1975,1975-08-21,Flamengo,1,2,Sport,VV,0,3,12
+12,Série A,1975,1975-08-21,Palmeiras,1,1,Guarani,E,1,1,13
+13,Série A,1975,1975-08-23,Vitória,0,5,Internacional,VV,0,3,14
+14,Série A,1975,1975-08-23,Botafogo,2,1,Paysandu,VC,3,0,15
+30,Série A,1975,1975-08-24,Palmeiras,3,1,Fluminense,VC,3,0,31
+29,Série A,1975,1975-08-24,Fortaleza,2,1,Athletico-PR,VC,3,0,30
+28,Série A,1975,1975-08-24,Rio Negro-AM,0,0,Nacional-AM,E,1,1,29
+27,Série A,1975,1975-08-24,Moto Clube,0,3,Ceará,VV,0,3,28
+25,Série A,1975,1975-08-24,Remo,1,0,Tiradentes,VC,3,0,26
+24,Série A,1975,1975-08-24,Comercial-MS,0,0,Cruzeiro,E,1,1,25
+23,Série A,1975,1975-08-24,Figueirense,0,0,Sport,E,1,1,24
+26,Série A,1975,1975-08-24,Atlético-MG,0,0,Corinthians,E,1,1,27
+21,Série A,1975,1975-08-24,América-RN,2,1,Desportiva Capixaba,VC,3,0,22
+20,Série A,1975,1975-08-24,Americano,2,1,Santos,VC,3,0,21
+19,Série A,1975,1975-08-24,Santa Cruz,1,2,São Paulo,VV,0,3,20
+18,Série A,1975,1975-08-24,Campinense,0,2,CSA,VV,0,3,19
+17,Série A,1975,1975-08-24,Sergipe,2,3,Náutico,VV,0,3,18
+16,Série A,1975,1975-08-24,Goiânia,2,1,CEUB,VC,3,0,17
+15,Série A,1975,1975-08-24,Bahia,0,0,Flamengo,E,1,1,16
+22,Série A,1975,1975-08-24,Vasco,2,1,Grêmio,VC,3,0,23
+31,Série A,1975,1975-08-26,Comercial-MS,2,1,Paysandu,VC,3,0,32
+42,Série A,1975,1975-08-27,Americano,0,2,Grêmio,VV,0,3,43
+41,Série A,1975,1975-08-27,CSA,2,1,América-RN,VC,3,0,42
+40,Série A,1975,1975-08-27,Goiânia,0,1,Internacional,VV,0,3,41
+39,Série A,1975,1975-08-27,Portuguesa,2,1,Bahia,VC,3,0,40
+38,Série A,1975,1975-08-27,Desportiva Capixaba,1,2,Santos,VV,0,3,39
+34,Série A,1975,1975-08-27,Cruzeiro,1,0,Coritiba,VC,3,0,35
+36,Série A,1975,1975-08-27,Campinense,2,2,São Paulo,E,1,1,37
+35,Série A,1975,1975-08-27,Ceará,0,2,America-RJ,VV,0,3,36
+33,Série A,1975,1975-08-27,Rio Negro-AM,2,0,Athletico-PR,VC,3,0,34
+32,Série A,1975,1975-08-27,Sergipe,0,1,Sport,VV,0,3,33
+37,Série A,1975,1975-08-27,Náutico,1,0,Flamengo,VC,3,0,38
+45,Série A,1975,1975-08-28,Figueirense,2,1,CEUB,VC,3,0,46
+43,Série A,1975,1975-08-28,Atlético-MG,2,0,Guarani,VC,3,0,44
+44,Série A,1975,1975-08-28,Santa Cruz,1,1,Vasco,E,1,1,45
+47,Série A,1975,1975-08-30,Portuguesa,0,2,Internacional,VV,0,3,48
+48,Série A,1975,1975-08-30,Santos,0,2,Bahia,VV,0,3,49
+46,Série A,1975,1975-08-30,Fluminense,5,2,Atlético-MG,VC,3,0,47
+57,Série A,1975,1975-08-31,Campinense,1,1,Náutico,E,1,1,58
+61,Série A,1975,1975-08-31,Comercial-MS,2,0,Nacional-AM,VC,3,0,62
+62,Série A,1975,1975-08-31,Remo,2,2,Athletico-PR,E,1,1,63
+60,Série A,1975,1975-08-31,Tiradentes,2,1,America-RJ,VC,3,0,61
+59,Série A,1975,1975-08-31,América-MG,0,0,Moto Clube,E,1,1,60
+58,Série A,1975,1975-08-31,Coritiba,4,0,Ceará,VC,3,0,59
+56,Série A,1975,1975-08-31,Corinthians,1,0,Fortaleza,VC,3,0,57
+50,Série A,1975,1975-08-31,Americano,2,1,Figueirense,VC,3,0,51
+54,Série A,1975,1975-08-31,Desportiva Capixaba,0,2,Flamengo,VV,0,3,55
+53,Série A,1975,1975-08-31,Vitória,2,2,Vasco,E,1,1,54
+52,Série A,1975,1975-08-31,América-RN,3,4,São Paulo,VV,0,3,53
+51,Série A,1975,1975-08-31,Grêmio,0,0,CEUB,E,1,1,52
+49,Série A,1975,1975-08-31,Goiás,3,1,Goiânia,VC,3,0,50
+55,Série A,1975,1975-08-31,Botafogo,0,2,Cruzeiro,VV,0,3,56
+74,Série A,1975,1975-09-03,América-RN,2,1,Sport,VC,3,0,75
+73,Série A,1975,1975-09-03,Portuguesa,1,1,CEUB,E,1,1,74
+72,Série A,1975,1975-09-03,Sergipe,0,1,Vasco,VV,0,3,73
+71,Série A,1975,1975-09-03,Flamengo,1,0,Americano,VC,3,0,72
+70,Série A,1975,1975-09-03,Santa Cruz,2,2,Goiás,E,1,1,71
+69,Série A,1975,1975-09-03,Paysandu,3,3,America-RJ,E,1,1,70
+67,Série A,1975,1975-09-03,Athletico-PR,5,1,Moto Clube,VC,3,0,68
+66,Série A,1975,1975-09-03,Comercial-MS,1,0,Ceará,VC,3,0,67
+65,Série A,1975,1975-09-03,Tiradentes,0,0,Fortaleza,E,1,1,66
+64,Série A,1975,1975-09-03,Guarani,0,0,Remo,E,1,1,65
+63,Série A,1975,1975-09-03,CSA,1,1,Figueirense,E,1,1,64
+68,Série A,1975,1975-09-03,Cruzeiro,4,0,Rio Negro-AM,VC,3,0,69
+76,Série A,1975,1975-09-04,São Paulo,2,0,Goiânia,VC,3,0,77
+75,Série A,1975,1975-09-04,Atlético-MG,1,1,América-MG,E,1,1,76
+79,Série A,1975,1975-09-06,Santos,2,0,CSA,VC,3,0,80
+78,Série A,1975,1975-09-06,América-MG,2,0,Rio Negro-AM,VC,3,0,79
+77,Série A,1975,1975-09-06,Palmeiras,2,0,Ceará,VC,3,0,78
+93,Série A,1975,1975-09-07,Campinense,0,1,Americano,VV,0,3,94
+92,Série A,1975,1975-09-07,Corinthians,1,1,Botafogo,E,1,1,93
+91,Série A,1975,1975-09-07,Coritiba,1,0,Guarani,VC,3,0,92
+90,Série A,1975,1975-09-07,Internacional,1,1,Grêmio,E,1,1,91
+88,Série A,1975,1975-09-07,Vasco,4,2,Flamengo,VC,3,0,89
+87,Série A,1975,1975-09-07,Bahia,1,1,Vitória,E,1,1,88
+89,Série A,1975,1975-09-07,Náutico,3,1,Goiânia,VC,3,0,90
+85,Série A,1975,1975-09-07,Desportiva Capixaba,0,0,Portuguesa,E,1,1,86
+84,Série A,1975,1975-09-07,Tiradentes,4,1,Moto Clube,VC,3,0,85
+83,Série A,1975,1975-09-07,Atlético-MG,2,2,Cruzeiro,E,1,1,84
+82,Série A,1975,1975-09-07,Nacional-AM,1,1,America-RJ,E,1,1,83
+81,Série A,1975,1975-09-07,Comercial-MS,1,1,Fluminense,E,1,1,82
+80,Série A,1975,1975-09-07,Remo,2,0,Paysandu,VC,3,0,81
+86,Série A,1975,1975-09-07,América-RN,3,3,Goiás,E,1,1,87
+101,Série A,1975,1975-09-10,Internacional,1,0,Santa Cruz,VC,3,0,102
+105,Série A,1975,1975-09-10,Americano,0,1,Portuguesa,VV,0,3,106
+104,Série A,1975,1975-09-10,São Paulo,3,0,Vitória,VC,3,0,105
+103,Série A,1975,1975-09-10,Sport,1,1,Goiânia,E,1,1,104
+102,Série A,1975,1975-09-10,Sergipe,1,1,Bahia,E,1,1,103
+100,Série A,1975,1975-09-10,Atlético-MG,0,0,Athletico-PR,E,1,1,101
+95,Série A,1975,1975-09-10,Ceará,2,0,Remo,VC,3,0,96
+98,Série A,1975,1975-09-10,Coritiba,2,0,Tiradentes,VC,3,0,99
+97,Série A,1975,1975-09-10,America-RJ,0,0,Cruzeiro,E,1,1,98
+96,Série A,1975,1975-09-10,Nacional-AM,1,1,Fortaleza,E,1,1,97
+94,Série A,1975,1975-09-10,CEUB,2,1,Campinense,VC,3,0,95
+99,Série A,1975,1975-09-10,Guarani,2,0,Rio Negro-AM,VC,3,0,100
+106,Série A,1975,1975-09-11,Flamengo,3,1,CSA,VC,3,0,107
+107,Série A,1975,1975-09-11,Náutico,0,0,Grêmio,E,1,1,108
+110,Série A,1975,1975-09-13,CEUB,1,0,Vitória,VC,3,0,111
+109,Série A,1975,1975-09-13,America-RJ,5,2,Athletico-PR,VC,3,0,110
+108,Série A,1975,1975-09-13,América-MG,1,1,Remo,E,1,1,109
+127,Série A,1975,1975-09-14,Moto Clube,1,3,Fluminense,VV,0,3,128
+126,Série A,1975,1975-09-14,Ceará,0,0,Rio Negro-AM,E,1,1,127
+125,Série A,1975,1975-09-14,Nacional-AM,0,2,Atlético-MG,VV,0,3,126
+124,Série A,1975,1975-09-14,Guarani,1,1,Botafogo,E,1,1,125
+123,Série A,1975,1975-09-14,Goiás,4,0,Campinense,VC,3,0,124
+122,Série A,1975,1975-09-14,Vasco,2,0,Portuguesa,VC,3,0,123
+121,Série A,1975,1975-09-14,Americano,1,4,Santa Cruz,VV,0,3,122
+120,Série A,1975,1975-09-14,Paysandu,3,1,Fortaleza,VC,3,0,121
+117,Série A,1975,1975-09-14,CSA,1,0,Goiânia,VC,3,0,118
+118,Série A,1975,1975-09-14,Internacional,1,0,Santos,VC,3,0,119
+116,Série A,1975,1975-09-14,Figueirense,1,1,Náutico,E,1,1,117
+115,Série A,1975,1975-09-14,São Paulo,2,0,Flamengo,VC,3,0,116
+114,Série A,1975,1975-09-14,Cruzeiro,2,0,Palmeiras,VC,3,0,115
+113,Série A,1975,1975-09-14,América-RN,1,1,Bahia,E,1,1,114
+112,Série A,1975,1975-09-14,Coritiba,0,2,Corinthians,VV,0,3,113
+111,Série A,1975,1975-09-14,Sport,2,2,Grêmio,E,1,1,112
+119,Série A,1975,1975-09-14,Desportiva Capixaba,1,1,Sergipe,E,1,1,120
+137,Série A,1975,1975-09-17,Cruzeiro,0,0,Remo,E,1,1,138
+141,Série A,1975,1975-09-17,Athletico-PR,2,4,Palmeiras,VV,0,3,142
+140,Série A,1975,1975-09-17,Comercial-MS,0,0,América-MG,E,1,1,141
+139,Série A,1975,1975-09-17,Botafogo,4,0,Nacional-AM,VC,3,0,140
+138,Série A,1975,1975-09-17,Paysandu,1,0,Atlético-MG,VC,3,0,139
+142,Série A,1975,1975-09-17,Fortaleza,1,0,Fluminense,VC,3,0,143
+136,Série A,1975,1975-09-17,Bahia,1,1,Grêmio,E,1,1,137
+132,Série A,1975,1975-09-17,CEUB,0,1,Flamengo,VV,0,3,133
+134,Série A,1975,1975-09-17,Goiânia,2,1,Vasco,VC,3,0,135
+133,Série A,1975,1975-09-17,Figueirense,1,1,São Paulo,E,1,1,134
+131,Série A,1975,1975-09-17,Santos,0,3,Náutico,VV,0,3,132
+130,Série A,1975,1975-09-17,Internacional,5,0,Sergipe,VC,3,0,131
+129,Série A,1975,1975-09-17,Desportiva Capixaba,1,0,Santa Cruz,VC,3,0,130
+128,Série A,1975,1975-09-17,Campinense,1,1,Sport,E,1,1,129
+135,Série A,1975,1975-09-17,Americano,1,3,América-RN,VV,0,3,136
+143,Série A,1975,1975-09-18,Goiás,1,0,Vitória,VC,3,0,144
+146,Série A,1975,1975-09-20,Guarani,2,0,Comercial-MS,VC,3,0,147
+144,Série A,1975,1975-09-20,Fortaleza,0,0,Cruzeiro,E,1,1,145
+145,Série A,1975,1975-09-20,Santos,1,1,Vasco,E,1,1,146
+156,Série A,1975,1975-09-21,Rio Negro-AM,1,1,Paysandu,E,1,1,157
+161,Série A,1975,1975-09-21,America-RJ,3,0,América-MG,VC,3,0,162
+160,Série A,1975,1975-09-21,Remo,2,1,Fluminense,VC,3,0,161
+159,Série A,1975,1975-09-21,CSA,0,0,Portuguesa,E,1,1,160
+158,Série A,1975,1975-09-21,Palmeiras,1,1,Corinthians,E,1,1,159
+157,Série A,1975,1975-09-21,Ceará,1,0,Botafogo,VC,3,0,158
+155,Série A,1975,1975-09-21,Moto Clube,1,1,Nacional-AM,E,1,1,156
+152,Série A,1975,1975-09-21,Grêmio,1,1,São Paulo,E,1,1,153
+153,Série A,1975,1975-09-21,Goiás,0,0,Flamengo,E,1,1,154
+151,Série A,1975,1975-09-21,Santa Cruz,1,1,Bahia,E,1,1,152
+150,Série A,1975,1975-09-21,Figueirense,5,1,Desportiva Capixaba,VC,3,0,151
+149,Série A,1975,1975-09-21,Tiradentes,0,1,Atlético-MG,VV,0,3,150
+148,Série A,1975,1975-09-21,Sergipe,2,2,CEUB,E,1,1,149
+147,Série A,1975,1975-09-21,América-RN,1,1,Internacional,E,1,1,148
+154,Série A,1975,1975-09-21,Vitória,2,0,Náutico,VC,3,0,155
+170,Série A,1975,1975-09-24,América-MG,0,0,Palmeiras,E,1,1,171
+175,Série A,1975,1975-09-24,Rio Negro-AM,1,2,Fluminense,VV,0,3,176
+174,Série A,1975,1975-09-24,Remo,2,2,Nacional-AM,E,1,1,175
+173,Série A,1975,1975-09-24,Comercial-MS,0,1,Corinthians,VV,0,3,174
+176,Série A,1975,1975-09-24,Tiradentes,0,1,Botafogo,VV,0,3,177
+171,Série A,1975,1975-09-24,Moto Clube,0,4,Cruzeiro,VV,0,3,172
+169,Série A,1975,1975-09-24,Vitória,2,1,CSA,VC,3,0,170
+172,Série A,1975,1975-09-24,Ceará,0,1,Atlético-MG,VV,0,3,173
+167,Série A,1975,1975-09-24,Grêmio,3,1,Desportiva Capixaba,VC,3,0,168
+162,Série A,1975,1975-09-24,Coritiba,1,0,Athletico-PR,VC,3,0,163
+163,Série A,1975,1975-09-24,Santa Cruz,1,0,Náutico,VC,3,0,164
+168,Série A,1975,1975-09-24,CEUB,2,1,América-RN,VC,3,0,169
+165,Série A,1975,1975-09-24,Goiás,2,0,Sergipe,VC,3,0,166
+166,Série A,1975,1975-09-24,Campinense,0,3,Internacional,VV,0,3,167
+164,Série A,1975,1975-09-24,Figueirense,0,1,Vasco,VV,0,3,165
+177,Série A,1975,1975-09-25,Sport,1,0,Portuguesa,VC,3,0,178
+178,Série A,1975,1975-09-25,Bahia,0,0,Goiânia,E,1,1,179
+179,Série A,1975,1975-09-25,Fortaleza,1,1,Guarani,E,1,1,180
+180,Série A,1975,1975-09-27,Vasco,0,1,América-RN,VV,0,3,181
+181,Série A,1975,1975-09-27,Náutico,1,2,Portuguesa,VV,0,3,182
+182,Série A,1975,1975-09-27,Rio Negro-AM,0,0,Corinthians,E,1,1,183
+183,Série A,1975,1975-09-27,Fluminense,2,0,America-RJ,VC,3,0,184
+196,Série A,1975,1975-09-28,Paysandu,0,0,Coritiba,E,1,1,197
+191,Série A,1975,1975-09-28,Santa Cruz,3,3,Sport,E,1,1,192
+195,Série A,1975,1975-09-28,Nacional-AM,1,1,Palmeiras,E,1,1,196
+194,Série A,1975,1975-09-28,Campinense,2,5,Bahia,VV,0,3,195
+193,Série A,1975,1975-09-28,Grêmio,0,0,Goiás,E,1,1,194
+192,Série A,1975,1975-09-28,Flamengo,2,1,Internacional,VC,3,0,193
+189,Série A,1975,1975-09-28,São Paulo,1,0,Santos,VC,3,0,190
+188,Série A,1975,1975-09-28,Sergipe,1,0,Americano,VC,3,0,189
+187,Série A,1975,1975-09-28,Ceará,0,0,Fortaleza,E,1,1,188
+186,Série A,1975,1975-09-28,Moto Clube,1,3,Guarani,VV,0,3,187
+185,Série A,1975,1975-09-28,América-MG,1,1,Botafogo,E,1,1,186
+184,Série A,1975,1975-09-28,Athletico-PR,4,1,Comercial-MS,VC,3,0,185
+190,Série A,1975,1975-09-28,Goiânia,4,2,Desportiva Capixaba,VC,3,0,191
+204,Série A,1975,1975-10-01,Sport,2,0,Santos,VC,3,0,205
+203,Série A,1975,1975-10-01,Paysandu,0,0,Palmeiras,E,1,1,204
+202,Série A,1975,1975-10-01,CEUB,0,0,Santa Cruz,E,1,1,203
+201,Série A,1975,1975-10-01,Portuguesa,0,1,São Paulo,VV,0,3,202
+199,Série A,1975,1975-10-01,Nacional-AM,1,0,Coritiba,VC,3,0,200
+198,Série A,1975,1975-10-01,Figueirense,1,1,Goiás,E,1,1,199
+197,Série A,1975,1975-10-01,CSA,1,0,Sergipe,VC,3,0,198
+200,Série A,1975,1975-10-01,Tiradentes,2,0,Comercial-MS,VC,3,0,201
+205,Série A,1975,1975-10-02,Remo,1,0,Corinthians,VC,3,0,206
+206,Série A,1975,1975-10-02,Americano,0,1,Vitória,VV,0,3,207
+207,Série A,1975,1975-10-02,Vasco,4,0,Campinense,VC,3,0,208
+210,Série A,1975,1975-10-04,America-RJ,2,0,Guarani,VC,3,0,211
+209,Série A,1975,1975-10-04,CEUB,2,2,Santos,E,1,1,210
+208,Série A,1975,1975-10-04,Náutico,1,0,América-RN,VC,3,0,209
+220,Série A,1975,1975-10-05,Moto Clube,0,3,Corinthians,VV,0,3,221
+218,Série A,1975,1975-10-05,Fluminense,3,1,Botafogo,VC,3,0,219
+217,Série A,1975,1975-10-05,Portuguesa,0,0,Goiás,E,1,1,218
+216,Série A,1975,1975-10-05,Tiradentes,1,0,Palmeiras,VC,3,0,217
+219,Série A,1975,1975-10-05,CSA,0,1,Santa Cruz,VV,0,3,220
+214,Série A,1975,1975-10-05,Sport,2,0,Vitória,VC,3,0,215
+213,Série A,1975,1975-10-05,Bahia,0,1,Figueirense,VV,0,3,214
+212,Série A,1975,1975-10-05,Goiânia,2,1,Americano,VC,3,0,213
+211,Série A,1975,1975-10-05,América-MG,1,1,Coritiba,E,1,1,212
+215,Série A,1975,1975-10-05,Desportiva Capixaba,2,1,Campinense,VC,3,0,216
+221,Série A,1975,1975-10-08,Guarani,1,1,América-RN,E,1,1,222
+222,Série A,1975,1975-10-08,São Paulo,1,0,Fluminense,VC,3,0,223
+223,Série A,1975,1975-10-08,Grêmio,4,0,Remo,VC,3,0,224
+224,Série A,1975,1975-10-08,Atlético-MG,0,2,Internacional,VV,0,3,225
+225,Série A,1975,1975-10-08,Goiás,2,0,America-RJ,VC,3,0,226
+226,Série A,1975,1975-10-08,Coritiba,1,2,Figueirense,VV,0,3,227
+228,Série A,1975,1975-10-09,Vasco,1,1,Tiradentes,E,1,1,229
+227,Série A,1975,1975-10-09,Corinthians,0,0,Sport,E,1,1,228
+229,Série A,1975,1975-10-09,Cruzeiro,1,1,Santa Cruz,E,1,1,230
+230,Série A,1975,1975-10-11,Fluminense,0,0,Grêmio,E,1,1,231
+231,Série A,1975,1975-10-12,Flamengo,3,0,Palmeiras,VC,3,0,232
+232,Série A,1975,1975-10-14,Fluminense,4,1,Goiás,VC,3,0,233
+239,Série A,1975,1975-10-15,America-RJ,0,0,São Paulo,E,1,1,240
+238,Série A,1975,1975-10-15,Vasco,1,1,Atlético-MG,E,1,1,239
+237,Série A,1975,1975-10-15,Internacional,2,0,Tiradentes,VC,3,0,238
+240,Série A,1975,1975-10-15,Figueirense,0,0,Corinthians,E,1,1,241
+235,Série A,1975,1975-10-15,Coritiba,0,1,Santa Cruz,VV,0,3,236
+234,Série A,1975,1975-10-15,América-RN,2,1,Remo,VC,3,0,235
+233,Série A,1975,1975-10-15,Sport,0,0,Palmeiras,E,1,1,234
+236,Série A,1975,1975-10-15,Guarani,2,2,Grêmio,E,1,1,237
+241,Série A,1975,1975-10-16,Flamengo,0,1,Cruzeiro,VV,0,3,242
+242,Série A,1975,1975-10-18,Palmeiras,2,2,Figueirense,E,1,1,243
+243,Série A,1975,1975-10-18,Fluminense,3,0,América-RN,VC,3,0,244
+244,Série A,1975,1975-10-18,Portuguesa,3,0,Vitória,VC,3,0,245
+245,Série A,1975,1975-10-18,Grêmio,3,0,Atlético-MG,VC,3,0,246
+253,Série A,1975,1975-10-19,Flamengo,2,0,America-RJ,VC,3,0,254
+256,Série A,1975,1975-10-19,São Paulo,0,1,Corinthians,VV,0,3,257
+255,Série A,1975,1975-10-19,Santa Cruz,0,0,Guarani,E,1,1,256
+254,Série A,1975,1975-10-19,Internacional,1,1,Cruzeiro,E,1,1,255
+252,Série A,1975,1975-10-19,Sergipe,0,2,Santos,VV,0,3,253
+246,Série A,1975,1975-10-19,Fortaleza,1,0,Moto Clube,VC,3,0,247
+250,Série A,1975,1975-10-19,Goiás,1,0,Remo,VC,3,0,251
+249,Série A,1975,1975-10-19,Tiradentes,0,3,Sport,VV,0,3,250
+248,Série A,1975,1975-10-19,Coritiba,1,1,Vasco,E,1,1,249
+247,Série A,1975,1975-10-19,Rio Negro-AM,1,2,Comercial-MS,VV,0,3,248
+251,Série A,1975,1975-10-19,Campinense,0,0,Goiânia,E,1,1,252
+264,Série A,1975,1975-10-21,Internacional,4,0,Remo,VC,3,0,265
+263,Série A,1975,1975-10-21,America-RJ,0,0,Vasco,E,1,1,264
+262,Série A,1975,1975-10-21,Figueirense,2,0,Tiradentes,VC,3,0,263
+261,Série A,1975,1975-10-21,São Paulo,0,0,Palmeiras,E,1,1,262
+260,Série A,1975,1975-10-21,América-RN,3,0,Coritiba,VC,3,0,261
+259,Série A,1975,1975-10-21,Guarani,1,1,Sport,E,1,1,260
+258,Série A,1975,1975-10-21,Cruzeiro,2,0,Goiás,VC,3,0,259
+257,Série A,1975,1975-10-21,Santa Cruz,1,0,Corinthians,VC,3,0,258
+274,Série A,1975,1975-10-22,Sport,1,1,America-RJ,E,1,1,275
+273,Série A,1975,1975-10-22,Cruzeiro,0,1,Vasco,VV,0,3,274
+275,Série A,1975,1975-10-22,Figueirense,0,0,Guarani,E,1,1,276
+272,Série A,1975,1975-10-22,Tiradentes,0,0,Goiás,E,1,1,273
+271,Série A,1975,1975-10-22,Remo,2,2,São Paulo,E,1,1,272
+267,Série A,1975,1975-10-22,Comercial-MS,2,3,Fortaleza,VV,0,3,268
+269,Série A,1975,1975-10-22,Santos,2,1,Goiânia,VC,3,0,270
+268,Série A,1975,1975-10-22,Vitória,1,0,Sergipe,VC,3,0,269
+266,Série A,1975,1975-10-22,Rio Negro-AM,1,3,Botafogo,VV,0,3,267
+265,Série A,1975,1975-10-22,Campinense,1,5,Portuguesa,VV,0,3,266
+270,Série A,1975,1975-10-22,Internacional,3,1,Fluminense,VC,3,0,271
+276,Série A,1975,1975-10-23,Grêmio,1,3,Coritiba,VV,0,3,277
+277,Série A,1975,1975-10-23,Santa Cruz,2,0,Atlético-MG,VC,3,0,278
+278,Série A,1975,1975-10-23,América-MG,3,2,Paysandu,VC,3,0,279
+279,Série A,1975,1975-10-23,Corinthians,0,1,Flamengo,VV,0,3,280
+280,Série A,1975,1975-10-23,América-RN,0,2,Palmeiras,VV,0,3,281
+285,Série A,1975,1975-10-25,Flamengo,1,2,Remo,VV,0,3,286
+283,Série A,1975,1975-10-25,São Paulo,0,0,Guarani,E,1,1,284
+284,Série A,1975,1975-10-25,Fortaleza,0,1,Rio Negro-AM,VV,0,3,285
+281,Série A,1975,1975-10-25,Bahia,1,0,Americano,VC,3,0,282
+282,Série A,1975,1975-10-25,CEUB,2,0,Desportiva Capixaba,VC,3,0,283
+296,Série A,1975,1975-10-26,Vitória,1,3,Santos,VV,0,3,297
+298,Série A,1975,1975-10-26,Vasco,1,4,Fluminense,VV,0,3,299
+297,Série A,1975,1975-10-26,Internacional,1,1,Corinthians,E,1,1,298
+295,Série A,1975,1975-10-26,Tiradentes,1,2,Grêmio,VV,0,3,296
+294,Série A,1975,1975-10-26,América-RN,1,4,America-RJ,VV,0,3,295
+293,Série A,1975,1975-10-26,Sport,1,0,Coritiba,VC,3,0,294
+292,Série A,1975,1975-10-26,Palmeiras,2,3,Santa Cruz,VV,0,3,293
+291,Série A,1975,1975-10-26,Sergipe,4,2,Campinense,VC,3,0,292
+290,Série A,1975,1975-10-26,CSA,0,2,Náutico,VV,0,3,291
+289,Série A,1975,1975-10-26,Portuguesa,2,1,Goiânia,VC,3,0,290
+288,Série A,1975,1975-10-26,Ceará,2,1,América-MG,VC,3,0,289
+287,Série A,1975,1975-10-26,Moto Clube,1,2,Botafogo,VV,0,3,288
+286,Série A,1975,1975-10-26,Nacional-AM,2,0,Athletico-PR,VC,3,0,287
+299,Série A,1975,1975-10-26,Goiás,1,5,Atlético-MG,VV,0,3,300
+300,Série A,1975,1975-10-26,Figueirense,0,1,Cruzeiro,VV,0,3,301
+301,Série A,1975,1975-10-28,Náutico,2,0,Americano,VC,3,0,302
+315,Série A,1975,1975-10-29,Guarani,0,0,Goiás,E,1,1,316
+314,Série A,1975,1975-10-29,Coritiba,2,2,São Paulo,E,1,1,315
+311,Série A,1975,1975-10-29,Corinthians,4,1,América-RN,VC,3,0,312
+313,Série A,1975,1975-10-29,Atlético-MG,3,3,Figueirense,E,1,1,314
+312,Série A,1975,1975-10-29,Remo,2,0,Vasco,VC,3,0,313
+316,Série A,1975,1975-10-29,Grêmio,1,1,Palmeiras,E,1,1,317
+310,Série A,1975,1975-10-29,America-RJ,1,0,Internacional,VC,3,0,311
+304,Série A,1975,1975-10-29,Santos,0,0,Portuguesa,E,1,1,305
+308,Série A,1975,1975-10-29,CSA,1,1,CEUB,E,1,1,309
+307,Série A,1975,1975-10-29,Desportiva Capixaba,0,0,Bahia,E,1,1,308
+306,Série A,1975,1975-10-29,Goiânia,1,0,Sergipe,VC,3,0,307
+305,Série A,1975,1975-10-29,Vitória,3,1,Campinense,VC,3,0,306
+303,Série A,1975,1975-10-29,Moto Clube,1,1,Rio Negro-AM,E,1,1,304
+302,Série A,1975,1975-10-29,Botafogo,0,0,Comercial-MS,E,1,1,303
+317,Série A,1975,1975-10-29,Sport,0,1,Cruzeiro,VV,0,3,318
+309,Série A,1975,1975-10-29,Tiradentes,3,2,Flamengo,VC,3,0,310
+320,Série A,1975,1975-10-30,Paysandu,0,1,Athletico-PR,VV,0,3,321
+319,Série A,1975,1975-10-30,Ceará,0,0,Nacional-AM,E,1,1,320
+318,Série A,1975,1975-10-30,Santa Cruz,0,1,Fluminense,VV,0,3,319
+326,Série A,1975,1975-11-01,America-RJ,2,1,Figueirense,VC,3,0,327
+327,Série A,1975,1975-11-01,São Paulo,0,0,Cruzeiro,E,1,1,328
+328,Série A,1975,1975-11-01,CEUB,0,2,Americano,VV,0,3,329
+325,Série A,1975,1975-11-01,Vasco,1,2,Guarani,VV,0,3,326
+321,Série A,1975,1975-11-01,Portuguesa,4,0,Sergipe,VC,3,0,322
+323,Série A,1975,1975-11-01,Goiânia,1,0,Vitória,VC,3,0,324
+322,Série A,1975,1975-11-01,Santos,5,1,Campinense,VC,3,0,323
+324,Série A,1975,1975-11-01,Santa Cruz,1,1,Tiradentes,E,1,1,325
+338,Série A,1975,1975-11-02,Bahia,1,1,Náutico,E,1,1,339
+337,Série A,1975,1975-11-02,Goiás,1,2,Palmeiras,VV,0,3,338
+336,Série A,1975,1975-11-02,Coritiba,0,0,Internacional,E,1,1,337
+334,Série A,1975,1975-11-02,Desportiva Capixaba,1,0,CSA,VC,3,0,335
+335,Série A,1975,1975-11-02,Sport,0,0,Remo,E,1,1,336
+332,Série A,1975,1975-11-02,Paysandu,1,0,Ceará,VC,3,0,333
+331,Série A,1975,1975-11-02,América-MG,1,2,Nacional-AM,VV,0,3,332
+330,Série A,1975,1975-11-02,América-RN,1,1,Atlético-MG,E,1,1,331
+329,Série A,1975,1975-11-02,Corinthians,3,2,Grêmio,VC,3,0,330
+333,Série A,1975,1975-11-02,Fluminense,3,0,Flamengo,VC,3,0,334
+339,Série A,1975,1975-11-04,Atlético-MG,1,1,Flamengo,E,1,1,340
+347,Série A,1975,1975-11-05,Grêmio,0,1,America-RJ,VV,0,3,348
+350,Série A,1975,1975-11-05,CEUB,1,2,Bahia,VV,0,3,351
+349,Série A,1975,1975-11-05,Remo,0,0,Santa Cruz,E,1,1,350
+348,Série A,1975,1975-11-05,Figueirense,0,0,Fluminense,E,1,1,349
+346,Série A,1975,1975-11-05,Palmeiras,1,0,Vasco,VC,3,0,347
+340,Série A,1975,1975-11-05,Athletico-PR,3,0,Ceará,VC,3,0,341
+344,Série A,1975,1975-11-05,Botafogo,1,1,Fortaleza,E,1,1,345
+343,Série A,1975,1975-11-05,Náutico,4,1,Desportiva Capixaba,VC,3,0,344
+342,Série A,1975,1975-11-05,Americano,2,1,CSA,VC,3,0,343
+341,Série A,1975,1975-11-05,Comercial-MS,3,2,Moto Clube,VC,3,0,342
+345,Série A,1975,1975-11-05,Cruzeiro,2,1,América-RN,VC,3,0,346
+354,Série A,1975,1975-11-06,Internacional,2,0,Guarani,VC,3,0,355
+351,Série A,1975,1975-11-06,Atlético-MG,1,0,Sport,VC,3,0,352
+352,Série A,1975,1975-11-06,Flamengo,2,0,Coritiba,VC,3,0,353
+353,Série A,1975,1975-11-06,São Paulo,2,0,Tiradentes,VC,3,0,354
+355,Série A,1975,1975-11-06,Corinthians,0,0,Goiás,E,1,1,356
+361,Série A,1975,1975-11-08,America-RJ,1,3,Santa Cruz,VV,0,3,362
+362,Série A,1975,1975-11-08,Cruzeiro,3,1,Grêmio,VC,3,0,363
+363,Série A,1975,1975-11-08,Náutico,3,0,CEUB,VC,3,0,364
+360,Série A,1975,1975-11-08,Fluminense,3,0,Sport,VC,3,0,361
+358,Série A,1975,1975-11-08,Bahia,3,0,CSA,VC,3,0,359
+356,Série A,1975,1975-11-08,Athletico-PR,0,0,América-MG,E,1,1,357
+359,Série A,1975,1975-11-08,Americano,0,3,Desportiva Capixaba,VV,0,3,360
+357,Série A,1975,1975-11-08,Nacional-AM,2,2,Paysandu,E,1,1,358
+364,Série A,1975,1975-11-09,Remo,4,1,Figueirense,VC,3,0,365
+365,Série A,1975,1975-11-09,Atlético-MG,1,1,São Paulo,E,1,1,366
+366,Série A,1975,1975-11-09,Palmeiras,0,0,Internacional,E,1,1,367
+367,Série A,1975,1975-11-09,Guarani,2,0,Flamengo,VC,3,0,368
+368,Série A,1975,1975-11-09,Goiás,2,2,Coritiba,E,1,1,369
+369,Série A,1975,1975-11-09,Tiradentes,1,0,América-RN,VC,3,0,370
+370,Série A,1975,1975-11-09,Vasco,0,1,Corinthians,VV,0,3,371
+375,Série A,1975,1975-11-12,Santa Cruz,1,0,Internacional,VC,3,0,376
+374,Série A,1975,1975-11-12,Guarani,1,1,America-RJ,E,1,1,375
+371,Série A,1975,1975-11-12,Grêmio,0,0,Náutico,E,1,1,372
+372,Série A,1975,1975-11-12,Fluminense,4,0,Nacional-AM,VC,3,0,373
+373,Série A,1975,1975-11-12,Palmeiras,0,0,Cruzeiro,E,1,1,374
+376,Série A,1975,1975-11-13,Botafogo,2,3,Corinthians,VV,0,3,377
+377,Série A,1975,1975-11-13,Portuguesa,0,2,Flamengo,VV,0,3,378
+378,Série A,1975,1975-11-13,Sport,1,1,São Paulo,E,1,1,379
+381,Série A,1975,1975-11-15,Portuguesa,3,1,Náutico,VC,3,0,382
+380,Série A,1975,1975-11-15,Guarani,2,0,Cruzeiro,VC,3,0,381
+379,Série A,1975,1975-11-15,America-RJ,3,1,Nacional-AM,VC,3,0,380
+382,Série A,1975,1975-11-16,Flamengo,1,1,São Paulo,E,1,1,383
+383,Série A,1975,1975-11-16,Palmeiras,2,0,Botafogo,VC,3,0,384
+384,Série A,1975,1975-11-16,Santa Cruz,2,1,Grêmio,VC,3,0,385
+385,Série A,1975,1975-11-16,Corinthians,0,0,Fluminense,E,1,1,386
+386,Série A,1975,1975-11-16,Internacional,3,1,Sport,VC,3,0,387
+391,Série A,1975,1975-11-19,Náutico,1,2,Sport,VV,0,3,392
+389,Série A,1975,1975-11-19,Flamengo,1,0,Grêmio,VC,3,0,390
+390,Série A,1975,1975-11-19,Cruzeiro,1,2,Fluminense,VV,0,3,391
+387,Série A,1975,1975-11-19,Guarani,3,1,Palmeiras,VC,3,0,388
+388,Série A,1975,1975-11-19,São Paulo,0,0,Internacional,E,1,1,389
+392,Série A,1975,1975-11-20,Santa Cruz,1,1,Portuguesa,E,1,1,393
+393,Série A,1975,1975-11-20,Corinthians,1,0,Nacional-AM,VC,3,0,394
+394,Série A,1975,1975-11-20,Botafogo,0,0,America-RJ,E,1,1,395
+395,Série A,1975,1975-11-22,Flamengo,3,0,Náutico,VC,3,0,396
+400,Série A,1975,1975-11-23,Cruzeiro,2,0,Corinthians,VC,3,0,401
+401,Série A,1975,1975-11-23,Nacional-AM,0,1,Guarani,VV,0,3,402
+402,Série A,1975,1975-11-23,Internacional,1,0,Grêmio,VC,3,0,403
+398,Série A,1975,1975-11-23,Palmeiras,2,0,America-RJ,VC,3,0,399
+397,Série A,1975,1975-11-23,Sport,1,3,Santa Cruz,VV,0,3,398
+396,Série A,1975,1975-11-23,São Paulo,1,2,Portuguesa,VV,0,3,397
+399,Série A,1975,1975-11-23,Fluminense,2,0,Botafogo,VC,3,0,400
+403,Série A,1975,1975-11-26,São Paulo,1,0,Santa Cruz,VC,3,0,404
+404,Série A,1975,1975-11-26,Guarani,1,2,Fluminense,VV,0,3,405
+405,Série A,1975,1975-11-26,Sport,0,1,Flamengo,VV,0,3,406
+406,Série A,1975,1975-11-26,Cruzeiro,2,0,Botafogo,VC,3,0,407
+407,Série A,1975,1975-11-26,Grêmio,1,1,Portuguesa,E,1,1,408
+408,Série A,1975,1975-11-26,Nacional-AM,0,3,Palmeiras,VV,0,3,409
+409,Série A,1975,1975-11-27,Náutico,0,1,Internacional,VV,0,3,410
+410,Série A,1975,1975-11-27,America-RJ,2,1,Corinthians,VC,3,0,411
+411,Série A,1975,1975-11-29,Botafogo,2,1,Guarani,VC,3,0,412
+412,Série A,1975,1975-11-29,Portuguesa,1,1,Sport,E,1,1,413
+413,Série A,1975,1975-11-29,São Paulo,1,2,Grêmio,VV,0,3,414
+417,Série A,1975,1975-11-30,Nacional-AM,0,3,Cruzeiro,VV,0,3,418
+416,Série A,1975,1975-11-30,Internacional,1,1,Flamengo,E,1,1,417
+418,Série A,1975,1975-11-30,Corinthians,1,0,Palmeiras,VC,3,0,419
+414,Série A,1975,1975-11-30,Náutico,1,4,Santa Cruz,VV,0,3,415
+415,Série A,1975,1975-11-30,America-RJ,1,0,Fluminense,VC,3,0,416
+419,Série A,1975,1975-12-03,Corinthians,3,2,Guarani,VC,3,0,420
+420,Série A,1975,1975-12-03,Fluminense,4,2,Palmeiras,VC,3,0,421
+421,Série A,1975,1975-12-03,Grêmio,1,1,Sport,E,1,1,422
+425,Série A,1975,1975-12-04,Cruzeiro,1,1,America-RJ,E,1,1,426
+424,Série A,1975,1975-12-04,Nacional-AM,0,2,Botafogo,VV,0,3,425
+426,Série A,1975,1975-12-04,Náutico,1,3,São Paulo,VV,0,3,427
+422,Série A,1975,1975-12-04,Flamengo,1,3,Santa Cruz,VV,0,3,423
+423,Série A,1975,1975-12-04,Internacional,3,0,Portuguesa,VC,3,0,424
+427,Série A,1975,1975-12-07,Santa Cruz,2,3,Cruzeiro,VV,0,3,428
+428,Série A,1975,1975-12-07,Fluminense,0,2,Internacional,VV,0,3,429
+429,Série A,1975,1975-12-14,Internacional,1,0,Cruzeiro,VC,3,0,430
+13,Série A,1976,1976-08-29,Botafogo-PB,1,0,Vitória,VC,3,0,14
+12,Série A,1976,1976-08-29,América-MG,6,0,Goiânia,VC,3,0,13
+11,Série A,1976,1976-08-29,Londrina,0,3,Atlético-PR,VV,0,3,12
+10,Série A,1976,1976-08-29,Confiança,2,1,Portuguesa,VC,3,0,11
+9,Série A,1976,1976-08-29,Fluminense-BA,0,0,CSA,E,1,1,10
+8,Série A,1976,1976-08-29,Treze,0,2,CRB,VV,0,3,9
+7,Série A,1976,1976-08-29,América-RN,0,0,Santa Cruz,E,1,1,8
+5,Série A,1976,1976-08-29,Sport,1,0,ABC,VC,3,0,6
+4,Série A,1976,1976-08-29,Sampaio Corrêa,0,0,Flamengo-PI,E,1,1,5
+3,Série A,1976,1976-08-29,Coritiba,0,2,São Paulo,VV,0,3,4
+2,Série A,1976,1976-08-29,Corinthians,2,1,Fortaleza,VC,3,0,3
+1,Série A,1976,1976-08-29,Remo,2,0,Ceará,VC,3,0,2
+0,Série A,1976,1976-08-29,Mixto-MT,1,1,Goiás,E,1,1,1
+6,Série A,1976,1976-08-29,Rio Negro-AM,0,3,Guarani,VV,0,3,7
+33,Série A,1976,1976-09-01,Rio Branco-ES,1,4,Grêmio,VV,0,3,34
+32,Série A,1976,1976-09-01,Santos,2,1,Caxias,VC,3,0,33
+31,Série A,1976,1976-09-01,Vasco,1,0,América-MG,VC,3,0,32
+30,Série A,1976,1976-09-01,Náutico,3,0,Flamengo-PI,VC,3,0,31
+29,Série A,1976,1976-09-01,Volta Redonda,1,1,América-RN,E,1,1,30
+28,Série A,1976,1976-09-01,Remo,0,0,Guarani,E,1,1,29
+27,Série A,1976,1976-09-01,Mixto-MT,1,1,Operário-MS,E,1,1,28
+26,Série A,1976,1976-09-01,Goiânia,1,1,Atlético-MG,E,1,1,27
+25,Série A,1976,1976-09-01,Americano,1,2,Goiás,VV,0,3,26
+24,Série A,1976,1976-09-01,Fluminense-BA,0,2,Bahia,VV,0,3,25
+15,Série A,1976,1976-09-01,Sampaio Corrêa,0,2,Santa Cruz,VV,0,3,16
+22,Série A,1976,1976-09-01,Treze,0,2,Vitória,VV,0,3,23
+21,Série A,1976,1976-09-01,Fluminense,1,1,CSA,E,1,1,22
+20,Série A,1976,1976-09-01,Rio Negro-AM,1,1,Ceará,E,1,1,21
+19,Série A,1976,1976-09-01,Ponte Preta,1,1,Corinthians,E,1,1,20
+18,Série A,1976,1976-09-01,Internacional,6,0,Figueirense,VC,3,0,19
+17,Série A,1976,1976-09-01,Londrina,0,0,São Paulo,E,1,1,18
+16,Série A,1976,1976-09-01,Flamengo,2,0,ABC,VC,3,0,17
+23,Série A,1976,1976-09-01,Botafogo-PB,0,0,Botafogo,E,1,1,24
+14,Série A,1976,1976-09-01,Uberaba,0,0,Atlético-PR,E,1,1,15
+34,Série A,1976,1976-09-02,Paysandu,3,0,Nacional-AM,VC,3,0,35
+48,Série A,1976,1976-09-04,Cruzeiro,0,0,Botafogo-SP,E,1,1,49
+45,Série A,1976,1976-09-04,América-RN,1,0,Náutico,VC,3,0,46
+43,Série A,1976,1976-09-04,Volta Redonda,0,0,ABC,E,1,1,44
+47,Série A,1976,1976-09-04,Sport,1,0,Santa Cruz,VC,3,0,48
+46,Série A,1976,1976-09-04,Flamengo-PI,2,3,Flamengo,VV,0,3,47
+42,Série A,1976,1976-09-04,Ceará,0,0,Guarani,E,1,1,43
+44,Série A,1976,1976-09-04,São Paulo,0,0,Portuguesa,E,1,1,45
+40,Série A,1976,1976-09-04,Treze,2,4,Botafogo,VV,0,3,41
+35,Série A,1976,1976-09-04,Grêmio,1,0,Caxias,VC,3,0,36
+36,Série A,1976,1976-09-04,Desportiva Capixaba,0,1,Palmeiras,VV,0,3,37
+41,Série A,1976,1976-09-04,Fortaleza,1,0,Remo,VC,3,0,42
+38,Série A,1976,1976-09-04,Figueirense,1,4,Santos,VV,0,3,39
+39,Série A,1976,1976-09-04,Vitória,3,1,CSA,VC,3,0,40
+37,Série A,1976,1976-09-04,Vasco,1,0,Goiás,VC,3,0,38
+49,Série A,1976,1976-09-05,Confiança,1,0,Londrina,VC,3,0,50
+51,Série A,1976,1976-09-05,Operário-MS,1,1,America-RJ,E,1,1,52
+52,Série A,1976,1976-09-05,Americano,3,2,Mixto-MT,VC,3,0,53
+50,Série A,1976,1976-09-05,Atlético-MG,1,0,América-MG,VC,3,0,51
+68,Série A,1976,1976-09-07,Cruzeiro,2,1,Portuguesa,VC,3,0,69
+62,Série A,1976,1976-09-07,Uberaba,0,1,Botafogo-SP,VV,0,3,63
+67,Série A,1976,1976-09-07,Santa Cruz,2,1,Flamengo,VC,3,0,68
+66,Série A,1976,1976-09-07,Sampaio Corrêa,2,3,Náutico,VV,0,3,67
+65,Série A,1976,1976-09-07,Palmeiras,0,1,Santos,VV,0,3,66
+64,Série A,1976,1976-09-07,Internacional,3,1,Grêmio,VC,3,0,65
+63,Série A,1976,1976-09-07,Desportiva Capixaba,2,1,Rio Branco-ES,VC,3,0,64
+61,Série A,1976,1976-09-07,Goiás,3,0,Goiânia,VC,3,0,62
+59,Série A,1976,1976-09-07,Nacional-AM,2,1,Rio Negro-AM,VC,3,0,60
+58,Série A,1976,1976-09-07,Ceará,0,1,Fortaleza,VV,0,3,59
+57,Série A,1976,1976-09-07,Remo,5,2,Paysandu,VC,3,0,58
+56,Série A,1976,1976-09-07,Botafogo,2,0,Fluminense,VC,3,0,57
+55,Série A,1976,1976-09-07,Bahia,0,0,Vitória,E,1,1,56
+54,Série A,1976,1976-09-07,CRB,2,1,CSA,VC,3,0,55
+53,Série A,1976,1976-09-07,Botafogo-PB,2,0,Treze,VC,3,0,54
+60,Série A,1976,1976-09-07,América-RN,3,1,ABC,VC,3,0,61
+75,Série A,1976,1976-09-08,America-RJ,1,0,Mixto-MT,VC,3,0,76
+74,Série A,1976,1976-09-08,Coritiba,2,1,Atlético-PR,VC,3,0,75
+73,Série A,1976,1976-09-08,Confiança,1,1,São Paulo,E,1,1,74
+71,Série A,1976,1976-09-08,Americano,2,3,Vasco,VV,0,3,72
+70,Série A,1976,1976-09-08,Volta Redonda,1,0,Sport,VC,3,0,71
+69,Série A,1976,1976-09-08,Figueirense,1,0,Avaí,VC,3,0,70
+72,Série A,1976,1976-09-08,Operário-MS,1,1,Atlético-MG,E,1,1,73
+76,Série A,1976,1976-09-11,Paysandu,1,5,Fortaleza,VV,0,3,77
+77,Série A,1976,1976-09-11,Palmeiras,4,0,Figueirense,VC,3,0,78
+78,Série A,1976,1976-09-11,Vitória,2,0,Fluminense-BA,VC,3,0,79
+79,Série A,1976,1976-09-11,America-RJ,2,1,Atlético-MG,VC,3,0,80
+89,Série A,1976,1976-09-12,Corinthians,0,1,Guarani,VV,0,3,90
+90,Série A,1976,1976-09-12,CRB,0,0,Botafogo-PB,E,1,1,91
+94,Série A,1976,1976-09-12,Nacional-AM,1,0,Ponte Preta,VC,3,0,95
+92,Série A,1976,1976-09-12,Atlético-PR,1,1,Cruzeiro,E,1,1,93
+88,Série A,1976,1976-09-12,Remo,2,0,Rio Negro-AM,VC,3,0,89
+91,Série A,1976,1976-09-12,Uberaba,1,0,Portuguesa,VC,3,0,92
+87,Série A,1976,1976-09-12,Goiânia,2,4,Vasco,VV,0,3,88
+93,Série A,1976,1976-09-12,Botafogo-SP,2,0,São Paulo,VC,3,0,94
+85,Série A,1976,1976-09-12,Bahia,0,0,Fluminense,E,1,1,86
+84,Série A,1976,1976-09-12,Mixto-MT,3,0,América-MG,VC,3,0,85
+83,Série A,1976,1976-09-12,Desportiva Capixaba,0,3,Avaí,VV,0,3,84
+82,Série A,1976,1976-09-12,Volta Redonda,5,1,Sampaio Corrêa,VC,3,0,83
+81,Série A,1976,1976-09-12,ABC,1,1,Náutico,E,1,1,82
+86,Série A,1976,1976-09-12,Grêmio,0,0,Santos,E,1,1,87
+80,Série A,1976,1976-09-12,Caxias,2,1,Internacional,VC,3,0,81
+110,Série A,1976,1976-09-15,Americano,0,0,America-RJ,E,1,1,111
+109,Série A,1976,1976-09-15,Mixto-MT,1,0,Vasco,VC,3,0,110
+107,Série A,1976,1976-09-15,Caxias,0,0,Palmeiras,E,1,1,108
+106,Série A,1976,1976-09-15,Santos,0,0,Avaí,E,1,1,107
+105,Série A,1976,1976-09-15,Atlético-MG,2,1,Goiás,VC,3,0,106
+104,Série A,1976,1976-09-15,Paysandu,0,0,Ponte Preta,E,1,1,105
+103,Série A,1976,1976-09-15,Nacional-AM,0,0,Fortaleza,E,1,1,104
+108,Série A,1976,1976-09-15,Flamengo-PI,0,0,Santa Cruz,E,1,1,109
+101,Série A,1976,1976-09-15,Botafogo,0,0,Bahia,E,1,1,102
+100,Série A,1976,1976-09-15,CRB,0,2,Vitória,VV,0,3,101
+99,Série A,1976,1976-09-15,Rio Branco-ES,0,0,Figueirense,E,1,1,100
+98,Série A,1976,1976-09-15,Confiança,1,1,Coritiba,E,1,1,99
+97,Série A,1976,1976-09-15,São Paulo,0,2,Atlético-PR,VV,0,3,98
+96,Série A,1976,1976-09-15,Sport,0,0,América-RN,E,1,1,97
+95,Série A,1976,1976-09-15,Volta Redonda,0,0,Náutico,E,1,1,96
+102,Série A,1976,1976-09-15,Fluminense-BA,2,3,Fluminense,VV,0,3,103
+111,Série A,1976,1976-09-16,Operário-MS,5,3,Goiânia,VC,3,0,112
+112,Série A,1976,1976-09-16,Flamengo,8,1,Sampaio Corrêa,VC,3,0,113
+113,Série A,1976,1976-09-16,Londrina,1,1,Cruzeiro,E,1,1,114
+114,Série A,1976,1976-09-16,Rio Negro-AM,1,2,Corinthians,VV,0,3,115
+119,Série A,1976,1976-09-18,Guarani,1,1,Fortaleza,E,1,1,120
+118,Série A,1976,1976-09-18,Botafogo,2,1,CRB,VC,3,0,119
+115,Série A,1976,1976-09-18,São Paulo,4,0,Uberaba,VC,3,0,116
+116,Série A,1976,1976-09-18,Desportiva Capixaba,1,0,Figueirense,VC,3,0,117
+117,Série A,1976,1976-09-18,América-MG,0,1,Americano,VV,0,3,118
+131,Série A,1976,1976-09-19,Nacional-AM,1,0,Remo,VC,3,0,132
+138,Série A,1976,1976-09-19,Palmeiras,0,0,Grêmio,E,1,1,139
+137,Série A,1976,1976-09-19,Avaí,0,4,Internacional,VV,0,3,138
+136,Série A,1976,1976-09-19,Londrina,1,0,Botafogo-SP,VC,3,0,137
+135,Série A,1976,1976-09-19,Cruzeiro,2,1,Coritiba,VC,3,0,136
+134,Série A,1976,1976-09-19,Atlético-PR,0,0,Portuguesa,E,1,1,135
+133,Série A,1976,1976-09-19,Paysandu,0,0,Corinthians,E,1,1,134
+132,Série A,1976,1976-09-19,Ponte Preta,2,0,Ceará,VC,3,0,133
+130,Série A,1976,1976-09-19,Rio Branco-ES,0,1,Santos,VV,0,3,131
+125,Série A,1976,1976-09-19,Sport,1,0,Náutico,VC,3,0,126
+128,Série A,1976,1976-09-19,Vasco,0,2,America-RJ,VV,0,3,129
+121,Série A,1976,1976-09-19,Fluminense-BA,0,1,Botafogo-PB,VV,0,3,122
+122,Série A,1976,1976-09-19,Mixto-MT,1,2,Goiânia,VV,0,3,123
+123,Série A,1976,1976-09-19,ABC,2,4,Santa Cruz,VV,0,3,124
+120,Série A,1976,1976-09-19,CSA,1,1,Bahia,E,1,1,121
+126,Série A,1976,1976-09-19,Goiás,1,1,Operário-MS,E,1,1,127
+127,Série A,1976,1976-09-19,Treze,0,2,Fluminense,VV,0,3,128
+124,Série A,1976,1976-09-19,Flamengo-PI,2,2,Volta Redonda,E,1,1,125
+129,Série A,1976,1976-09-19,Sampaio Corrêa,0,0,América-RN,E,1,1,130
+155,Série A,1976,1976-09-22,América-RN,0,0,Flamengo,E,1,1,156
+148,Série A,1976,1976-09-22,Guarani,1,1,Nacional-AM,E,1,1,149
+154,Série A,1976,1976-09-22,Santa Cruz,2,0,Volta Redonda,VC,3,0,155
+153,Série A,1976,1976-09-22,Sampaio Corrêa,0,3,Sport,VV,0,3,154
+152,Série A,1976,1976-09-22,Caxias,1,0,Avaí,VC,3,0,153
+151,Série A,1976,1976-09-22,Operário-MS,0,0,Americano,E,1,1,152
+150,Série A,1976,1976-09-22,Fluminense,3,0,Botafogo-PB,VC,3,0,151
+149,Série A,1976,1976-09-22,Atlético-PR,1,0,Confiança,VC,3,0,150
+146,Série A,1976,1976-09-22,América-MG,0,0,America-RJ,E,1,1,147
+145,Série A,1976,1976-09-22,Desportiva Capixaba,1,4,Internacional,VV,0,3,146
+144,Série A,1976,1976-09-22,Palmeiras,1,0,Rio Branco-ES,VC,3,0,145
+143,Série A,1976,1976-09-22,Flamengo-PI,0,0,ABC,E,1,1,144
+142,Série A,1976,1976-09-22,Fluminense-BA,2,0,CRB,VC,3,0,143
+141,Série A,1976,1976-09-22,Bahia,3,0,Treze,VC,3,0,142
+140,Série A,1976,1976-09-22,CSA,2,1,Botafogo,VC,3,0,141
+139,Série A,1976,1976-09-22,Rio Negro-AM,2,0,Paysandu,VC,3,0,140
+147,Série A,1976,1976-09-22,Ceará,0,2,Corinthians,VV,0,3,148
+156,Série A,1976,1976-09-23,Portuguesa,3,1,Botafogo-SP,VC,3,0,157
+157,Série A,1976,1976-09-23,Coritiba,1,0,Uberaba,VC,3,0,158
+158,Série A,1976,1976-09-23,Atlético-MG,3,1,Mixto-MT,VC,3,0,159
+159,Série A,1976,1976-09-23,Fortaleza,3,1,Ponte Preta,VC,3,0,160
+160,Série A,1976,1976-09-23,Figueirense,0,2,Grêmio,VV,0,3,161
+165,Série A,1976,1976-09-25,Ceará,0,1,Paysandu,VV,0,3,166
+164,Série A,1976,1976-09-25,Goiânia,0,0,Americano,E,1,1,165
+166,Série A,1976,1976-09-25,Corinthians,2,0,Nacional-AM,VC,3,0,167
+162,Série A,1976,1976-09-25,Botafogo,4,1,Fluminense-BA,VC,3,0,163
+161,Série A,1976,1976-09-25,Avaí,2,1,Rio Branco-ES,VC,3,0,162
+163,Série A,1976,1976-09-25,Botafogo-SP,3,0,Confiança,VC,3,0,164
+182,Série A,1976,1976-09-26,Náutico,0,3,Flamengo,VV,0,3,183
+181,Série A,1976,1976-09-26,ABC,1,1,Sampaio Corrêa,E,1,1,182
+180,Série A,1976,1976-09-26,Fluminense,0,1,Vitória,VV,0,3,181
+179,Série A,1976,1976-09-26,Bahia,3,0,CRB,VC,3,0,180
+178,Série A,1976,1976-09-26,CSA,3,2,Treze,VC,3,0,179
+176,Série A,1976,1976-09-26,Flamengo-PI,1,2,Sport,VV,0,3,177
+175,Série A,1976,1976-09-26,Fortaleza,0,0,Rio Negro-AM,E,1,1,176
+177,Série A,1976,1976-09-26,Uberaba,1,1,Cruzeiro,E,1,1,178
+173,Série A,1976,1976-09-26,Atlético-MG,3,0,Vasco,VC,3,0,174
+172,Série A,1976,1976-09-26,Figueirense,1,0,Caxias,VC,3,0,173
+171,Série A,1976,1976-09-26,Santos,1,3,Internacional,VV,0,3,172
+170,Série A,1976,1976-09-26,Grêmio,3,1,Desportiva Capixaba,VC,3,0,171
+169,Série A,1976,1976-09-26,Operário-MS,1,1,América-MG,E,1,1,170
+168,Série A,1976,1976-09-26,Goiás,1,0,America-RJ,VC,3,0,169
+167,Série A,1976,1976-09-26,Coritiba,1,0,Londrina,VC,3,0,168
+174,Série A,1976,1976-09-26,Ponte Preta,1,1,Remo,E,1,1,175
+194,Série A,1976,1976-09-29,America-RJ,3,1,Goiânia,VC,3,0,195
+195,Série A,1976,1976-09-29,Ponte Preta,1,1,Rio Negro-AM,E,1,1,196
+196,Série A,1976,1976-09-29,Botafogo-SP,1,0,Atlético-PR,VC,3,0,197
+200,Série A,1976,1976-09-29,Santa Cruz,2,1,Náutico,VC,3,0,201
+198,Série A,1976,1976-09-29,Botafogo-PB,1,1,CSA,E,1,1,199
+199,Série A,1976,1976-09-29,CRB,0,4,Fluminense,VV,0,3,200
+193,Série A,1976,1976-09-29,Vasco,0,1,Operário-MS,VV,0,3,194
+197,Série A,1976,1976-09-29,Treze,2,1,Fluminense-BA,VC,3,0,198
+192,Série A,1976,1976-09-29,Goiás,2,1,América-MG,VC,3,0,193
+183,Série A,1976,1976-09-29,Corinthians,3,0,Remo,VC,3,0,184
+190,Série A,1976,1976-09-29,Vitória,1,1,Botafogo,E,1,1,191
+189,Série A,1976,1976-09-29,Caxias,2,0,Desportiva Capixaba,VC,3,0,190
+188,Série A,1976,1976-09-29,Avaí,0,1,Palmeiras,VV,0,3,189
+187,Série A,1976,1976-09-29,Internacional,3,0,Rio Branco-ES,VC,3,0,188
+186,Série A,1976,1976-09-29,Portuguesa,0,2,Coritiba,VV,0,3,187
+185,Série A,1976,1976-09-29,Uberaba,1,2,Londrina,VV,0,3,186
+184,Série A,1976,1976-09-29,Cruzeiro,2,0,Confiança,VC,3,0,185
+191,Série A,1976,1976-09-29,Americano,1,3,Atlético-MG,VV,0,3,192
+205,Série A,1976,1976-09-30,Guarani,2,0,Paysandu,VC,3,0,206
+203,Série A,1976,1976-09-30,Ceará,1,1,Nacional-AM,E,1,1,204
+204,Série A,1976,1976-09-30,Botafogo-PB,1,2,Bahia,VV,0,3,205
+201,Série A,1976,1976-09-30,Flamengo,4,0,Volta Redonda,VC,3,0,202
+202,Série A,1976,1976-09-30,América-RN,1,2,Flamengo-PI,VV,0,3,203
+206,Série A,1976,1976-10-02,Portuguesa,1,1,Londrina,E,1,1,207
+207,Série A,1976,1976-10-02,Rio Branco-ES,0,2,Caxias,VV,0,3,208
+208,Série A,1976,1976-10-03,Santos,0,0,Desportiva Capixaba,E,1,1,209
+209,Série A,1976,1976-10-03,Avaí,0,3,Grêmio,VV,0,3,210
+210,Série A,1976,1976-10-03,Internacional,1,0,Palmeiras,VC,3,0,211
+211,Série A,1976,1976-10-03,Botafogo-SP,1,1,Coritiba,E,1,1,212
+212,Série A,1976,1976-10-03,São Paulo,1,0,Cruzeiro,VC,3,0,213
+213,Série A,1976,1976-10-03,Confiança,1,1,Uberaba,E,1,1,214
+214,Série A,1976,1976-10-03,Guarani,0,0,Ponte Preta,E,1,1,215
+218,Série A,1976,1976-10-09,Bahia,3,0,Santa Cruz,VC,3,0,219
+217,Série A,1976,1976-10-09,Portuguesa,1,0,Uberaba,VC,3,0,218
+215,Série A,1976,1976-10-09,Ponte Preta,3,0,Paysandu,VC,3,0,216
+216,Série A,1976,1976-10-09,America-RJ,1,1,São Paulo,E,1,1,217
+229,Série A,1976,1976-10-10,Operário-MS,2,0,Botafogo,VC,3,0,230
+235,Série A,1976,1976-10-10,Nacional-AM,1,1,Ceará,E,1,1,236
+234,Série A,1976,1976-10-10,Figueirense,3,1,Desportiva Capixaba,VC,3,0,235
+233,Série A,1976,1976-10-10,Santos,2,1,Atlético-PR,VC,3,0,234
+232,Série A,1976,1976-10-10,Mixto-MT,4,1,Americano,VC,3,0,233
+231,Série A,1976,1976-10-10,Goiânia,4,0,América-MG,VC,3,0,232
+236,Série A,1976,1976-10-10,Caxias,0,0,Rio Branco-ES,E,1,1,237
+230,Série A,1976,1976-10-10,Fortaleza,1,1,Goiás,E,1,1,231
+228,Série A,1976,1976-10-10,Volta Redonda,0,0,Flamengo-PI,E,1,1,229
+224,Série A,1976,1976-10-10,Vitória,0,3,Flamengo,VV,0,3,225
+226,Série A,1976,1976-10-10,Grêmio,3,0,Corinthians,VC,3,0,227
+225,Série A,1976,1976-10-10,Guarani,0,1,Palmeiras,VV,0,3,226
+223,Série A,1976,1976-10-10,Fluminense,1,1,Internacional,E,1,1,224
+222,Série A,1976,1976-10-10,CSA,3,5,Botafogo-PB,VV,0,3,223
+221,Série A,1976,1976-10-10,Fluminense-BA,1,0,Treze,VC,3,0,222
+220,Série A,1976,1976-10-10,Náutico,2,1,ABC,VC,3,0,221
+219,Série A,1976,1976-10-10,América-RN,1,3,Botafogo-SP,VV,0,3,220
+227,Série A,1976,1976-10-10,Coritiba,1,0,Sport,VC,3,0,228
+254,Série A,1976,1976-10-13,Fortaleza,1,1,Botafogo-SP,E,1,1,255
+253,Série A,1976,1976-10-13,Goiás,0,3,Internacional,VV,0,3,254
+252,Série A,1976,1976-10-13,Treze,1,0,CSA,VC,3,0,253
+251,Série A,1976,1976-10-13,América-RN,2,1,Fluminense,VC,3,0,252
+250,Série A,1976,1976-10-13,Botafogo,1,0,Sport,VC,3,0,251
+249,Série A,1976,1976-10-13,Grêmio,1,0,Operário-MS,VC,3,0,250
+248,Série A,1976,1976-10-13,Sampaio Corrêa,2,0,ABC,VC,3,0,249
+246,Série A,1976,1976-10-13,Remo,1,2,Santos,VV,0,3,247
+247,Série A,1976,1976-10-13,Corinthians,1,0,Coritiba,VC,3,0,248
+244,Série A,1976,1976-10-13,Portuguesa,4,0,Confiança,VC,3,0,245
+243,Série A,1976,1976-10-13,Santa Cruz,2,2,Atlético-MG,E,1,1,244
+242,Série A,1976,1976-10-13,Bahia,1,0,Atlético-PR,VC,3,0,243
+241,Série A,1976,1976-10-13,CRB,1,1,Fluminense-BA,E,1,1,242
+240,Série A,1976,1976-10-13,Ponte Preta,5,0,Nacional-AM,VC,3,0,241
+239,Série A,1976,1976-10-13,Desportiva Capixaba,0,0,Caxias,E,1,1,240
+238,Série A,1976,1976-10-13,América-MG,1,3,Mixto-MT,VV,0,3,239
+237,Série A,1976,1976-10-13,Londrina,1,2,Uberaba,VV,0,3,238
+245,Série A,1976,1976-10-13,America-RJ,3,0,Vitória,VC,3,0,246
+259,Série A,1976,1976-10-14,Flamengo,0,2,Palmeiras,VV,0,3,260
+258,Série A,1976,1976-10-14,Náutico,0,0,Volta Redonda,E,1,1,259
+260,Série A,1976,1976-10-14,Paysandu,2,0,Rio Negro-AM,VC,3,0,261
+256,Série A,1976,1976-10-14,Rio Branco-ES,0,0,Avaí,E,1,1,257
+255,Série A,1976,1976-10-14,São Paulo,0,1,Guarani,VV,0,3,256
+257,Série A,1976,1976-10-14,Vasco,2,2,Goiânia,E,1,1,258
+261,Série A,1976,1976-10-16,Fluminense,3,1,Fortaleza,VC,3,0,262
+262,Série A,1976,1976-10-16,Sport,0,2,Operário-MS,VV,0,3,263
+263,Série A,1976,1976-10-16,Corinthians,1,2,Botafogo,VV,0,3,264
+264,Série A,1976,1976-10-16,Santos,0,0,Bahia,E,1,1,265
+265,Série A,1976,1976-10-16,Cruzeiro,1,0,Uberaba,VC,3,0,266
+277,Série A,1976,1976-10-17,Flamengo,1,0,America-RJ,VC,3,0,278
+278,Série A,1976,1976-10-17,São Paulo,1,2,Palmeiras,VV,0,3,279
+279,Série A,1976,1976-10-17,Vasco,3,1,Americano,VC,3,0,280
+283,Série A,1976,1976-10-17,Atlético-MG,5,0,Atlético-PR,VC,3,0,284
+281,Série A,1976,1976-10-17,Coritiba,1,1,Grêmio,E,1,1,282
+282,Série A,1976,1976-10-17,Santa Cruz,2,1,Remo,VC,3,0,283
+276,Série A,1976,1976-10-17,ABC,0,1,Volta Redonda,VV,0,3,277
+280,Série A,1976,1976-10-17,Goiânia,0,1,Mixto-MT,VV,0,3,281
+275,Série A,1976,1976-10-17,Flamengo-PI,2,0,Sampaio Corrêa,VC,3,0,276
+284,Série A,1976,1976-10-17,Treze,2,1,Botafogo-PB,VC,3,0,285
+273,Série A,1976,1976-10-17,Ceará,2,1,Ponte Preta,VC,3,0,274
+272,Série A,1976,1976-10-17,Rio Branco-ES,1,0,Desportiva Capixaba,VC,3,0,273
+271,Série A,1976,1976-10-17,Londrina,1,2,Confiança,VV,0,3,272
+270,Série A,1976,1976-10-17,Rio Negro-AM,1,0,Nacional-AM,VC,3,0,271
+269,Série A,1976,1976-10-17,Botafogo-SP,4,0,Goiás,VC,3,0,270
+268,Série A,1976,1976-10-17,Avaí,1,0,Figueirense,VC,3,0,269
+267,Série A,1976,1976-10-17,CRB,1,0,CSA,VC,3,0,268
+266,Série A,1976,1976-10-17,Internacional,2,0,América-RN,VC,3,0,267
+274,Série A,1976,1976-10-17,Vitória,0,4,Guarani,VV,0,3,275
+295,Série A,1976,1976-10-20,Botafogo-SP,1,1,Fluminense,E,1,1,296
+296,Série A,1976,1976-10-20,Figueirense,0,1,Rio Branco-ES,VV,0,3,297
+297,Série A,1976,1976-10-20,Corinthians,3,1,Operário-MS,VC,3,0,298
+301,Série A,1976,1976-10-20,Goiás,0,0,América-RN,E,1,1,302
+300,Série A,1976,1976-10-20,Santa Cruz,2,0,Santos,VC,3,0,301
+294,Série A,1976,1976-10-20,Atlético-PR,1,1,Remo,E,1,1,295
+298,Série A,1976,1976-10-20,Atlético-MG,2,1,Bahia,VC,3,0,299
+293,Série A,1976,1976-10-20,Vitória,2,4,São Paulo,VV,0,3,294
+299,Série A,1976,1976-10-20,Uberaba,1,0,Confiança,VC,3,0,300
+291,Série A,1976,1976-10-20,Flamengo,4,0,Guarani,VC,3,0,292
+290,Série A,1976,1976-10-20,Flamengo-PI,0,0,Náutico,E,1,1,291
+289,Série A,1976,1976-10-20,Rio Negro-AM,1,1,Ponte Preta,E,1,1,290
+288,Série A,1976,1976-10-20,Botafogo-PB,2,1,Fluminense-BA,VC,3,0,289
+287,Série A,1976,1976-10-20,CRB,2,0,Treze,VC,3,0,288
+286,Série A,1976,1976-10-20,Paysandu,1,0,Ceará,VC,3,0,287
+285,Série A,1976,1976-10-20,Sampaio Corrêa,3,1,Volta Redonda,VC,3,0,286
+292,Série A,1976,1976-10-20,Internacional,2,0,Fortaleza,VC,3,0,293
+307,Série A,1976,1976-10-21,Portuguesa,1,1,Cruzeiro,E,1,1,308
+306,Série A,1976,1976-10-21,Americano,5,0,Goiânia,VC,3,0,307
+305,Série A,1976,1976-10-21,Grêmio,1,0,Sport,VC,3,0,306
+308,Série A,1976,1976-10-21,Palmeiras,0,0,America-RJ,E,1,1,309
+303,Série A,1976,1976-10-21,América-MG,2,3,Vasco,VV,0,3,304
+302,Série A,1976,1976-10-21,Avaí,0,0,Caxias,E,1,1,303
+304,Série A,1976,1976-10-21,Botafogo,0,2,Coritiba,VV,0,3,305
+309,Série A,1976,1976-10-23,Fluminense,1,1,Goiás,E,1,1,310
+310,Série A,1976,1976-10-23,Nacional-AM,2,2,Paysandu,E,1,1,311
+311,Série A,1976,1976-10-23,Ceará,0,0,Rio Negro-AM,E,1,1,312
+312,Série A,1976,1976-10-23,Náutico,4,0,Sampaio Corrêa,VC,3,0,313
+313,Série A,1976,1976-10-23,ABC,5,1,Flamengo-PI,VC,3,0,314
+325,Série A,1976,1976-10-24,Atlético-MG,1,1,Santos,E,1,1,326
+332,Série A,1976,1976-10-24,Avaí,1,0,Desportiva Capixaba,VC,3,0,333
+327,Série A,1976,1976-10-24,Londrina,1,3,Portuguesa,VV,0,3,328
+331,Série A,1976,1976-10-24,Botafogo,0,1,Grêmio,VV,0,3,332
+329,Série A,1976,1976-10-24,São Paulo,1,2,Flamengo,VV,0,3,330
+330,Série A,1976,1976-10-24,Caxias,5,1,Figueirense,VC,3,0,331
+324,Série A,1976,1976-10-24,Atlético-PR,1,0,Santa Cruz,VC,3,0,325
+328,Série A,1976,1976-10-24,Palmeiras,2,0,Vitória,VC,3,0,329
+323,Série A,1976,1976-10-24,Bahia,3,1,Remo,VC,3,0,324
+326,Série A,1976,1976-10-24,Guarani,6,1,America-RJ,VC,3,0,327
+321,Série A,1976,1976-10-24,Vasco,1,0,Mixto-MT,VC,3,0,322
+320,Série A,1976,1976-10-24,Operário-MS,0,1,Coritiba,VV,0,3,321
+319,Série A,1976,1976-10-24,Confiança,0,3,Cruzeiro,VV,0,3,320
+318,Série A,1976,1976-10-24,Sport,0,1,Corinthians,VV,0,3,319
+317,Série A,1976,1976-10-24,CSA,1,1,Fluminense-BA,E,1,1,318
+316,Série A,1976,1976-10-24,Internacional,3,0,Botafogo-SP,VC,3,0,317
+315,Série A,1976,1976-10-24,Fortaleza,2,1,América-RN,VC,3,0,316
+314,Série A,1976,1976-10-24,Botafogo-PB,2,2,CRB,E,1,1,315
+322,Série A,1976,1976-10-24,Americano,0,1,América-MG,VV,0,3,323
+333,Série A,1976,1976-10-27,Remo,1,1,Atlético-MG,E,1,1,334
+334,Série A,1976,1976-10-27,Cruzeiro,1,0,Londrina,VC,3,0,335
+335,Série A,1976,1976-10-30,Coritiba,1,0,Internacional,VC,3,0,336
+336,Série A,1976,1976-10-30,Vasco,1,0,CRB,VC,3,0,337
+337,Série A,1976,1976-10-30,Ponte Preta,1,0,Botafogo-SP,VC,3,0,338
+338,Série A,1976,1976-10-30,Bahia,1,1,Náutico,E,1,1,339
+341,Série A,1976,1976-10-31,Flamengo,2,1,Atlético-MG,VC,3,0,342
+342,Série A,1976,1976-10-31,Grêmio,1,2,Fluminense,VV,0,3,343
+339,Série A,1976,1976-10-31,Corinthians,0,0,Portuguesa,E,1,1,340
+340,Série A,1976,1976-10-31,Santa Cruz,3,3,Palmeiras,E,1,1,341
+343,Série A,1976,1976-11-03,Náutico,1,1,Vasco,E,1,1,344
+344,Série A,1976,1976-11-03,Fluminense,1,0,CRB,VC,3,0,345
+345,Série A,1976,1976-11-03,Guarani,1,1,Flamengo,E,1,1,346
+346,Série A,1976,1976-11-03,Bahia,0,2,Atlético-MG,VV,0,3,347
+347,Série A,1976,1976-11-03,Caxias,1,2,Santa Cruz,VV,0,3,348
+348,Série A,1976,1976-11-03,Palmeiras,2,1,Portuguesa,VC,3,0,349
+349,Série A,1976,1976-11-03,Coritiba,1,0,Corinthians,VC,3,0,350
+350,Série A,1976,1976-11-03,Botafogo-SP,1,4,Internacional,VV,0,3,351
+351,Série A,1976,1976-11-06,Vasco,0,1,Bahia,VV,0,3,352
+352,Série A,1976,1976-11-07,Atlético-MG,4,1,CRB,VC,3,0,353
+353,Série A,1976,1976-11-07,Internacional,5,1,Santa Cruz,VC,3,0,354
+354,Série A,1976,1976-11-07,Botafogo-SP,1,0,Caxias,VC,3,0,355
+355,Série A,1976,1976-11-07,Grêmio,1,1,Guarani,E,1,1,356
+356,Série A,1976,1976-11-07,Fluminense,1,0,Flamengo,VC,3,0,357
+357,Série A,1976,1976-11-07,Ponte Preta,1,0,Coritiba,VC,3,0,358
+358,Série A,1976,1976-11-07,Palmeiras,0,0,Corinthians,E,1,1,359
+364,Série A,1976,1976-11-10,Internacional,2,0,Caxias,VC,3,0,365
+363,Série A,1976,1976-11-10,Portuguesa,0,1,Ponte Preta,VV,0,3,364
+362,Série A,1976,1976-11-10,Bahia,2,1,Grêmio,VC,3,0,363
+365,Série A,1976,1976-11-10,Atlético-MG,2,0,Náutico,VC,3,0,366
+360,Série A,1976,1976-11-10,Santa Cruz,2,4,Coritiba,VV,0,3,361
+359,Série A,1976,1976-11-10,Fluminense,4,2,Guarani,VC,3,0,360
+361,Série A,1976,1976-11-10,CRB,0,2,Flamengo,VV,0,3,362
+366,Série A,1976,1976-11-11,Corinthians,2,1,Botafogo-SP,VC,3,0,367
+373,Série A,1976,1976-11-14,Botafogo-SP,3,0,Portuguesa,VC,3,0,374
+372,Série A,1976,1976-11-14,Caxias,1,4,Corinthians,VV,0,3,373
+371,Série A,1976,1976-11-14,Palmeiras,1,2,Internacional,VV,0,3,372
+374,Série A,1976,1976-11-14,Ponte Preta,2,0,Santa Cruz,VC,3,0,375
+369,Série A,1976,1976-11-14,Náutico,0,3,Grêmio,VV,0,3,370
+368,Série A,1976,1976-11-14,Bahia,2,2,Flamengo,E,1,1,369
+367,Série A,1976,1976-11-14,CRB,2,0,Guarani,VC,3,0,368
+370,Série A,1976,1976-11-14,Fluminense,3,0,Vasco,VC,3,0,371
+375,Série A,1976,1976-11-17,Botafogo-SP,0,3,Palmeiras,VV,0,3,376
+376,Série A,1976,1976-11-17,Caxias,3,0,Coritiba,VC,3,0,377
+377,Série A,1976,1976-11-17,Portuguesa,2,2,Santa Cruz,E,1,1,378
+378,Série A,1976,1976-11-17,Guarani,1,0,Atlético-MG,VC,3,0,379
+379,Série A,1976,1976-11-17,CRB,2,2,Bahia,E,1,1,380
+380,Série A,1976,1976-11-17,Náutico,3,1,Fluminense,VC,3,0,381
+381,Série A,1976,1976-11-17,Grêmio,1,3,Vasco,VV,0,3,382
+382,Série A,1976,1976-11-18,Corinthians,2,0,Ponte Preta,VC,3,0,383
+383,Série A,1976,1976-11-20,Portuguesa,3,4,Caxias,VV,0,3,384
+389,Série A,1976,1976-11-21,Vasco,1,0,Flamengo,VC,3,0,390
+390,Série A,1976,1976-11-21,Ponte Preta,2,1,Palmeiras,VC,3,0,391
+388,Série A,1976,1976-11-21,Grêmio,2,1,CRB,VC,3,0,389
+384,Série A,1976,1976-11-21,Corinthians,2,1,Internacional,VC,3,0,385
+386,Série A,1976,1976-11-21,Náutico,0,1,Guarani,VV,0,3,387
+385,Série A,1976,1976-11-21,Coritiba,0,1,Botafogo-SP,VV,0,3,386
+387,Série A,1976,1976-11-21,Atlético-MG,0,0,Fluminense,E,1,1,388
+396,Série A,1976,1976-11-24,Coritiba,2,1,Portuguesa,VC,3,0,397
+395,Série A,1976,1976-11-24,Internacional,2,0,Ponte Preta,VC,3,0,396
+394,Série A,1976,1976-11-24,Santa Cruz,3,1,Botafogo-SP,VC,3,0,395
+397,Série A,1976,1976-11-24,Guarani,3,0,Bahia,VC,3,0,398
+392,Série A,1976,1976-11-24,Palmeiras,0,0,Caxias,E,1,1,393
+391,Série A,1976,1976-11-24,CRB,1,3,Náutico,VV,0,3,392
+393,Série A,1976,1976-11-24,Flamengo,5,1,Grêmio,VC,3,0,394
+398,Série A,1976,1976-11-25,Vasco,0,4,Atlético-MG,VV,0,3,399
+399,Série A,1976,1976-11-27,Flamengo,2,0,Náutico,VC,3,0,400
+400,Série A,1976,1976-11-27,Palmeiras,0,0,Coritiba,E,1,1,401
+405,Série A,1976,1976-11-28,Fluminense,1,0,Bahia,VC,3,0,406
+401,Série A,1976,1976-11-28,Santa Cruz,1,2,Corinthians,VV,0,3,402
+402,Série A,1976,1976-11-28,Caxias,1,0,Ponte Preta,VC,3,0,403
+403,Série A,1976,1976-11-28,Internacional,3,0,Portuguesa,VC,3,0,404
+404,Série A,1976,1976-11-28,Guarani,2,3,Vasco,VV,0,3,405
+406,Série A,1976,1976-11-28,Atlético-MG,0,0,Grêmio,E,1,1,407
+408,Série A,1976,1976-12-05,Internacional,2,1,Atlético-MG,VC,3,0,409
+407,Série A,1976,1976-12-05,Fluminense,1,1,Corinthians,E,1,1,408
+409,Série A,1976,1976-12-12,Internacional,2,0,Corinthians,VC,3,0,410

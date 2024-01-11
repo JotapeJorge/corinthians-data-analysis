@@ -1,44 +1,51 @@
-# Back-End-Elo
+# Corinthians Data Analysis
 
-Welcome to this ootball Data Repository! This repository contains football-related data, web scraping code, data analysis, and ranking creation scripts using Python. Whether you're a sports enthusiast, a data scientist, or a developer looking to explore football statistics, this repository provides you with the tools and resources you need.
+This Jupyter directory contains Python scripts for analyzing and comparing Corinthians's football results from 1955 to 1976 and from 2018 to 2023. The analysis utilizes Matplotlib for data visualization.
 
 ## Table of Contents
 
-- [About](#about)
-- [Data](#data)
-- [Web Scraping](#web-scraping)
-- [Ranking Creation](#ranking-creation)
-- [Jupyter Notebook](#jupyter-notebook)
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Usage](#usage)
+- [File Structure](#file-structure)
+- [Dependencies](#dependencies)
+- [Specific Hypothesis](#specific-hypothesis)
+- [Conclusion](#conclusion)
 - [License](#license)
 
-## About
+## Introduction
 
-This repository is dedicated to collecting, organizing, and analyzing football data from various sources. It includes Python scripts for web scraping data, creating rankings based on the collected data, and a Jupyter Notebook for data exploration and visualization.
+This project aims to analyze Corinthians results through Python scripts leveraging the Matplotlib library. The analysis is tailored to investigate the period popularly called "A Fila," where Corinthians spent 23 years without winning a Championship, and compare these results with the last six years of the club's performance.
 
-## Data
+## Prerequisites
 
-The data in this repository is focused on football statistics and includes various metrics such as player performance, team statistics, match results, and more. The data is stored in the `data/` directory and is available in various formats (e.g., CSV, JSON) for easy access and analysis.
+To run the scripts in this directory, you need the following:
+
+- Python 3.x
+- Jupyter Notebook
+- Matplotlib
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/jotapejorge/corinthians-data-analysis.git
+   
+2.Navigate to the project directory:
+```bash
+cd corinthians-data-analysis
+## Usage
+
+1.Open Jupyter Notebook:
+2.Navigate to the analysis.ipynb file.
+3.Run the cells to execute the analysis and generate visualizations.
+
 
 ## Web Scraping
 
-The `web_scraping/` directory contains Python scripts used to gather football data from relevant websites. The scripts are designed to fetch data in a structured manner and ensure accurate and up-to-date information.
-
-## Ranking Creation
-
-In the `ranking_creation/` directory, you'll find Python scripts that take the collected football data and generate rankings based on specified criteria. These scripts provide insights into team or player performance and allow for customized ranking methodologies.
-
-## Jupyter Notebook
-
-The `Elo_data.ipynb` Jupyter Notebook provides an interactive environment for exploring and visualizing the football data. You can use this notebook to gain insights, create visualizations, and perform in-depth analyses.
-
-## Usage
-
-1. Clone the repository to your local machine using `git clone https://github.com/JotapeJorge/Brazilian-Football-Data.git`.
-2. Explore the `data/` directory to access the football datasets.
-3. Review the `web_scraping/` directory for the Python scripts used to gather data from the web.
-4. Check out the `ranking_creation/` directory to find scripts for generating rankings.
-5. Open and run the `Elo_data.ipynb` Jupyter Notebook to interact with and analyze the data.
+The `web_scraping/` directory contains Python scripts used to gather football data from relevant websites, namely www.rsssfbrasil.com. The scripts are designed to fetch data in a structured manner and ensure accurate and up-to-date information.
 
 
 ## License

@@ -1,0 +1,544 @@
+,Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+0,Robertão,1967,1967-03-05,Fluminense,2,4,Palmeiras,VV,0,3,1
+1,Robertão,1967,1967-03-05,Cruzeiro,4,0,Atlético-MG,VC,3,0,2
+2,Robertão,1967,1967-03-05,Portuguesa,1,2,Flamengo,VV,0,3,3
+3,Robertão,1967,1967-03-05,Ferroviário-CE,1,1,Bangu,E,1,1,4
+4,Robertão,1967,1967-03-05,Internacional,2,0,Grêmio,VC,3,0,5
+5,Robertão,1967,1967-03-08,Bangu,2,0,Vasco,VC,3,0,6
+6,Robertão,1967,1967-03-08,Atlético-MG,0,1,Santos,VV,0,3,7
+7,Robertão,1967,1967-03-08,Internacional,1,1,Flamengo,E,1,1,8
+8,Robertão,1967,1967-03-09,Palmeiras,2,1,Corinthians,VC,3,0,9
+9,Robertão,1967,1967-03-11,Botafogo,4,4,Atlético-MG,E,1,1,10
+10,Robertão,1967,1967-03-11,Portuguesa,2,1,Internacional,VC,3,0,11
+14,Robertão,1967,1967-03-12,Bangu,2,1,São Paulo,VC,3,0,15
+13,Robertão,1967,1967-03-12,Cruzeiro,3,1,Fluminense,VC,3,0,14
+15,Robertão,1967,1967-03-12,Palmeiras,5,0,Vasco,VC,3,0,16
+11,Robertão,1967,1967-03-12,Grêmio,1,1,Santos,E,1,1,12
+12,Robertão,1967,1967-03-12,Ferroviário-CE,1,2,Corinthians,VV,0,3,13
+16,Robertão,1967,1967-03-15,Flamengo,2,0,Cruzeiro,VC,3,0,17
+17,Robertão,1967,1967-03-15,Santos,5,1,Internacional,VC,3,0,18
+18,Robertão,1967,1967-03-18,Vasco,3,3,Portuguesa,E,1,1,19
+24,Robertão,1967,1967-03-19,Ferroviário-CE,0,1,Internacional,VV,0,3,25
+23,Robertão,1967,1967-03-19,Corinthians,3,3,Fluminense,E,1,1,24
+22,Robertão,1967,1967-03-19,Atlético-MG,0,1,Bangu,VV,0,3,23
+20,Robertão,1967,1967-03-19,São Paulo,1,1,Botafogo,E,1,1,21
+19,Robertão,1967,1967-03-19,Grêmio,2,0,Palmeiras,VC,3,0,20
+21,Robertão,1967,1967-03-19,Flamengo,0,1,Santos,VV,0,3,22
+25,Robertão,1967,1967-03-22,Santos,0,0,Botafogo,E,1,1,26
+26,Robertão,1967,1967-03-22,Internacional,1,0,São Paulo,VC,3,0,27
+27,Robertão,1967,1967-03-22,Vasco,1,1,Cruzeiro,E,1,1,28
+28,Robertão,1967,1967-03-25,Bangu,4,3,Flamengo,VC,3,0,29
+32,Robertão,1967,1967-03-26,Ferroviário-CE,2,4,Palmeiras,VV,0,3,33
+31,Robertão,1967,1967-03-26,São Paulo,1,2,Fluminense,VV,0,3,32
+33,Robertão,1967,1967-03-26,Grêmio,0,0,Botafogo,E,1,1,34
+29,Robertão,1967,1967-03-26,Vasco,2,1,Santos,VC,3,0,30
+30,Robertão,1967,1967-03-26,Cruzeiro,2,1,Portuguesa,VC,3,0,31
+34,Robertão,1967,1967-03-29,Flamengo,1,2,Grêmio,VV,0,3,35
+35,Robertão,1967,1967-03-29,Atlético-MG,4,2,Palmeiras,VC,3,0,36
+36,Robertão,1967,1967-03-29,Corinthians,4,2,Cruzeiro,VC,3,0,37
+37,Robertão,1967,1967-03-29,Internacional,0,1,Botafogo,VV,0,3,38
+38,Robertão,1967,1967-04-01,Santos,1,1,São Paulo,E,1,1,39
+39,Robertão,1967,1967-04-01,Vasco,2,2,Fluminense,E,1,1,40
+40,Robertão,1967,1967-04-02,Internacional,2,2,Corinthians,E,1,1,41
+41,Robertão,1967,1967-04-02,Ferroviário-CE,2,3,Portuguesa,VV,0,3,42
+42,Robertão,1967,1967-04-02,Atlético-MG,3,1,Flamengo,VC,3,0,43
+43,Robertão,1967,1967-04-02,Bangu,1,1,Grêmio,E,1,1,44
+44,Robertão,1967,1967-04-02,Palmeiras,3,2,Cruzeiro,VC,3,0,45
+45,Robertão,1967,1967-04-05,Fluminense,0,2,Atlético-MG,VV,0,3,46
+46,Robertão,1967,1967-04-05,Palmeiras,1,1,Portuguesa,E,1,1,47
+47,Robertão,1967,1967-04-05,Grêmio,1,2,Corinthians,VV,0,3,48
+49,Robertão,1967,1967-04-08,Palmeiras,2,1,Santos,VC,3,0,50
+48,Robertão,1967,1967-04-08,Bangu,0,0,Botafogo,E,1,1,49
+50,Robertão,1967,1967-04-09,Ferroviário-CE,1,2,Fluminense,VV,0,3,51
+51,Robertão,1967,1967-04-09,Corinthians,2,0,Vasco,VC,3,0,52
+52,Robertão,1967,1967-04-09,Internacional,2,1,Cruzeiro,VC,3,0,53
+53,Robertão,1967,1967-04-09,Flamengo,2,2,São Paulo,E,1,1,54
+54,Robertão,1967,1967-04-09,Atlético-MG,1,1,Grêmio,E,1,1,55
+57,Robertão,1967,1967-04-12,Flamengo,4,2,Botafogo,VC,3,0,58
+55,Robertão,1967,1967-04-12,Corinthians,2,1,Portuguesa,VC,3,0,56
+56,Robertão,1967,1967-04-12,Internacional,2,2,Palmeiras,E,1,1,57
+58,Robertão,1967,1967-04-12,Cruzeiro,3,0,Bangu,VC,3,0,59
+59,Robertão,1967,1967-04-15,Fluminense,4,3,Botafogo,VC,3,0,60
+60,Robertão,1967,1967-04-15,Santos,2,2,Portuguesa,E,1,1,61
+64,Robertão,1967,1967-04-16,Ferroviário-CE,0,1,Vasco,VV,0,3,65
+63,Robertão,1967,1967-04-16,Palmeiras,3,3,Flamengo,E,1,1,64
+65,Robertão,1967,1967-04-16,Grêmio,1,1,São Paulo,E,1,1,66
+61,Robertão,1967,1967-04-16,Bangu,1,4,Corinthians,VV,0,3,62
+62,Robertão,1967,1967-04-16,Atlético-MG,0,0,Internacional,E,1,1,63
+67,Robertão,1967,1967-04-19,São Paulo,4,0,Ferroviário-CE,VC,3,0,68
+68,Robertão,1967,1967-04-19,Internacional,3,0,Fluminense,VC,3,0,69
+66,Robertão,1967,1967-04-19,Cruzeiro,3,1,Santos,VC,3,0,67
+69,Robertão,1967,1967-04-22,Vasco,0,0,Flamengo,E,1,1,70
+70,Robertão,1967,1967-04-22,Corinthians,1,0,São Paulo,VC,3,0,71
+71,Robertão,1967,1967-04-23,Grêmio,3,1,Fluminense,VC,3,0,72
+72,Robertão,1967,1967-04-23,Ferroviário-CE,0,0,Cruzeiro,E,1,1,73
+73,Robertão,1967,1967-04-23,Atlético-MG,1,3,Portuguesa,VV,0,3,74
+74,Robertão,1967,1967-04-23,Botafogo,0,0,Palmeiras,E,1,1,75
+75,Robertão,1967,1967-04-23,Santos,3,0,Bangu,VC,3,0,76
+76,Robertão,1967,1967-04-26,Vasco,1,0,Botafogo,VC,3,0,77
+77,Robertão,1967,1967-04-26,Atlético-MG,0,0,Corinthians,E,1,1,78
+78,Robertão,1967,1967-04-26,Portuguesa,1,1,São Paulo,E,1,1,79
+79,Robertão,1967,1967-04-26,Internacional,2,2,Bangu,E,1,1,80
+80,Robertão,1967,1967-04-29,Botafogo,0,2,Corinthians,VV,0,3,81
+84,Robertão,1967,1967-04-30,Ferroviário-CE,1,1,Flamengo,E,1,1,85
+83,Robertão,1967,1967-04-30,Portuguesa,1,0,Bangu,VC,3,0,84
+85,Robertão,1967,1967-04-30,Grêmio,4,0,Vasco,VC,3,0,86
+81,Robertão,1967,1967-04-30,Fluminense,3,0,Santos,VC,3,0,82
+82,Robertão,1967,1967-04-30,Cruzeiro,0,2,São Paulo,VV,0,3,83
+86,Robertão,1967,1967-05-03,Internacional,0,0,Vasco,E,1,1,87
+87,Robertão,1967,1967-05-03,Santos,3,0,Ferroviário-CE,VC,3,0,88
+88,Robertão,1967,1967-05-03,Fluminense,0,1,Portuguesa,VV,0,3,89
+89,Robertão,1967,1967-05-03,Atlético-MG,0,3,São Paulo,VV,0,3,90
+90,Robertão,1967,1967-05-06,Flamengo,2,3,Corinthians,VV,0,3,91
+91,Robertão,1967,1967-05-06,Palmeiras,1,1,São Paulo,E,1,1,92
+95,Robertão,1967,1967-05-07,Grêmio,1,0,Cruzeiro,VC,3,0,96
+94,Robertão,1967,1967-05-07,Ferroviário-CE,0,0,Botafogo,E,1,1,95
+93,Robertão,1967,1967-05-07,Atlético-MG,1,0,Vasco,VC,3,0,94
+92,Robertão,1967,1967-05-07,Bangu,2,0,Fluminense,VC,3,0,93
+96,Robertão,1967,1967-05-10,Portuguesa,3,0,Botafogo,VC,3,0,97
+97,Robertão,1967,1967-05-10,Grêmio,2,0,Ferroviário-CE,VC,3,0,98
+98,Robertão,1967,1967-05-13,Flamengo,1,1,Fluminense,E,1,1,99
+99,Robertão,1967,1967-05-13,Corinthians,1,1,Santos,E,1,1,100
+103,Robertão,1967,1967-05-14,Cruzeiro,2,1,Botafogo,VC,3,0,104
+104,Robertão,1967,1967-05-14,Bangu,0,2,Palmeiras,VV,0,3,105
+102,Robertão,1967,1967-05-14,Grêmio,1,1,Portuguesa,E,1,1,103
+101,Robertão,1967,1967-05-14,São Paulo,0,0,Vasco,E,1,1,102
+100,Robertão,1967,1967-05-14,Ferroviário-CE,1,2,Atlético-MG,VV,0,3,101
+105,Robertão,1967,1967-05-20,Corinthians,2,1,Grêmio,VC,3,0,106
+106,Robertão,1967,1967-05-21,Internacional,1,2,Palmeiras,VV,0,3,107
+107,Robertão,1967,1967-05-24,Corinthians,2,2,Palmeiras,E,1,1,108
+108,Robertão,1967,1967-05-24,Grêmio,1,1,Internacional,E,1,1,109
+109,Robertão,1967,1967-05-28,Corinthians,0,1,Internacional,VV,0,3,110
+110,Robertão,1967,1967-05-28,Grêmio,1,1,Palmeiras,E,1,1,111
+111,Robertão,1967,1967-06-01,Palmeiras,0,0,Internacional,E,1,1,112
+112,Robertão,1967,1967-06-01,Grêmio,0,1,Corinthians,VV,0,3,113
+113,Robertão,1967,1967-06-04,Palmeiras,1,0,Corinthians,VC,3,0,114
+114,Robertão,1967,1967-06-04,Internacional,0,0,Grêmio,E,1,1,115
+115,Robertão,1967,1967-06-07,Internacional,3,0,Corinthians,VC,3,0,116
+116,Robertão,1967,1967-06-08,Palmeiras,2,1,Grêmio,VC,3,0,117
+0,Robertão,1968,1968-08-24,Portuguesa,1,0,São Paulo,VC,3,0,1
+1,Robertão,1968,1968-08-28,Palmeiras,1,0,Náutico,VC,3,0,2
+4,Robertão,1968,1968-09-01,Athletico-PR,1,1,São Paulo,E,1,1,5
+2,Robertão,1968,1968-09-01,Náutico,0,1,Corinthians,VV,0,3,3
+3,Robertão,1968,1968-09-01,Palmeiras,1,1,Grêmio,E,1,1,4
+5,Robertão,1968,1968-09-04,Internacional,1,1,Palmeiras,E,1,1,6
+6,Robertão,1968,1968-09-07,Internacional,1,1,Náutico,E,1,1,7
+7,Robertão,1968,1968-09-08,Corinthians,2,1,São Paulo,VC,3,0,8
+8,Robertão,1968,1968-09-08,Athletico-PR,3,2,Santos,VC,3,0,9
+9,Robertão,1968,1968-09-08,Grêmio,3,0,Portuguesa,VC,3,0,10
+10,Robertão,1968,1968-09-11,Corinthians,3,1,Portuguesa,VC,3,0,11
+11,Robertão,1968,1968-09-11,Grêmio,0,0,Náutico,E,1,1,12
+12,Robertão,1968,1968-09-14,Fluminense,2,1,Botafogo,VC,3,0,13
+13,Robertão,1968,1968-09-14,São Paulo,0,1,Internacional,VV,0,3,14
+14,Robertão,1968,1968-09-14,Atlético-MG,1,0,Bahia,VC,3,0,15
+16,Robertão,1968,1968-09-15,Cruzeiro,3,0,Náutico,VC,3,0,17
+15,Robertão,1968,1968-09-15,Portuguesa,0,2,Vasco,VV,0,3,16
+17,Robertão,1968,1968-09-15,Flamengo,0,2,Santos,VV,0,3,18
+22,Robertão,1968,1968-09-18,Internacional,2,1,Vasco,VC,3,0,23
+21,Robertão,1968,1968-09-18,Athletico-PR,3,1,Fluminense,VC,3,0,22
+19,Robertão,1968,1968-09-18,Atlético-MG,2,1,Náutico,VC,3,0,20
+20,Robertão,1968,1968-09-18,Santos,0,0,Palmeiras,E,1,1,21
+18,Robertão,1968,1968-09-18,Bangu,3,1,Portuguesa,VC,3,0,19
+23,Robertão,1968,1968-09-19,Corinthians,1,0,Bahia,VC,3,0,24
+24,Robertão,1968,1968-09-21,Santos,2,1,Fluminense,VC,3,0,25
+28,Robertão,1968,1968-09-22,Cruzeiro,1,0,Bahia,VC,3,0,29
+27,Robertão,1968,1968-09-22,Vasco,2,0,Atlético-MG,VC,3,0,28
+29,Robertão,1968,1968-09-22,Portuguesa,3,3,Internacional,E,1,1,30
+25,Robertão,1968,1968-09-22,Grêmio,1,1,São Paulo,E,1,1,26
+26,Robertão,1968,1968-09-22,Athletico-PR,0,1,Botafogo,VV,0,3,27
+30,Robertão,1968,1968-09-25,Santos,1,1,Bangu,E,1,1,31
+31,Robertão,1968,1968-09-25,Flamengo,1,0,Cruzeiro,VC,3,0,32
+32,Robertão,1968,1968-09-25,Atlético-MG,1,2,São Paulo,VV,0,3,33
+33,Robertão,1968,1968-09-25,Internacional,1,1,Bahia,E,1,1,34
+34,Robertão,1968,1968-09-26,Palmeiras,2,0,Fluminense,VC,3,0,35
+35,Robertão,1968,1968-09-26,Botafogo,4,2,Náutico,VC,3,0,36
+36,Robertão,1968,1968-09-28,Flamengo,1,1,Bangu,E,1,1,37
+41,Robertão,1968,1968-09-29,Grêmio,2,1,Bahia,VC,3,0,42
+40,Robertão,1968,1968-09-29,Athletico-PR,3,1,Internacional,VC,3,0,41
+38,Robertão,1968,1968-09-29,Atlético-MG,0,0,Fluminense,E,1,1,39
+37,Robertão,1968,1968-09-29,Vasco,3,2,Santos,VC,3,0,38
+39,Robertão,1968,1968-09-29,Corinthians,3,0,Botafogo,VC,3,0,40
+42,Robertão,1968,1968-10-02,Bahia,0,2,Palmeiras,VV,0,3,43
+43,Robertão,1968,1968-10-02,Fluminense,1,2,Cruzeiro,VV,0,3,44
+44,Robertão,1968,1968-10-02,São Paulo,0,0,Bangu,E,1,1,45
+45,Robertão,1968,1968-10-03,Flamengo,3,3,Portuguesa,E,1,1,46
+46,Robertão,1968,1968-10-03,Corinthians,2,1,Atlético-MG,VC,3,0,47
+47,Robertão,1968,1968-10-05,Vasco,2,1,Botafogo,VC,3,0,48
+48,Robertão,1968,1968-10-06,Grêmio,0,0,Bangu,E,1,1,49
+49,Robertão,1968,1968-10-06,Atlético-MG,0,1,Internacional,VV,0,3,50
+50,Robertão,1968,1968-10-06,Santos,2,1,Corinthians,VC,3,0,51
+51,Robertão,1968,1968-10-06,Bahia,0,1,Portuguesa,VV,0,3,52
+52,Robertão,1968,1968-10-06,Flamengo,0,2,Palmeiras,VV,0,3,53
+57,Robertão,1968,1968-10-09,Vasco,0,2,Grêmio,VV,0,3,58
+58,Robertão,1968,1968-10-09,Cruzeiro,3,1,Corinthians,VC,3,0,59
+56,Robertão,1968,1968-10-09,Náutico,1,1,Portuguesa,E,1,1,57
+54,Robertão,1968,1968-10-09,Athletico-PR,2,3,Atlético-MG,VV,0,3,55
+53,Robertão,1968,1968-10-09,Internacional,0,0,Bangu,E,1,1,54
+55,Robertão,1968,1968-10-09,São Paulo,2,2,Flamengo,E,1,1,56
+59,Robertão,1968,1968-10-10,Santos,9,2,Bahia,VC,3,0,60
+60,Robertão,1968,1968-10-12,Palmeiras,1,1,São Paulo,E,1,1,61
+61,Robertão,1968,1968-10-12,Botafogo,0,1,Grêmio,VV,0,3,62
+62,Robertão,1968,1968-10-13,Náutico,2,0,Bangu,VC,3,0,63
+63,Robertão,1968,1968-10-13,Fluminense,1,0,Flamengo,VC,3,0,64
+64,Robertão,1968,1968-10-13,Santos,2,0,Cruzeiro,VC,3,0,65
+65,Robertão,1968,1968-10-13,Internacional,0,1,Corinthians,VV,0,3,66
+66,Robertão,1968,1968-10-16,Atlético-MG,0,0,Flamengo,E,1,1,67
+67,Robertão,1968,1968-10-16,Botafogo,0,0,Palmeiras,E,1,1,68
+68,Robertão,1968,1968-10-16,Santos,2,0,Portuguesa,VC,3,0,69
+69,Robertão,1968,1968-10-16,Náutico,1,3,Vasco,VV,0,3,70
+70,Robertão,1968,1968-10-16,Bahia,0,1,Bangu,VV,0,3,71
+72,Robertão,1968,1968-10-17,Fluminense,5,2,São Paulo,VC,3,0,73
+73,Robertão,1968,1968-10-17,Cruzeiro,4,1,Athletico-PR,VC,3,0,74
+71,Robertão,1968,1968-10-17,Corinthians,2,1,Grêmio,VC,3,0,72
+74,Robertão,1968,1968-10-19,Botafogo,0,0,Flamengo,E,1,1,75
+75,Robertão,1968,1968-10-20,Náutico,0,1,Fluminense,VV,0,3,76
+76,Robertão,1968,1968-10-20,Vasco,1,3,Palmeiras,VV,0,3,77
+77,Robertão,1968,1968-10-20,Cruzeiro,1,1,Bangu,E,1,1,78
+78,Robertão,1968,1968-10-20,Santos,0,0,São Paulo,E,1,1,79
+79,Robertão,1968,1968-10-20,Athletico-PR,4,0,Corinthians,VC,3,0,80
+80,Robertão,1968,1968-10-20,Grêmio,0,0,Atlético-MG,E,1,1,81
+81,Robertão,1968,1968-10-23,Internacional,1,3,Santos,VV,0,3,82
+82,Robertão,1968,1968-10-23,Athletico-PR,2,3,Vasco,VV,0,3,83
+83,Robertão,1968,1968-10-23,Palmeiras,1,1,Cruzeiro,E,1,1,84
+84,Robertão,1968,1968-10-23,Bangu,1,3,Corinthians,VV,0,3,85
+85,Robertão,1968,1968-10-23,Bahia,1,3,Fluminense,VV,0,3,86
+86,Robertão,1968,1968-10-23,Atlético-MG,1,1,Botafogo,E,1,1,87
+87,Robertão,1968,1968-10-24,Flamengo,0,1,Grêmio,VV,0,3,88
+89,Robertão,1968,1968-10-26,Palmeiras,3,1,Bangu,VC,3,0,90
+88,Robertão,1968,1968-10-26,Fluminense,0,2,Portuguesa,VV,0,3,89
+90,Robertão,1968,1968-10-27,Corinthians,0,1,Flamengo,VV,0,3,91
+91,Robertão,1968,1968-10-27,Grêmio,1,1,Athletico-PR,E,1,1,92
+92,Robertão,1968,1968-10-27,Atlético-MG,1,0,Cruzeiro,VC,3,0,93
+93,Robertão,1968,1968-10-27,Náutico,0,3,Santos,VV,0,3,94
+94,Robertão,1968,1968-10-27,Bahia,1,0,Botafogo,VC,3,0,95
+95,Robertão,1968,1968-10-27,Vasco,3,2,São Paulo,VC,3,0,96
+96,Robertão,1968,1968-11-14,Náutico,1,2,Athletico-PR,VV,0,3,97
+97,Robertão,1968,1968-11-15,Cruzeiro,1,1,Botafogo,E,1,1,98
+99,Robertão,1968,1968-11-16,Atlético-MG,1,0,Bangu,VC,3,0,100
+98,Robertão,1968,1968-11-16,Palmeiras,2,0,Corinthians,VC,3,0,99
+100,Robertão,1968,1968-11-17,Bahia,1,1,Athletico-PR,E,1,1,101
+101,Robertão,1968,1968-11-17,Vasco,2,1,Fluminense,VC,3,0,102
+102,Robertão,1968,1968-11-17,Cruzeiro,2,2,Portuguesa,E,1,1,103
+103,Robertão,1968,1968-11-17,São Paulo,4,1,Botafogo,VC,3,0,104
+104,Robertão,1968,1968-11-17,Internacional,4,0,Flamengo,VC,3,0,105
+109,Robertão,1968,1968-11-20,Náutico,1,0,Bahia,VC,3,0,110
+108,Robertão,1968,1968-11-20,Cruzeiro,1,0,Grêmio,VC,3,0,109
+106,Robertão,1968,1968-11-20,Internacional,1,0,Botafogo,VC,3,0,107
+105,Robertão,1968,1968-11-20,Athletico-PR,1,1,Flamengo,E,1,1,106
+107,Robertão,1968,1968-11-20,Corinthians,2,1,Vasco,VC,3,0,108
+110,Robertão,1968,1968-11-21,Bangu,1,0,Fluminense,VC,3,0,111
+111,Robertão,1968,1968-11-21,Palmeiras,1,0,Portuguesa,VC,3,0,112
+112,Robertão,1968,1968-11-23,São Paulo,3,1,Cruzeiro,VC,3,0,113
+113,Robertão,1968,1968-11-23,Vasco,0,0,Bangu,E,1,1,114
+114,Robertão,1968,1968-11-24,Náutico,0,0,Flamengo,E,1,1,115
+115,Robertão,1968,1968-11-24,Fluminense,2,1,Corinthians,VC,3,0,116
+116,Robertão,1968,1968-11-24,Atlético-MG,2,2,Santos,E,1,1,117
+117,Robertão,1968,1968-11-24,Portuguesa,2,2,Botafogo,E,1,1,118
+118,Robertão,1968,1968-11-24,Athletico-PR,1,3,Palmeiras,VV,0,3,119
+119,Robertão,1968,1968-11-24,Grêmio,0,0,Internacional,E,1,1,120
+124,Robertão,1968,1968-11-27,Náutico,2,3,São Paulo,VV,0,3,125
+125,Robertão,1968,1968-11-27,Fluminense,0,1,Internacional,VV,0,3,126
+123,Robertão,1968,1968-11-27,Bahia,2,1,Flamengo,VC,3,0,124
+121,Robertão,1968,1968-11-27,Cruzeiro,1,1,Vasco,E,1,1,122
+120,Robertão,1968,1968-11-27,Athletico-PR,1,0,Portuguesa,VC,3,0,121
+122,Robertão,1968,1968-11-27,Santos,3,1,Grêmio,VC,3,0,123
+126,Robertão,1968,1968-11-28,Botafogo,2,0,Bangu,VC,3,0,127
+127,Robertão,1968,1968-11-28,Atlético-MG,2,1,Palmeiras,VC,3,0,128
+128,Robertão,1968,1968-11-30,Bahia,2,1,São Paulo,VC,3,0,129
+129,Robertão,1968,1968-11-30,Vasco,2,0,Flamengo,VC,3,0,130
+130,Robertão,1968,1968-11-30,Internacional,2,1,Cruzeiro,VC,3,0,131
+131,Robertão,1968,1968-12-01,Grêmio,3,1,Fluminense,VC,3,0,132
+132,Robertão,1968,1968-12-01,Athletico-PR,2,2,Bangu,E,1,1,133
+133,Robertão,1968,1968-12-01,Botafogo,3,2,Santos,VC,3,0,134
+134,Robertão,1968,1968-12-01,Portuguesa,1,3,Atlético-MG,VV,0,3,135
+136,Robertão,1968,1968-12-04,Internacional,1,2,Santos,VV,0,3,137
+135,Robertão,1968,1968-12-04,Palmeiras,3,0,Vasco,VC,3,0,136
+138,Robertão,1968,1968-12-08,Santos,3,0,Palmeiras,VC,3,0,139
+137,Robertão,1968,1968-12-08,Vasco,3,2,Internacional,VC,3,0,138
+139,Robertão,1968,1968-12-10,Vasco,1,2,Santos,VV,0,3,140
+140,Robertão,1968,1968-12-10,Internacional,3,0,Palmeiras,VC,3,0,141
+141,Robertão,1968,1968-12-10,Vasco,1,2,Santos,VV,0,3,142
+142,Robertão,1968,1968-12-13,Bahia,3,1,Vasco,VC,3,0,143
+0,Robertão,1969,1969-09-06,Flamengo,0,0,Portuguesa,E,1,1,1
+5,Robertão,1969,1969-09-07,Internacional,3,1,Botafogo,VC,3,0,6
+1,Robertão,1969,1969-09-07,Bahia,1,1,Santa Cruz,E,1,1,2
+2,Robertão,1969,1969-09-07,Fluminense,0,3,Cruzeiro,VV,0,3,3
+3,Robertão,1969,1969-09-07,Atlético-MG,3,1,Grêmio,VC,3,0,4
+4,Robertão,1969,1969-09-07,Coritiba,2,1,Vasco,VC,3,0,5
+8,Robertão,1969,1969-09-10,Bahia,1,3,Fluminense,VV,0,3,9
+9,Robertão,1969,1969-09-10,Flamengo,2,1,Palmeiras,VC,3,0,10
+6,Robertão,1969,1969-09-10,Portuguesa,2,2,America-RJ,E,1,1,7
+7,Robertão,1969,1969-09-10,Coritiba,0,2,Internacional,VV,0,3,8
+10,Robertão,1969,1969-09-13,Vasco,3,1,Atlético-MG,VC,3,0,11
+15,Robertão,1969,1969-09-14,Coritiba,2,1,São Paulo,VC,3,0,16
+16,Robertão,1969,1969-09-14,Internacional,3,0,Palmeiras,VC,3,0,17
+14,Robertão,1969,1969-09-14,Corinthians,2,2,Portuguesa,E,1,1,15
+11,Robertão,1969,1969-09-14,Santa Cruz,1,2,Fluminense,VV,0,3,12
+12,Robertão,1969,1969-09-14,Flamengo,0,3,Grêmio,VV,0,3,13
+13,Robertão,1969,1969-09-14,Cruzeiro,0,1,Botafogo,VV,0,3,14
+17,Robertão,1969,1969-09-17,Palmeiras,0,1,Cruzeiro,VV,0,3,18
+18,Robertão,1969,1969-09-17,America-RJ,2,1,Fluminense,VC,3,0,19
+19,Robertão,1969,1969-09-17,Santa Cruz,2,1,Flamengo,VC,3,0,20
+20,Robertão,1969,1969-09-17,Bahia,1,3,Corinthians,VV,0,3,21
+21,Robertão,1969,1969-09-20,Palmeiras,2,2,America-RJ,E,1,1,22
+22,Robertão,1969,1969-09-21,Santa Cruz,0,0,Corinthians,E,1,1,23
+23,Robertão,1969,1969-09-21,Bahia,0,0,Flamengo,E,1,1,24
+24,Robertão,1969,1969-09-21,Vasco,2,2,Fluminense,E,1,1,25
+25,Robertão,1969,1969-09-21,Cruzeiro,1,1,Portuguesa,E,1,1,26
+26,Robertão,1969,1969-09-21,São Paulo,2,5,Atlético-MG,VV,0,3,27
+27,Robertão,1969,1969-09-21,Coritiba,3,1,Botafogo,VC,3,0,28
+28,Robertão,1969,1969-09-21,Internacional,1,0,Grêmio,VC,3,0,29
+31,Robertão,1969,1969-09-24,Corinthians,2,0,Cruzeiro,VC,3,0,32
+30,Robertão,1969,1969-09-24,Atlético-MG,3,1,Coritiba,VC,3,0,31
+29,Robertão,1969,1969-09-24,America-RJ,0,0,Internacional,E,1,1,30
+32,Robertão,1969,1969-09-27,Botafogo,2,1,America-RJ,VC,3,0,33
+33,Robertão,1969,1969-09-28,Coritiba,2,0,Portuguesa,VC,3,0,34
+34,Robertão,1969,1969-09-28,Grêmio,2,1,Santos,VC,3,0,35
+35,Robertão,1969,1969-09-28,Corinthians,3,1,Internacional,VC,3,0,36
+36,Robertão,1969,1969-09-28,Bahia,2,0,Palmeiras,VC,3,0,37
+37,Robertão,1969,1969-09-28,Fluminense,4,1,Flamengo,VC,3,0,38
+38,Robertão,1969,1969-09-28,Cruzeiro,2,1,Atlético-MG,VC,3,0,39
+39,Robertão,1969,1969-09-28,Santa Cruz,0,3,Vasco,VV,0,3,40
+40,Robertão,1969,1969-10-01,Santa Cruz,2,3,Palmeiras,VV,0,3,41
+41,Robertão,1969,1969-10-01,Bahia,1,1,Vasco,E,1,1,42
+42,Robertão,1969,1969-10-01,America-RJ,1,2,Cruzeiro,VV,0,3,43
+43,Robertão,1969,1969-10-01,Corinthians,2,0,São Paulo,VC,3,0,44
+44,Robertão,1969,1969-10-01,Internacional,2,1,Atlético-MG,VC,3,0,45
+49,Robertão,1969,1969-10-05,Grêmio,1,0,Corinthians,VC,3,0,50
+48,Robertão,1969,1969-10-05,Coritiba,1,1,Fluminense,E,1,1,49
+47,Robertão,1969,1969-10-05,Santos,2,3,Cruzeiro,VV,0,3,48
+46,Robertão,1969,1969-10-05,Atlético-MG,2,0,America-RJ,VC,3,0,47
+45,Robertão,1969,1969-10-05,Flamengo,3,1,Vasco,VC,3,0,46
+50,Robertão,1969,1969-10-08,Botafogo,1,0,São Paulo,VC,3,0,51
+51,Robertão,1969,1969-10-08,Internacional,3,0,Santos,VC,3,0,52
+52,Robertão,1969,1969-10-08,Bahia,0,4,America-RJ,VV,0,3,53
+53,Robertão,1969,1969-10-11,Fluminense,2,1,Grêmio,VC,3,0,54
+54,Robertão,1969,1969-10-12,Internacional,1,3,Portuguesa,VV,0,3,55
+55,Robertão,1969,1969-10-12,Santa Cruz,3,3,America-RJ,E,1,1,56
+56,Robertão,1969,1969-10-12,Bahia,2,3,São Paulo,VV,0,3,57
+57,Robertão,1969,1969-10-12,Botafogo,2,0,Vasco,VC,3,0,58
+58,Robertão,1969,1969-10-12,Atlético-MG,1,2,Corinthians,VV,0,3,59
+59,Robertão,1969,1969-10-12,Palmeiras,2,1,Santos,VC,3,0,60
+60,Robertão,1969,1969-10-12,Coritiba,1,1,Flamengo,E,1,1,61
+63,Robertão,1969,1969-10-15,Flamengo,1,3,Atlético-MG,VV,0,3,64
+64,Robertão,1969,1969-10-15,Santos,6,2,Portuguesa,VC,3,0,65
+61,Robertão,1969,1969-10-15,Santa Cruz,1,1,São Paulo,E,1,1,62
+62,Robertão,1969,1969-10-15,Bahia,2,1,Cruzeiro,VC,3,0,63
+65,Robertão,1969,1969-10-18,Portuguesa,2,1,São Paulo,VC,3,0,66
+66,Robertão,1969,1969-10-18,Fluminense,2,0,Palmeiras,VC,3,0,67
+70,Robertão,1969,1969-10-19,Santa Cruz,3,1,Atlético-MG,VC,3,0,71
+69,Robertão,1969,1969-10-19,Grêmio,0,0,Botafogo,E,1,1,70
+71,Robertão,1969,1969-10-19,Vasco,0,0,America-RJ,E,1,1,72
+67,Robertão,1969,1969-10-19,Coritiba,0,0,Bahia,E,1,1,68
+68,Robertão,1969,1969-10-19,Cruzeiro,2,2,Flamengo,E,1,1,69
+72,Robertão,1969,1969-10-22,Botafogo,2,1,Atlético-MG,VC,3,0,73
+73,Robertão,1969,1969-10-22,São Paulo,1,0,Fluminense,VC,3,0,74
+74,Robertão,1969,1969-10-22,Coritiba,1,3,Santos,VV,0,3,75
+75,Robertão,1969,1969-10-22,Internacional,3,2,Bahia,VC,3,0,76
+76,Robertão,1969,1969-10-25,Vasco,1,2,Corinthians,VV,0,3,77
+77,Robertão,1969,1969-10-25,Atlético-MG,3,1,Bahia,VC,3,0,78
+78,Robertão,1969,1969-10-25,Portuguesa,1,1,Grêmio,E,1,1,79
+83,Robertão,1969,1969-10-26,Internacional,1,2,Flamengo,VV,0,3,84
+82,Robertão,1969,1969-10-26,Coritiba,2,0,America-RJ,VC,3,0,83
+80,Robertão,1969,1969-10-26,Cruzeiro,2,0,São Paulo,VC,3,0,81
+81,Robertão,1969,1969-10-26,Palmeiras,3,0,Botafogo,VC,3,0,82
+79,Robertão,1969,1969-10-26,Fluminense,0,0,Santos,E,1,1,80
+84,Robertão,1969,1969-10-29,Santos,1,1,America-RJ,E,1,1,85
+85,Robertão,1969,1969-10-29,Grêmio,1,0,Coritiba,VC,3,0,86
+86,Robertão,1969,1969-10-29,Santa Cruz,0,0,Portuguesa,E,1,1,87
+87,Robertão,1969,1969-10-29,Botafogo,0,2,Corinthians,VV,0,3,88
+93,Robertão,1969,1969-11-01,Flamengo,1,4,Santos,VV,0,3,94
+92,Robertão,1969,1969-11-01,Bahia,2,1,Portuguesa,VC,3,0,93
+91,Robertão,1969,1969-11-01,Santa Cruz,2,1,Botafogo,VC,3,0,92
+90,Robertão,1969,1969-11-01,Corinthians,2,0,Fluminense,VC,3,0,91
+89,Robertão,1969,1969-11-01,Coritiba,1,1,Cruzeiro,E,1,1,90
+88,Robertão,1969,1969-11-01,Internacional,2,0,Vasco,VC,3,0,89
+94,Robertão,1969,1969-11-02,Atlético-MG,0,1,Palmeiras,VV,0,3,95
+95,Robertão,1969,1969-11-02,São Paulo,2,2,Grêmio,E,1,1,96
+96,Robertão,1969,1969-11-04,Corinthians,4,1,Santos,VC,3,0,97
+100,Robertão,1969,1969-11-05,São Paulo,2,1,Palmeiras,VC,3,0,101
+99,Robertão,1969,1969-11-05,Cruzeiro,1,0,Internacional,VC,3,0,100
+98,Robertão,1969,1969-11-05,Vasco,0,0,Grêmio,E,1,1,99
+97,Robertão,1969,1969-11-05,Bahia,2,1,Botafogo,VC,3,0,98
+101,Robertão,1969,1969-11-07,Corinthians,2,2,America-RJ,E,1,1,102
+102,Robertão,1969,1969-11-08,Portuguesa,2,2,Atlético-MG,E,1,1,103
+103,Robertão,1969,1969-11-09,Internacional,1,1,Fluminense,E,1,1,104
+104,Robertão,1969,1969-11-09,Coritiba,1,3,Palmeiras,VV,0,3,105
+105,Robertão,1969,1969-11-09,Santos,1,1,São Paulo,E,1,1,106
+106,Robertão,1969,1969-11-09,Botafogo,3,1,Flamengo,VC,3,0,107
+107,Robertão,1969,1969-11-09,Bahia,1,0,Grêmio,VC,3,0,108
+108,Robertão,1969,1969-11-09,Cruzeiro,1,0,Vasco,VC,3,0,109
+109,Robertão,1969,1969-11-12,Santa Cruz,0,4,Santos,VV,0,3,110
+110,Robertão,1969,1969-11-12,Fluminense,2,2,Portuguesa,E,1,1,111
+111,Robertão,1969,1969-11-12,Palmeiras,1,0,Vasco,VC,3,0,112
+113,Robertão,1969,1969-11-12,Grêmio,0,2,America-RJ,VV,0,3,114
+112,Robertão,1969,1969-11-12,Coritiba,2,3,Corinthians,VV,0,3,113
+115,Robertão,1969,1969-11-15,Botafogo,3,0,Portuguesa,VC,3,0,116
+114,Robertão,1969,1969-11-15,Palmeiras,1,0,Corinthians,VC,3,0,115
+116,Robertão,1969,1969-11-16,Santa Cruz,0,0,Internacional,E,1,1,117
+117,Robertão,1969,1969-11-16,Bahia,1,1,Santos,E,1,1,118
+118,Robertão,1969,1969-11-16,America-RJ,1,1,Flamengo,E,1,1,119
+119,Robertão,1969,1969-11-16,Atlético-MG,2,0,Fluminense,VC,3,0,120
+120,Robertão,1969,1969-11-16,São Paulo,3,0,Vasco,VC,3,0,121
+121,Robertão,1969,1969-11-16,Grêmio,1,1,Cruzeiro,E,1,1,122
+122,Robertão,1969,1969-11-19,São Paulo,4,1,Flamengo,VC,3,0,123
+123,Robertão,1969,1969-11-19,Grêmio,3,1,Santa Cruz,VC,3,0,124
+124,Robertão,1969,1969-11-19,Vasco,1,2,Santos,VV,0,3,125
+125,Robertão,1969,1969-11-22,Vasco,0,1,Portuguesa,VV,0,3,126
+126,Robertão,1969,1969-11-22,Palmeiras,4,1,Grêmio,VC,3,0,127
+131,Robertão,1969,1969-11-23,Internacional,1,1,São Paulo,E,1,1,132
+130,Robertão,1969,1969-11-23,Coritiba,0,1,Santa Cruz,VV,0,3,131
+129,Robertão,1969,1969-11-23,Corinthians,0,0,Flamengo,E,1,1,130
+128,Robertão,1969,1969-11-23,Atlético-MG,2,0,Santos,VC,3,0,129
+127,Robertão,1969,1969-11-23,Botafogo,1,0,Fluminense,VC,3,0,128
+132,Robertão,1969,1969-11-25,Palmeiras,2,0,Portuguesa,VC,3,0,133
+133,Robertão,1969,1969-11-26,America-RJ,4,0,São Paulo,VC,3,0,134
+134,Robertão,1969,1969-11-26,Cruzeiro,4,0,Santa Cruz,VC,3,0,135
+135,Robertão,1969,1969-11-26,Santos,0,0,Botafogo,E,1,1,136
+136,Robertão,1969,1969-11-30,Botafogo,2,2,Cruzeiro,E,1,1,137
+137,Robertão,1969,1969-11-30,Corinthians,0,0,Palmeiras,E,1,1,138
+138,Robertão,1969,1969-12-03,Cruzeiro,1,1,Palmeiras,E,1,1,139
+139,Robertão,1969,1969-12-03,Corinthians,1,0,Botafogo,VC,3,0,140
+140,Robertão,1969,1969-12-07,Palmeiras,3,1,Botafogo,VC,3,0,141
+141,Robertão,1969,1969-12-07,Cruzeiro,2,1,Corinthians,VC,3,0,142
+142,Robertão,1969,1969-12-07,Palmeiras,3,1,Botafogo,VC,3,0,143
+1,Robertão,1970,1970-09-20,Santa Cruz,1,1,Bahia,E,1,1,2
+2,Robertão,1970,1970-09-20,Ahtletico-PR,0,0,Corinthians,E,1,1,3
+0,Robertão,1970,1970-09-20,São Paulo,0,2,Palmeiras,VV,0,3,1
+4,Robertão,1970,1970-09-23,Ponte Preta,1,0,Vasco,VC,3,0,5
+5,Robertão,1970,1970-09-23,Bahia,0,0,Atlético-MG,E,1,1,6
+3,Robertão,1970,1970-09-23,Cruzeiro,1,0,Botafogo,VC,3,0,4
+6,Robertão,1970,1970-09-26,Palmeiras,4,0,Ponte Preta,VC,3,0,7
+7,Robertão,1970,1970-09-26,Fluminense,1,0,Corinthians,VC,3,0,8
+8,Robertão,1970,1970-09-27,Ahtletico-PR,2,1,America-RJ,VC,3,0,9
+9,Robertão,1970,1970-09-27,Santa Cruz,1,1,Atlético-MG,E,1,1,10
+10,Robertão,1970,1970-09-27,Vasco,0,1,Botafogo,VV,0,3,11
+11,Robertão,1970,1970-09-27,Cruzeiro,1,1,Santos,E,1,1,12
+12,Robertão,1970,1970-09-27,São Paulo,0,2,Flamengo,VV,0,3,13
+13,Robertão,1970,1970-10-01,Bahia,2,1,Ponte Preta,VC,3,0,14
+14,Robertão,1970,1970-10-03,Fluminense,2,1,Cruzeiro,VC,3,0,15
+18,Robertão,1970,1970-10-04,Internacional,4,1,Ahtletico-PR,VC,3,0,19
+17,Robertão,1970,1970-10-04,Bahia,1,0,São Paulo,VC,3,0,18
+19,Robertão,1970,1970-10-04,Atlético-MG,3,1,Corinthians,VC,3,0,20
+15,Robertão,1970,1970-10-04,Flamengo,3,1,Vasco,VC,3,0,16
+16,Robertão,1970,1970-10-04,Santa Cruz,1,1,Ponte Preta,E,1,1,17
+20,Robertão,1970,1970-10-05,Palmeiras,1,0,America-RJ,VC,3,0,21
+21,Robertão,1970,1970-10-07,Fluminense,2,1,Grêmio,VC,3,0,22
+22,Robertão,1970,1970-10-07,Ahtletico-PR,1,0,Bahia,VC,3,0,23
+23,Robertão,1970,1970-10-07,Santos,2,0,Internacional,VC,3,0,24
+24,Robertão,1970,1970-10-07,Santa Cruz,0,2,São Paulo,VV,0,3,25
+26,Robertão,1970,1970-10-08,Vasco,0,2,America-RJ,VV,0,3,27
+25,Robertão,1970,1970-10-08,Corinthians,1,1,Cruzeiro,E,1,1,26
+27,Robertão,1970,1970-10-10,Ponte Preta,0,0,Flamengo,E,1,1,28
+28,Robertão,1970,1970-10-11,São Paulo,1,2,Corinthians,VV,0,3,29
+29,Robertão,1970,1970-10-11,Fluminense,3,0,America-RJ,VC,3,0,30
+30,Robertão,1970,1970-10-11,Ahtletico-PR,0,1,Palmeiras,VV,0,3,31
+31,Robertão,1970,1970-10-11,Atlético-MG,1,0,Vasco,VC,3,0,32
+32,Robertão,1970,1970-10-11,Grêmio,0,2,Santos,VV,0,3,33
+36,Robertão,1970,1970-10-14,Santa Cruz,1,1,Ahtletico-PR,E,1,1,37
+35,Robertão,1970,1970-10-14,Internacional,3,1,Ponte Preta,VC,3,0,36
+37,Robertão,1970,1970-10-14,Santos,1,1,Atlético-MG,E,1,1,38
+33,Robertão,1970,1970-10-14,Bahia,1,0,Fluminense,VC,3,0,34
+34,Robertão,1970,1970-10-14,Botafogo,1,2,Grêmio,VV,0,3,35
+38,Robertão,1970,1970-10-15,Flamengo,2,1,America-RJ,VC,3,0,39
+39,Robertão,1970,1970-10-17,São Paulo,0,0,Grêmio,E,1,1,40
+40,Robertão,1970,1970-10-17,Vasco,5,1,Santos,VC,3,0,41
+46,Robertão,1970,1970-10-18,Ahtletico-PR,1,2,Botafogo,VV,0,3,47
+45,Robertão,1970,1970-10-18,Flamengo,0,0,Palmeiras,E,1,1,46
+44,Robertão,1970,1970-10-18,Cruzeiro,3,1,America-RJ,VC,3,0,45
+42,Robertão,1970,1970-10-18,Corinthians,1,0,Ponte Preta,VC,3,0,43
+41,Robertão,1970,1970-10-18,Bahia,1,1,Internacional,E,1,1,42
+43,Robertão,1970,1970-10-18,Santa Cruz,0,1,Fluminense,VV,0,3,44
+47,Robertão,1970,1970-10-21,America-RJ,1,1,Atlético-MG,E,1,1,48
+48,Robertão,1970,1970-10-21,Corinthians,0,1,Botafogo,VV,0,3,49
+49,Robertão,1970,1970-10-21,Grêmio,0,0,Flamengo,E,1,1,50
+50,Robertão,1970,1970-10-21,Santa Cruz,2,1,Internacional,VC,3,0,51
+51,Robertão,1970,1970-10-22,Fluminense,1,1,São Paulo,E,1,1,52
+52,Robertão,1970,1970-10-22,Santos,1,1,Ponte Preta,E,1,1,53
+53,Robertão,1970,1970-10-24,America-RJ,3,3,Corinthians,E,1,1,54
+54,Robertão,1970,1970-10-25,Santa Cruz,0,3,Vasco,VV,0,3,55
+55,Robertão,1970,1970-10-25,Internacional,2,0,Fluminense,VC,3,0,56
+56,Robertão,1970,1970-10-25,Ponte Preta,1,1,Grêmio,E,1,1,57
+57,Robertão,1970,1970-10-25,Bahia,0,1,Palmeiras,VV,0,3,58
+58,Robertão,1970,1970-10-25,Cruzeiro,1,1,Atlético-MG,E,1,1,59
+59,Robertão,1970,1970-10-25,Flamengo,0,0,Botafogo,E,1,1,60
+60,Robertão,1970,1970-10-25,Ahtletico-PR,0,2,São Paulo,VV,0,3,61
+65,Robertão,1970,1970-10-28,Bahia,0,0,Vasco,E,1,1,66
+64,Robertão,1970,1970-10-28,America-RJ,1,1,São Paulo,E,1,1,65
+62,Robertão,1970,1970-10-28,Grêmio,0,0,Internacional,E,1,1,63
+61,Robertão,1970,1970-10-28,Palmeiras,1,1,Santa Cruz,E,1,1,62
+63,Robertão,1970,1970-10-28,Ahtletico-PR,1,0,Santos,VC,3,0,64
+66,Robertão,1970,1970-10-31,Ponte Preta,1,3,São Paulo,VV,0,3,67
+67,Robertão,1970,1970-10-31,Flamengo,5,1,Santa Cruz,VC,3,0,68
+68,Robertão,1970,1970-10-31,Atlético-MG,3,0,Ahtletico-PR,VC,3,0,69
+73,Robertão,1970,1970-11-01,Bahia,0,1,Grêmio,VV,0,3,74
+72,Robertão,1970,1970-11-01,Internacional,1,0,Botafogo,VC,3,0,73
+71,Robertão,1970,1970-11-01,Fluminense,3,1,Vasco,VC,3,0,72
+70,Robertão,1970,1970-11-01,Cruzeiro,0,1,Palmeiras,VV,0,3,71
+69,Robertão,1970,1970-11-01,Santos,0,2,Corinthians,VV,0,3,70
+74,Robertão,1970,1970-11-04,Ahtletico-PR,0,0,Flamengo,E,1,1,75
+75,Robertão,1970,1970-11-04,Santa Cruz,1,1,Grêmio,E,1,1,76
+76,Robertão,1970,1970-11-04,São Paulo,1,2,Botafogo,VV,0,3,77
+77,Robertão,1970,1970-11-04,Cruzeiro,1,2,Internacional,VV,0,3,78
+78,Robertão,1970,1970-11-04,Fluminense,6,1,Ponte Preta,VC,3,0,79
+79,Robertão,1970,1970-11-07,Vasco,1,1,São Paulo,E,1,1,80
+80,Robertão,1970,1970-11-07,Palmeiras,0,3,Fluminense,VV,0,3,81
+81,Robertão,1970,1970-11-08,Bahia,0,0,America-RJ,E,1,1,82
+82,Robertão,1970,1970-11-08,Grêmio,3,0,Ahtletico-PR,VC,3,0,83
+83,Robertão,1970,1970-11-08,Botafogo,2,2,Santos,E,1,1,84
+84,Robertão,1970,1970-11-08,Corinthians,0,0,Internacional,E,1,1,85
+85,Robertão,1970,1970-11-08,Cruzeiro,3,1,Flamengo,VC,3,0,86
+89,Robertão,1970,1970-11-11,Vasco,1,1,Internacional,E,1,1,90
+88,Robertão,1970,1970-11-11,Palmeiras,1,1,Santos,E,1,1,89
+86,Robertão,1970,1970-11-11,Grêmio,1,0,Corinthians,VC,3,0,87
+87,Robertão,1970,1970-11-11,Atlético-MG,0,0,São Paulo,E,1,1,88
+90,Robertão,1970,1970-11-12,Fluminense,1,1,Botafogo,E,1,1,91
+91,Robertão,1970,1970-11-14,Corinthians,3,1,Vasco,VC,3,0,92
+92,Robertão,1970,1970-11-14,Ahtletico-PR,0,2,Cruzeiro,VV,0,3,93
+93,Robertão,1970,1970-11-14,Atlético-MG,1,0,Grêmio,VC,3,0,94
+94,Robertão,1970,1970-11-14,Flamengo,2,0,Santos,VC,3,0,95
+95,Robertão,1970,1970-11-14,Santa Cruz,2,1,America-RJ,VC,3,0,96
+96,Robertão,1970,1970-11-15,Internacional,1,0,Palmeiras,VC,3,0,97
+97,Robertão,1970,1970-11-18,Bahia,1,0,Flamengo,VC,3,0,98
+98,Robertão,1970,1970-11-18,Grêmio,3,1,Cruzeiro,VC,3,0,99
+99,Robertão,1970,1970-11-18,Botafogo,4,0,Ponte Preta,VC,3,0,100
+100,Robertão,1970,1970-11-18,Santos,1,0,Fluminense,VC,3,0,101
+101,Robertão,1970,1970-11-19,Palmeiras,2,1,Atlético-MG,VC,3,0,102
+102,Robertão,1970,1970-11-21,Santos,0,0,America-RJ,E,1,1,103
+103,Robertão,1970,1970-11-21,Cruzeiro,6,0,Ponte Preta,VC,3,0,104
+108,Robertão,1970,1970-11-22,Ahtletico-PR,4,1,Vasco,VC,3,0,109
+107,Robertão,1970,1970-11-22,Flamengo,1,1,Fluminense,E,1,1,108
+104,Robertão,1970,1970-11-22,Internacional,2,0,São Paulo,VC,3,0,105
+105,Robertão,1970,1970-11-22,Atlético-MG,3,1,Botafogo,VC,3,0,106
+106,Robertão,1970,1970-11-22,Corinthians,1,1,Palmeiras,E,1,1,107
+109,Robertão,1970,1970-11-25,Santa Cruz,0,0,Corinthians,E,1,1,110
+110,Robertão,1970,1970-11-25,America-RJ,1,0,Internacional,VC,3,0,111
+111,Robertão,1970,1970-11-25,Bahia,0,1,Cruzeiro,VV,0,3,112
+112,Robertão,1970,1970-11-26,Ponte Preta,0,1,Atlético-MG,VV,0,3,113
+113,Robertão,1970,1970-11-26,Botafogo,0,0,Palmeiras,E,1,1,114
+114,Robertão,1970,1970-11-28,Flamengo,1,0,Internacional,VC,3,0,115
+121,Robertão,1970,1970-11-29,Santos,3,2,São Paulo,VC,3,0,122
+120,Robertão,1970,1970-11-29,Atlético-MG,3,1,Fluminense,VC,3,0,121
+119,Robertão,1970,1970-11-29,Bahia,3,2,Corinthians,VC,3,0,120
+115,Robertão,1970,1970-11-29,Grêmio,1,0,Vasco,VC,3,0,116
+117,Robertão,1970,1970-11-29,Santa Cruz,1,2,Cruzeiro,VV,0,3,118
+116,Robertão,1970,1970-11-29,Botafogo,1,0,America-RJ,VC,3,0,117
+118,Robertão,1970,1970-11-29,Ahtletico-PR,0,1,Ponte Preta,VV,0,3,119
+125,Robertão,1970,1970-12-02,Bahia,1,5,Santos,VV,0,3,126
+124,Robertão,1970,1970-12-02,Palmeiras,1,0,Grêmio,VC,3,0,125
+122,Robertão,1970,1970-12-02,Santa Cruz,1,1,Botafogo,E,1,1,123
+123,Robertão,1970,1970-12-02,Flamengo,1,0,Atlético-MG,VC,3,0,124
+126,Robertão,1970,1970-12-03,Ponte Preta,2,1,America-RJ,VC,3,0,127
+127,Robertão,1970,1970-12-03,Vasco,0,3,Cruzeiro,VV,0,3,128
+128,Robertão,1970,1970-12-05,Corinthians,1,0,Flamengo,VC,3,0,129
+129,Robertão,1970,1970-12-05,Internacional,3,1,Atlético-MG,VC,3,0,130
+130,Robertão,1970,1970-12-06,Santa Cruz,1,0,Santos,VC,3,0,131
+131,Robertão,1970,1970-12-06,Bahia,0,4,Botafogo,VV,0,3,132
+132,Robertão,1970,1970-12-06,São Paulo,0,2,Cruzeiro,VV,0,3,133
+133,Robertão,1970,1970-12-06,Vasco,0,1,Palmeiras,VV,0,3,134
+134,Robertão,1970,1970-12-06,Grêmio,2,2,America-RJ,E,1,1,135
+135,Robertão,1970,1970-12-06,Ahtletico-PR,1,1,Fluminense,E,1,1,136
+136,Robertão,1970,1970-12-13,Fluminense,1,0,Palmeiras,VC,3,0,137
+137,Robertão,1970,1970-12-13,Cruzeiro,1,1,Atlético-MG,E,1,1,138
+138,Robertão,1970,1970-12-16,Cruzeiro,0,1,Fluminense,VV,0,3,139
+139,Robertão,1970,1970-12-16,Palmeiras,3,0,Atlético-MG,VC,3,0,140
