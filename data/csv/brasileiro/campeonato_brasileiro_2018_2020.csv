@@ -1,0 +1,1141 @@
+Comp,Temp,Data,Casa,GC,GF,Fora,Res,PC,PF,J
+Série A,2018.0,2018-04-14,Cruzeiro,0.0,1.0,Grêmio,VV,0.0,3.0,1.0
+Série A,2018.0,2018-04-14,Vitória,2.0,2.0,Flamengo,E,1.0,1.0,2.0
+Série A,2018.0,2018-04-14,Santos,2.0,0.0,Ceará,VC,3.0,0.0,3.0
+Série A,2018.0,2018-04-15,Athletico-PR,5.0,1.0,Chapecoense,VC,3.0,0.0,8.0
+Série A,2018.0,2018-04-15,Vasco,2.0,1.0,Atlético-MG,VC,3.0,0.0,7.0
+Série A,2018.0,2018-04-15,Internacional,2.0,0.0,Bahia,VC,3.0,0.0,6.0
+Série A,2018.0,2018-04-15,Corinthians,2.0,1.0,Fluminense,VC,3.0,0.0,5.0
+Série A,2018.0,2018-04-15,América-MG,3.0,0.0,Sport,VC,3.0,0.0,4.0
+Série A,2018.0,2018-04-16,Botafogo,1.0,1.0,Palmeiras,E,1.0,1.0,9.0
+Série A,2018.0,2018-04-16,São Paulo,1.0,0.0,Paraná,VC,3.0,0.0,10.0
+Série A,2018.0,2018-04-21,Bahia,1.0,0.0,Santos,VC,3.0,0.0,11.0
+Série A,2018.0,2018-04-21,Flamengo,2.0,0.0,América-MG,VC,3.0,0.0,12.0
+Série A,2018.0,2018-04-22,Fluminense,1.0,0.0,Cruzeiro,VC,3.0,0.0,16.0
+Série A,2018.0,2018-04-22,Grêmio,0.0,0.0,Athletico-PR,E,1.0,1.0,19.0
+Série A,2018.0,2018-04-22,Palmeiras,1.0,0.0,Internacional,VC,3.0,0.0,17.0
+Série A,2018.0,2018-04-22,Atlético-MG,2.0,1.0,Vitória,VC,3.0,0.0,13.0
+Série A,2018.0,2018-04-22,Ceará,0.0,0.0,São Paulo,E,1.0,1.0,14.0
+Série A,2018.0,2018-04-22,Paraná,0.0,4.0,Corinthians,VV,0.0,3.0,18.0
+Série A,2018.0,2018-04-22,Chapecoense,1.0,1.0,Vasco,E,1.0,1.0,15.0
+Série A,2018.0,2018-04-23,Sport,1.0,1.0,Botafogo,E,1.0,1.0,20.0
+Série A,2018.0,2018-04-28,Botafogo,2.0,1.0,Grêmio,VC,3.0,0.0,21.0
+Série A,2018.0,2018-04-29,Palmeiras,0.0,0.0,Chapecoense,E,1.0,1.0,28.0
+Série A,2018.0,2018-04-29,Paraná,1.0,2.0,Sport,VV,0.0,3.0,26.0
+Série A,2018.0,2018-04-29,Internacional,0.0,0.0,Cruzeiro,E,1.0,1.0,27.0
+Série A,2018.0,2018-04-29,Fluminense,1.0,1.0,São Paulo,E,1.0,1.0,25.0
+Série A,2018.0,2018-04-29,Ceará,0.0,3.0,Flamengo,VV,0.0,3.0,24.0
+Série A,2018.0,2018-04-29,Bahia,0.0,0.0,Athletico-PR,E,1.0,1.0,23.0
+Série A,2018.0,2018-04-29,Atlético-MG,1.0,0.0,Corinthians,VC,3.0,0.0,22.0
+Série A,2018.0,2018-04-30,América-MG,2.0,1.0,Vitória,VC,3.0,0.0,29.0
+Série A,2018.0,2018-05-05,Vasco,4.0,1.0,América-MG,VC,3.0,0.0,30.0
+Série A,2018.0,2018-05-05,São Paulo,2.0,2.0,Atlético-MG,E,1.0,1.0,31.0
+Série A,2018.0,2018-05-06,Cruzeiro,1.0,0.0,Botafogo,VC,3.0,0.0,35.0
+Série A,2018.0,2018-05-06,Athletico-PR,1.0,3.0,Palmeiras,VV,0.0,3.0,34.0
+Série A,2018.0,2018-05-06,Sport,2.0,0.0,Bahia,VC,3.0,0.0,32.0
+Série A,2018.0,2018-05-06,Grêmio,5.0,1.0,Santos,VC,3.0,0.0,37.0
+Série A,2018.0,2018-05-06,Flamengo,2.0,0.0,Internacional,VC,3.0,0.0,36.0
+Série A,2018.0,2018-05-06,Corinthians,1.0,1.0,Ceará,E,1.0,1.0,33.0
+Série A,2018.0,2018-05-06,Vitória,1.0,2.0,Fluminense,VV,0.0,3.0,38.0
+Série A,2018.0,2018-05-07,Chapecoense,1.0,1.0,Paraná,E,1.0,1.0,39.0
+Série A,2018.0,2018-05-12,Grêmio,0.0,0.0,Internacional,E,1.0,1.0,40.0
+Série A,2018.0,2018-05-13,Santos,3.0,1.0,Paraná,VC,3.0,0.0,46.0
+Série A,2018.0,2018-05-13,Corinthians,1.0,0.0,Palmeiras,VC,3.0,0.0,41.0
+Série A,2018.0,2018-05-13,Athletico-PR,1.0,2.0,Atlético-MG,VV,0.0,3.0,44.0
+Série A,2018.0,2018-05-13,Chapecoense,3.0,2.0,Flamengo,VC,3.0,0.0,43.0
+Série A,2018.0,2018-05-13,Bahia,2.0,2.0,São Paulo,E,1.0,1.0,45.0
+Série A,2018.0,2018-05-13,Cruzeiro,2.0,0.0,Sport,VC,3.0,0.0,47.0
+Série A,2018.0,2018-05-13,Vasco,2.0,3.0,Vitória,VV,0.0,3.0,42.0
+Série A,2018.0,2018-05-14,Ceará,2.0,2.0,América-MG,E,1.0,1.0,49.0
+Série A,2018.0,2018-05-14,Botafogo,2.0,1.0,Fluminense,VC,3.0,0.0,48.0
+Série A,2018.0,2018-05-19,Palmeiras,3.0,0.0,Bahia,VC,3.0,0.0,52.0
+Série A,2018.0,2018-05-19,Flamengo,1.0,1.0,Vasco,E,1.0,1.0,51.0
+Série A,2018.0,2018-05-19,Atlético-MG,1.0,0.0,Cruzeiro,VC,3.0,0.0,50.0
+Série A,2018.0,2018-05-20,Sport,1.0,1.0,Corinthians,E,1.0,1.0,57.0
+Série A,2018.0,2018-05-20,Fluminense,2.0,0.0,Athletico-PR,VC,3.0,0.0,58.0
+Série A,2018.0,2018-05-20,São Paulo,1.0,0.0,Santos,VC,3.0,0.0,56.0
+Série A,2018.0,2018-05-20,Vitória,2.0,1.0,Ceará,VC,3.0,0.0,53.0
+Série A,2018.0,2018-05-20,Paraná,0.0,0.0,Grêmio,E,1.0,1.0,55.0
+Série A,2018.0,2018-05-20,América-MG,1.0,0.0,Botafogo,VC,3.0,0.0,54.0
+Série A,2018.0,2018-05-21,Internacional,3.0,0.0,Chapecoense,VC,3.0,0.0,59.0
+Série A,2018.0,2018-05-26,Palmeiras,2.0,3.0,Sport,VV,0.0,3.0,60.0
+Série A,2018.0,2018-05-26,Atlético-MG,0.0,1.0,Flamengo,VV,0.0,3.0,61.0
+Série A,2018.0,2018-05-26,Fluminense,3.0,1.0,Chapecoense,VC,3.0,0.0,62.0
+Série A,2018.0,2018-05-27,Santos,0.0,1.0,Cruzeiro,VV,0.0,3.0,68.0
+Série A,2018.0,2018-05-27,Internacional,2.0,1.0,Corinthians,VC,3.0,0.0,67.0
+Série A,2018.0,2018-05-27,América-MG,1.0,3.0,São Paulo,VV,0.0,3.0,69.0
+Série A,2018.0,2018-05-27,Paraná,0.0,0.0,Athletico-PR,E,1.0,1.0,64.0
+Série A,2018.0,2018-05-27,Bahia,3.0,0.0,Vasco,VC,3.0,0.0,65.0
+Série A,2018.0,2018-05-27,Ceará,0.0,1.0,Grêmio,VV,0.0,3.0,66.0
+Série A,2018.0,2018-05-27,Botafogo,1.0,1.0,Vitória,E,1.0,1.0,63.0
+Série A,2018.0,2018-05-30,Grêmio,0.0,0.0,Fluminense,E,1.0,1.0,76.0
+Série A,2018.0,2018-05-30,Vitória,2.0,3.0,Internacional,VV,0.0,3.0,74.0
+Série A,2018.0,2018-05-30,Cruzeiro,1.0,0.0,Palmeiras,VC,3.0,0.0,75.0
+Série A,2018.0,2018-05-30,Sport,3.0,2.0,Atlético-MG,VC,3.0,0.0,71.0
+Série A,2018.0,2018-05-30,São Paulo,3.0,2.0,Botafogo,VC,3.0,0.0,70.0
+Série A,2018.0,2018-05-30,Chapecoense,2.0,0.0,Ceará,VC,3.0,0.0,73.0
+Série A,2018.0,2018-05-30,Vasco,1.0,0.0,Paraná,VC,3.0,0.0,72.0
+Série A,2018.0,2018-05-31,Corinthians,1.0,0.0,América-MG,VC,3.0,0.0,78.0
+Série A,2018.0,2018-05-31,Athletico-PR,2.0,0.0,Santos,VC,3.0,0.0,79.0
+Série A,2018.0,2018-05-31,Flamengo,2.0,0.0,Bahia,VC,3.0,0.0,77.0
+Série A,2018.0,2018-06-02,Palmeiras,3.0,1.0,São Paulo,VC,3.0,0.0,83.0
+Série A,2018.0,2018-06-02,Atlético-MG,3.0,3.0,Chapecoense,E,1.0,1.0,80.0
+Série A,2018.0,2018-06-02,Vasco,1.0,2.0,Botafogo,VV,0.0,3.0,82.0
+Série A,2018.0,2018-06-02,Internacional,0.0,0.0,Sport,E,1.0,1.0,81.0
+Série A,2018.0,2018-06-03,Ceará,0.0,1.0,Cruzeiro,VV,0.0,3.0,88.0
+Série A,2018.0,2018-06-03,América-MG,3.0,1.0,Athletico-PR,VC,3.0,0.0,85.0
+Série A,2018.0,2018-06-03,Bahia,0.0,2.0,Grêmio,VV,0.0,3.0,84.0
+Série A,2018.0,2018-06-03,Flamengo,1.0,0.0,Corinthians,VC,3.0,0.0,86.0
+Série A,2018.0,2018-06-03,Santos,5.0,2.0,Vitória,VC,3.0,0.0,87.0
+Série A,2018.0,2018-06-04,Paraná,2.0,1.0,Fluminense,VC,3.0,0.0,89.0
+Série A,2018.0,2018-06-05,São Paulo,0.0,0.0,Internacional,E,1.0,1.0,90.0
+Série A,2018.0,2018-06-06,Sport,1.0,0.0,Athletico-PR,VC,3.0,0.0,94.0
+Série A,2018.0,2018-06-06,Grêmio,0.0,2.0,Palmeiras,VV,0.0,3.0,96.0
+Série A,2018.0,2018-06-06,Cruzeiro,1.0,1.0,Vasco,E,1.0,1.0,95.0
+Série A,2018.0,2018-06-06,Botafogo,0.0,0.0,Ceará,E,1.0,1.0,91.0
+Série A,2018.0,2018-06-06,Corinthians,1.0,1.0,Santos,E,1.0,1.0,93.0
+Série A,2018.0,2018-06-06,Vitória,1.0,0.0,Chapecoense,VC,3.0,0.0,92.0
+Série A,2018.0,2018-06-07,Fluminense,0.0,2.0,Flamengo,VV,0.0,3.0,97.0
+Série A,2018.0,2018-06-07,América-MG,1.0,3.0,Atlético-MG,VV,0.0,3.0,99.0
+Série A,2018.0,2018-06-07,Paraná,1.0,0.0,Bahia,VC,3.0,0.0,98.0
+Série A,2018.0,2018-06-09,Corinthians,0.0,0.0,Vitória,E,1.0,1.0,102.0
+Série A,2018.0,2018-06-09,Chapecoense,2.0,0.0,Cruzeiro,VC,3.0,0.0,103.0
+Série A,2018.0,2018-06-09,Vasco,3.0,2.0,Sport,VC,3.0,0.0,101.0
+Série A,2018.0,2018-06-09,Athletico-PR,0.0,1.0,São Paulo,VV,0.0,3.0,100.0
+Série A,2018.0,2018-06-10,Atlético-MG,5.0,2.0,Fluminense,VC,3.0,0.0,104.0
+Série A,2018.0,2018-06-10,Bahia,3.0,3.0,Botafogo,E,1.0,1.0,105.0
+Série A,2018.0,2018-06-10,Ceará,2.0,2.0,Palmeiras,E,1.0,1.0,106.0
+Série A,2018.0,2018-06-10,Grêmio,1.0,0.0,América-MG,VC,3.0,0.0,107.0
+Série A,2018.0,2018-06-10,Santos,1.0,2.0,Internacional,VV,0.0,3.0,109.0
+Série A,2018.0,2018-06-10,Flamengo,2.0,0.0,Paraná,VC,3.0,0.0,108.0
+Série A,2018.0,2018-06-12,São Paulo,3.0,0.0,Vitória,VC,3.0,0.0,110.0
+Série A,2018.0,2018-06-13,Fluminense,0.0,1.0,Santos,VV,0.0,3.0,112.0
+Série A,2018.0,2018-06-13,Sport,0.0,0.0,Grêmio,E,1.0,1.0,114.0
+Série A,2018.0,2018-06-13,Paraná,1.0,1.0,Cruzeiro,E,1.0,1.0,113.0
+Série A,2018.0,2018-06-13,Atlético-MG,2.0,1.0,Ceará,VC,3.0,0.0,117.0
+Série A,2018.0,2018-06-13,América-MG,0.0,0.0,Chapecoense,E,1.0,1.0,111.0
+Série A,2018.0,2018-06-13,Palmeiras,1.0,1.0,Flamengo,E,1.0,1.0,116.0
+Série A,2018.0,2018-06-13,Internacional,3.0,1.0,Vasco,VC,3.0,0.0,119.0
+Série A,2018.0,2018-06-13,Botafogo,2.0,0.0,Athletico-PR,VC,3.0,0.0,115.0
+Série A,2018.0,2018-06-13,Bahia,1.0,0.0,Corinthians,VC,3.0,0.0,118.0
+Série A,2018.0,2018-07-18,Ceará,1.0,0.0,Sport,VC,3.0,0.0,120.0
+Série A,2018.0,2018-07-18,Vitória,1.0,0.0,Paraná,VC,3.0,0.0,124.0
+Série A,2018.0,2018-07-18,Flamengo,0.0,1.0,São Paulo,VV,0.0,3.0,122.0
+Série A,2018.0,2018-07-18,Corinthians,2.0,0.0,Botafogo,VC,3.0,0.0,121.0
+Série A,2018.0,2018-07-18,Grêmio,2.0,0.0,Atlético-MG,VC,3.0,0.0,123.0
+Série A,2018.0,2018-07-19,Cruzeiro,3.0,1.0,América-MG,VC,3.0,0.0,127.0
+Série A,2018.0,2018-07-19,Chapecoense,1.0,1.0,Bahia,E,1.0,1.0,126.0
+Série A,2018.0,2018-07-19,Athletico-PR,2.0,2.0,Internacional,E,1.0,1.0,125.0
+Série A,2018.0,2018-07-19,Vasco,1.0,1.0,Fluminense,E,1.0,1.0,129.0
+Série A,2018.0,2018-07-19,Santos,1.0,1.0,Palmeiras,E,1.0,1.0,128.0
+Série A,2018.0,2018-07-21,São Paulo,3.0,1.0,Corinthians,VC,3.0,0.0,131.0
+Série A,2018.0,2018-07-21,Flamengo,2.0,0.0,Botafogo,VC,3.0,0.0,130.0
+Série A,2018.0,2018-07-22,Cruzeiro,2.0,1.0,Athletico-PR,VC,3.0,0.0,134.0
+Série A,2018.0,2018-07-22,Paraná,1.0,0.0,América-MG,VC,3.0,0.0,136.0
+Série A,2018.0,2018-07-22,Palmeiras,3.0,2.0,Atlético-MG,VC,3.0,0.0,135.0
+Série A,2018.0,2018-07-22,Bahia,4.0,1.0,Vitória,VC,3.0,0.0,132.0
+Série A,2018.0,2018-07-22,Sport,1.0,2.0,Fluminense,VV,0.0,3.0,137.0
+Série A,2018.0,2018-07-22,Chapecoense,0.0,0.0,Santos,E,1.0,1.0,133.0
+Série A,2018.0,2018-07-22,Vasco,1.0,0.0,Grêmio,VC,3.0,0.0,138.0
+Série A,2018.0,2018-07-23,Internacional,1.0,0.0,Ceará,VC,3.0,0.0,139.0
+Série A,2018.0,2018-07-25,Corinthians,2.0,0.0,Cruzeiro,VC,3.0,0.0,141.0
+Série A,2018.0,2018-07-25,Atlético-MG,2.0,0.0,Paraná,VC,3.0,0.0,140.0
+Série A,2018.0,2018-07-25,Santos,1.0,1.0,Flamengo,E,1.0,1.0,143.0
+Série A,2018.0,2018-07-25,Fluminense,1.0,0.0,Palmeiras,VC,3.0,0.0,142.0
+Série A,2018.0,2018-07-26,Grêmio,2.0,1.0,São Paulo,VC,3.0,0.0,146.0
+Série A,2018.0,2018-07-26,Vitória,1.0,0.0,Sport,VC,3.0,0.0,147.0
+Série A,2018.0,2018-07-26,Botafogo,1.0,0.0,Chapecoense,VC,3.0,0.0,145.0
+Série A,2018.0,2018-07-26,América-MG,2.0,1.0,Internacional,VC,3.0,0.0,144.0
+Série A,2018.0,2018-07-28,Ceará,1.0,0.0,Fluminense,VC,3.0,0.0,148.0
+Série A,2018.0,2018-07-29,Flamengo,4.0,1.0,Sport,VC,3.0,0.0,153.0
+Série A,2018.0,2018-07-29,Athletico-PR,4.0,0.0,Vitória,VC,3.0,0.0,150.0
+Série A,2018.0,2018-07-29,Cruzeiro,0.0,2.0,São Paulo,VV,0.0,3.0,152.0
+Série A,2018.0,2018-07-29,Vasco,1.0,4.0,Corinthians,VV,0.0,3.0,149.0
+Série A,2018.0,2018-07-29,Chapecoense,1.0,1.0,Grêmio,E,1.0,1.0,151.0
+Série A,2018.0,2018-07-29,Internacional,3.0,0.0,Botafogo,VC,3.0,0.0,154.0
+Série A,2018.0,2018-07-29,Santos,0.0,1.0,América-MG,VV,0.0,3.0,156.0
+Série A,2018.0,2018-07-29,Palmeiras,3.0,0.0,Paraná,VC,3.0,0.0,155.0
+Série A,2018.0,2018-07-30,Bahia,2.0,2.0,Atlético-MG,E,1.0,1.0,157.0
+Série A,2018.0,2018-08-04,Botafogo,0.0,0.0,Santos,E,1.0,1.0,158.0
+Série A,2018.0,2018-08-04,Corinthians,0.0,0.0,Athletico-PR,E,1.0,1.0,159.0
+Série A,2018.0,2018-08-04,Grêmio,2.0,0.0,Flamengo,VC,3.0,0.0,160.0
+Série A,2018.0,2018-08-05,Paraná,0.0,1.0,Ceará,VV,0.0,3.0,163.0
+Série A,2018.0,2018-08-05,Fluminense,1.0,1.0,Bahia,E,1.0,1.0,162.0
+Série A,2018.0,2018-08-05,América-MG,0.0,0.0,Palmeiras,E,1.0,1.0,161.0
+Série A,2018.0,2018-08-05,Vitória,1.0,1.0,Cruzeiro,E,1.0,1.0,166.0
+Série A,2018.0,2018-08-05,Sport,1.0,1.0,Chapecoense,E,1.0,1.0,165.0
+Série A,2018.0,2018-08-05,São Paulo,2.0,1.0,Vasco,VC,3.0,0.0,164.0
+Série A,2018.0,2018-08-06,Atlético-MG,0.0,1.0,Internacional,VV,0.0,3.0,167.0
+Série A,2018.0,2018-08-08,Ceará,1.0,1.0,Santos,E,1.0,1.0,168.0
+Série A,2018.0,2018-08-11,Ceará,0.0,0.0,Athletico-PR,E,1.0,1.0,170.0
+Série A,2018.0,2018-08-11,Bahia,1.0,0.0,América-MG,VC,3.0,0.0,169.0
+Série A,2018.0,2018-08-12,Chapecoense,2.0,1.0,Corinthians,VC,3.0,0.0,172.0
+Série A,2018.0,2018-08-12,Paraná,1.0,1.0,Botafogo,E,1.0,1.0,176.0
+Série A,2018.0,2018-08-12,Flamengo,1.0,0.0,Cruzeiro,VC,3.0,0.0,173.0
+Série A,2018.0,2018-08-12,Grêmio,4.0,0.0,Vitória,VC,3.0,0.0,174.0
+Série A,2018.0,2018-08-12,Atlético-MG,3.0,1.0,Santos,VC,3.0,0.0,171.0
+Série A,2018.0,2018-08-12,Sport,1.0,3.0,São Paulo,VV,0.0,3.0,177.0
+Série A,2018.0,2018-08-12,Palmeiras,1.0,0.0,Vasco,VC,3.0,0.0,175.0
+Série A,2018.0,2018-08-13,Fluminense,0.0,3.0,Internacional,VV,0.0,3.0,178.0
+Série A,2018.0,2018-08-18,Corinthians,0.0,1.0,Grêmio,VV,0.0,3.0,179.0
+Série A,2018.0,2018-08-18,Santos,3.0,0.0,Sport,VC,3.0,0.0,180.0
+Série A,2018.0,2018-08-19,Vitória,0.0,3.0,Palmeiras,VV,0.0,3.0,187.0
+Série A,2018.0,2018-08-19,São Paulo,2.0,0.0,Chapecoense,VC,3.0,0.0,186.0
+Série A,2018.0,2018-08-19,Internacional,1.0,0.0,Paraná,VC,3.0,0.0,185.0
+Série A,2018.0,2018-08-19,América-MG,0.0,0.0,Fluminense,E,1.0,1.0,181.0
+Série A,2018.0,2018-08-19,Athletico-PR,3.0,0.0,Flamengo,VC,3.0,0.0,182.0
+Série A,2018.0,2018-08-19,Cruzeiro,1.0,1.0,Bahia,E,1.0,1.0,184.0
+Série A,2018.0,2018-08-19,Botafogo,0.0,3.0,Atlético-MG,VV,0.0,3.0,183.0
+Série A,2018.0,2018-08-20,Vasco,1.0,1.0,Ceará,E,1.0,1.0,188.0
+Série A,2018.0,2018-08-22,Grêmio,1.0,1.0,Cruzeiro,E,1.0,1.0,191.0
+Série A,2018.0,2018-08-22,Fluminense,1.0,0.0,Corinthians,VC,3.0,0.0,190.0
+Série A,2018.0,2018-08-22,Palmeiras,2.0,0.0,Botafogo,VC,3.0,0.0,192.0
+Série A,2018.0,2018-08-22,Sport,0.0,2.0,América-MG,VV,0.0,3.0,194.0
+Série A,2018.0,2018-08-22,Bahia,0.0,1.0,Internacional,VV,0.0,3.0,189.0
+Série A,2018.0,2018-08-22,Paraná,1.0,1.0,São Paulo,E,1.0,1.0,193.0
+Série A,2018.0,2018-08-23,Flamengo,1.0,0.0,Vitória,VC,3.0,0.0,196.0
+Série A,2018.0,2018-08-23,Atlético-MG,0.0,0.0,Vasco,E,1.0,1.0,195.0
+Série A,2018.0,2018-08-25,Santos,2.0,0.0,Bahia,VC,3.0,0.0,201.0
+Série A,2018.0,2018-08-25,Cruzeiro,2.0,1.0,Fluminense,VC,3.0,0.0,200.0
+Série A,2018.0,2018-08-25,Botafogo,2.0,0.0,Sport,VC,3.0,0.0,198.0
+Série A,2018.0,2018-08-25,Corinthians,1.0,0.0,Paraná,VC,3.0,0.0,199.0
+Série A,2018.0,2018-08-25,Athletico-PR,2.0,1.0,Grêmio,VC,3.0,0.0,197.0
+Série A,2018.0,2018-08-26,Internacional,0.0,0.0,Palmeiras,E,1.0,1.0,203.0
+Série A,2018.0,2018-08-26,Vasco,3.0,1.0,Chapecoense,VC,3.0,0.0,205.0
+Série A,2018.0,2018-08-26,América-MG,2.0,2.0,Flamengo,E,1.0,1.0,202.0
+Série A,2018.0,2018-08-26,São Paulo,1.0,0.0,Ceará,VC,3.0,0.0,204.0
+Série A,2018.0,2018-08-26,Vitória,1.0,0.0,Atlético-MG,VC,3.0,0.0,206.0
+Série A,2018.0,2018-08-29,Ceará,0.0,2.0,Bahia,VV,0.0,3.0,208.0
+Série A,2018.0,2018-08-29,Athletico-PR,1.0,0.0,Vasco,VC,3.0,0.0,207.0
+Série A,2018.0,2018-09-01,Corinthians,1.0,1.0,Atlético-MG,E,1.0,1.0,209.0
+Série A,2018.0,2018-09-01,Vitória,1.0,0.0,América-MG,VC,3.0,0.0,212.0
+Série A,2018.0,2018-09-01,Vasco,0.0,3.0,Santos,VV,0.0,3.0,211.0
+Série A,2018.0,2018-09-01,Grêmio,4.0,0.0,Botafogo,VC,3.0,0.0,210.0
+Série A,2018.0,2018-09-02,São Paulo,1.0,1.0,Fluminense,E,1.0,1.0,217.0
+Série A,2018.0,2018-09-02,Chapecoense,1.0,2.0,Palmeiras,VV,0.0,3.0,214.0
+Série A,2018.0,2018-09-02,Athletico-PR,2.0,0.0,Bahia,VC,3.0,0.0,213.0
+Série A,2018.0,2018-09-02,Sport,1.0,0.0,Paraná,VC,3.0,0.0,218.0
+Série A,2018.0,2018-09-02,Flamengo,0.0,1.0,Ceará,VV,0.0,3.0,216.0
+Série A,2018.0,2018-09-02,Cruzeiro,0.0,0.0,Internacional,E,1.0,1.0,215.0
+Série A,2018.0,2018-09-05,Palmeiras,2.0,0.0,Athletico-PR,VC,3.0,0.0,224.0
+Série A,2018.0,2018-09-05,Paraná,1.0,1.0,Chapecoense,E,1.0,1.0,225.0
+Série A,2018.0,2018-09-05,Internacional,2.0,1.0,Flamengo,VC,3.0,0.0,223.0
+Série A,2018.0,2018-09-05,Atlético-MG,1.0,0.0,São Paulo,VC,3.0,0.0,219.0
+Série A,2018.0,2018-09-05,Bahia,2.0,0.0,Sport,VC,3.0,0.0,220.0
+Série A,2018.0,2018-09-05,Ceará,2.0,1.0,Corinthians,VC,3.0,0.0,222.0
+Série A,2018.0,2018-09-05,Botafogo,1.0,1.0,Cruzeiro,E,1.0,1.0,221.0
+Série A,2018.0,2018-09-06,América-MG,2.0,1.0,Vasco,VC,3.0,0.0,226.0
+Série A,2018.0,2018-09-06,Fluminense,0.0,0.0,Vitória,E,1.0,1.0,227.0
+Série A,2018.0,2018-09-06,Santos,0.0,0.0,Grêmio,E,1.0,1.0,228.0
+Série A,2018.0,2018-09-08,Sport,0.0,0.0,Cruzeiro,E,1.0,1.0,231.0
+Série A,2018.0,2018-09-08,Flamengo,2.0,0.0,Chapecoense,VC,3.0,0.0,229.0
+Série A,2018.0,2018-09-08,São Paulo,1.0,0.0,Bahia,VC,3.0,0.0,230.0
+Série A,2018.0,2018-09-09,Paraná,0.0,2.0,Santos,VV,0.0,3.0,236.0
+Série A,2018.0,2018-09-09,Palmeiras,1.0,0.0,Corinthians,VC,3.0,0.0,235.0
+Série A,2018.0,2018-09-09,Vitória,1.0,0.0,Vasco,VC,3.0,0.0,237.0
+Série A,2018.0,2018-09-09,Fluminense,1.0,0.0,Botafogo,VC,3.0,0.0,233.0
+Série A,2018.0,2018-09-09,América-MG,0.0,0.0,Ceará,E,1.0,1.0,232.0
+Série A,2018.0,2018-09-09,Internacional,1.0,0.0,Grêmio,VC,3.0,0.0,234.0
+Série A,2018.0,2018-09-10,Atlético-MG,3.0,1.0,Athletico-PR,VC,3.0,0.0,238.0
+Série A,2018.0,2018-09-13,Chapecoense,2.0,1.0,Athletico-PR,VC,3.0,0.0,239.0
+Série A,2018.0,2018-09-15,Vasco,1.0,1.0,Flamengo,E,1.0,1.0,242.0
+Série A,2018.0,2018-09-15,Ceará,2.0,0.0,Vitória,VC,3.0,0.0,240.0
+Série A,2018.0,2018-09-15,Grêmio,2.0,0.0,Paraná,VC,3.0,0.0,241.0
+Série A,2018.0,2018-09-16,Botafogo,1.0,0.0,América-MG,VC,3.0,0.0,245.0
+Série A,2018.0,2018-09-16,Corinthians,2.0,1.0,Sport,VC,3.0,0.0,246.0
+Série A,2018.0,2018-09-16,Athletico-PR,3.0,1.0,Fluminense,VC,3.0,0.0,243.0
+Série A,2018.0,2018-09-16,Bahia,1.0,1.0,Palmeiras,E,1.0,1.0,244.0
+Série A,2018.0,2018-09-16,Cruzeiro,0.0,0.0,Atlético-MG,E,1.0,1.0,247.0
+Série A,2018.0,2018-09-16,Santos,0.0,0.0,São Paulo,E,1.0,1.0,248.0
+Série A,2018.0,2018-09-17,Chapecoense,2.0,1.0,Internacional,VC,3.0,0.0,249.0
+Série A,2018.0,2018-09-22,São Paulo,1.0,1.0,América-MG,E,1.0,1.0,250.0
+Série A,2018.0,2018-09-23,Cruzeiro,2.0,1.0,Santos,VC,3.0,0.0,253.0
+Série A,2018.0,2018-09-23,Vitória,3.0,4.0,Botafogo,VV,0.0,3.0,257.0
+Série A,2018.0,2018-09-23,Grêmio,3.0,2.0,Ceará,VC,3.0,0.0,255.0
+Série A,2018.0,2018-09-23,Corinthians,1.0,1.0,Internacional,E,1.0,1.0,252.0
+Série A,2018.0,2018-09-23,Sport,0.0,1.0,Palmeiras,VV,0.0,3.0,256.0
+Série A,2018.0,2018-09-23,Athletico-PR,3.0,0.0,Paraná,VC,3.0,0.0,251.0
+Série A,2018.0,2018-09-23,Flamengo,2.0,1.0,Atlético-MG,VC,3.0,0.0,254.0
+Série A,2018.0,2018-09-24,Vasco,2.0,1.0,Bahia,VC,3.0,0.0,259.0
+Série A,2018.0,2018-09-24,Chapecoense,1.0,2.0,Fluminense,VV,0.0,3.0,258.0
+Série A,2018.0,2018-09-27,Santos,1.0,1.0,Vasco,E,1.0,1.0,260.0
+Série A,2018.0,2018-09-29,América-MG,0.0,0.0,Corinthians,E,1.0,1.0,261.0
+Série A,2018.0,2018-09-29,Bahia,0.0,0.0,Flamengo,E,1.0,1.0,262.0
+Série A,2018.0,2018-09-29,Fluminense,0.0,1.0,Grêmio,VV,0.0,3.0,263.0
+Série A,2018.0,2018-09-30,Botafogo,2.0,2.0,São Paulo,E,1.0,1.0,265.0
+Série A,2018.0,2018-09-30,Atlético-MG,5.0,2.0,Sport,VC,3.0,0.0,264.0
+Série A,2018.0,2018-09-30,Palmeiras,3.0,1.0,Cruzeiro,VC,3.0,0.0,268.0
+Série A,2018.0,2018-09-30,Ceará,3.0,1.0,Chapecoense,VC,3.0,0.0,266.0
+Série A,2018.0,2018-09-30,Santos,1.0,0.0,Athletico-PR,VC,3.0,0.0,269.0
+Série A,2018.0,2018-09-30,Internacional,2.0,1.0,Vitória,VC,3.0,0.0,267.0
+Série A,2018.0,2018-10-01,Paraná,1.0,1.0,Vasco,E,1.0,1.0,270.0
+Série A,2018.0,2018-10-05,Corinthians,0.0,3.0,Flamengo,VV,0.0,3.0,271.0
+Série A,2018.0,2018-10-05,Vitória,0.0,1.0,Santos,VV,0.0,3.0,273.0
+Série A,2018.0,2018-10-05,Sport,2.0,1.0,Internacional,VC,3.0,0.0,272.0
+Série A,2018.0,2018-10-06,Athletico-PR,4.0,0.0,América-MG,VC,3.0,0.0,274.0
+Série A,2018.0,2018-10-06,Chapecoense,1.0,0.0,Atlético-MG,VC,3.0,0.0,275.0
+Série A,2018.0,2018-10-06,Grêmio,2.0,2.0,Bahia,E,1.0,1.0,276.0
+Série A,2018.0,2018-10-06,São Paulo,0.0,2.0,Palmeiras,VV,0.0,3.0,277.0
+Série A,2018.0,2018-10-08,Fluminense,4.0,0.0,Paraná,VC,3.0,0.0,278.0
+Série A,2018.0,2018-10-09,Botafogo,1.0,1.0,Vasco,E,1.0,1.0,279.0
+Série A,2018.0,2018-10-13,Flamengo,3.0,0.0,Fluminense,VC,3.0,0.0,281.0
+Série A,2018.0,2018-10-13,Bahia,2.0,0.0,Paraná,VC,3.0,0.0,280.0
+Série A,2018.0,2018-10-13,Santos,1.0,0.0,Corinthians,VC,3.0,0.0,282.0
+Série A,2018.0,2018-10-14,Internacional,3.0,1.0,São Paulo,VC,3.0,0.0,286.0
+Série A,2018.0,2018-10-14,Palmeiras,2.0,0.0,Grêmio,VC,3.0,0.0,287.0
+Série A,2018.0,2018-10-14,Atlético-MG,0.0,0.0,América-MG,E,1.0,1.0,283.0
+Série A,2018.0,2018-10-14,Chapecoense,0.0,1.0,Vitória,VV,0.0,3.0,285.0
+Série A,2018.0,2018-10-14,Vasco,2.0,0.0,Cruzeiro,VC,3.0,0.0,288.0
+Série A,2018.0,2018-10-14,Athletico-PR,4.0,0.0,Sport,VC,3.0,0.0,284.0
+Série A,2018.0,2018-10-15,Ceará,0.0,0.0,Botafogo,E,1.0,1.0,289.0
+Série A,2018.0,2018-10-20,Botafogo,0.0,1.0,Bahia,VV,0.0,3.0,291.0
+Série A,2018.0,2018-10-20,América-MG,1.0,1.0,Grêmio,E,1.0,1.0,290.0
+Série A,2018.0,2018-10-20,Sport,2.0,1.0,Vasco,VC,3.0,0.0,293.0
+Série A,2018.0,2018-10-20,São Paulo,0.0,0.0,Athletico-PR,E,1.0,1.0,292.0
+Série A,2018.0,2018-10-21,Palmeiras,2.0,1.0,Ceará,VC,3.0,0.0,296.0
+Série A,2018.0,2018-10-21,Paraná,0.0,4.0,Flamengo,VV,0.0,3.0,297.0
+Série A,2018.0,2018-10-21,Cruzeiro,3.0,0.0,Chapecoense,VC,3.0,0.0,294.0
+Série A,2018.0,2018-10-21,Vitória,2.0,2.0,Corinthians,E,1.0,1.0,298.0
+Série A,2018.0,2018-10-21,Fluminense,1.0,0.0,Atlético-MG,VC,3.0,0.0,295.0
+Série A,2018.0,2018-10-22,Internacional,2.0,2.0,Santos,E,1.0,1.0,299.0
+Série A,2018.0,2018-10-24,Cruzeiro,0.0,2.0,Ceará,VV,0.0,3.0,300.0
+Série A,2018.0,2018-10-26,Vitória,0.0,1.0,São Paulo,VV,0.0,3.0,302.0
+Série A,2018.0,2018-10-26,Vasco,1.0,1.0,Internacional,E,1.0,1.0,301.0
+Série A,2018.0,2018-10-27,Flamengo,1.0,1.0,Palmeiras,E,1.0,1.0,307.0
+Série A,2018.0,2018-10-27,Chapecoense,1.0,0.0,América-MG,VC,3.0,0.0,305.0
+Série A,2018.0,2018-10-27,Athletico-PR,2.0,1.0,Botafogo,VC,3.0,0.0,304.0
+Série A,2018.0,2018-10-27,Corinthians,2.0,1.0,Bahia,VC,3.0,0.0,306.0
+Série A,2018.0,2018-10-27,Cruzeiro,3.0,1.0,Paraná,VC,3.0,0.0,303.0
+Série A,2018.0,2018-10-27,Santos,3.0,0.0,Fluminense,VC,3.0,0.0,309.0
+Série A,2018.0,2018-10-27,Grêmio,3.0,4.0,Sport,VV,0.0,3.0,308.0
+Série A,2018.0,2018-10-29,Ceará,2.0,1.0,Atlético-MG,VC,3.0,0.0,310.0
+Série A,2018.0,2018-11-03,Palmeiras,3.0,2.0,Santos,VC,3.0,0.0,313.0
+Série A,2018.0,2018-11-03,Atlético-MG,0.0,1.0,Grêmio,VV,0.0,3.0,311.0
+Série A,2018.0,2018-11-03,Fluminense,0.0,1.0,Vasco,VV,0.0,3.0,312.0
+Série A,2018.0,2018-11-04,Bahia,1.0,0.0,Chapecoense,VC,3.0,0.0,316.0
+Série A,2018.0,2018-11-04,Botafogo,1.0,0.0,Corinthians,VC,3.0,0.0,317.0
+Série A,2018.0,2018-11-04,Paraná,1.0,1.0,Vitória,E,1.0,1.0,319.0
+Série A,2018.0,2018-11-04,Internacional,2.0,1.0,Athletico-PR,VC,3.0,0.0,318.0
+Série A,2018.0,2018-11-04,América-MG,1.0,2.0,Cruzeiro,VV,0.0,3.0,315.0
+Série A,2018.0,2018-11-04,São Paulo,2.0,2.0,Flamengo,E,1.0,1.0,314.0
+Série A,2018.0,2018-11-05,Sport,1.0,0.0,Ceará,VC,3.0,0.0,320.0
+Série A,2018.0,2018-11-10,Athletico-PR,2.0,0.0,Cruzeiro,VC,3.0,0.0,322.0
+Série A,2018.0,2018-11-10,América-MG,0.0,1.0,Paraná,VV,0.0,3.0,321.0
+Série A,2018.0,2018-11-10,Corinthians,1.0,1.0,São Paulo,E,1.0,1.0,324.0
+Série A,2018.0,2018-11-10,Botafogo,2.0,1.0,Flamengo,VC,3.0,0.0,323.0
+Série A,2018.0,2018-11-11,Atlético-MG,1.0,1.0,Palmeiras,E,1.0,1.0,325.0
+Série A,2018.0,2018-11-11,Fluminense,0.0,0.0,Sport,E,1.0,1.0,327.0
+Série A,2018.0,2018-11-11,Vitória,2.0,2.0,Bahia,E,1.0,1.0,329.0
+Série A,2018.0,2018-11-11,Ceará,1.0,1.0,Internacional,E,1.0,1.0,326.0
+Série A,2018.0,2018-11-11,Grêmio,2.0,1.0,Vasco,VC,3.0,0.0,328.0
+Série A,2018.0,2018-11-12,Santos,0.0,1.0,Chapecoense,VV,0.0,3.0,330.0
+Série A,2018.0,2018-11-14,Paraná,0.0,1.0,Atlético-MG,VV,0.0,3.0,334.0
+Série A,2018.0,2018-11-14,Vasco,1.0,1.0,Athletico-PR,E,1.0,1.0,336.0
+Série A,2018.0,2018-11-14,Bahia,2.0,1.0,Ceará,VC,3.0,0.0,331.0
+Série A,2018.0,2018-11-14,Cruzeiro,1.0,0.0,Corinthians,VC,3.0,0.0,332.0
+Série A,2018.0,2018-11-14,Palmeiras,3.0,0.0,Fluminense,VC,3.0,0.0,333.0
+Série A,2018.0,2018-11-14,Sport,0.0,0.0,Vitória,E,1.0,1.0,335.0
+Série A,2018.0,2018-11-15,São Paulo,1.0,1.0,Grêmio,E,1.0,1.0,340.0
+Série A,2018.0,2018-11-15,Flamengo,1.0,0.0,Santos,VC,3.0,0.0,338.0
+Série A,2018.0,2018-11-15,Chapecoense,0.0,1.0,Botafogo,VV,0.0,3.0,337.0
+Série A,2018.0,2018-11-15,Internacional,2.0,0.0,América-MG,VC,3.0,0.0,339.0
+Série A,2018.0,2018-11-17,Vitória,1.0,2.0,Athletico-PR,VV,0.0,3.0,343.0
+Série A,2018.0,2018-11-17,Corinthians,1.0,0.0,Vasco,VC,3.0,0.0,342.0
+Série A,2018.0,2018-11-17,Atlético-MG,1.0,0.0,Bahia,VC,3.0,0.0,341.0
+Série A,2018.0,2018-11-18,Sport,0.0,1.0,Flamengo,VV,0.0,3.0,349.0
+Série A,2018.0,2018-11-18,Paraná,1.0,1.0,Palmeiras,E,1.0,1.0,347.0
+Série A,2018.0,2018-11-18,São Paulo,1.0,0.0,Cruzeiro,VC,3.0,0.0,348.0
+Série A,2018.0,2018-11-18,América-MG,2.0,1.0,Santos,VC,3.0,0.0,344.0
+Série A,2018.0,2018-11-18,Grêmio,2.0,0.0,Chapecoense,VC,3.0,0.0,346.0
+Série A,2018.0,2018-11-18,Botafogo,1.0,0.0,Internacional,VC,3.0,0.0,345.0
+Série A,2018.0,2018-11-19,Fluminense,0.0,0.0,Ceará,E,1.0,1.0,350.0
+Série A,2018.0,2018-11-21,Cruzeiro,3.0,0.0,Vitória,VC,3.0,0.0,352.0
+Série A,2018.0,2018-11-21,Santos,1.0,1.0,Botafogo,E,1.0,1.0,356.0
+Série A,2018.0,2018-11-21,Flamengo,2.0,0.0,Grêmio,VC,3.0,0.0,353.0
+Série A,2018.0,2018-11-21,Internacional,1.0,2.0,Atlético-MG,VV,0.0,3.0,354.0
+Série A,2018.0,2018-11-21,Palmeiras,4.0,0.0,América-MG,VC,3.0,0.0,355.0
+Série A,2018.0,2018-11-21,Athletico-PR,1.0,0.0,Corinthians,VC,3.0,0.0,351.0
+Série A,2018.0,2018-11-22,Ceará,1.0,0.0,Paraná,VC,3.0,0.0,358.0
+Série A,2018.0,2018-11-22,Bahia,2.0,0.0,Fluminense,VC,3.0,0.0,357.0
+Série A,2018.0,2018-11-22,Vasco,2.0,0.0,São Paulo,VC,3.0,0.0,360.0
+Série A,2018.0,2018-11-22,Chapecoense,2.0,1.0,Sport,VC,3.0,0.0,359.0
+Série A,2018.0,2018-11-24,Santos,3.0,2.0,Atlético-MG,VC,3.0,0.0,361.0
+Série A,2018.0,2018-11-25,Vasco,0.0,1.0,Palmeiras,VV,0.0,3.0,367.0
+Série A,2018.0,2018-11-25,Cruzeiro,0.0,2.0,Flamengo,VV,0.0,3.0,365.0
+Série A,2018.0,2018-11-25,Corinthians,0.0,0.0,Chapecoense,E,1.0,1.0,364.0
+Série A,2018.0,2018-11-25,Vitória,0.0,0.0,Grêmio,E,1.0,1.0,368.0
+Série A,2018.0,2018-11-25,Internacional,2.0,0.0,Fluminense,VC,3.0,0.0,366.0
+Série A,2018.0,2018-11-25,América-MG,1.0,0.0,Bahia,VC,3.0,0.0,362.0
+Série A,2018.0,2018-11-25,Athletico-PR,2.0,2.0,Ceará,E,1.0,1.0,363.0
+Série A,2018.0,2018-11-26,São Paulo,0.0,0.0,Sport,E,1.0,1.0,370.0
+Série A,2018.0,2018-11-26,Botafogo,2.0,1.0,Paraná,VC,3.0,0.0,369.0
+Série A,2018.0,2018-12-01,Flamengo,1.0,2.0,Athletico-PR,VV,0.0,3.0,372.0
+Série A,2018.0,2018-12-01,Atlético-MG,1.0,0.0,Botafogo,VC,3.0,0.0,371.0
+Série A,2018.0,2018-12-02,Sport,2.0,1.0,Santos,VC,3.0,0.0,380.0
+Série A,2018.0,2018-12-02,Paraná,1.0,0.0,Internacional,VC,3.0,0.0,379.0
+Série A,2018.0,2018-12-02,Palmeiras,3.0,2.0,Vitória,VC,3.0,0.0,378.0
+Série A,2018.0,2018-12-02,Bahia,0.0,0.0,Cruzeiro,E,1.0,1.0,373.0
+Série A,2018.0,2018-12-02,Grêmio,1.0,0.0,Corinthians,VC,3.0,0.0,377.0
+Série A,2018.0,2018-12-02,Ceará,0.0,0.0,Vasco,E,1.0,1.0,374.0
+Série A,2018.0,2018-12-02,Chapecoense,1.0,0.0,São Paulo,VC,3.0,0.0,375.0
+Série A,2018.0,2018-12-02,Fluminense,1.0,0.0,América-MG,VC,3.0,0.0,376.0
+Série A,2019.0,2019-04-27,Atlético-MG,2.0,1.0,Avaí,VC,3.0,0.0,1.0
+Série A,2019.0,2019-04-27,São Paulo,2.0,0.0,Botafogo,VC,3.0,0.0,2.0
+Série A,2019.0,2019-04-27,Flamengo,3.0,1.0,Cruzeiro,VC,3.0,0.0,3.0
+Série A,2019.0,2019-04-27,Chapecoense,2.0,0.0,Internacional,VC,3.0,0.0,4.0
+Série A,2019.0,2019-04-28,Palmeiras,4.0,0.0,Fortaleza,VC,3.0,0.0,7.0
+Série A,2019.0,2019-04-28,Ceará,4.0,0.0,CSA,VC,3.0,0.0,6.0
+Série A,2019.0,2019-04-28,Grêmio,1.0,2.0,Santos,VV,0.0,3.0,5.0
+Série A,2019.0,2019-04-28,Fluminense,0.0,1.0,Goiás,VV,0.0,3.0,8.0
+Série A,2019.0,2019-04-28,Athletico-PR,4.0,1.0,Vasco,VC,3.0,0.0,10.0
+Série A,2019.0,2019-04-28,Bahia,3.0,2.0,Corinthians,VC,3.0,0.0,9.0
+Série A,2019.0,2019-05-01,Goiás,1.0,2.0,São Paulo,VV,0.0,3.0,17.0
+Série A,2019.0,2019-05-01,Vasco,1.0,2.0,Atlético-MG,VV,0.0,3.0,15.0
+Série A,2019.0,2019-05-01,Fortaleza,2.0,1.0,Athletico-PR,VC,3.0,0.0,13.0
+Série A,2019.0,2019-05-01,Internacional,2.0,1.0,Flamengo,VC,3.0,0.0,11.0
+Série A,2019.0,2019-05-01,Cruzeiro,1.0,0.0,Ceará,VC,3.0,0.0,12.0
+Série A,2019.0,2019-05-01,Corinthians,1.0,0.0,Chapecoense,VC,3.0,0.0,14.0
+Série A,2019.0,2019-05-01,Avaí,1.0,1.0,Grêmio,E,1.0,1.0,16.0
+Série A,2019.0,2019-05-01,CSA,1.0,1.0,Palmeiras,E,1.0,1.0,18.0
+Série A,2019.0,2019-05-02,Santos,2.0,1.0,Fluminense,VC,3.0,0.0,19.0
+Série A,2019.0,2019-05-02,Botafogo,3.0,2.0,Bahia,VC,3.0,0.0,20.0
+Série A,2019.0,2019-05-04,Palmeiras,1.0,0.0,Internacional,VC,3.0,0.0,22.0
+Série A,2019.0,2019-05-04,Vasco,1.0,1.0,Corinthians,E,1.0,1.0,23.0
+Série A,2019.0,2019-05-04,Ceará,1.0,2.0,Atlético-MG,VV,0.0,3.0,21.0
+Série A,2019.0,2019-05-05,Bahia,1.0,0.0,Avaí,VC,3.0,0.0,29.0
+Série A,2019.0,2019-05-05,CSA,0.0,0.0,Santos,E,1.0,1.0,30.0
+Série A,2019.0,2019-05-05,Botafogo,1.0,0.0,Fortaleza,VC,3.0,0.0,27.0
+Série A,2019.0,2019-05-05,Chapecoense,1.0,1.0,Athletico-PR,E,1.0,1.0,28.0
+Série A,2019.0,2019-05-05,São Paulo,1.0,1.0,Flamengo,E,1.0,1.0,26.0
+Série A,2019.0,2019-05-05,Cruzeiro,2.0,1.0,Goiás,VC,3.0,0.0,25.0
+Série A,2019.0,2019-05-05,Grêmio,4.0,5.0,Fluminense,VV,0.0,3.0,24.0
+Série A,2019.0,2019-05-11,Goiás,2.0,1.0,Ceará,VC,3.0,0.0,33.0
+Série A,2019.0,2019-05-11,Corinthians,0.0,0.0,Grêmio,E,1.0,1.0,31.0
+Série A,2019.0,2019-05-11,Fluminense,0.0,1.0,Botafogo,VV,0.0,3.0,32.0
+Série A,2019.0,2019-05-12,Santos,3.0,0.0,Vasco,VC,3.0,0.0,37.0
+Série A,2019.0,2019-05-12,Athletico-PR,1.0,0.0,Bahia,VC,3.0,0.0,40.0
+Série A,2019.0,2019-05-12,Flamengo,2.0,1.0,Chapecoense,VC,3.0,0.0,38.0
+Série A,2019.0,2019-05-12,Fortaleza,0.0,1.0,São Paulo,VV,0.0,3.0,36.0
+Série A,2019.0,2019-05-12,Avaí,0.0,0.0,CSA,E,1.0,1.0,39.0
+Série A,2019.0,2019-05-12,Atlético-MG,0.0,2.0,Palmeiras,VV,0.0,3.0,35.0
+Série A,2019.0,2019-05-12,Internacional,3.0,1.0,Cruzeiro,VC,3.0,0.0,34.0
+Série A,2019.0,2019-05-18,Palmeiras,4.0,0.0,Santos,VC,3.0,0.0,42.0
+Série A,2019.0,2019-05-18,Fluminense,4.0,1.0,Cruzeiro,VC,3.0,0.0,43.0
+Série A,2019.0,2019-05-18,Atlético-MG,2.0,1.0,Flamengo,VC,3.0,0.0,41.0
+Série A,2019.0,2019-05-19,Vasco,1.0,1.0,Avaí,E,1.0,1.0,48.0
+Série A,2019.0,2019-05-19,Goiás,1.0,0.0,Botafogo,VC,3.0,0.0,49.0
+Série A,2019.0,2019-05-19,Athletico-PR,0.0,2.0,Corinthians,VV,0.0,3.0,50.0
+Série A,2019.0,2019-05-19,Chapecoense,1.0,3.0,Fortaleza,VV,0.0,3.0,44.0
+Série A,2019.0,2019-05-19,São Paulo,0.0,0.0,Bahia,E,1.0,1.0,47.0
+Série A,2019.0,2019-05-19,Ceará,2.0,1.0,Grêmio,VC,3.0,0.0,46.0
+Série A,2019.0,2019-05-19,Internacional,2.0,0.0,CSA,VC,3.0,0.0,45.0
+Série A,2019.0,2019-05-25,Botafogo,0.0,1.0,Palmeiras,VV,0.0,3.0,51.0
+Série A,2019.0,2019-05-25,Grêmio,1.0,0.0,Atlético-MG,VC,3.0,0.0,52.0
+Série A,2019.0,2019-05-26,Corinthians,1.0,0.0,São Paulo,VC,3.0,0.0,54.0
+Série A,2019.0,2019-05-26,Bahia,3.0,2.0,Fluminense,VC,3.0,0.0,58.0
+Série A,2019.0,2019-05-26,Flamengo,3.0,2.0,Athletico-PR,VC,3.0,0.0,57.0
+Série A,2019.0,2019-05-26,Fortaleza,1.0,1.0,Vasco,E,1.0,1.0,53.0
+Série A,2019.0,2019-05-26,Santos,0.0,0.0,Internacional,E,1.0,1.0,56.0
+Série A,2019.0,2019-05-26,Cruzeiro,1.0,2.0,Chapecoense,VV,0.0,3.0,55.0
+Série A,2019.0,2019-05-27,Avaí,1.0,2.0,Ceará,VV,0.0,3.0,59.0
+Série A,2019.0,2019-05-27,CSA,1.0,0.0,Goiás,VC,3.0,0.0,60.0
+Série A,2019.0,2019-06-01,Flamengo,2.0,0.0,Fortaleza,VC,3.0,0.0,61.0
+Série A,2019.0,2019-06-01,Bahia,1.0,0.0,Grêmio,VC,3.0,0.0,62.0
+Série A,2019.0,2019-06-02,Athletico-PR,3.0,0.0,Fluminense,VC,3.0,0.0,69.0
+Série A,2019.0,2019-06-02,Chapecoense,1.0,2.0,Palmeiras,VV,0.0,3.0,68.0
+Série A,2019.0,2019-06-02,Botafogo,1.0,0.0,Vasco,VC,3.0,0.0,67.0
+Série A,2019.0,2019-06-02,Internacional,2.0,0.0,Avaí,VC,3.0,0.0,63.0
+Série A,2019.0,2019-06-02,Ceará,0.0,1.0,Santos,VV,0.0,3.0,65.0
+Série A,2019.0,2019-06-02,São Paulo,1.0,1.0,Cruzeiro,E,1.0,1.0,66.0
+Série A,2019.0,2019-06-02,Atlético-MG,4.0,0.0,CSA,VC,3.0,0.0,64.0
+Série A,2019.0,2019-06-07,Vasco,2.0,1.0,Internacional,VC,3.0,0.0,70.0
+Série A,2019.0,2019-06-08,Cruzeiro,0.0,0.0,Corinthians,E,1.0,1.0,75.0
+Série A,2019.0,2019-06-08,Grêmio,1.0,0.0,Fortaleza,VC,3.0,0.0,71.0
+Série A,2019.0,2019-06-08,Ceará,0.0,0.0,Bahia,E,1.0,1.0,72.0
+Série A,2019.0,2019-06-08,Palmeiras,1.0,0.0,Athletico-PR,VC,3.0,0.0,73.0
+Série A,2019.0,2019-06-08,Avaí,0.0,0.0,São Paulo,E,1.0,1.0,74.0
+Série A,2019.0,2019-06-09,Fluminense,0.0,0.0,Flamengo,E,1.0,1.0,77.0
+Série A,2019.0,2019-06-09,Santos,3.0,1.0,Atlético-MG,VC,3.0,0.0,76.0
+Série A,2019.0,2019-06-09,CSA,1.0,2.0,Botafogo,VV,0.0,3.0,78.0
+Série A,2019.0,2019-06-10,Goiás,3.0,1.0,Chapecoense,VC,3.0,0.0,79.0
+Série A,2019.0,2019-06-12,Fortaleza,2.0,1.0,Cruzeiro,VC,3.0,0.0,81.0
+Série A,2019.0,2019-06-12,Internacional,3.0,1.0,Bahia,VC,3.0,0.0,80.0
+Série A,2019.0,2019-06-12,Santos,1.0,0.0,Corinthians,VC,3.0,0.0,82.0
+Série A,2019.0,2019-06-12,Botafogo,0.0,1.0,Grêmio,VV,0.0,3.0,83.0
+Série A,2019.0,2019-06-12,CSA,0.0,2.0,Flamengo,VV,0.0,3.0,84.0
+Série A,2019.0,2019-06-13,Chapecoense,1.0,1.0,Fluminense,E,1.0,1.0,88.0
+Série A,2019.0,2019-06-13,Palmeiras,2.0,0.0,Avaí,VC,3.0,0.0,86.0
+Série A,2019.0,2019-06-13,Vasco,1.0,0.0,Ceará,VC,3.0,0.0,87.0
+Série A,2019.0,2019-06-13,Goiás,2.0,1.0,Athletico-PR,VC,3.0,0.0,89.0
+Série A,2019.0,2019-06-13,Atlético-MG,1.0,1.0,São Paulo,E,1.0,1.0,85.0
+Série A,2019.0,2019-07-13,Fortaleza,2.0,0.0,Avaí,VC,3.0,0.0,91.0
+Série A,2019.0,2019-07-13,Grêmio,2.0,1.0,Vasco,VC,3.0,0.0,90.0
+Série A,2019.0,2019-07-13,Bahia,0.0,1.0,Santos,VV,0.0,3.0,93.0
+Série A,2019.0,2019-07-13,São Paulo,1.0,1.0,Palmeiras,E,1.0,1.0,92.0
+Série A,2019.0,2019-07-14,Athletico-PR,1.0,0.0,Internacional,VC,3.0,0.0,98.0
+Série A,2019.0,2019-07-14,Chapecoense,1.0,2.0,Atlético-MG,VV,0.0,3.0,97.0
+Série A,2019.0,2019-07-14,Cruzeiro,0.0,0.0,Botafogo,E,1.0,1.0,94.0
+Série A,2019.0,2019-07-14,Corinthians,1.0,0.0,CSA,VC,3.0,0.0,95.0
+Série A,2019.0,2019-07-14,Flamengo,6.0,1.0,Goiás,VC,3.0,0.0,96.0
+Série A,2019.0,2019-07-15,Fluminense,1.0,1.0,Ceará,E,1.0,1.0,99.0
+Série A,2019.0,2019-07-20,Bahia,0.0,0.0,Cruzeiro,E,1.0,1.0,103.0
+Série A,2019.0,2019-07-20,CSA,0.0,4.0,Athletico-PR,VV,0.0,3.0,104.0
+Série A,2019.0,2019-07-20,Internacional,1.0,1.0,Grêmio,E,1.0,1.0,100.0
+Série A,2019.0,2019-07-20,Ceará,2.0,0.0,Palmeiras,VC,3.0,0.0,101.0
+Série A,2019.0,2019-07-20,Vasco,2.0,1.0,Fluminense,VC,3.0,0.0,102.0
+Série A,2019.0,2019-07-21,Corinthians,1.0,1.0,Flamengo,E,1.0,1.0,106.0
+Série A,2019.0,2019-07-21,Botafogo,0.0,1.0,Santos,VV,0.0,3.0,107.0
+Série A,2019.0,2019-07-21,Avaí,0.0,0.0,Goiás,E,1.0,1.0,108.0
+Série A,2019.0,2019-07-21,Atlético-MG,2.0,2.0,Fortaleza,E,1.0,1.0,105.0
+Série A,2019.0,2019-07-22,São Paulo,4.0,0.0,Chapecoense,VC,3.0,0.0,109.0
+Série A,2019.0,2019-07-27,Internacional,1.0,0.0,Ceará,VC,3.0,0.0,110.0
+Série A,2019.0,2019-07-27,Cruzeiro,0.0,2.0,Athletico-PR,VV,0.0,3.0,111.0
+Série A,2019.0,2019-07-27,Palmeiras,1.0,1.0,Vasco,E,1.0,1.0,112.0
+Série A,2019.0,2019-07-27,Fluminense,1.0,2.0,São Paulo,VV,0.0,3.0,113.0
+Série A,2019.0,2019-07-28,Goiás,0.0,0.0,Atlético-MG,E,1.0,1.0,118.0
+Série A,2019.0,2019-07-28,Santos,3.0,1.0,Avaí,VC,3.0,0.0,114.0
+Série A,2019.0,2019-07-28,Fortaleza,1.0,3.0,Corinthians,VV,0.0,3.0,115.0
+Série A,2019.0,2019-07-28,Chapecoense,0.0,0.0,Bahia,E,1.0,1.0,117.0
+Série A,2019.0,2019-07-28,Flamengo,3.0,2.0,Botafogo,VC,3.0,0.0,116.0
+Série A,2019.0,2019-07-29,CSA,0.0,0.0,Grêmio,E,1.0,1.0,119.0
+Série A,2019.0,2019-08-03,Fluminense,2.0,1.0,Internacional,VC,3.0,0.0,121.0
+Série A,2019.0,2019-08-03,Ceará,2.0,1.0,Fortaleza,VC,3.0,0.0,120.0
+Série A,2019.0,2019-08-04,Corinthians,1.0,1.0,Palmeiras,E,1.0,1.0,124.0
+Série A,2019.0,2019-08-04,Bahia,3.0,0.0,Flamengo,VC,3.0,0.0,122.0
+Série A,2019.0,2019-08-04,Santos,6.0,1.0,Goiás,VC,3.0,0.0,125.0
+Série A,2019.0,2019-08-04,Avaí,0.0,3.0,Botafogo,VV,0.0,3.0,127.0
+Série A,2019.0,2019-08-04,Vasco,0.0,0.0,CSA,E,1.0,1.0,126.0
+Série A,2019.0,2019-08-04,Atlético-MG,2.0,0.0,Cruzeiro,VC,3.0,0.0,123.0
+Série A,2019.0,2019-08-05,Grêmio,3.0,3.0,Chapecoense,E,1.0,1.0,128.0
+Série A,2019.0,2019-08-07,Corinthians,2.0,0.0,Goiás,VC,3.0,0.0,129.0
+Série A,2019.0,2019-08-10,Flamengo,3.0,1.0,Grêmio,VC,3.0,0.0,133.0
+Série A,2019.0,2019-08-10,Atlético-MG,2.0,1.0,Fluminense,VC,3.0,0.0,130.0
+Série A,2019.0,2019-08-10,Ceará,4.0,1.0,Chapecoense,VC,3.0,0.0,131.0
+Série A,2019.0,2019-08-10,São Paulo,3.0,2.0,Santos,VC,3.0,0.0,132.0
+Série A,2019.0,2019-08-11,Goiás,0.0,1.0,Vasco,VV,0.0,3.0,138.0
+Série A,2019.0,2019-08-11,Internacional,0.0,0.0,Corinthians,E,1.0,1.0,134.0
+Série A,2019.0,2019-08-11,Avaí,2.0,2.0,Cruzeiro,E,1.0,1.0,137.0
+Série A,2019.0,2019-08-11,Botafogo,2.0,1.0,Athletico-PR,VC,3.0,0.0,136.0
+Série A,2019.0,2019-08-11,Palmeiras,2.0,2.0,Bahia,E,1.0,1.0,135.0
+Série A,2019.0,2019-08-12,CSA,0.0,2.0,Fortaleza,VV,0.0,3.0,139.0
+Série A,2019.0,2019-08-17,Athletico-PR,1.0,0.0,Atlético-MG,VC,3.0,0.0,144.0
+Série A,2019.0,2019-08-17,Corinthians,2.0,0.0,Botafogo,VC,3.0,0.0,142.0
+Série A,2019.0,2019-08-17,Vasco,1.0,4.0,Flamengo,VV,0.0,3.0,143.0
+Série A,2019.0,2019-08-17,Fortaleza,0.0,1.0,Internacional,VV,0.0,3.0,141.0
+Série A,2019.0,2019-08-17,Grêmio,1.0,1.0,Palmeiras,E,1.0,1.0,140.0
+Série A,2019.0,2019-08-18,Fluminense,0.0,1.0,CSA,VV,0.0,3.0,147.0
+Série A,2019.0,2019-08-18,Cruzeiro,2.0,0.0,Santos,VC,3.0,0.0,145.0
+Série A,2019.0,2019-08-18,Chapecoense,1.0,0.0,Avaí,VC,3.0,0.0,148.0
+Série A,2019.0,2019-08-18,Bahia,1.0,1.0,Goiás,E,1.0,1.0,149.0
+Série A,2019.0,2019-08-18,São Paulo,1.0,0.0,Ceará,VC,3.0,0.0,146.0
+Série A,2019.0,2019-08-21,Athletico-PR,0.0,1.0,São Paulo,VV,0.0,3.0,150.0
+Série A,2019.0,2019-08-24,Grêmio,2.0,1.0,Athletico-PR,VC,3.0,0.0,151.0
+Série A,2019.0,2019-08-24,Atlético-MG,0.0,1.0,Bahia,VV,0.0,3.0,152.0
+Série A,2019.0,2019-08-25,CSA,1.0,1.0,Cruzeiro,E,1.0,1.0,158.0
+Série A,2019.0,2019-08-25,Santos,3.0,3.0,Fortaleza,E,1.0,1.0,154.0
+Série A,2019.0,2019-08-25,Vasco,2.0,0.0,São Paulo,VC,3.0,0.0,155.0
+Série A,2019.0,2019-08-25,Goiás,2.0,1.0,Internacional,VC,3.0,0.0,157.0
+Série A,2019.0,2019-08-25,Avaí,1.0,1.0,Corinthians,E,1.0,1.0,156.0
+Série A,2019.0,2019-08-25,Ceará,0.0,3.0,Flamengo,VV,0.0,3.0,153.0
+Série A,2019.0,2019-08-26,Botafogo,0.0,0.0,Chapecoense,E,1.0,1.0,159.0
+Série A,2019.0,2019-08-31,Athletico-PR,1.0,0.0,Ceará,VC,3.0,0.0,164.0
+Série A,2019.0,2019-08-31,Bahia,1.0,0.0,CSA,VC,3.0,0.0,163.0
+Série A,2019.0,2019-08-31,São Paulo,0.0,0.0,Grêmio,E,1.0,1.0,161.0
+Série A,2019.0,2019-08-31,Chapecoense,0.0,1.0,Santos,VV,0.0,3.0,162.0
+Série A,2019.0,2019-08-31,Internacional,3.0,2.0,Botafogo,VC,3.0,0.0,160.0
+Série A,2019.0,2019-09-01,Fortaleza,2.0,0.0,Goiás,VC,3.0,0.0,166.0
+Série A,2019.0,2019-09-01,Flamengo,3.0,0.0,Palmeiras,VC,3.0,0.0,168.0
+Série A,2019.0,2019-09-01,Cruzeiro,1.0,0.0,Vasco,VC,3.0,0.0,165.0
+Série A,2019.0,2019-09-01,Corinthians,1.0,0.0,Atlético-MG,VC,3.0,0.0,167.0
+Série A,2019.0,2019-09-02,Fluminense,0.0,1.0,Avaí,VV,0.0,3.0,169.0
+Série A,2019.0,2019-09-07,Vasco,0.0,2.0,Bahia,VV,0.0,3.0,173.0
+Série A,2019.0,2019-09-07,Goiás,1.0,2.0,Palmeiras,VV,0.0,3.0,175.0
+Série A,2019.0,2019-09-07,Avaí,0.0,3.0,Flamengo,VV,0.0,3.0,174.0
+Série A,2019.0,2019-09-07,Internacional,1.0,0.0,São Paulo,VC,3.0,0.0,170.0
+Série A,2019.0,2019-09-07,Corinthians,2.0,2.0,Ceará,E,1.0,1.0,172.0
+Série A,2019.0,2019-09-07,Fortaleza,0.0,1.0,Fluminense,VV,0.0,3.0,171.0
+Série A,2019.0,2019-09-08,Santos,1.0,1.0,Athletico-PR,E,1.0,1.0,177.0
+Série A,2019.0,2019-09-08,CSA,2.0,0.0,Chapecoense,VC,3.0,0.0,179.0
+Série A,2019.0,2019-09-08,Cruzeiro,1.0,4.0,Grêmio,VV,0.0,3.0,176.0
+Série A,2019.0,2019-09-08,Botafogo,2.0,1.0,Atlético-MG,VC,3.0,0.0,178.0
+Série A,2019.0,2019-09-10,Palmeiras,3.0,0.0,Fluminense,VC,3.0,0.0,180.0
+Série A,2019.0,2019-09-14,Ceará,0.0,0.0,Botafogo,E,1.0,1.0,181.0
+Série A,2019.0,2019-09-14,Palmeiras,1.0,0.0,Cruzeiro,VC,3.0,0.0,182.0
+Série A,2019.0,2019-09-14,Chapecoense,1.0,2.0,Vasco,VV,0.0,3.0,184.0
+Série A,2019.0,2019-09-14,Flamengo,1.0,0.0,Santos,VC,3.0,0.0,183.0
+Série A,2019.0,2019-09-15,Grêmio,3.0,0.0,Goiás,VC,3.0,0.0,185.0
+Série A,2019.0,2019-09-15,Athletico-PR,0.0,1.0,Avaí,VV,0.0,3.0,190.0
+Série A,2019.0,2019-09-15,São Paulo,1.0,1.0,CSA,E,1.0,1.0,187.0
+Série A,2019.0,2019-09-15,Fluminense,1.0,0.0,Corinthians,VC,3.0,0.0,188.0
+Série A,2019.0,2019-09-15,Atlético-MG,1.0,3.0,Internacional,VV,0.0,3.0,186.0
+Série A,2019.0,2019-09-15,Bahia,1.0,1.0,Fortaleza,E,1.0,1.0,189.0
+Série A,2019.0,2019-09-21,Santos,0.0,3.0,Grêmio,VV,0.0,3.0,193.0
+Série A,2019.0,2019-09-21,Corinthians,2.0,1.0,Bahia,VC,3.0,0.0,192.0
+Série A,2019.0,2019-09-21,Botafogo,1.0,2.0,São Paulo,VV,0.0,3.0,194.0
+Série A,2019.0,2019-09-21,Cruzeiro,1.0,2.0,Flamengo,VV,0.0,3.0,191.0
+Série A,2019.0,2019-09-22,Fortaleza,0.0,1.0,Palmeiras,VV,0.0,3.0,196.0
+Série A,2019.0,2019-09-22,Vasco,1.0,1.0,Athletico-PR,E,1.0,1.0,197.0
+Série A,2019.0,2019-09-22,CSA,1.0,0.0,Ceará,VC,3.0,0.0,198.0
+Série A,2019.0,2019-09-22,Goiás,3.0,0.0,Fluminense,VC,3.0,0.0,199.0
+Série A,2019.0,2019-09-22,Internacional,1.0,0.0,Chapecoense,VC,3.0,0.0,195.0
+Série A,2019.0,2019-09-23,Avaí,1.0,0.0,Atlético-MG,VC,3.0,0.0,200.0
+Série A,2019.0,2019-09-25,São Paulo,0.0,1.0,Goiás,VF,0.0,3.0,185.0
+Série A,2019.0,2019-09-25,Flamengo,3.0,1.0,Internacional,VC,3.0,0.0,184.0
+Série A,2019.0,2019-09-25,Ceará,0.0,0.0,Cruzeiro,VF,1.0,1.0,187.0
+Série A,2019.0,2019-09-25,Bahia,2.0,0.0,Botafogo,VF,3.0,0.0,186.0
+Série A,2019.0,2019-09-26,Athletico-PR,4.0,1.0,Fortaleza,VC,3.0,0.0,204.0
+Série A,2019.0,2019-09-26,Fluminense,1.0,1.0,Santos,E,1.0,1.0,203.0
+Série A,2019.0,2019-09-26,Grêmio,6.0,1.0,Avaí,VC,3.0,0.0,201.0
+Série A,2019.0,2019-09-26,Palmeiras,6.0,2.0,CSA,VC,3.0,0.0,202.0
+Série A,2019.0,2019-09-28,Flamengo,0.0,0.0,São Paulo,E,1.0,1.0,205.0
+Série A,2019.0,2019-09-29,Internacional,1.0,1.0,Palmeiras,E,1.0,1.0,206.0
+Série A,2019.0,2019-09-29,Santos,2.0,0.0,CSA,VC,3.0,0.0,209.0
+Série A,2019.0,2019-09-29,Athletico-PR,1.0,1.0,Chapecoense,E,1.0,1.0,211.0
+Série A,2019.0,2019-09-29,Fluminense,2.0,1.0,Grêmio,VC,3.0,0.0,210.0
+Série A,2019.0,2019-09-29,Atlético-MG,2.0,1.0,Ceará,VC,3.0,0.0,207.0
+Série A,2019.0,2019-09-29,Corinthians,1.0,0.0,Vasco,VC,3.0,0.0,208.0
+Série A,2019.0,2019-09-30,Fortaleza,1.0,0.0,Botafogo,VC,3.0,0.0,212.0
+Série A,2019.0,2019-09-30,Avaí,0.0,2.0,Bahia,VV,0.0,3.0,213.0
+Série A,2019.0,2019-09-30,Goiás,1.0,0.0,Cruzeiro,VC,3.0,0.0,214.0
+Série A,2019.0,2019-10-02,Atlético-MG,1.0,2.0,Vasco,VV,0.0,3.0,215.0
+Série A,2019.0,2019-10-02,Chapecoense,0.0,1.0,Corinthians,VV,0.0,3.0,216.0
+Série A,2019.0,2019-10-05,Bahia,1.0,2.0,Athletico-PR,VV,0.0,3.0,221.0
+Série A,2019.0,2019-10-05,São Paulo,2.0,1.0,Fortaleza,VC,3.0,0.0,219.0
+Série A,2019.0,2019-10-05,Cruzeiro,1.0,1.0,Internacional,E,1.0,1.0,218.0
+Série A,2019.0,2019-10-05,Grêmio,0.0,0.0,Corinthians,E,1.0,1.0,217.0
+Série A,2019.0,2019-10-05,Vasco,0.0,1.0,Santos,VV,0.0,3.0,220.0
+Série A,2019.0,2019-10-06,Ceará,0.0,1.0,Goiás,VV,0.0,3.0,222.0
+Série A,2019.0,2019-10-06,Botafogo,0.0,1.0,Fluminense,VV,0.0,3.0,224.0
+Série A,2019.0,2019-10-06,Chapecoense,0.0,1.0,Flamengo,VV,0.0,3.0,225.0
+Série A,2019.0,2019-10-06,Palmeiras,1.0,1.0,Atlético-MG,E,1.0,1.0,223.0
+Série A,2019.0,2019-10-06,CSA,3.0,1.0,Avaí,VC,3.0,0.0,226.0
+Série A,2019.0,2019-10-09,Santos,2.0,0.0,Palmeiras,VC,3.0,0.0,230.0
+Série A,2019.0,2019-10-09,Grêmio,2.0,1.0,Ceará,VC,3.0,0.0,227.0
+Série A,2019.0,2019-10-09,CSA,1.0,0.0,Internacional,VC,3.0,0.0,233.0
+Série A,2019.0,2019-10-09,Cruzeiro,0.0,0.0,Fluminense,E,1.0,1.0,228.0
+Série A,2019.0,2019-10-09,Fortaleza,2.0,0.0,Chapecoense,VC,3.0,0.0,229.0
+Série A,2019.0,2019-10-09,Bahia,0.0,0.0,São Paulo,E,1.0,1.0,232.0
+Série A,2019.0,2019-10-09,Botafogo,3.0,1.0,Goiás,VC,3.0,0.0,231.0
+Série A,2019.0,2019-10-10,Avaí,0.0,0.0,Vasco,E,1.0,1.0,236.0
+Série A,2019.0,2019-10-10,Corinthians,2.0,2.0,Athletico-PR,E,1.0,1.0,234.0
+Série A,2019.0,2019-10-10,Flamengo,3.0,1.0,Atlético-MG,VC,3.0,0.0,235.0
+Série A,2019.0,2019-10-12,Palmeiras,1.0,0.0,Botafogo,VC,3.0,0.0,237.0
+Série A,2019.0,2019-10-12,Fluminense,2.0,0.0,Bahia,VC,3.0,0.0,238.0
+Série A,2019.0,2019-10-12,Goiás,1.0,0.0,CSA,VC,3.0,0.0,239.0
+Série A,2019.0,2019-10-13,Athletico-PR,0.0,2.0,Flamengo,VV,0.0,3.0,246.0
+Série A,2019.0,2019-10-13,Ceará,1.0,0.0,Avaí,VC,3.0,0.0,242.0
+Série A,2019.0,2019-10-13,Atlético-MG,1.0,4.0,Grêmio,VV,0.0,3.0,241.0
+Série A,2019.0,2019-10-13,Internacional,0.0,0.0,Santos,E,1.0,1.0,240.0
+Série A,2019.0,2019-10-13,São Paulo,1.0,0.0,Corinthians,VC,3.0,0.0,243.0
+Série A,2019.0,2019-10-13,Chapecoense,1.0,1.0,Cruzeiro,E,1.0,1.0,245.0
+Série A,2019.0,2019-10-13,Vasco,1.0,0.0,Fortaleza,VC,3.0,0.0,244.0
+Série A,2019.0,2019-10-16,Fortaleza,1.0,2.0,Flamengo,VV,0.0,3.0,249.0
+Série A,2019.0,2019-10-16,Cruzeiro,1.0,0.0,São Paulo,VC,3.0,0.0,248.0
+Série A,2019.0,2019-10-16,Palmeiras,1.0,0.0,Chapecoense,VC,3.0,0.0,250.0
+Série A,2019.0,2019-10-16,Grêmio,0.0,1.0,Bahia,VV,0.0,3.0,247.0
+Série A,2019.0,2019-10-16,Goiás,2.0,2.0,Corinthians,E,1.0,1.0,252.0
+Série A,2019.0,2019-10-16,CSA,2.0,2.0,Atlético-MG,E,1.0,1.0,253.0
+Série A,2019.0,2019-10-16,Vasco,2.0,1.0,Botafogo,VC,3.0,0.0,251.0
+Série A,2019.0,2019-10-17,Santos,2.0,1.0,Ceará,VC,3.0,0.0,254.0
+Série A,2019.0,2019-10-17,Fluminense,1.0,2.0,Athletico-PR,VV,0.0,3.0,255.0
+Série A,2019.0,2019-10-17,Avaí,0.0,2.0,Internacional,VV,0.0,3.0,256.0
+Série A,2019.0,2019-10-19,Corinthians,1.0,2.0,Cruzeiro,VV,0.0,3.0,258.0
+Série A,2019.0,2019-10-19,Fortaleza,2.0,1.0,Grêmio,VC,3.0,0.0,257.0
+Série A,2019.0,2019-10-20,Chapecoense,2.0,2.0,Goiás,E,1.0,1.0,263.0
+Série A,2019.0,2019-10-20,São Paulo,1.0,0.0,Avaí,VC,3.0,0.0,261.0
+Série A,2019.0,2019-10-20,Athletico-PR,1.0,1.0,Palmeiras,E,1.0,1.0,264.0
+Série A,2019.0,2019-10-20,Atlético-MG,2.0,0.0,Santos,VC,3.0,0.0,260.0
+Série A,2019.0,2019-10-20,Internacional,0.0,1.0,Vasco,VV,0.0,3.0,259.0
+Série A,2019.0,2019-10-20,Flamengo,2.0,0.0,Fluminense,VC,3.0,0.0,262.0
+Série A,2019.0,2019-10-21,Botafogo,2.0,1.0,CSA,VC,3.0,0.0,266.0
+Série A,2019.0,2019-10-21,Bahia,1.0,2.0,Ceará,VV,0.0,3.0,265.0
+Série A,2019.0,2019-10-25,Bahia,2.0,3.0,Internacional,VV,0.0,3.0,271.0
+Série A,2019.0,2019-10-25,Ceará,1.0,1.0,Vasco,E,1.0,1.0,268.0
+Série A,2019.0,2019-10-25,Corinthians,0.0,0.0,Santos,E,1.0,1.0,269.0
+Série A,2019.0,2019-10-25,Cruzeiro,1.0,1.0,Fortaleza,E,1.0,1.0,267.0
+Série A,2019.0,2019-10-25,Fluminense,1.0,1.0,Chapecoense,E,1.0,1.0,270.0
+Série A,2019.0,2019-10-26,Avaí,1.0,2.0,Palmeiras,VV,0.0,3.0,275.0
+Série A,2019.0,2019-10-26,Athletico-PR,4.0,1.0,Goiás,VC,3.0,0.0,276.0
+Série A,2019.0,2019-10-26,São Paulo,2.0,0.0,Atlético-MG,VC,3.0,0.0,273.0
+Série A,2019.0,2019-10-26,Grêmio,3.0,0.0,Botafogo,VC,3.0,0.0,272.0
+Série A,2019.0,2019-10-26,Flamengo,1.0,0.0,CSA,VC,3.0,0.0,274.0
+Série A,2019.0,2019-10-29,Ceará,2.0,0.0,Fluminense,VC,3.0,0.0,278.0
+Série A,2019.0,2019-10-29,Atlético-MG,0.0,2.0,Chapecoense,VV,0.0,3.0,277.0
+Série A,2019.0,2019-10-29,CSA,2.0,1.0,Corinthians,VC,3.0,0.0,282.0
+Série A,2019.0,2019-10-29,Palmeiras,3.0,0.0,São Paulo,VC,3.0,0.0,279.0
+Série A,2019.0,2019-10-29,Avaí,1.0,3.0,Fortaleza,VV,0.0,3.0,281.0
+Série A,2019.0,2019-10-29,Vasco,1.0,3.0,Grêmio,VV,0.0,3.0,280.0
+Série A,2019.0,2019-10-30,Internacional,1.0,1.0,Athletico-PR,E,1.0,1.0,283.0
+Série A,2019.0,2019-10-30,Botafogo,0.0,2.0,Cruzeiro,VV,0.0,3.0,285.0
+Série A,2019.0,2019-10-30,Santos,1.0,0.0,Bahia,VC,3.0,0.0,284.0
+Série A,2019.0,2019-10-30,Goiás,2.0,2.0,Flamengo,E,1.0,1.0,286.0
+Série A,2019.0,2019-11-01,Fluminense,0.0,0.0,Vasco,E,1.0,1.0,289.0
+Série A,2019.0,2019-11-01,Fortaleza,2.0,2.0,Atlético-MG,E,1.0,1.0,287.0
+Série A,2019.0,2019-11-01,Palmeiras,1.0,0.0,Ceará,VC,3.0,0.0,288.0
+Série A,2019.0,2019-11-01,Chapecoense,0.0,3.0,São Paulo,VV,0.0,3.0,290.0
+Série A,2019.0,2019-11-02,Santos,4.0,1.0,Botafogo,VC,3.0,0.0,293.0
+Série A,2019.0,2019-11-02,Goiás,2.0,0.0,Avaí,VC,3.0,0.0,295.0
+Série A,2019.0,2019-11-02,Athletico-PR,1.0,0.0,CSA,VC,3.0,0.0,296.0
+Série A,2019.0,2019-11-02,Flamengo,4.0,1.0,Corinthians,VC,3.0,0.0,294.0
+Série A,2019.0,2019-11-02,Grêmio,2.0,0.0,Internacional,VC,3.0,0.0,291.0
+Série A,2019.0,2019-11-02,Cruzeiro,1.0,1.0,Bahia,E,1.0,1.0,292.0
+Série A,2019.0,2019-11-06,Vasco,1.0,2.0,Palmeiras,VV,0.0,3.0,299.0
+Série A,2019.0,2019-11-06,Corinthians,3.0,2.0,Fortaleza,VC,3.0,0.0,298.0
+Série A,2019.0,2019-11-06,Bahia,1.0,1.0,Chapecoense,E,1.0,1.0,301.0
+Série A,2019.0,2019-11-06,Avaí,1.0,2.0,Santos,VV,0.0,3.0,300.0
+Série A,2019.0,2019-11-06,Atlético-MG,2.0,0.0,Goiás,VC,3.0,0.0,297.0
+Série A,2019.0,2019-11-06,Athletico-PR,0.0,0.0,Cruzeiro,E,1.0,1.0,302.0
+Série A,2019.0,2019-11-07,Ceará,2.0,0.0,Internacional,VC,3.0,0.0,304.0
+Série A,2019.0,2019-11-07,Grêmio,2.0,1.0,CSA,VC,3.0,0.0,303.0
+Série A,2019.0,2019-11-07,Botafogo,0.0,1.0,Flamengo,VV,0.0,3.0,306.0
+Série A,2019.0,2019-11-07,São Paulo,0.0,2.0,Fluminense,VV,0.0,3.0,305.0
+Série A,2019.0,2019-11-09,Palmeiras,1.0,1.0,Corinthians,E,1.0,1.0,307.0
+Série A,2019.0,2019-11-09,Goiás,0.0,3.0,Santos,VV,0.0,3.0,308.0
+Série A,2019.0,2019-11-10,Internacional,2.0,1.0,Fluminense,VC,3.0,0.0,309.0
+Série A,2019.0,2019-11-10,Fortaleza,1.0,0.0,Ceará,VC,3.0,0.0,311.0
+Série A,2019.0,2019-11-10,Cruzeiro,0.0,0.0,Atlético-MG,E,1.0,1.0,310.0
+Série A,2019.0,2019-11-10,Chapecoense,0.0,1.0,Grêmio,VV,0.0,3.0,314.0
+Série A,2019.0,2019-11-10,Flamengo,3.0,1.0,Bahia,VC,3.0,0.0,313.0
+Série A,2019.0,2019-11-10,São Paulo,0.0,1.0,Athletico-PR,VV,0.0,3.0,312.0
+Série A,2019.0,2019-11-10,CSA,0.0,3.0,Vasco,VV,0.0,3.0,315.0
+Série A,2019.0,2019-11-11,Botafogo,2.0,0.0,Avaí,VC,3.0,0.0,316.0
+Série A,2019.0,2019-11-13,Flamengo,4.0,4.0,Vasco,E,1.0,1.0,317.0
+Série A,2019.0,2019-11-16,Fluminense,1.0,1.0,Atlético-MG,E,1.0,1.0,319.0
+Série A,2019.0,2019-11-16,Santos,1.0,1.0,São Paulo,E,1.0,1.0,318.0
+Série A,2019.0,2019-11-17,Bahia,1.0,1.0,Palmeiras,E,1.0,1.0,324.0
+Série A,2019.0,2019-11-17,Athletico-PR,1.0,0.0,Botafogo,VC,3.0,0.0,325.0
+Série A,2019.0,2019-11-17,Grêmio,0.0,1.0,Flamengo,VV,0.0,3.0,320.0
+Série A,2019.0,2019-11-17,Fortaleza,3.0,0.0,CSA,VC,3.0,0.0,321.0
+Série A,2019.0,2019-11-17,Corinthians,0.0,0.0,Internacional,E,1.0,1.0,322.0
+Série A,2019.0,2019-11-17,Chapecoense,1.0,0.0,Ceará,VC,3.0,0.0,323.0
+Série A,2019.0,2019-11-18,Vasco,1.0,1.0,Goiás,E,1.0,1.0,327.0
+Série A,2019.0,2019-11-18,Cruzeiro,0.0,0.0,Avaí,E,1.0,1.0,326.0
+Série A,2019.0,2019-11-23,Santos,4.0,1.0,Cruzeiro,VC,3.0,0.0,328.0
+Série A,2019.0,2019-11-24,Atlético-MG,0.0,1.0,Athletico-PR,VV,0.0,3.0,330.0
+Série A,2019.0,2019-11-24,Palmeiras,1.0,2.0,Grêmio,VV,0.0,3.0,332.0
+Série A,2019.0,2019-11-24,Internacional,2.0,2.0,Fortaleza,E,1.0,1.0,329.0
+Série A,2019.0,2019-11-24,Goiás,4.0,3.0,Bahia,VC,3.0,0.0,335.0
+Série A,2019.0,2019-11-24,Avaí,0.0,1.0,Chapecoense,VV,0.0,3.0,334.0
+Série A,2019.0,2019-11-24,Ceará,1.0,1.0,São Paulo,E,1.0,1.0,331.0
+Série A,2019.0,2019-11-24,Botafogo,1.0,0.0,Corinthians,VC,3.0,0.0,333.0
+Série A,2019.0,2019-11-25,CSA,0.0,1.0,Fluminense,VV,0.0,3.0,336.0
+Série A,2019.0,2019-11-27,Internacional,1.0,2.0,Goiás,VV,0.0,3.0,337.0
+Série A,2019.0,2019-11-27,Chapecoense,0.0,1.0,Botafogo,VV,0.0,3.0,340.0
+Série A,2019.0,2019-11-27,Flamengo,4.0,1.0,Ceará,VC,3.0,0.0,339.0
+Série A,2019.0,2019-11-27,Athletico-PR,2.0,0.0,Grêmio,VC,3.0,0.0,342.0
+Série A,2019.0,2019-11-27,Corinthians,3.0,0.0,Avaí,VC,3.0,0.0,338.0
+Série A,2019.0,2019-11-27,Bahia,1.0,1.0,Atlético-MG,E,1.0,1.0,341.0
+Série A,2019.0,2019-11-28,São Paulo,1.0,0.0,Vasco,VC,3.0,0.0,345.0
+Série A,2019.0,2019-11-28,Fortaleza,2.0,1.0,Santos,VC,3.0,0.0,344.0
+Série A,2019.0,2019-11-28,Fluminense,1.0,0.0,Palmeiras,VC,3.0,0.0,346.0
+Série A,2019.0,2019-11-28,Cruzeiro,0.0,1.0,CSA,VV,0.0,3.0,343.0
+Série A,2019.0,2019-11-30,Ceará,1.0,1.0,Athletico-PR,E,1.0,1.0,347.0
+Série A,2019.0,2019-11-30,Botafogo,0.0,1.0,Internacional,VV,0.0,3.0,348.0
+Série A,2019.0,2019-12-01,Palmeiras,1.0,3.0,Flamengo,VV,0.0,3.0,351.0
+Série A,2019.0,2019-12-01,Atlético-MG,2.0,1.0,Corinthians,VC,3.0,0.0,350.0
+Série A,2019.0,2019-12-01,CSA,1.0,2.0,Bahia,VV,0.0,3.0,355.0
+Série A,2019.0,2019-12-01,Santos,2.0,0.0,Chapecoense,VC,3.0,0.0,352.0
+Série A,2019.0,2019-12-01,Avaí,1.0,1.0,Fluminense,E,1.0,1.0,353.0
+Série A,2019.0,2019-12-01,Goiás,1.0,2.0,Fortaleza,VV,0.0,3.0,354.0
+Série A,2019.0,2019-12-01,Grêmio,3.0,0.0,São Paulo,VC,3.0,0.0,349.0
+Série A,2019.0,2019-12-02,Vasco,1.0,0.0,Cruzeiro,VC,3.0,0.0,356.0
+Série A,2019.0,2019-12-04,São Paulo,2.0,1.0,Internacional,VC,3.0,0.0,359.0
+Série A,2019.0,2019-12-04,Chapecoense,3.0,0.0,CSA,VC,3.0,0.0,361.0
+Série A,2019.0,2019-12-04,Athletico-PR,1.0,0.0,Santos,VC,3.0,0.0,362.0
+Série A,2019.0,2019-12-04,Fluminense,0.0,0.0,Fortaleza,E,1.0,1.0,360.0
+Série A,2019.0,2019-12-04,Atlético-MG,2.0,0.0,Botafogo,VC,3.0,0.0,357.0
+Série A,2019.0,2019-12-04,Ceará,0.0,1.0,Corinthians,VV,0.0,3.0,358.0
+Série A,2019.0,2019-12-05,Bahia,1.0,1.0,Vasco,E,1.0,1.0,366.0
+Série A,2019.0,2019-12-05,Palmeiras,5.0,1.0,Goiás,VC,3.0,0.0,364.0
+Série A,2019.0,2019-12-05,Grêmio,2.0,0.0,Cruzeiro,VC,3.0,0.0,363.0
+Série A,2019.0,2019-12-05,Flamengo,6.0,1.0,Avaí,VC,3.0,0.0,365.0
+Série A,2019.0,2019-12-08,Cruzeiro,0.0,2.0,Palmeiras,VV,0.0,3.0,368.0
+Série A,2019.0,2019-12-08,Corinthians,1.0,2.0,Fluminense,VV,0.0,3.0,370.0
+Série A,2019.0,2019-12-08,Fortaleza,2.0,1.0,Bahia,VC,3.0,0.0,369.0
+Série A,2019.0,2019-12-08,Internacional,2.0,1.0,Atlético-MG,VC,3.0,0.0,367.0
+Série A,2019.0,2019-12-08,CSA,1.0,2.0,São Paulo,VV,0.0,3.0,376.0
+Série A,2019.0,2019-12-08,Santos,4.0,0.0,Flamengo,VC,3.0,0.0,371.0
+Série A,2019.0,2019-12-08,Avaí,0.0,0.0,Athletico-PR,E,1.0,1.0,374.0
+Série A,2019.0,2019-12-08,Botafogo,1.0,1.0,Ceará,E,1.0,1.0,373.0
+Série A,2019.0,2019-12-08,Vasco,1.0,1.0,Chapecoense,E,1.0,1.0,372.0
+Série A,2019.0,2019-12-08,Goiás,3.0,2.0,Grêmio,VC,3.0,0.0,375.0
+Série A,2020.0,2020-08-08,Fortaleza,0.0,2.0,Athletico-PR,VV,0.0,3.0,1.0
+Série A,2020.0,2020-08-08,Coritiba,0.0,1.0,Internacional,VV,0.0,3.0,2.0
+Série A,2020.0,2020-08-08,Sport,3.0,2.0,Ceará,VC,3.0,0.0,3.0
+Série A,2020.0,2020-08-09,Santos,1.0,1.0,Red Bull Bragantino,E,1.0,1.0,5.0
+Série A,2020.0,2020-08-09,Grêmio,1.0,0.0,Fluminense,VC,3.0,0.0,6.0
+Série A,2020.0,2020-08-09,Flamengo,0.0,1.0,Atlético-MG,VV,0.0,3.0,4.0
+Série A,2020.0,2020-08-12,Ceará,1.0,1.0,Grêmio,E,1.0,1.0,13.0
+Série A,2020.0,2020-08-12,Bahia,1.0,0.0,Coritiba,VC,3.0,0.0,10.0
+Série A,2020.0,2020-08-12,Atlético-GO,3.0,0.0,Flamengo,VC,3.0,0.0,11.0
+Série A,2020.0,2020-08-12,Fluminense,1.0,1.0,Palmeiras,E,1.0,1.0,12.0
+Série A,2020.0,2020-08-12,Atlético-MG,3.0,2.0,Corinthians,VC,3.0,0.0,7.0
+Série A,2020.0,2020-08-12,Red Bull Bragantino,1.0,1.0,Botafogo,E,1.0,1.0,9.0
+Série A,2020.0,2020-08-12,Athletico-PR,2.0,1.0,Goiás,VC,3.0,0.0,8.0
+Série A,2020.0,2020-08-13,São Paulo,1.0,0.0,Fortaleza,VC,3.0,0.0,14.0
+Série A,2020.0,2020-08-13,Vasco,2.0,0.0,Sport,VC,3.0,0.0,16.0
+Série A,2020.0,2020-08-13,Internacional,2.0,0.0,Santos,VC,3.0,0.0,15.0
+Série A,2020.0,2020-08-15,Coritiba,0.0,1.0,Flamengo,VV,0.0,3.0,18.0
+Série A,2020.0,2020-08-15,Palmeiras,1.0,1.0,Goiás,E,1.0,1.0,19.0
+Série A,2020.0,2020-08-15,Grêmio,0.0,0.0,Corinthians,E,1.0,1.0,17.0
+Série A,2020.0,2020-08-16,Atlético-MG,2.0,0.0,Ceará,VC,3.0,0.0,20.0
+Série A,2020.0,2020-08-16,Vasco,2.0,1.0,São Paulo,VC,3.0,0.0,21.0
+Série A,2020.0,2020-08-16,Bahia,2.0,1.0,Red Bull Bragantino,VC,3.0,0.0,23.0
+Série A,2020.0,2020-08-16,Atlético-GO,1.0,1.0,Sport,E,1.0,1.0,25.0
+Série A,2020.0,2020-08-16,Santos,3.0,1.0,Athletico-PR,VC,3.0,0.0,26.0
+Série A,2020.0,2020-08-16,Fortaleza,0.0,0.0,Botafogo,E,1.0,1.0,22.0
+Série A,2020.0,2020-08-16,Fluminense,2.0,1.0,Internacional,VC,3.0,0.0,24.0
+Série A,2020.0,2020-08-19,Goiás,1.0,3.0,Fortaleza,VV,0.0,3.0,31.0
+Série A,2020.0,2020-08-19,Red Bull Bragantino,2.0,1.0,Fluminense,VC,3.0,0.0,28.0
+Série A,2020.0,2020-08-19,Flamengo,1.0,1.0,Grêmio,E,1.0,1.0,27.0
+Série A,2020.0,2020-08-19,Corinthians,3.0,1.0,Coritiba,VC,3.0,0.0,33.0
+Série A,2020.0,2020-08-19,Internacional,3.0,0.0,Atlético-GO,VC,3.0,0.0,30.0
+Série A,2020.0,2020-08-19,Botafogo,2.0,1.0,Atlético-MG,VC,3.0,0.0,32.0
+Série A,2020.0,2020-08-19,Athletico-PR,0.0,1.0,Palmeiras,VV,0.0,3.0,29.0
+Série A,2020.0,2020-08-20,Sport,0.0,1.0,Santos,VV,0.0,3.0,34.0
+Série A,2020.0,2020-08-20,Ceará,0.0,3.0,Vasco,VV,0.0,3.0,36.0
+Série A,2020.0,2020-08-20,São Paulo,1.0,1.0,Bahia,E,1.0,1.0,35.0
+Série A,2020.0,2020-08-22,Goiás,2.0,0.0,Atlético-GO,VC,3.0,0.0,39.0
+Série A,2020.0,2020-08-22,Athletico-PR,0.0,1.0,Fluminense,VV,0.0,3.0,37.0
+Série A,2020.0,2020-08-22,Internacional,1.0,0.0,Atlético-MG,VC,3.0,0.0,38.0
+Série A,2020.0,2020-08-23,Red Bull Bragantino,1.0,2.0,Coritiba,VV,0.0,3.0,43.0
+Série A,2020.0,2020-08-23,Palmeiras,2.0,1.0,Santos,VC,3.0,0.0,42.0
+Série A,2020.0,2020-08-23,Flamengo,1.0,1.0,Botafogo,E,1.0,1.0,40.0
+Série A,2020.0,2020-08-23,Sport,0.0,1.0,São Paulo,VV,0.0,3.0,45.0
+Série A,2020.0,2020-08-23,Ceará,2.0,0.0,Bahia,VC,3.0,0.0,44.0
+Série A,2020.0,2020-08-23,Vasco,0.0,0.0,Grêmio,E,1.0,1.0,41.0
+Série A,2020.0,2020-08-26,São Paulo,1.0,0.0,Athletico-PR,VC,3.0,0.0,47.0
+Série A,2020.0,2020-08-26,Corinthians,1.0,1.0,Fortaleza,E,1.0,1.0,46.0
+Série A,2020.0,2020-08-29,Fortaleza,3.0,0.0,Red Bull Bragantino,VC,3.0,0.0,51.0
+Série A,2020.0,2020-08-29,Botafogo,0.0,2.0,Internacional,VV,0.0,3.0,48.0
+Série A,2020.0,2020-08-29,Fluminense,2.0,1.0,Vasco,VC,3.0,0.0,49.0
+Série A,2020.0,2020-08-29,Bahia,1.0,1.0,Palmeiras,E,1.0,1.0,50.0
+Série A,2020.0,2020-08-30,Coritiba,1.0,0.0,Sport,VC,3.0,0.0,55.0
+Série A,2020.0,2020-08-30,Santos,0.0,1.0,Flamengo,VV,0.0,3.0,54.0
+Série A,2020.0,2020-08-30,São Paulo,2.0,1.0,Corinthians,VC,3.0,0.0,53.0
+Série A,2020.0,2020-08-30,Atlético-GO,0.0,2.0,Ceará,VV,0.0,3.0,52.0
+Série A,2020.0,2020-09-02,Ceará,1.0,0.0,Fortaleza,VC,3.0,0.0,56.0
+Série A,2020.0,2020-09-02,Athletico-PR,1.0,1.0,Red Bull Bragantino,E,1.0,1.0,60.0
+Série A,2020.0,2020-09-02,Palmeiras,1.0,1.0,Internacional,E,1.0,1.0,61.0
+Série A,2020.0,2020-09-02,Bahia,3.0,5.0,Flamengo,VV,0.0,3.0,63.0
+Série A,2020.0,2020-09-02,Botafogo,0.0,0.0,Coritiba,E,1.0,1.0,59.0
+Série A,2020.0,2020-09-02,Fluminense,1.0,1.0,Atlético-GO,E,1.0,1.0,58.0
+Série A,2020.0,2020-09-02,Goiás,1.0,2.0,Corinthians,VV,0.0,3.0,57.0
+Série A,2020.0,2020-09-02,Santos,2.0,2.0,Vasco,E,1.0,1.0,62.0
+Série A,2020.0,2020-09-03,Atlético-MG,3.0,0.0,São Paulo,VC,3.0,0.0,65.0
+Série A,2020.0,2020-09-03,Grêmio,1.0,2.0,Sport,VV,0.0,3.0,64.0
+Série A,2020.0,2020-09-05,Ceará,0.0,1.0,Santos,VV,0.0,3.0,67.0
+Série A,2020.0,2020-09-05,Corinthians,2.0,2.0,Botafogo,E,1.0,1.0,66.0
+Série A,2020.0,2020-09-05,Flamengo,2.0,1.0,Fortaleza,VC,3.0,0.0,68.0
+Série A,2020.0,2020-09-06,Atlético-GO,1.0,1.0,Grêmio,E,1.0,1.0,73.0
+Série A,2020.0,2020-09-06,Red Bull Bragantino,1.0,2.0,Palmeiras,VV,0.0,3.0,70.0
+Série A,2020.0,2020-09-06,Internacional,2.0,2.0,Bahia,E,1.0,1.0,72.0
+Série A,2020.0,2020-09-06,Sport,2.0,1.0,Goiás,VC,3.0,0.0,74.0
+Série A,2020.0,2020-09-06,São Paulo,3.0,1.0,Fluminense,VC,3.0,0.0,71.0
+Série A,2020.0,2020-09-06,Vasco,1.0,0.0,Athletico-PR,VC,3.0,0.0,69.0
+Série A,2020.0,2020-09-06,Coritiba,0.0,1.0,Atlético-MG,VV,0.0,3.0,75.0
+Série A,2020.0,2020-09-09,Santos,3.0,1.0,Atlético-MG,VC,3.0,0.0,80.0
+Série A,2020.0,2020-09-09,Fortaleza,1.0,0.0,Sport,VC,3.0,0.0,81.0
+Série A,2020.0,2020-09-09,São Paulo,1.0,1.0,Red Bull Bragantino,E,1.0,1.0,77.0
+Série A,2020.0,2020-09-09,Fluminense,1.0,2.0,Flamengo,VV,0.0,3.0,79.0
+Série A,2020.0,2020-09-09,Goiás,3.0,3.0,Coritiba,E,1.0,1.0,76.0
+Série A,2020.0,2020-09-09,Athletico-PR,1.0,1.0,Botafogo,E,1.0,1.0,78.0
+Série A,2020.0,2020-09-10,Bahia,0.0,2.0,Grêmio,VV,0.0,3.0,84.0
+Série A,2020.0,2020-09-10,Internacional,2.0,0.0,Ceará,VC,3.0,0.0,82.0
+Série A,2020.0,2020-09-10,Vasco,1.0,2.0,Atlético-GO,VV,0.0,3.0,85.0
+Série A,2020.0,2020-09-10,Corinthians,0.0,2.0,Palmeiras,VV,0.0,3.0,83.0
+Série A,2020.0,2020-09-12,Athletico-PR,1.0,0.0,Coritiba,VC,3.0,0.0,87.0
+Série A,2020.0,2020-09-12,Santos,2.0,2.0,São Paulo,E,1.0,1.0,86.0
+Série A,2020.0,2020-09-13,Ceará,2.0,0.0,Flamengo,VC,3.0,0.0,88.0
+Série A,2020.0,2020-09-13,Botafogo,2.0,3.0,Vasco,VV,0.0,3.0,93.0
+Série A,2020.0,2020-09-13,Palmeiras,2.0,2.0,Sport,E,1.0,1.0,94.0
+Série A,2020.0,2020-09-13,Atlético-MG,2.0,1.0,Red Bull Bragantino,VC,3.0,0.0,89.0
+Série A,2020.0,2020-09-13,Bahia,0.0,1.0,Atlético-GO,VV,0.0,3.0,95.0
+Série A,2020.0,2020-09-13,Fluminense,2.0,1.0,Corinthians,VC,3.0,0.0,90.0
+Série A,2020.0,2020-09-13,Goiás,1.0,0.0,Internacional,VC,3.0,0.0,92.0
+Série A,2020.0,2020-09-13,Grêmio,1.0,1.0,Fortaleza,E,1.0,1.0,91.0
+Série A,2020.0,2020-09-16,Corinthians,3.0,2.0,Bahia,VC,3.0,0.0,96.0
+Série A,2020.0,2020-09-19,Atlético-GO,3.0,4.0,Atlético-MG,VV,0.0,3.0,99.0
+Série A,2020.0,2020-09-19,Fortaleza,1.0,0.0,Internacional,VC,3.0,0.0,98.0
+Série A,2020.0,2020-09-19,Red Bull Bragantino,4.0,2.0,Ceará,VC,3.0,0.0,97.0
+Série A,2020.0,2020-09-20,Sport,1.0,0.0,Fluminense,VC,3.0,0.0,102.0
+Série A,2020.0,2020-09-20,Botafogo,0.0,0.0,Santos,E,1.0,1.0,100.0
+Série A,2020.0,2020-09-20,Coritiba,1.0,0.0,Vasco,VC,3.0,0.0,103.0
+Série A,2020.0,2020-09-20,Grêmio,1.0,1.0,Palmeiras,E,1.0,1.0,101.0
+Série A,2020.0,2020-09-23,Sport,1.0,0.0,Corinthians,VC,3.0,0.0,104.0
+Série A,2020.0,2020-09-26,Athletico-PR,1.0,0.0,Bahia,VC,3.0,0.0,107.0
+Série A,2020.0,2020-09-26,Atlético-MG,3.0,1.0,Grêmio,VC,3.0,0.0,105.0
+Série A,2020.0,2020-09-26,Internacional,1.0,1.0,São Paulo,E,1.0,1.0,106.0
+Série A,2020.0,2020-09-27,Vasco,1.0,1.0,Red Bull Bragantino,E,1.0,1.0,108.0
+Série A,2020.0,2020-09-27,Santos,1.0,1.0,Fortaleza,E,1.0,1.0,110.0
+Série A,2020.0,2020-09-27,Palmeiras,1.0,1.0,Flamengo,E,1.0,1.0,109.0
+Série A,2020.0,2020-09-27,Ceará,2.0,2.0,Goiás,E,1.0,1.0,111.0
+Série A,2020.0,2020-09-27,Atlético-GO,1.0,1.0,Botafogo,E,1.0,1.0,112.0
+Série A,2020.0,2020-09-28,Fluminense,4.0,0.0,Coritiba,VC,3.0,0.0,113.0
+Série A,2020.0,2020-09-30,Botafogo,1.0,2.0,Bahia,VV,0.0,3.0,114.0
+Série A,2020.0,2020-09-30,Corinthians,0.0,0.0,Atlético-GO,E,1.0,1.0,115.0
+Série A,2020.0,2020-10-03,Grêmio,1.0,1.0,Internacional,E,1.0,1.0,118.0
+Série A,2020.0,2020-10-03,Red Bull Bragantino,0.0,0.0,Corinthians,E,1.0,1.0,117.0
+Série A,2020.0,2020-10-03,Palmeiras,2.0,1.0,Ceará,VC,3.0,0.0,116.0
+Série A,2020.0,2020-10-04,Atlético-MG,4.0,1.0,Vasco,VC,3.0,0.0,122.0
+Série A,2020.0,2020-10-04,Goiás,2.0,3.0,Santos,VV,0.0,3.0,125.0
+Série A,2020.0,2020-10-04,Fortaleza,0.0,0.0,Atlético-GO,E,1.0,1.0,124.0
+Série A,2020.0,2020-10-04,Botafogo,1.0,1.0,Fluminense,E,1.0,1.0,121.0
+Série A,2020.0,2020-10-04,Bahia,1.0,2.0,Sport,VV,0.0,3.0,119.0
+Série A,2020.0,2020-10-04,Coritiba,1.0,1.0,São Paulo,E,1.0,1.0,123.0
+Série A,2020.0,2020-10-04,Flamengo,3.0,1.0,Athletico-PR,VC,3.0,0.0,120.0
+Série A,2020.0,2020-10-07,Flamengo,3.0,0.0,Sport,VC,3.0,0.0,126.0
+Série A,2020.0,2020-10-07,São Paulo,3.0,0.0,Atlético-GO,VC,3.0,0.0,128.0
+Série A,2020.0,2020-10-07,Fortaleza,2.0,1.0,Atlético-MG,VC,3.0,0.0,132.0
+Série A,2020.0,2020-10-07,Botafogo,2.0,1.0,Palmeiras,VC,3.0,0.0,127.0
+Série A,2020.0,2020-10-07,Bahia,3.0,0.0,Vasco,VC,3.0,0.0,131.0
+Série A,2020.0,2020-10-07,Grêmio,2.0,1.0,Coritiba,VC,3.0,0.0,130.0
+Série A,2020.0,2020-10-07,Corinthians,1.0,1.0,Santos,E,1.0,1.0,129.0
+Série A,2020.0,2020-10-07,Goiás,2.0,4.0,Fluminense,VV,0.0,3.0,133.0
+Série A,2020.0,2020-10-08,Athletico-PR,0.0,0.0,Ceará,E,1.0,1.0,135.0
+Série A,2020.0,2020-10-08,Red Bull Bragantino,0.0,2.0,Internacional,VV,0.0,3.0,134.0
+Série A,2020.0,2020-10-10,Atlético-MG,3.0,0.0,Goiás,VC,3.0,0.0,138.0
+Série A,2020.0,2020-10-10,Coritiba,0.0,0.0,Fortaleza,E,1.0,1.0,139.0
+Série A,2020.0,2020-10-10,Vasco,1.0,2.0,Flamengo,VV,0.0,3.0,136.0
+Série A,2020.0,2020-10-10,Palmeiras,0.0,2.0,São Paulo,VV,0.0,3.0,137.0
+Série A,2020.0,2020-10-11,Internacional,2.0,1.0,Athletico-PR,VC,3.0,0.0,142.0
+Série A,2020.0,2020-10-11,Sport,1.0,2.0,Botafogo,VV,0.0,3.0,143.0
+Série A,2020.0,2020-10-11,Ceará,2.0,1.0,Corinthians,VC,3.0,0.0,144.0
+Série A,2020.0,2020-10-11,Atlético-GO,2.0,1.0,Red Bull Bragantino,VC,3.0,0.0,145.0
+Série A,2020.0,2020-10-11,Santos,2.0,1.0,Grêmio,VC,3.0,0.0,141.0
+Série A,2020.0,2020-10-11,Fluminense,1.0,0.0,Bahia,VC,3.0,0.0,140.0
+Série A,2020.0,2020-10-13,Flamengo,2.0,1.0,Goiás,VC,3.0,0.0,146.0
+Série A,2020.0,2020-10-14,Santos,0.0,1.0,Atlético-GO,VV,0.0,3.0,148.0
+Série A,2020.0,2020-10-14,Atlético-MG,1.0,1.0,Fluminense,E,1.0,1.0,149.0
+Série A,2020.0,2020-10-14,Palmeiras,1.0,3.0,Coritiba,VV,0.0,3.0,147.0
+Série A,2020.0,2020-10-14,Sport,3.0,5.0,Internacional,VV,0.0,3.0,151.0
+Série A,2020.0,2020-10-14,Athletico-PR,0.0,1.0,Corinthians,VV,0.0,3.0,152.0
+Série A,2020.0,2020-10-14,Grêmio,3.0,1.0,Botafogo,VC,3.0,0.0,150.0
+Série A,2020.0,2020-10-15,Flamengo,1.0,1.0,Red Bull Bragantino,E,1.0,1.0,153.0
+Série A,2020.0,2020-10-16,Goiás,1.0,1.0,Bahia,E,1.0,1.0,154.0
+Série A,2020.0,2020-10-17,Fluminense,2.0,2.0,Ceará,E,1.0,1.0,155.0
+Série A,2020.0,2020-10-17,Coritiba,1.0,2.0,Santos,VV,0.0,3.0,157.0
+Série A,2020.0,2020-10-17,Atlético-GO,1.0,1.0,Athletico-PR,E,1.0,1.0,158.0
+Série A,2020.0,2020-10-17,São Paulo,0.0,0.0,Grêmio,E,1.0,1.0,156.0
+Série A,2020.0,2020-10-18,Red Bull Bragantino,2.0,0.0,Sport,VC,3.0,0.0,159.0
+Série A,2020.0,2020-10-18,Fortaleza,2.0,0.0,Palmeiras,VC,3.0,0.0,162.0
+Série A,2020.0,2020-10-18,Bahia,3.0,1.0,Atlético-MG,VC,3.0,0.0,164.0
+Série A,2020.0,2020-10-18,Corinthians,1.0,5.0,Flamengo,VV,0.0,3.0,160.0
+Série A,2020.0,2020-10-18,Internacional,2.0,0.0,Vasco,VC,3.0,0.0,161.0
+Série A,2020.0,2020-10-18,Botafogo,0.0,0.0,Goiás,E,1.0,1.0,163.0
+Série A,2020.0,2020-10-20,Vasco,1.0,2.0,Corinthians,VV,0.0,3.0,165.0
+Série A,2020.0,2020-10-24,Atlético-MG,0.0,0.0,Sport,E,1.0,1.0,168.0
+Série A,2020.0,2020-10-24,Ceará,2.0,1.0,Coritiba,VC,3.0,0.0,167.0
+Série A,2020.0,2020-10-24,Red Bull Bragantino,2.0,0.0,Goiás,VC,3.0,0.0,166.0
+Série A,2020.0,2020-10-25,Atlético-GO,0.0,3.0,Palmeiras,VV,0.0,3.0,172.0
+Série A,2020.0,2020-10-25,Athletico-PR,1.0,2.0,Grêmio,VV,0.0,3.0,171.0
+Série A,2020.0,2020-10-25,Fluminense,3.0,1.0,Santos,VC,3.0,0.0,169.0
+Série A,2020.0,2020-10-25,Internacional,2.0,2.0,Flamengo,E,1.0,1.0,170.0
+Série A,2020.0,2020-10-31,Botafogo,2.0,2.0,Ceará,E,1.0,1.0,173.0
+Série A,2020.0,2020-10-31,Coritiba,1.0,0.0,Atlético-GO,VC,3.0,0.0,176.0
+Série A,2020.0,2020-10-31,Fortaleza,0.0,1.0,Fluminense,VV,0.0,3.0,175.0
+Série A,2020.0,2020-10-31,Corinthians,1.0,0.0,Internacional,VC,3.0,0.0,174.0
+Série A,2020.0,2020-11-01,Sport,1.0,0.0,Athletico-PR,VC,3.0,0.0,179.0
+Série A,2020.0,2020-11-01,Goiás,1.0,1.0,Vasco,E,1.0,1.0,180.0
+Série A,2020.0,2020-11-01,Flamengo,1.0,4.0,São Paulo,VV,0.0,3.0,178.0
+Série A,2020.0,2020-11-01,Santos,3.0,1.0,Bahia,VC,3.0,0.0,177.0
+Série A,2020.0,2020-11-02,Grêmio,2.0,1.0,Red Bull Bragantino,VC,3.0,0.0,182.0
+Série A,2020.0,2020-11-02,Palmeiras,3.0,0.0,Atlético-MG,VC,3.0,0.0,181.0
+Série A,2020.0,2020-11-07,São Paulo,2.0,1.0,Goiás,VC,3.0,0.0,183.0
+Série A,2020.0,2020-11-07,Athletico-PR,2.0,1.0,Fortaleza,VC,3.0,0.0,184.0
+Série A,2020.0,2020-11-07,Atlético-GO,1.0,1.0,Corinthians,E,1.0,1.0,185.0
+Série A,2020.0,2020-11-08,Ceará,0.0,0.0,Sport,E,1.0,1.0,192.0
+Série A,2020.0,2020-11-08,Vasco,0.0,1.0,Palmeiras,VV,0.0,3.0,189.0
+Série A,2020.0,2020-11-08,Bahia,1.0,0.0,Botafogo,VC,3.0,0.0,187.0
+Série A,2020.0,2020-11-08,Internacional,2.0,2.0,Coritiba,E,1.0,1.0,191.0
+Série A,2020.0,2020-11-08,Red Bull Bragantino,1.0,1.0,Santos,E,1.0,1.0,190.0
+Série A,2020.0,2020-11-08,Fluminense,0.0,1.0,Grêmio,VV,0.0,3.0,188.0
+Série A,2020.0,2020-11-08,Atlético-MG,4.0,0.0,Flamengo,VC,3.0,0.0,186.0
+Série A,2020.0,2020-11-11,Bahia,2.0,1.0,Fortaleza,VC,3.0,0.0,193.0
+Série A,2020.0,2020-11-14,Sport,0.0,2.0,Vasco,VV,0.0,3.0,199.0
+Série A,2020.0,2020-11-14,Corinthians,1.0,2.0,Atlético-MG,VV,0.0,3.0,197.0
+Série A,2020.0,2020-11-14,Santos,2.0,0.0,Internacional,VC,3.0,0.0,196.0
+Série A,2020.0,2020-11-14,Palmeiras,2.0,0.0,Fluminense,VC,3.0,0.0,195.0
+Série A,2020.0,2020-11-14,Flamengo,1.0,1.0,Atlético-GO,E,1.0,1.0,194.0
+Série A,2020.0,2020-11-14,Grêmio,4.0,2.0,Ceará,VC,3.0,0.0,198.0
+Série A,2020.0,2020-11-14,Goiás,0.0,1.0,Athletico-PR,VV,0.0,3.0,201.0
+Série A,2020.0,2020-11-14,Fortaleza,2.0,3.0,São Paulo,VV,0.0,3.0,200.0
+Série A,2020.0,2020-11-16,Coritiba,1.0,2.0,Bahia,VV,0.0,3.0,203.0
+Série A,2020.0,2020-11-16,Botafogo,1.0,2.0,Red Bull Bragantino,VV,0.0,3.0,202.0
+Série A,2020.0,2020-11-18,Atlético-MG,0.0,2.0,Athletico-PR,VV,0.0,3.0,204.0
+Série A,2020.0,2020-11-19,Vasco,0.0,0.0,Fortaleza,E,1.0,1.0,205.0
+Série A,2020.0,2020-11-20,Red Bull Bragantino,4.0,0.0,Bahia,VC,3.0,0.0,206.0
+Série A,2020.0,2020-11-21,Goiás,1.0,0.0,Palmeiras,VC,3.0,0.0,209.0
+Série A,2020.0,2020-11-21,Flamengo,3.0,1.0,Coritiba,VC,3.0,0.0,207.0
+Série A,2020.0,2020-11-21,Athletico-PR,1.0,0.0,Santos,VC,3.0,0.0,208.0
+Série A,2020.0,2020-11-22,Internacional,1.0,2.0,Fluminense,VV,0.0,3.0,213.0
+Série A,2020.0,2020-11-22,São Paulo,1.0,1.0,Vasco,E,1.0,1.0,211.0
+Série A,2020.0,2020-11-22,Corinthians,0.0,0.0,Grêmio,E,1.0,1.0,212.0
+Série A,2020.0,2020-11-22,Botafogo,1.0,2.0,Fortaleza,VV,0.0,3.0,210.0
+Série A,2020.0,2020-11-22,Ceará,2.0,2.0,Atlético-MG,E,1.0,1.0,214.0
+Série A,2020.0,2020-11-23,Sport,0.0,1.0,Atlético-GO,VV,0.0,3.0,215.0
+Série A,2020.0,2020-11-25,Ceará,1.0,1.0,São Paulo,E,1.0,1.0,216.0
+Série A,2020.0,2020-11-25,Atlético-MG,2.0,1.0,Botafogo,VC,3.0,0.0,217.0
+Série A,2020.0,2020-11-25,Coritiba,0.0,1.0,Corinthians,VV,0.0,3.0,218.0
+Série A,2020.0,2020-11-26,Fortaleza,1.0,1.0,Goiás,E,1.0,1.0,219.0
+Série A,2020.0,2020-11-28,Bahia,1.0,3.0,São Paulo,VV,0.0,3.0,222.0
+Série A,2020.0,2020-11-28,Atlético-GO,0.0,0.0,Internacional,E,1.0,1.0,223.0
+Série A,2020.0,2020-11-28,Santos,4.0,2.0,Sport,VC,3.0,0.0,221.0
+Série A,2020.0,2020-11-28,Palmeiras,3.0,0.0,Athletico-PR,VC,3.0,0.0,220.0
+Série A,2020.0,2020-11-30,Fluminense,0.0,0.0,Red Bull Bragantino,E,1.0,1.0,224.0
+Série A,2020.0,2020-11-30,Vasco,1.0,4.0,Ceará,VV,0.0,3.0,225.0
+Série A,2020.0,2020-11-30,Grêmio,2.0,1.0,Goiás,VC,3.0,0.0,226.0
+Série A,2020.0,2020-12-02,Fortaleza,0.0,0.0,Corinthians,E,1.0,1.0,227.0
+Série A,2020.0,2020-12-03,Goiás,0.0,3.0,São Paulo,VV,0.0,3.0,228.0
+Série A,2020.0,2020-12-05,Botafogo,0.0,1.0,Flamengo,VV,0.0,3.0,230.0
+Série A,2020.0,2020-12-05,Fluminense,3.0,1.0,Athletico-PR,VC,3.0,0.0,229.0
+Série A,2020.0,2020-12-05,Bahia,0.0,2.0,Ceará,VV,0.0,3.0,231.0
+Série A,2020.0,2020-12-05,Santos,2.0,2.0,Palmeiras,E,1.0,1.0,233.0
+Série A,2020.0,2020-12-05,Coritiba,0.0,0.0,Red Bull Bragantino,E,1.0,1.0,232.0
+Série A,2020.0,2020-12-06,Atlético-MG,2.0,2.0,Internacional,E,1.0,1.0,234.0
+Série A,2020.0,2020-12-06,São Paulo,1.0,0.0,Sport,VC,3.0,0.0,235.0
+Série A,2020.0,2020-12-06,Grêmio,4.0,0.0,Vasco,VC,3.0,0.0,236.0
+Série A,2020.0,2020-12-07,Atlético-GO,0.0,1.0,Goiás,VV,0.0,3.0,237.0
+Série A,2020.0,2020-12-09,São Paulo,4.0,0.0,Botafogo,VC,3.0,0.0,238.0
+Série A,2020.0,2020-12-12,Internacional,2.0,1.0,Botafogo,VC,3.0,0.0,241.0
+Série A,2020.0,2020-12-12,Palmeiras,3.0,0.0,Bahia,VC,3.0,0.0,239.0
+Série A,2020.0,2020-12-12,Red Bull Bragantino,2.0,1.0,Fortaleza,VC,3.0,0.0,240.0
+Série A,2020.0,2020-12-12,Ceará,1.0,2.0,Atlético-GO,VV,0.0,3.0,243.0
+Série A,2020.0,2020-12-12,Athletico-PR,0.0,1.0,Atlético-MG,VV,0.0,3.0,242.0
+Série A,2020.0,2020-12-12,Goiás,0.0,0.0,Grêmio,E,1.0,1.0,244.0
+Série A,2020.0,2020-12-13,Flamengo,4.0,1.0,Santos,VC,3.0,0.0,245.0
+Série A,2020.0,2020-12-13,Vasco,1.0,1.0,Fluminense,E,1.0,1.0,248.0
+Série A,2020.0,2020-12-13,Sport,1.0,0.0,Coritiba,VC,3.0,0.0,247.0
+Série A,2020.0,2020-12-13,Corinthians,1.0,0.0,São Paulo,VC,3.0,0.0,246.0
+Série A,2020.0,2020-12-16,Atlético-GO,2.0,1.0,Fluminense,VC,3.0,0.0,250.0
+Série A,2020.0,2020-12-16,São Paulo,3.0,0.0,Atlético-MG,VC,3.0,0.0,249.0
+Série A,2020.0,2020-12-19,Sport,1.0,1.0,Grêmio,E,1.0,1.0,252.0
+Série A,2020.0,2020-12-19,Coritiba,1.0,2.0,Botafogo,VV,0.0,3.0,253.0
+Série A,2020.0,2020-12-19,Internacional,2.0,0.0,Palmeiras,VC,3.0,0.0,251.0
+Série A,2020.0,2020-12-20,Red Bull Bragantino,0.0,1.0,Athletico-PR,VV,0.0,3.0,256.0
+Série A,2020.0,2020-12-20,Flamengo,4.0,3.0,Bahia,VC,3.0,0.0,254.0
+Série A,2020.0,2020-12-20,Fortaleza,0.0,2.0,Ceará,VV,0.0,3.0,257.0
+Série A,2020.0,2020-12-20,Vasco,1.0,0.0,Santos,VC,3.0,0.0,255.0
+Série A,2020.0,2020-12-21,Corinthians,2.0,1.0,Goiás,VC,3.0,0.0,258.0
+Série A,2020.0,2020-12-26,Goiás,1.0,0.0,Sport,VC,3.0,0.0,262.0
+Série A,2020.0,2020-12-26,Fluminense,1.0,2.0,São Paulo,VV,0.0,3.0,259.0
+Série A,2020.0,2020-12-26,Atlético-MG,2.0,0.0,Coritiba,VC,3.0,0.0,260.0
+Série A,2020.0,2020-12-26,Fortaleza,0.0,0.0,Flamengo,E,1.0,1.0,261.0
+Série A,2020.0,2020-12-27,Botafogo,0.0,2.0,Corinthians,VV,0.0,3.0,264.0
+Série A,2020.0,2020-12-27,Palmeiras,1.0,0.0,Red Bull Bragantino,VC,3.0,0.0,265.0
+Série A,2020.0,2020-12-27,Bahia,1.0,2.0,Internacional,VV,0.0,3.0,267.0
+Série A,2020.0,2020-12-27,Athletico-PR,3.0,0.0,Vasco,VC,3.0,0.0,268.0
+Série A,2020.0,2020-12-27,Santos,1.0,1.0,Ceará,E,1.0,1.0,263.0
+Série A,2020.0,2020-12-27,Grêmio,2.0,1.0,Atlético-GO,VC,3.0,0.0,266.0
+Série A,2020.0,2021-01-06,Botafogo,0.0,2.0,Athletico-PR,VV,0.0,3.0,2.0
+Série A,2020.0,2021-01-06,Grêmio,2.0,1.0,Bahia,VC,3.0,0.0,4.0
+Série A,2020.0,2021-01-06,Red Bull Bragantino,4.0,2.0,São Paulo,VC,3.0,0.0,3.0
+Série A,2020.0,2021-01-06,Flamengo,1.0,2.0,Fluminense,VV,0.0,3.0,1.0
+Série A,2020.0,2021-01-06,Coritiba,1.0,2.0,Goiás,VV,0.0,3.0,6.0
+Série A,2020.0,2021-01-06,Sport,1.0,0.0,Fortaleza,VC,3.0,0.0,5.0
+Série A,2020.0,2021-01-07,Ceará,0.0,2.0,Internacional,VV,0.0,3.0,7.0
+Série A,2020.0,2021-01-07,Atlético-GO,0.0,0.0,Vasco,E,1.0,1.0,8.0
+Série A,2020.0,2021-01-09,Sport,0.0,1.0,Palmeiras,VV,0.0,3.0,9.0
+Série A,2020.0,2021-01-09,Fortaleza,0.0,0.0,Grêmio,E,1.0,1.0,11.0
+Série A,2020.0,2021-01-09,Coritiba,0.0,0.0,Athletico-PR,E,1.0,1.0,10.0
+Série A,2020.0,2021-01-10,Flamengo,0.0,2.0,Ceará,VV,0.0,3.0,12.0
+Série A,2020.0,2021-01-10,Atlético-GO,1.0,1.0,Bahia,E,1.0,1.0,16.0
+Série A,2020.0,2021-01-10,Internacional,1.0,0.0,Goiás,VC,3.0,0.0,15.0
+Série A,2020.0,2021-01-10,São Paulo,0.0,1.0,Santos,VV,0.0,3.0,14.0
+Série A,2020.0,2021-01-10,Vasco,3.0,0.0,Botafogo,VC,3.0,0.0,13.0
+Série A,2020.0,2021-01-11,Red Bull Bragantino,2.0,2.0,Atlético-MG,E,1.0,1.0,17.0
+Série A,2020.0,2021-01-13,Corinthians,5.0,0.0,Fluminense,VC,3.0,0.0,18.0
+Série A,2020.0,2021-01-15,Palmeiras,1.0,1.0,Grêmio,E,1.0,1.0,19.0
+Série A,2020.0,2021-01-16,Vasco,0.0,1.0,Coritiba,VV,0.0,3.0,21.0
+Série A,2020.0,2021-01-16,Fluminense,1.0,0.0,Sport,VC,3.0,0.0,20.0
+Série A,2020.0,2021-01-17,Athletico-PR,1.0,1.0,São Paulo,E,1.0,1.0,25.0
+Série A,2020.0,2021-01-17,Internacional,4.0,2.0,Fortaleza,VC,3.0,0.0,24.0
+Série A,2020.0,2021-01-17,Ceará,1.0,2.0,Red Bull Bragantino,VV,0.0,3.0,26.0
+Série A,2020.0,2021-01-17,Atlético-MG,3.0,1.0,Atlético-GO,VC,3.0,0.0,23.0
+Série A,2020.0,2021-01-17,Santos,2.0,1.0,Botafogo,VC,3.0,0.0,22.0
+Série A,2020.0,2021-01-18,Palmeiras,4.0,0.0,Corinthians,VC,3.0,0.0,28.0
+Série A,2020.0,2021-01-18,Goiás,0.0,3.0,Flamengo,VV,0.0,3.0,27.0
+Série A,2020.0,2021-01-20,Bahia,1.0,0.0,Athletico-PR,VC,3.0,0.0,33.0
+Série A,2020.0,2021-01-20,São Paulo,1.0,5.0,Internacional,VV,0.0,3.0,30.0
+Série A,2020.0,2021-01-20,Red Bull Bragantino,4.0,1.0,Vasco,VC,3.0,0.0,31.0
+Série A,2020.0,2021-01-20,Grêmio,1.0,1.0,Atlético-MG,E,1.0,1.0,32.0
+Série A,2020.0,2021-01-20,Botafogo,1.0,3.0,Atlético-GO,VV,0.0,3.0,29.0
+Série A,2020.0,2021-01-20,Coritiba,3.0,3.0,Fluminense,E,1.0,1.0,34.0
+Série A,2020.0,2021-01-21,Corinthians,3.0,0.0,Sport,VC,3.0,0.0,36.0
+Série A,2020.0,2021-01-21,Fortaleza,2.0,0.0,Santos,VC,3.0,0.0,37.0
+Série A,2020.0,2021-01-21,Flamengo,2.0,0.0,Palmeiras,VC,3.0,0.0,35.0
+Série A,2020.0,2021-01-21,Goiás,0.0,4.0,Ceará,VV,0.0,3.0,38.0
+Série A,2020.0,2021-01-23,Vasco,3.0,2.0,Atlético-MG,VC,3.0,0.0,39.0
+Série A,2020.0,2021-01-23,São Paulo,1.0,1.0,Coritiba,E,1.0,1.0,40.0
+Série A,2020.0,2021-01-24,Atlético-GO,2.0,0.0,Fortaleza,VC,3.0,0.0,47.0
+Série A,2020.0,2021-01-24,Santos,3.0,4.0,Goiás,VV,0.0,3.0,42.0
+Série A,2020.0,2021-01-24,Internacional,2.0,1.0,Grêmio,VC,3.0,0.0,43.0
+Série A,2020.0,2021-01-24,Fluminense,2.0,0.0,Botafogo,VC,3.0,0.0,41.0
+Série A,2020.0,2021-01-24,Sport,2.0,0.0,Bahia,VC,3.0,0.0,44.0
+Série A,2020.0,2021-01-24,Athletico-PR,2.0,1.0,Flamengo,VC,3.0,0.0,45.0
+Série A,2020.0,2021-01-24,Ceará,2.0,1.0,Palmeiras,VC,3.0,0.0,46.0
+Série A,2020.0,2021-01-25,Corinthians,0.0,2.0,Red Bull Bragantino,VV,0.0,3.0,48.0
+Série A,2020.0,2021-01-26,Palmeiras,1.0,1.0,Vasco,E,1.0,1.0,50.0
+Série A,2020.0,2021-01-26,Atlético-MG,2.0,0.0,Santos,VC,3.0,0.0,49.0
+Série A,2020.0,2021-01-28,Bahia,2.0,1.0,Corinthians,VC,3.0,0.0,52.0
+Série A,2020.0,2021-01-28,Grêmio,2.0,4.0,Flamengo,VV,0.0,3.0,51.0
+Série A,2020.0,2021-01-31,Fluminense,3.0,0.0,Goiás,VC,3.0,0.0,53.0
+Série A,2020.0,2021-01-31,Atlético-MG,2.0,0.0,Fortaleza,VC,3.0,0.0,55.0
+Série A,2020.0,2021-01-31,Atlético-GO,2.0,1.0,São Paulo,VC,3.0,0.0,59.0
+Série A,2020.0,2021-01-31,Ceará,0.0,2.0,Athletico-PR,VV,0.0,3.0,58.0
+Série A,2020.0,2021-01-31,Vasco,0.0,0.0,Bahia,E,1.0,1.0,54.0
+Série A,2020.0,2021-01-31,Internacional,2.0,1.0,Red Bull Bragantino,VC,3.0,0.0,56.0
+Série A,2020.0,2021-01-31,Coritiba,1.0,1.0,Grêmio,E,1.0,1.0,57.0
+Série A,2020.0,2021-02-01,Sport,0.0,3.0,Flamengo,VV,0.0,3.0,60.0
+Série A,2020.0,2021-02-02,Palmeiras,1.0,1.0,Botafogo,E,1.0,1.0,61.0
+Série A,2020.0,2021-02-03,Red Bull Bragantino,2.0,0.0,Atlético-GO,VC,3.0,0.0,62.0
+Série A,2020.0,2021-02-03,Corinthians,2.0,1.0,Ceará,VC,3.0,0.0,63.0
+Série A,2020.0,2021-02-03,Grêmio,3.0,3.0,Santos,E,1.0,1.0,64.0
+Série A,2020.0,2021-02-03,Bahia,0.0,1.0,Fluminense,VV,0.0,3.0,65.0
+Série A,2020.0,2021-02-03,Goiás,1.0,0.0,Atlético-MG,VC,3.0,0.0,66.0
+Série A,2020.0,2021-02-04,Fortaleza,3.0,1.0,Coritiba,VC,3.0,0.0,69.0
+Série A,2020.0,2021-02-04,Flamengo,2.0,0.0,Vasco,VC,3.0,0.0,67.0
+Série A,2020.0,2021-02-04,Athletico-PR,0.0,0.0,Internacional,E,1.0,1.0,68.0
+Série A,2020.0,2021-02-05,Botafogo,0.0,1.0,Sport,VV,0.0,3.0,70.0
+Série A,2020.0,2021-02-06,Bahia,3.0,3.0,Goiás,E,1.0,1.0,71.0
+Série A,2020.0,2021-02-06,Atlético-GO,1.0,1.0,Santos,E,1.0,1.0,72.0
+Série A,2020.0,2021-02-07,Red Bull Bragantino,1.0,1.0,Flamengo,E,1.0,1.0,73.0
+Série A,2020.0,2021-02-08,Botafogo,2.0,5.0,Grêmio,VV,0.0,3.0,74.0
+Série A,2020.0,2021-02-10,Fortaleza,3.0,0.0,Vasco,VC,3.0,0.0,79.0
+Série A,2020.0,2021-02-10,Internacional,1.0,2.0,Sport,VV,0.0,3.0,78.0
+Série A,2020.0,2021-02-10,São Paulo,1.0,1.0,Ceará,E,1.0,1.0,77.0
+Série A,2020.0,2021-02-10,Corinthians,3.0,3.0,Athletico-PR,E,1.0,1.0,76.0
+Série A,2020.0,2021-02-10,Fluminense,0.0,0.0,Atlético-MG,E,1.0,1.0,75.0
+Série A,2020.0,2021-02-13,Santos,2.0,0.0,Coritiba,VC,3.0,0.0,80.0
+Série A,2020.0,2021-02-13,Atlético-MG,1.0,1.0,Bahia,E,1.0,1.0,81.0
+Série A,2020.0,2021-02-13,Goiás,2.0,0.0,Botafogo,VC,3.0,0.0,82.0
+Série A,2020.0,2021-02-14,Athletico-PR,2.0,1.0,Atlético-GO,VC,3.0,0.0,87.0
+Série A,2020.0,2021-02-14,Grêmio,1.0,2.0,São Paulo,VV,0.0,3.0,86.0
+Série A,2020.0,2021-02-14,Vasco,0.0,2.0,Internacional,VV,0.0,3.0,84.0
+Série A,2020.0,2021-02-14,Palmeiras,3.0,0.0,Fortaleza,VC,3.0,0.0,85.0
+Série A,2020.0,2021-02-14,Flamengo,2.0,1.0,Corinthians,VC,3.0,0.0,83.0
+Série A,2020.0,2021-02-15,Ceará,1.0,3.0,Fluminense,VV,0.0,3.0,89.0
+Série A,2020.0,2021-02-15,Sport,0.0,0.0,Red Bull Bragantino,E,1.0,1.0,88.0
+Série A,2020.0,2021-02-17,Coritiba,1.0,0.0,Palmeiras,VC,3.0,0.0,90.0
+Série A,2020.0,2021-02-17,Santos,1.0,0.0,Corinthians,VC,3.0,0.0,91.0
+Série A,2020.0,2021-02-19,São Paulo,1.0,1.0,Palmeiras,E,1.0,1.0,92.0
+Série A,2020.0,2021-02-20,Coritiba,0.0,2.0,Ceará,VV,0.0,3.0,93.0
+Série A,2020.0,2021-02-20,Fortaleza,0.0,4.0,Bahia,VV,0.0,3.0,94.0
+Série A,2020.0,2021-02-21,Corinthians,0.0,0.0,Vasco,E,1.0,1.0,97.0
+Série A,2020.0,2021-02-21,Goiás,0.0,0.0,Red Bull Bragantino,E,1.0,1.0,100.0
+Série A,2020.0,2021-02-21,Grêmio,1.0,0.0,Athletico-PR,VC,3.0,0.0,98.0
+Série A,2020.0,2021-02-21,Flamengo,2.0,1.0,Internacional,VC,3.0,0.0,95.0
+Série A,2020.0,2021-02-21,Sport,2.0,3.0,Atlético-MG,VV,0.0,3.0,99.0
+Série A,2020.0,2021-02-21,Santos,1.0,1.0,Fluminense,E,1.0,1.0,96.0
+Série A,2020.0,2021-02-22,Botafogo,1.0,0.0,São Paulo,VC,3.0,0.0,101.0
+Série A,2020.0,2021-02-22,Palmeiras,1.0,1.0,Atlético-GO,E,1.0,1.0,102.0
+Série A,2020.0,2021-02-25,Fluminense,2.0,0.0,Fortaleza,VC,3.0,0.0,103.0
+Série A,2020.0,2021-02-25,Athletico-PR,2.0,0.0,Sport,VC,3.0,0.0,110.0
+Série A,2020.0,2021-02-25,Ceará,2.0,1.0,Botafogo,VC,3.0,0.0,111.0
+Série A,2020.0,2021-02-25,Bahia,2.0,0.0,Santos,VC,3.0,0.0,109.0
+Série A,2020.0,2021-02-25,Atlético-GO,3.0,1.0,Coritiba,VC,3.0,0.0,112.0
+Série A,2020.0,2021-02-25,Vasco,3.0,2.0,Goiás,VC,3.0,0.0,104.0
+Série A,2020.0,2021-02-25,Internacional,0.0,0.0,Corinthians,E,1.0,1.0,108.0
+Série A,2020.0,2021-02-25,Atlético-MG,2.0,0.0,Palmeiras,VC,3.0,0.0,107.0
+Série A,2020.0,2021-02-25,São Paulo,2.0,1.0,Flamengo,VC,3.0,0.0,105.0
+Série A,2020.0,2021-02-25,Red Bull Bragantino,1.0,0.0,Grêmio,VC,3.0,0.0,106.0

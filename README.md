@@ -34,18 +34,43 @@ To run the scripts in this directory, you need the following:
    git clone https://github.com/jotapejorge/corinthians-data-analysis.git
    
 2.Navigate to the project directory:
-```bash
-cd corinthians-data-analysis
+    ```bash
+    cd corinthians-data-analysis
+    
+3.Install the required dependencies:
+    ```bash
+pip install -r requirements.txt```
+
 ## Usage
 
 1.Open Jupyter Notebook:
-2.Navigate to the analysis.ipynb file.
-3.Run the cells to execute the analysis and generate visualizations.
+    ```bash
+    jupyter notebook```
+
+2.Run the cells to execute the analysis and generate visualizations.
+
+## File Structure
+- **tournaments/**: Directory containing the Jupyter Notebooks for the analysis of Corinthians in national and regional tournaments.
+- **derby_games/**: Directory containing the Jupyter Notebooks for the analysis of Corinthians matches against its main rivals.
+- **web_scraping/**: Directory with Python scripts used to gather football data from www.rsssfbrasil.com.
+- **data/**: Directory containing the dataset used for analysis.
+- **README.md**: Documentation file (you are here).
 
 
-## Web Scraping
+## Dependencies
+- Python 3.x
+- Jupyter Notebook
+- Matplotlib
 
-The `web_scraping/` directory contains Python scripts used to gather football data from relevant websites, namely www.rsssfbrasil.com. The scripts are designed to fetch data in a structured manner and ensure accurate and up-to-date information.
+Install the dependencies using the provided requirements.txt file.
+    ```bash
+    pip install -r requirements.txt```
+    
+## Specific Hypothesis
+Our analysis is specifically designed to explore the period known as "Fila", where Corinthians spent 23 years without winning a Championship, and compare these results with the club's performance from 2018 to 2023.
+## Conclusion
+
+The analysis reveals that the performance of Corinthians in the last six years is notably worse than during the "Fila" period. The team has worse numbers in both point average and historical performance against its main rivals. This suggests a challenging period for the club in recent years, highlighting the need for further examination of contributing factors and potential strategies for improvement.
 
 
 ## License

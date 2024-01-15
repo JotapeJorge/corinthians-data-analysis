@@ -63,16 +63,16 @@ Série A,1971,1971-09-01,Grêmio,1,0,Santos,VC,3,0,57
 Série A,1971,1971-09-01,Vasco,1,1,Internacional,E,1,1,59
 Série A,1971,1971-09-02,América-MG,1,1,Flamengo,E,1,1,63
 Série A,1971,1971-09-02,Sport,0,1,Botafogo,VV,0,3,64
-Série A,1971,1971-09-04,Palmeiras,1,0,Fluminense      ,VC,3,0,65
-Série A,1971,1971-09-04,Cruzeiro,0,0,Vasco da Gama   ,E,1,1,66
-Série A,1971,1971-09-05,Internacional,2,2,Corinthians     ,E,1,1,72
-Série A,1971,1971-09-05,Bahia,0,1,Botafogo        ,VV,0,3,67
-Série A,1971,1971-09-05,Atlético-MG,2,1,Santos          ,VC,3,0,68
-Série A,1971,1971-09-05,Flamengo,1,1,Grêmio          ,E,1,1,69
-Série A,1971,1971-09-05,Sport,0,3,América-GB       ,VV,0,3,70
-Série A,1971,1971-09-05,Coritiba,2,1,Ceará           ,VC,3,0,71
-Série A,1971,1971-09-05,São Paulo,1,1,América-MG      ,E,1,1,73
-Série A,1971,1971-09-07,Vasco,1,0,Palmeiras       ,VC,3,0,74
+Série A,1971,1971-09-04,Palmeiras,1,0,Fluminense,VC,3,0,65
+Série A,1971,1971-09-04,Cruzeiro,0,0,Vasco da Gama,E,1,1,66
+Série A,1971,1971-09-05,Internacional,2,2,Corinthians,E,1,1,72
+Série A,1971,1971-09-05,Bahia,0,1,Botafogo,VV,0,3,67
+Série A,1971,1971-09-05,Atlético-MG,2,1,Santos,VC,3,0,68
+Série A,1971,1971-09-05,Flamengo,1,1,Grêmio,E,1,1,69
+Série A,1971,1971-09-05,Sport,0,3,America-RJ,VV,0,3,70
+Série A,1971,1971-09-05,Coritiba,2,1,Ceará,VC,3,0,71
+Série A,1971,1971-09-05,São Paulo,1,1,América-MG,E,1,1,73
+Série A,1971,1971-09-07,Vasco,1,0,Palmeiras,VC,3,0,74
 Série A,1971,1971-09-08,America-RJ,2,0,Atlético-MG,VC,3,0,78
 Série A,1971,1971-09-08,Ceará,0,0,Internacional,E,1,1,77
 Série A,1971,1971-09-08,Corinthians,2,3,Coritiba,VV,0,3,76
@@ -521,7 +521,7 @@ Série A,1972,1972-11-26,Internacional,3,1,São Paulo,VC,3,0,298
 Série A,1972,1972-11-26,Cruzeiro,1,1,Flamengo,E,1,1,297
 Série A,1972,1972-11-26,Remo,1,1,Atlético-MG,E,1,1,296
 Série A,1972,1972-11-26,Nacional-AM,0,2,Grêmio,VV,0,3,295
-Série A,1972,1972-11-26,ABC,2,1,Botafogo          ,VC,3,0,294
+Série A,1972,1972-11-26,ABC,2,1,Botafogo,VC,3,0,294
 Série A,1972,1972-11-26,Vitória,2,0,America-RJ,VC,3,0,299
 Série A,1972,1972-11-26,Vasco,0,0,Fluminense,E,1,1,292
 Série A,1972,1972-11-26,Sergipe,1,1,Portuguesa,E,1,1,291
